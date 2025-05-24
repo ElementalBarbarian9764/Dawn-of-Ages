@@ -1,0 +1,46 @@
+nature_religion = {
+	defender_of_faith = no
+	can_form_personal_unions = no
+	
+	flags_with_emblem_percentage = 40
+	flag_emblem_index_range = { 20 28 }
+	
+	fae_draconic = {
+		icon = 0
+		color = { 21 161 0 }
+		country = {
+			
+		}
+		province = {
+		
+		}
+		heretic = {}
+	}
+	
+	enlightened_draconic = {
+		icon = 0
+		color = { 21 161 0 }
+		country = {
+			
+		}
+		province = {
+		
+		}
+		heretic = {}
+	}
+	
+	flying_serpent = {
+		icon = 0
+		color = { 21 161 0 }
+		country = {
+			
+		}
+		province = {
+		
+		}
+		heretic = {}
+	}
+	
+	crusade_name = CRUSADE
+	harmonized_modifier = harmonized_draconic
+}

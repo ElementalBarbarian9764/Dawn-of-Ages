@@ -1,0 +1,69 @@
+ancient_group = {
+	
+	defender_of_faith = yes
+	can_form_personal_unions = yes
+	
+	flags_with_emblem_percentage = 40
+	flag_emblem_index_range = { 20 28 }
+	
+# Going to have most of the Christain Mechanics in there with Roman stuff
+	hellenic = {
+		icon = 0
+		color = { 21 161 0 }
+		country = {
+			legitimacy = 0.1
+			manpower_recovery_speed = 0.1
+		}
+		country_as_secondary = {
+			merc_maintenance_modifier = -0.1
+			galley_power = 0.2
+		}
+#      Temperary Setup till have time to build the Hellenic System
+		# Settup up for the Papacy mechanics down here
+		
+		heretic = { BACCHUS }
+	}
+	
+	norse_pagan_reformed = {
+		icon = 21
+		color = { 191 191 191 }
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		country_as_secondary = {
+			merc_maintenance_modifier = -0.1
+			galley_power = 0.2
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+		
+		personal_deity = yes
+		
+		heretic = { OLD_NORSE }	
+	}
+	
+# German Religion from coverted ck3 but modified
+	fyrnsidu = {
+		icon = 21
+		color = { 191 191 191 }
+		country = {
+			land_forcelimit_modifier = 0.10
+			naval_forcelimit_modifier = 0.10
+		}
+		country_as_secondary = {
+			merc_maintenance_modifier = -0.1
+			galley_power = 0.2
+		}
+		province = {
+			local_missionary_strength = 0.02
+		}
+#		This allows for the Germanic Gods are set up
+		personal_deity = yes
+		
+		heretic = { OLD_NORSE }	
+	}
+	
+	
+}

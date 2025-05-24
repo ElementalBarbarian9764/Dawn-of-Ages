@@ -1,0 +1,32 @@
+dark_magical_religions = {
+	defender_of_faith = yes
+	can_form_personal_unions = no
+	
+	flags_with_emblem_percentage = 40
+	flag_emblem_index_range = { 20 28 }
+	
+	unseelie_religion = {
+		icon = 0
+		color = { 21 161 0 }
+		country = {
+			
+		}
+		province = {
+		
+		}
+		heretic = {}
+	}
+	
+	dark_elven_religion = {
+		icon = 0
+		color = { 21 161 0 }
+		country = {
+			
+		}
+		province = {
+		
+		}
+		heretic = {}
+	}
+	
+}

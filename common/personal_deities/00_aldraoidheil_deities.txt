@@ -1,0 +1,157 @@
+# Deities used by the Aldraoidheil religion on Albion
+
+# Dagda, God of Wisdom and Druidry (Balance, Colonist)
+dagda = {
+	sprite = 4
+	potential = { religion = aldraoidheil }
+	trigger = {}
+	effect = {}
+# Modifiers of the Patron
+	technology_cost = -0.1
+	build_cost = -0.05
+	
+	removed_effect = {}
+	ai_will_do = {
+		factor = 1
+		modifier = {
+			factor = 2
+			personality = ai_balanced
+		}
+		modifier = {
+			factor = 1
+			personality = ai_colonialist
+		}
+	}
+}
+# Macha, Goddess of life and death (War, Diplo)
+macha = {
+	sprite = 4
+	potential = { religion = aldraoidheil }
+	trigger = {}
+	effect = {}
+# Modifiers of the Patron
+	legitimacy = 0.1
+	tolerance_heathen = 1
+	
+	removed_effect = {}
+	ai_will_do = {
+		modifier = {
+			factor = 1
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 1.5
+			personality = ai_diplomat
+		}
+	}
+}
+# Morrigan, War Goddess (War)
+morrigan = {
+	sprite = 4
+	potential = { religion = aldraoidheil }
+	trigger = {}
+	effect = {}
+# Modifiers of the Patron
+	discipline = 0.1
+	leader_land_shock = 1
+	
+	removed_effect = {}
+	ai_will_do = {
+		modifier = {
+			factor = 3
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 0.5
+			personality = ai_colonialist
+		}
+	}
+}
+# Brigia, Fertility Goddess (Economy, Colonist)
+brigia = {
+	sprite = 4
+	potential = { religion = aldraoidheil }
+	trigger = {}
+	effect = {}
+	# Modifiers of the Patron
+	build_cost = -0.1
+	global_colonial_growth = 15
+	
+	removed_effect = {}
+	ai_will_do = {
+		modifier = {
+			factor = 2
+			personality = ai_colonialist
+		}
+		modifier = {
+			factor = 1.5
+			personality = ai_balanced
+		}
+	}
+}
+# Danu, High Goddess (Balance, Economy)
+danu = {
+	sprite = 4
+	potential = { religion = aldraoidheil }
+	trigger = {}
+	effect = {}
+	# Modifiers of the Patron
+	development_cost = -0.05
+	idea_cost = -0.1
+	
+	removed_effect = {}
+	ai_will_do = {
+		modifier = {
+			factor = 3
+			personality = ai_balanced
+		}
+		modifier = {
+			factor = 1
+			personality = ai_diplomat
+		}
+	}
+}
+# Cernunnos, God of the wilderness (Colonist, Diplo)
+cernunnos = {
+	sprite = 4
+	potential = { religion = aldraoidheil }
+	trigger = {}
+	effect = {}
+	# Modifiers of the Patron
+	ae_impact = -0.1
+	local_missionary_strength = 0.02
+	
+	removed_effect = {}
+	ai_will_do = {
+		modifier = {
+			factor = 3
+			personality = ai_colonialist
+		}
+		modifier = {
+			factor = 0.75
+			personality = ai_diplomat
+		}
+	}
+}
+# Taranis, God of Thunder (War, Colonist)
+taranis = {
+	sprite = 4
+	potential = { religion = aldraoidheil }
+	trigger = {}
+	effect = {}
+	# Modifiers of the Patron
+	global_colonial_growth = 10
+	leader_land_shock = 1
+	
+	removed_effect = {}
+	ai_will_do = {
+		modifier = {
+			factor = 2
+			personality = ai_militarist
+		}
+		modifier = {
+			factor = 1
+			personality = ai_colonialist
+		}
+	}
+}
