@@ -1,7 +1,7 @@
 A Project in Eu4. More info will be added here later.
 
 -----------------------------------------------------
-Ideas already created or just thrown around doc: https://docs.google.com/document/d/1WIn0T7SaUWp5kIkpZ44WdpdyiQEwukjKxpKsUbOOxbc/edit?usp=sharing
+Completed Ideas and Mechanics: https://docs.google.com/document/d/1WIn0T7SaUWp5kIkpZ44WdpdyiQEwukjKxpKsUbOOxbc/edit?usp=sharing
 
 Standards for coding stuff Doc: https://docs.google.com/document/d/1DZtUCzIIAXYeK66xekVqDonbUQl7OE8vhP2ZUj3A78c/edit?usp=sharing
 
