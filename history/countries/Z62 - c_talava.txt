@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = baltic_pagan
+primary_culture = latvian
+capital = 4241
+fixed_capital = 4241
+409.6.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 2
+		dip = 2
+		mil = 3
+		birth_date = 1.1.1
+		regent = yes
+		religion = baltic_pagan
+		culture = latvian
+	}
+	heir = {
+		name = "Pliksov"
+		dynasty = "Draguns"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 394.12.20
+		death_date = 459.12.20
+		claim = 89
+		religion = baltic_pagan
+		culture = latvian
+	}
+}
+409.6.30= {
+	add_prestige = -100
+	add_treasury = 46
+}

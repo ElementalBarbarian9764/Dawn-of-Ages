@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = ilmenian
+capital = 294
+fixed_capital = 294
+409.6.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 1.1.1
+		regent = yes
+		religion = slavic_pagan
+		culture = ilmenian
+	}
+	heir = {
+		name = "Viacheslav"
+		dynasty = "Vyatich"
+		adm = 2
+		dip = 2
+		mil = 2
+		birth_date = 407.9.9
+		death_date = 472.9.9
+		claim = 89
+		religion = slavic_pagan
+		culture = ilmenian
+	}
+}
+409.6.30= {
+	add_prestige = -50
+	add_treasury = 67
+}

@@ -1,0 +1,10 @@
+owner = TRL
+controller = TRL
+capital = "Falklands"
+culture = equine
+religion = tengri_pagan
+trade_goods = sugar
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = TRL

@@ -1,0 +1,119 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 108 153 65 }
+revolutionary_colors = { 4 15 4 }
+historical_idea_groups = {
+	humanist_ideas
+	trade_ideas
+	quantity_ideas
+	offensive_ideas
+	expansion_ideas
+	economic_ideas
+	defensive_ideas
+	administrative_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Apategin #0" = 0
+	"Bars #2" = 10
+	"Bumïn #0" = 0
+	"Burtam #0" = -1
+	"Cinnamus #0" = 0
+	"Dadarshi #0" = 0
+	"Franghad #0" = -1
+	"Iltämür #1" = 10
+	"Jüzyapïq #0" = 0
+	"Kanuka #0" = -1
+	"Luju #1" = 10
+	"Namkha #0" = 0
+	"Nayiñtay #0" = -1
+	"Qaraqaz #0" = -1
+	"Qosqar #1" = 10
+	"Sarïgha #0" = -1
+	"Shöñüz #0" = 0
+	"Tamghançur #1" = 10
+	"Tardu #0" = 0
+	"Tardush #0" = 0
+	"Teçush #0" = -1
+	"Thriti #0" = -1
+	"Toñra #1" = 10
+	"Tuyu #1" = 10
+	"Upadarma #0" = 0
+	"Urudhayant #0" = -1
+	"Ushtavaiti #0" = -1
+	"Vispa-Thaurvo-Ashtray #0" = -1
+	"Yïlqï #0" = -1
+	"Çuçi #1" = 10
+}
+leader_names = {
+	"Abaga"
+	"Abaganar"
+	"Ast"
+	"Borjigin"
+	"Chagaan"
+	"Chakhar"
+	"Darqan"
+	"Hohhot"
+	"Jurim"
+	"Karakorum"
+	"Khalkha"
+	"Kharachin"
+	"Khorchin"
+	"Noyan"
+	"Onriut"
+	"Ordos"
+	"Tümed"
+	"Ulanqab"
+	"Uriankhai"
+	"Wang"
+	"Xilingol"
+	"Yingchang"
+	"Yungshiyebu"
+}
+ship_names = {
+	"Adai"
+	"Batu"
+	"Bo'orchu"
+	"Borokhula"
+	"Böke"
+	"Chagaan"
+	"Chilaun"
+	"Dharmapala"
+	"Dörben Külü'üd"
+	"Dörben Noyas"
+	"Elbeg"
+	"Ghengis Khan"
+	"Hohhot"
+	"Hülegü"
+	"Jebe"
+	"Jelme"
+	"Jinggim"
+	"Jöchi"
+	"Kamala"
+	"Karakorum"
+	"Khar Khiruge"
+	"Khubilai"
+	"Mugali"
+	"Möngke"
+	"Qubilai"
+	"Shikhikhutug"
+	"Sorqan Shira"
+	"Subutai"
+	"Tolui"
+	"Yelü Chucai"
+	"Yingchang"
+	"Ögödei"
+	"Örüg Temür"
+}

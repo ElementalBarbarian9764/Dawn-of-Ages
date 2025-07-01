@@ -1,0 +1,27 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = malvi
+capital = 2056
+add_accepted_culture = rajput
+add_accepted_culture = tamil
+409.6.30= {
+	monarch = {
+		name = "Madanapala"
+		dynasty = "Tolpalid"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 383.7.1
+		religion = hinduism
+		culture = malvi
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tactical_genius_personality
+}
+409.6.30= {
+	add_prestige = 46
+	add_treasury = 87
+}

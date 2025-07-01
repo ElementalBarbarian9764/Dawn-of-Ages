@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = sapmi
+capital = 19
+add_accepted_culture = finnish
+409.6.30= {
+	monarch = {
+		name = "Riibma"
+		dynasty = "Ubmeje"
+		adm = 2
+		dip = 4
+		mil = 4
+		birth_date = 379.9.22
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_ruler_personality = malevolent_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Sohvi"
+		dynasty = "Kemiläinen"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = Z29
+		birth_date = 375.1.9
+		death_date = 435.1.9
+		female = yes
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_queen_personality = craven_personality
+	add_queen_personality = intricate_web_weaver_personality
+	heir = {
+		name = "Duttá"
+		monarch_name = "Duttá III"
+		dynasty = "Ubmeje"
+		adm = 5
+		dip = 2
+		mil = 4
+		birth_date = 396.10.15
+		death_date = 461.10.15
+		claim = 89
+		religion = finnish_pagan
+		culture = sapmi
+	}
+	add_heir_personality = conqueror_personality
+	add_heir_personality = industrious_personality
+}
+409.6.30= {
+	add_prestige = 34
+	add_treasury = 30
+}

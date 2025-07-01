@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = great_man
+government_rank = 2
+technology_group = nomad_group
+religion = hinduism
+primary_culture = uyghur
+capital = 4668
+409.6.30= {
+	monarch = {
+		name = "Tamghançur"
+		dynasty = "Tamghan"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 376.9.24
+		religion = hinduism
+		culture = uyghur
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = well_connected_personality
+	queen = {
+		name = "Yïlqï"
+		dynasty = "Momu"
+		adm = 3
+		dip = 2
+		mil = 5
+		country_of_origin = KHA
+		birth_date = 377.1.2
+		death_date = 437.1.2
+		female = yes
+		religion = hinduism
+		culture = uyghur
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Qosqar"
+		monarch_name = "Qosqar II"
+		dynasty = "Tamghan"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 396.11.18
+		death_date = 461.11.18
+		claim = 89
+		religion = hinduism
+		culture = uyghur
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = well_connected_personality
+}
+409.6.30= {
+	add_prestige = 38
+	add_treasury = 62
+}

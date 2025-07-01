@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 170 50 50 }
+monarch_names = {
+	"Ahma #0" = -1
+	"Arvet #0" = 0
+	"Chumbulat #0" = 0
+	"Ere #0" = -1
+	"Gealá #0" = -1
+	"Giste #0" = -1
+	"Helgi #0" = -1
+	"Kaalep #0" = 0
+	"Kai #0" = -1
+	"Karuvald #0" = 0
+	"Taimi #0" = -1
+	"Tambet #0" = 0
+	"Vililemb #0" = 0
+	"Vilivald #0" = 0
+	"Vilja #0" = -1
+}

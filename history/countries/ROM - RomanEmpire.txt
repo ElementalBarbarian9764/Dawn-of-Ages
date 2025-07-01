@@ -1,0 +1,41 @@
+government = republic
+add_government_reform = merchants_reform
+government_rank = 3
+technology_group = western
+religion = hellenic_pagan_reformed
+primary_culture = roman
+capital = 118
+mercantilism = 25
+409.6.30= {
+	monarch = {
+		name = "Germanus"
+		dynasty = "Lucretii"
+		adm = 6
+		dip = 1
+		mil = 5
+		birth_date = 354.4.8
+		religion = hellenic_pagan_reformed
+		culture = roman
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Frontina"
+		dynasty = "of Roma"
+		adm = 3
+		dip = 3
+		mil = 2
+		country_of_origin = ROM
+		birth_date = 365.8.9
+		death_date = 425.8.9
+		female = yes
+		religion = hellenic_pagan_reformed
+		culture = carthaginian
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = tactical_genius_personality
+}
+409.6.30= {
+	add_prestige = 109
+	add_treasury = 99
+}

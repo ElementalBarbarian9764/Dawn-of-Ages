@@ -1,0 +1,16 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 192 132 11 }
+monarch_names = {
+	"Laxmidevi #0" = -1
+	"Mangpu #0" = 0
+	"Martaskra #0" = 0
+	"Neltunyose #0" = -1
+	"Pantimatso #0" = 0
+	"Sherkya #0" = -1
+	"Shethetse #0" = -1
+	"Tigrali #0" = 0
+	"Tigratinsho #0" = 0
+	"Xinyue #0" = -1
+	"Zangsyag #0" = -1
+}

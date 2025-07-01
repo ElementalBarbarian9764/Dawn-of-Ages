@@ -1,0 +1,29 @@
+owner = AZT
+controller = AZT
+capital = "Santee"
+culture = catawba
+religion = totemism
+trade_goods = cotton
+base_tax = 5
+base_production = 8
+base_manpower = 2
+extra_cost = 10
+add_core = AZT
+add_core = COF
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american
+native_size = 10
+native_ferocity = 2
+native_hostileness = 8
+add_permanent_province_modifier = {
+	name = santee_estuary_modifier
+	duration = -1
+}
+add_permanent_province_modifier = {
+	name = santee_estuary_modifier
+	duration = -1
+}
+{

@@ -1,0 +1,53 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = rajput
+capital = 2078
+add_accepted_culture = tocharian
+409.6.30= {
+	monarch = {
+		name = "Kalyanachandra III"
+		adm = 3
+		dip = 4
+		mil = 4
+		birth_date = 372.7.24
+		religion = hinduism
+		culture = rajput
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Prabhavatigupta"
+		adm = 4
+		dip = 2
+		mil = 4
+		country_of_origin = Z22
+		birth_date = 382.3.21
+		death_date = 442.3.21
+		female = yes
+		religion = hinduism
+		culture = malvi
+	}
+	add_queen_personality = careful_personality
+	add_queen_personality = infertile_personality
+	heir = {
+		name = "Kunwar"
+		monarch_name = "Kunwar"
+		adm = 1
+		dip = 0
+		mil = 1
+		birth_date = 407.6.28
+		death_date = 472.6.28
+		claim = 89
+		religion = hinduism
+		culture = malvi
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+409.6.30= {
+	add_prestige = 66
+	add_treasury = 0
+}

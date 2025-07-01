@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = samoyed
+capital = 1755
+fixed_capital = 1755
+409.6.30= {
+	monarch = {
+		name = "Kako"
+		dynasty = "Somatu"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 376.9.11
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Khatyako"
+		dynasty = "Yurakid"
+		adm = 3
+		dip = 4
+		mil = 3
+		country_of_origin = Z60
+		birth_date = 376.9.11
+		death_date = 436.9.11
+		female = yes
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_queen_personality = craven_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Vesei"
+		monarch_name = "Vesei"
+		dynasty = "Somatu"
+		adm = 5
+		dip = 5
+		mil = 3
+		birth_date = 395.6.24
+		death_date = 460.6.24
+		claim = 89
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_heir_personality = industrious_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+409.6.30= {
+	add_prestige = 8
+	add_treasury = 70
+}

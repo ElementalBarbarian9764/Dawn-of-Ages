@@ -1,0 +1,22 @@
+owner = BLA
+controller = BLA
+capital = "Niitsitapi"
+is_city = yes
+culture = blackfoot
+religion = totemism
+trade_goods = fur
+base_tax = 4
+base_production = 4
+base_manpower = 4
+add_core = BLA
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american
+native_size = 1
+native_ferocity = 1
+native_hostileness = 1
+latent_trade_goods = {
+	coal
+}

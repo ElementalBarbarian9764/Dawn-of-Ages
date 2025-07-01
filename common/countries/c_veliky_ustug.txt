@@ -1,0 +1,20 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 125 140 80 }
+monarch_names = {
+	"Alik #0" = 0
+	"Auli #0" = -1
+	"Gajasimha #0" = 0
+	"Hasaba #0" = 0
+	"Ilme #0" = -1
+	"Kako #0" = 0
+	"Kharuchi #0" = 0
+	"Khatyako #0" = -1
+	"Kujku #0" = -1
+	"Laptsui #0" = -1
+	"Nenyts #0" = 0
+	"Pokshayka #0" = 0
+	"Tatva #0" = 0
+	"Vesei #0" = 0
+	"Yar #0" = -1
+}

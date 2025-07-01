@@ -1,0 +1,17 @@
+owner = AZT
+controller = AZT
+capital = "Pechichitane"
+is_city = yes
+culture = aztek
+religion = nahuatl
+trade_goods = gold
+base_tax = 3
+base_production = 3
+base_manpower = 3
+add_core = AZT
+add_core = GAM
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american

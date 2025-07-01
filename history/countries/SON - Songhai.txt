@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 2
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = senegambian
+capital = 2246
+add_accepted_culture = songhai
+409.6.30= {
+	monarch = {
+		name = "Tunka-Menin"
+		dynasty = "Cisse"
+		adm = 4
+		dip = 2
+		mil = 5
+		birth_date = 372.6.8
+		religion = shamanism
+		culture = senegambian
+	}
+	add_ruler_personality = fierce_negotiator_personality
+	add_ruler_personality = industrious_personality
+	queen = {
+		name = "Karima"
+		dynasty = "Durbawa"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = SON
+		birth_date = 371.3.15
+		death_date = 431.3.15
+		female = yes
+		religion = shamanism
+		culture = hausa
+	}
+	add_queen_personality = expansionist_personality
+	add_queen_personality = pious_personality
+	heir = {
+		name = "Sulayman"
+		monarch_name = "Sulayman"
+		dynasty = "Cisse"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 355.4.4
+		death_date = 420.4.4
+		claim = 89
+		religion = shamanism
+		culture = bozo
+	}
+	add_heir_personality = careful_personality
+	add_heir_personality = charismatic_negotiator_personality
+}
+409.6.30= {
+	add_prestige = -26
+	add_treasury = 75
+}

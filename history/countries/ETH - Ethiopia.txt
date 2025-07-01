@@ -1,0 +1,35 @@
+government = monarchy
+add_government_reform = solomonic_empire
+government_rank = 2
+technology_group = east_african
+religion = waaqi_pagan
+primary_culture = somali
+capital = 1212
+409.6.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1.1.1
+		regent = yes
+		religion = waaqi_pagan
+		culture = somali
+	}
+	heir = {
+		name = "Sa'ad"
+		dynasty = "Zosid"
+		adm = 6
+		dip = 5
+		mil = 6
+		birth_date = 394.11.16
+		death_date = 459.11.16
+		claim = 89
+		religion = waaqi_pagan
+		culture = somali
+	}
+}
+409.6.30= {
+	add_prestige = 42
+	add_treasury = 62
+}

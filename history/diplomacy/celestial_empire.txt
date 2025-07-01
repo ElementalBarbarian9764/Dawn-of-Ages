@@ -1,0 +1,1 @@
+409.6.30 = { celestial_emperor = CHC }

@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = mordvin
+capital = 306
+fixed_capital = 306
+409.6.30= {
+	monarch = {
+		name = "Murunza"
+		dynasty = "Kezhayid"
+		adm = 4
+		dip = 4
+		mil = 5
+		birth_date = 370.1.9
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_ruler_personality = midas_touched_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Siyamka"
+		dynasty = "Velid"
+		adm = 2
+		dip = 2
+		mil = 4
+		country_of_origin = NZH
+		birth_date = 369.7.6
+		death_date = 429.7.6
+		female = yes
+		religion = finnish_pagan
+		culture = uralic
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Shoksha"
+		monarch_name = "Shoksha"
+		dynasty = "Kezhayid"
+		adm = 4
+		dip = 2
+		mil = 4
+		birth_date = 393.7.16
+		death_date = 458.7.16
+		claim = 89
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_heir_personality = craven_personality
+	add_heir_personality = kind_hearted_personality
+}
+409.6.30= {
+	add_prestige = 18
+	add_treasury = 57
+}

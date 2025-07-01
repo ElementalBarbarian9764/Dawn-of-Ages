@@ -1,0 +1,17 @@
+owner = AZT
+controller = AZT
+capital = "Mitla"
+is_city = yes
+culture = aztek
+religion = nahuatl
+trade_goods = sugar
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = AZT
+add_core = ZAP
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american

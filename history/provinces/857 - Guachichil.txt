@@ -1,0 +1,16 @@
+owner = AZT
+controller = AZT
+capital = "Guachichil"
+culture = aztek
+religion = nahuatl
+trade_goods = gold
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = AZT
+add_core = CCM
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american

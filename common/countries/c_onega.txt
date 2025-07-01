@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 165 45 45 }
+monarch_names = {
+	"Ahvo #0" = 0
+	"Armas #0" = 0
+	"Chitska #0" = -1
+	"Haapa #0" = 0
+	"Kauro #0" = 0
+	"Kunyavka #0" = -1
+	"Lauha #0" = -1
+	"Miemo #0" = 0
+	"Riku #0" = 0
+	"Tommo #0" = 0
+	"Turo #0" = 0
+	"Venla #0" = -1
+}

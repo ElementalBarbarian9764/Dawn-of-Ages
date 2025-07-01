@@ -1,0 +1,22 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 188 133 35 }
+monarch_names = {
+	"Achalraja #1" = 10
+	"Arjunpal #2" = 10
+	"Durlabharaja #1" = 10
+	"Hastisaha #2" = 10
+	"Jayasakti #0" = 0
+	"Jayavarma #1" = 10
+	"Jhanjha #0" = 0
+	"Kakhopala #0" = 0
+	"Kirtipala #0" = 0
+	"Kshem-Singh #1" = 10
+	"Mahendrapala #0" = 0
+	"Narapati #1" = 10
+	"Narwahan #1" = 10
+	"Nayapala #2" = 10
+	"Sakavaarbai #0" = -1
+	"Shudhamati #0" = -1
+	"Yuanfang #0" = 0
+}

@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = estonian
+capital = 36
+fixed_capital = 36
+409.6.30= {
+	monarch = {
+		name = "Illimar"
+		dynasty = "kohta Sakala"
+		adm = 2
+		dip = 2
+		mil = 4
+		birth_date = 386.1.11
+		religion = finnish_pagan
+		culture = estonian
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Lemmikki"
+		dynasty = "Anttonen"
+		adm = 4
+		dip = 4
+		mil = 4
+		country_of_origin = EST
+		birth_date = 384.4.15
+		death_date = 444.4.15
+		female = yes
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = tactical_genius_personality
+}
+409.6.30= {
+	add_prestige = 10
+	add_treasury = 62
+}

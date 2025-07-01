@@ -1,0 +1,11 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = malvi
+capital = 707
+409.6.30= {
+	add_prestige = 79
+	add_treasury = 68
+}

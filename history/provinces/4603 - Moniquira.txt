@@ -1,0 +1,17 @@
+owner = MCA
+controller = MCA
+capital = "Moniquira"
+is_city = yes
+culture = muisca
+religion = inti
+trade_goods = gems
+base_tax = 10
+base_production = 10
+base_manpower = 4
+add_core = MCA
+discovered_by = MCA
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american

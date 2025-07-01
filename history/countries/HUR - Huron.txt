@@ -1,0 +1,64 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = high_american
+religion = totemism
+primary_culture = huron
+capital = 988
+mercantilism = 10
+unit_type = high_american
+1399.1.1= {
+	monarch = {
+		name = "Ahatsistari"
+		dynasty = "Hata"
+		adm = 2
+		dip = 2
+		mil = 4
+	}
+}
+1525.1.1= {
+	monarch = {
+		name = "Dannaconna"
+		dynasty = "Hata"
+		adm = 3
+		dip = 5
+		mil = 1
+	}
+}
+1615.1.1= {
+	monarch = {
+		name = "Ahatsistari"
+		dynasty = "Hata"
+		adm = 1
+		dip = 2
+		mil = 4
+	}
+}
+1680.1.1= {
+	monarch = {
+		name = "Adario"
+		dynasty = "Hata"
+		adm = 0
+		dip = 2
+		mil = 5
+		leader = {	name = "Adario"                	type = general	fire = 3	shock = 1	manuever = 3	siege = 1}
+	}
+}
+1785.1.1= {
+	monarch = {
+		name = "Dunquat"
+		dynasty = "Hata"
+		adm = 1
+		dip = 1
+		mil = 2
+	}
+}
+1800.1.1= {
+	monarch = {
+		name = "Tarhe"
+		dynasty = "Hata"
+		adm = 2
+		dip = 3
+		mil = 3
+	}
+}

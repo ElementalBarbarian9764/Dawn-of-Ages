@@ -1,0 +1,18 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = high_american
+religion = totemism
+primary_culture = delaware
+capital = 957
+mercantilism = 10
+unit_type = high_american
+1444.11.11= {
+	monarch = {
+		name = "Tetabuxike"
+		dynasty = "Weehawken"
+		adm = 1
+		dip = 5
+		mil = 3
+	}
+}

@@ -1,0 +1,25 @@
+government = monarchy
+add_government_reform = chinese_warlord
+government_rank = 3
+technology_group = chinese
+religion = confucianism
+primary_culture = chihan
+capital = 708
+409.6.30= {
+	monarch = {
+		name = "Shuji"
+		dynasty = "Li"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 370.3.8
+		religion = confucianism
+		culture = chihan
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = righteous_personality
+}
+409.6.30= {
+	add_prestige = -50
+	add_treasury = 101
+}

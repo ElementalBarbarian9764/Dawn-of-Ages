@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 1958
+fixed_capital = 1958
+409.6.30= {
+	monarch = {
+		name = "Pentti"
+		dynasty = "Kemiläinen"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 356.11.15
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Kunyavka"
+		dynasty = "Velid"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = Z45
+		birth_date = 363.9.7
+		death_date = 423.9.7
+		female = yes
+		religion = finnish_pagan
+		culture = uralic
+	}
+	add_queen_personality = pious_personality
+	add_queen_personality = secretive_personality
+	heir = {
+		name = "Otso"
+		monarch_name = "Otso"
+		dynasty = "Kemiläinen"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 382.7.14
+		death_date = 447.7.14
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = fierce_negotiator_personality
+	add_heir_personality = tolerant_personality
+}
+409.6.30= {
+	add_prestige = -1
+	add_treasury = 55
+}
