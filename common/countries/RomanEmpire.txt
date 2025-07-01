@@ -1,0 +1,564 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 167 10 100 }
+revolutionary_colors = { 4 8 4 }
+historical_idea_groups = {
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	administrative_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+	diplomatic_ideas
+}
+monarch_names = {
+	"Aemilius #0" = 0
+	"Anastasius #1" = 10
+	"Annius #0" = 0
+	"Anthousa #0" = -1
+	"Antonius #0" = 0
+	"Augustus #1" = 10
+	"Aurelia #0" = -1
+	"Aurelianus #0" = 0
+	"Avitus #0" = 0
+	"Bérenger #0" = 0
+	"Caecilius #0" = 0
+	"Caesar #0" = 0
+	"Cassius #1" = 10
+	"Clementius #0" = 0
+	"Constantina #0" = -1
+	"Cornelia #0" = -1
+	"Crassus #0" = 0
+	"Crispina #0" = -1
+	"Diara #0" = 0
+	"Djire #0" = -1
+	"Domnina #0" = -1
+	"Drusus #0" = 0
+	"Ennodius #0" = 0
+	"Eudoxia #0" = -1
+	"Fabius #0" = 0
+	"Faustus #0" = 0
+	"Felix #0" = 0
+	"Frontina #0" = -1
+	"Gaia #0" = -1
+	"Gaius #0" = 0
+	"Galerius #0" = 0
+	"Gallus #2" = 10
+	"Germanus #2" = 10
+	"Gracchus #0" = 0
+	"Hadriana #0" = -1
+	"Halima #0" = -1
+	"Hawa #0" = -1
+	"Helvia #0" = -1
+	"Hortensia #0" = -1
+	"Hypatia #0" = -1
+	"Innokentios #0" = 0
+	"Iouliana #0" = -1
+	"Julia #0" = -1
+	"Julianus #0" = 0
+	"Julius #0" = 0
+	"Justiniana #0" = -1
+	"Justinus #0" = 0
+	"Kale #0" = -1
+	"Konstantios #0" = 0
+	"Magnilla #0" = -1
+	"Marcellus #0" = 0
+	"Marina #0" = -1
+	"Marinus #0" = 0
+	"Marius #0" = 0
+	"Martina #0" = -1
+	"Martinus #0" = 0
+	"Maxima #0" = -1
+	"Maximiana #0" = -1
+	"Maximus #0" = 0
+	"Messalina #0" = -1
+	"Minucia #0" = -1
+	"Modia #0" = -1
+	"Namiss #0" = -1
+	"Octavia #0" = -1
+	"Octavius #1" = 10
+	"Otho #0" = 0
+	"Petronella #0" = -1
+	"Petronia #0" = -1
+	"Placidia #0" = -1
+	"Plautilla #0" = -1
+	"Pompeia #0" = -1
+	"Pulcheria #0" = -1
+	"Quintus #0" = 0
+	"Romane #0" = -1
+	"Romanus #0" = 0
+	"Rusticiana #0" = -1
+	"Salonina #0" = -1
+	"Severa #0" = -1
+	"Tacitus #0" = 0
+	"Tarsilla #0" = -1
+	"Teodoriga #0" = -1
+	"Theodoros #0" = 0
+	"Tiberius #0" = 0
+	"Titiana #0" = -1
+	"Titius #0" = 0
+	"Trajanus #1" = 10
+	"Urbanus #0" = 0
+	"Valens #0" = 0
+	"Valentinianus #0" = 0
+	"Valeria #0" = -1
+	"Valerianus #0" = 0
+	"Valerius #0" = 0
+	"Venantius #0" = 0
+	"Victoria #0" = -1
+	"Viviana #0" = -1
+	"Zabel #0" = -1
+}
+leader_names = {
+	"Adrianos"
+	"Aemilian"
+	"Akakios"
+	"Alexander"
+	"Alexandros"
+	"Alexios"
+	"Anastasia"
+	"Anastasios"
+	"Anatolios"
+	"Andreas"
+	"Andronikos"
+	"Anthemios"
+	"Anthimos"
+	"Antiochos"
+	"Antoninus"
+	"Antonios"
+	"Apollonios"
+	"Arcadius"
+	"Arsenios"
+	"Artavasdos"
+	"Artemios"
+	"Athanasios"
+	"Augustus"
+	"Aurelian"
+	"Balbinus"
+	"Bardas"
+	"Bartholomaios"
+	"Basileios"
+	"Basiliskos"
+	"Belisarios"
+	"Boethios"
+	"Bosporios"
+	"Caligula"
+	"Caracalla"
+	"Carinus"
+	"Carus"
+	"Christophoros"
+	"Chrysanthos"
+	"Chrysogonos"
+	"Claudius"
+	"Commodus"
+	"Constans"
+	"Constantine"
+	"Constantius"
+	"Damianos"
+	"Daniel"
+	"David"
+	"Decius"
+	"Demetrios"
+	"Diocletian"
+	"Diogenes"
+	"Dionysios"
+	"Domitian"
+	"Dorotheos"
+	"Eirenaios"
+	"Eirene"
+	"Eudoxios"
+	"Eugenios"
+	"Euphemios"
+	"Eusebios"
+	"Eustathios"
+	"Eustratios"
+	"Evangelos"
+	"Florian"
+	"Gabriel"
+	"Galba"
+	"Galerius"
+	"Gallienus"
+	"Gennadios"
+	"Georgios"
+	"Gerasimos"
+	"Germanos"
+	"Geta"
+	"Gordian"
+	"Gratian"
+	"Gregoras"
+	"Gregorios"
+	"Hadrian"
+	"Hektorios"
+	"Helias"
+	"Heliogabalus"
+	"Herakleios"
+	"Herakleonas"
+	"Hierotheos"
+	"Himerios"
+	"Hippolytos"
+	"Honorius"
+	"Hypatios"
+	"Iakobos"
+	"Ignatios"
+	"Innokentios"
+	"Ioannes"
+	"Ioannikios"
+	"Iordanes"
+	"Ioseph"
+	"Ioulianos"
+	"Ioustinianos"
+	"Ioustinos"
+	"Isaakios"
+	"Isaias"
+	"Isidoros"
+	"Jovian"
+	"Julian"
+	"Kaisarios"
+	"Kallinikos"
+	"Kallistos"
+	"Komitas"
+	"Konstantinos"
+	"Konstantios"
+	"Konstas"
+	"Kosmas"
+	"Kyriakos"
+	"Kyrillos"
+	"Kyros"
+	"Laurentios"
+	"Lazaros"
+	"Leon"
+	"Leontios"
+	"Licinius"
+	"Loukas"
+	"Lucius"
+	"Macrinus"
+	"Makarios"
+	"Manuel"
+	"Marcian"
+	"Marcus"
+	"Marinos"
+	"Markos"
+	"Matthaios"
+	"Maurikios"
+	"Maximinus"
+	"Maximos"
+	"Megistos"
+	"Meletios"
+	"Methodios"
+	"Michael"
+	"Narses"
+	"Neophytos"
+	"Nero"
+	"Nerva"
+	"Nikephoros"
+	"Niketas"
+	"Nikodemos"
+	"Nikolaos"
+	"Niphon"
+	"Numerian"
+	"Orestes"
+	"Otho"
+	"Pamphilios"
+	"Pankratios"
+	"Pantoleon"
+	"Paschalis"
+	"Pavlos"
+	"Pelagios"
+	"Pertinax"
+	"Petros"
+	"Philaretos"
+	"Philip"
+	"Philippikos"
+	"Philippos"
+	"Philotheos"
+	"Phokas"
+	"Photios"
+	"Polykarpos"
+	"Porphyrios"
+	"Probus"
+	"Prokopios"
+	"Pulcheria"
+	"Pupienus"
+	"Pyrros"
+	"Quintillus"
+	"Raphail"
+	"Romanos"
+	"Sabas"
+	"Samuel"
+	"Sebastianos"
+	"Septimius"
+	"Serapion"
+	"Sergios"
+	"Severina"
+	"Staurakios"
+	"Stavrakios"
+	"Stephanos"
+	"Symeon"
+	"Symmachos"
+	"Tacitus"
+	"Theocharistos"
+	"Theodoros"
+	"Theodosios"
+	"Theodosius"
+	"Theodotos"
+	"Theodoulos"
+	"Theoktistos"
+	"Theophanes"
+	"Theophilos"
+	"Theophylaktos"
+	"Thomas"
+	"Tiberios"
+	"Tiberius"
+	"Timotheos"
+	"Titus"
+	"Traianos"
+	"Trajan"
+	"Trebonianus"
+	"Tryphon"
+	"Valens"
+	"Valentinian"
+	"Valerian"
+	"Valerios"
+	"Vespasian"
+	"Vitellius"
+	"Zacharias"
+	"Zenobios"
+	"Zenon"
+}
+ship_names = {
+	"Abundantia"
+	"Acca Larentia"
+	"Acis"
+	"Aeon"
+	"Aequitas"
+	"Aerecura"
+	"Aesculapius"
+	"Aeternitas"
+	"Aius Locutius"
+	"Alernus"
+	"Angerona"
+	"Angitia"
+	"Anna Perenna"
+	"Annona"
+	"Antevorta"
+	"Apollo"
+	"Arimanius"
+	"Aura"
+	"Aurora"
+	"Averruncus"
+	"Bacchus"
+	"Bellona"
+	"Bona Dea"
+	"Bonus Eventus"
+	"Bubona"
+	"Caca"
+	"Cacus"
+	"Camenae"
+	"Cardea"
+	"Carmenta"
+	"Carmentes"
+	"Carna"
+	"Ceres"
+	"Clementia"
+	"Cloacina"
+	"Concordia"
+	"Consus"
+	"Cupid"
+	"Cura"
+	"Cybele"
+	"Dea Dia"
+	"Dea Tacita"
+	"Decima"
+	"Devera"
+	"Diana"
+	"Diana Nemorensis"
+	"Dis Pater"
+	"Disciplina"
+	"Dius Fidius"
+	"Egeria"
+	"Empanda"
+	"Epona"
+	"Falacer"
+	"Fama"
+	"Fascinus"
+	"Fauna"
+	"Faunus"
+	"Faustitas"
+	"Febris"
+	"Februus"
+	"Fecunditas"
+	"Felicitas"
+	"Ferentina"
+	"Feronia"
+	"Fides"
+	"Flora"
+	"Fontus"
+	"Fornax"
+	"Fortuna"
+	"Fulgora"
+	"Furrina"
+	"Genius"
+	"Gratiae"
+	"Hercules"
+	"Hermaphroditus"
+	"Hilaritas"
+	"Honos"
+	"Hora"
+	"Indiges"
+	"Intercidona"
+	"Inuus"
+	"Invidia"
+	"Iris"
+	"Isis"
+	"Janus"
+	"Juno"
+	"Jupiter"
+	"Justitia"
+	"Juturna"
+	"Juventas"
+	"Lares"
+	"Laverna"
+	"Letum"
+	"Levana"
+	"Liber"
+	"Libera"
+	"Liberalitas"
+	"Libertas"
+	"Libitina"
+	"Lua"
+	"Lucina"
+	"Luna"
+	"Lupercus"
+	"Lympha"
+	"Mana Genita"
+	"Manes"
+	"Mania"
+	"Mantus"
+	"Mars"
+	"Mater"
+	"Mater Matuta"
+	"Meditrina"
+	"Mellonia"
+	"Mephitis"
+	"Mercury"
+	"Minerva"
+	"Mithras"
+	"Molae"
+	"Moneta"
+	"Mors"
+	"Morta"
+	"Murcia"
+	"Mutunus Tutunus"
+	"Naenia"
+	"Nascio"
+	"Necessitas"
+	"Nemesis"
+	"Neptune"
+	"Nerio"
+	"Neverita"
+	"Nixi"
+	"Nona"
+	"Nox"
+	"Opis"
+	"Orcus"
+	"Palatua"
+	"Pales"
+	"Parcae"
+	"Pax"
+	"Penates"
+	"Picumnus"
+	"Picus"
+	"Pietas"
+	"Pilumnus"
+	"Pluto"
+	"Poena"
+	"Pomona"
+	"Porrima"
+	"Portunes"
+	"Postverta"
+	"Priapus"
+	"Proserpina"
+	"Providentia"
+	"Pudicitia"
+	"Querquetulanae"
+	"Quirinus"
+	"Quiritis"
+	"Robigus"
+	"Roma"
+	"Rumina"
+	"Salacia"
+	"Salus"
+	"Sancus"
+	"Saturn"
+	"Securitas"
+	"Silvanus"
+	"Sol Invictus"
+	"Somnus"
+	"Soranus"
+	"Sors"
+	"Spes"
+	"Stata"
+	"Sterquilinus"
+	"Suadela"
+	"Sulis Minerva"
+	"Summanus"
+	"Tellurus"
+	"Tempestas"
+	"Terminus"
+	"Terra Mater"
+	"Tiberinus"
+	"Tibertus"
+	"Tranquillitas"
+	"Trivia"
+	"Ubertas"
+	"Unxia"
+	"Uranus"
+	"Vacuna"
+	"Vediovus"
+	"Venilia"
+	"Venti"
+	"Venus"
+	"Veritas"
+	"Verminus"
+	"Vertumnus"
+	"Vesta"
+	"Vica Pota"
+	"Victoria"
+	"Virbius"
+	"Virtus"
+	"Volturnus"
+	"Voluptas"
+	"Vulcan"
+}
+army_names = {
+	"Legio I Herculia"
+	"Legio II Rapax"
+	"Legio III Liberatrix"
+	"Legio IV Apollonaris"
+	"Legio IX Triumphalis"
+	"Legio V Alaudae"
+	"Legio VI Victrix"
+	"Legio VII Ferrata"
+	"Legio VIII Augusta"
+	"Legio X Italica"
+	"Legio XI Macedonica"
+	"Legio XII Minervia"
+	"Legio XIII Fulminata"
+	"Legio XIV Fretensis"
+	"Legio XV Primigenia"
+	"Legio XVI Claudia"
+	"Legio XX Scythica"
+}
+fleet_names = {
+	"Classis Adrianopolis"
+	"Classis Alexandrina"
+	"Classis Atlanticum"
+	"Classis Carpathia"
+	"Classis Constantinopolis"
+	"Classis Euxeinos Pontos"
+	"Classis Mediterraneus"
+	"Classis Roma"
+	"Classis Seleucena"
+	"Classis Venetum"
+}

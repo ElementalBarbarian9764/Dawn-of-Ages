@@ -1,0 +1,57 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = tamil
+capital = 572
+mercantilism = 15
+409.6.30= {
+	monarch = {
+		name = "Appûtaiyân II"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 354.12.21
+		religion = hinduism
+		culture = tamil
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Rajamati"
+		dynasty = "Dewa"
+		adm = 2
+		dip = 3
+		mil = 2
+		country_of_origin = Z10
+		birth_date = 363.6.16
+		death_date = 423.6.16
+		female = yes
+		religion = hinduism
+		culture = malvi
+	}
+	add_queen_personality = just_personality
+	add_queen_personality = kind_hearted_personality
+	heir = {
+		name = "Kuñciramalli"
+		monarch_name = "Kuñciramalli"
+		dynasty = "Pandya"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 380.6.5
+		death_date = 445.6.5
+		female = yes
+		claim = 89
+		religion = hinduism
+		culture = malayalam
+	}
+	add_heir_personality = righteous_personality
+	add_heir_personality = tactical_genius_personality
+}
+409.6.30= {
+	add_prestige = 76
+	add_treasury = 62
+}

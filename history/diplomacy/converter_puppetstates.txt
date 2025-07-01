@@ -1,0 +1,204 @@
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="KOR"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="RYU"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="DAI"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="AYU"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="CHA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="LXA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="KHM"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="MMA"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="MLC"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="PGS"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="TDO"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="MJZ"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="MHX"
+	start_date="769.1.1"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="Z18"
+	second="Z32"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="Z19"
+	second="Z33"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+vassal=
+{
+	first="Z22"
+	second="Z24"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="Z10"
+	second="Z18"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="Z00"
+	second="ETH"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="Z25"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="Z22"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="Z05"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="GUG"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+
+dependency=
+{
+	subject_type="tributary_state"
+	first="CHC"
+	second="UTS"
+	start_date="409.6.30"
+	end_date="1836.1.1"
+}
+

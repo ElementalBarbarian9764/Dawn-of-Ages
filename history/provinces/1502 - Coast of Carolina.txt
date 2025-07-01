@@ -1,0 +1,7 @@
+discovered_by = CHE
+discovered_by = CRE
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american

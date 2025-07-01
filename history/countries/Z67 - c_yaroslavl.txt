@@ -1,0 +1,56 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = mordvin
+capital = 308
+fixed_capital = 308
+409.6.30= {
+	monarch = {
+		name = "Puresh"
+		dynasty = "Pure"
+		adm = 4
+		dip = 1
+		mil = 4
+		birth_date = 356.3.14
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_ruler_personality = loose_lips_personality
+	add_ruler_personality = strict_personality
+	queen = {
+		name = "Çiltanesi"
+		dynasty = "Viryasid"
+		adm = 2
+		dip = 2
+		mil = 4
+		country_of_origin = Z67
+		birth_date = 383.10.2
+		death_date = 443.10.2
+		female = yes
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = obsessive_perfectionist_personality
+	heir = {
+		name = "Varmanpaz"
+		monarch_name = "Varmanpaz"
+		dynasty = "Pure"
+		adm = 5
+		dip = 4
+		mil = 4
+		birth_date = 390.4.21
+		death_date = 455.4.21
+		claim = 89
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_heir_personality = lawgiver_personality
+	add_heir_personality = midas_touched_personality
+}
+409.6.30= {
+	add_prestige = 39
+	add_treasury = 53
+}

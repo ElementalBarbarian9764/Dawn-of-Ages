@@ -1,0 +1,94 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 146 134 77 }
+revolutionary_colors = { 0 8 5 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	quantity_ideas
+	diplomatic_ideas
+	quality_ideas
+}
+historical_units = {
+	bardiche_infantry
+	druzhina_cavalry
+	eastern_carabinier
+	eastern_militia
+	eastern_skirmisher
+	eastern_uhlan
+	muscovite_caracolle
+	muscovite_cossack
+	muscovite_musketeer
+	muscovite_soldaty
+	russian_cuirassier
+	russian_green_coat
+	russian_lancer
+	russian_mass
+	russian_petrine
+	slavic_stradioti
+}
+monarch_names = {
+	"Bhoo-Chand #0" = 0
+	"Dobrinya #0" = 0
+	"Ilme #0" = -1
+	"Kichay #0" = 0
+	"Kukka #0" = -1
+	"Litova #0" = -1
+	"Luule #0" = -1
+	"Moksha #0" = 0
+	"Nuyanza #0" = 0
+	"Paksyay #0" = 0
+	"Sanal'ka #0" = -1
+	"Shoksha #0" = 0
+	"Tekay #0" = -1
+	"Tunya #0" = 0
+	"Tylmache #0" = 0
+	"Utyayka #0" = -1
+}
+leader_names = {
+	"Barabshin"
+	"Brukathy"
+	"Danilov"
+	"Dmitriev"
+	"Dobrynsky"
+	"Glazaty"
+	"Gorbaty"
+	"Gubastov"
+	"Ivanov"
+	"Kirdyapin"
+	"Muromsky"
+	"Nizhegorodsky"
+	"Nogtew"
+	"Pronsky"
+	"Rozhestvensky"
+	"Sapogov"
+	"Shuisky"
+	"Skopin"
+	"Tolbuzin"
+	"Travin"
+	"Vsevolozhsky"
+	"Yeropkin"
+}
+ship_names = {
+	"Kadorn"
+	"Kasimov"
+	"Lolotcha"
+	"Mikhailov"
+	"Moksha"
+	"Murom"
+	"Novornichurinsk"
+	"Oka"
+	"Pereslavl"
+	"Pronsk"
+	"Pronya"
+	"Ryazansky"
+	"Sasovo"
+	"Shatsk"
+	"Skopin"
+	"Staraya Ryazan"
+	"Tsna"
+	"Y. Sviatoslavich"
+}

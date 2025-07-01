@@ -1,0 +1,41 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = estonian
+capital = 37
+fixed_capital = 37
+409.6.30= {
+	monarch = {
+		name = "Toivo"
+		dynasty = "Taremaa"
+		adm = 1
+		dip = 3
+		mil = 2
+		birth_date = 368.7.12
+		religion = finnish_pagan
+		culture = estonian
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = fierce_negotiator_personality
+	queen = {
+		name = "Päivä"
+		dynasty = "Lauri"
+		adm = 3
+		dip = 1
+		mil = 3
+		country_of_origin = Z47
+		birth_date = 369.12.9
+		death_date = 429.12.9
+		female = yes
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_queen_personality = conqueror_personality
+	add_queen_personality = expansionist_personality
+}
+409.6.30= {
+	add_prestige = 16
+	add_treasury = 69
+}

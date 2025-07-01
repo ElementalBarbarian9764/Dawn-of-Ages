@@ -1,0 +1,27 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 4256
+add_accepted_culture = samoyed
+409.6.30= {
+	monarch = {
+		name = "Lempi"
+		dynasty = "Meryid"
+		adm = 4
+		dip = 3
+		mil = 2
+		birth_date = 387.9.10
+		female = yes
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = secretive_personality
+	add_ruler_personality = zealot_personality
+}
+409.6.30= {
+	add_prestige = -50
+	add_treasury = 54
+}

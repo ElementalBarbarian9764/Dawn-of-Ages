@@ -1,0 +1,55 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = samoyed
+capital = 4262
+409.6.30= {
+	monarch = {
+		name = "Ngënoh III"
+		dynasty = "Yurakid"
+		adm = 5
+		dip = 5
+		mil = 4
+		birth_date = 345.2.20
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_ruler_personality = martial_educator_personality
+	add_ruler_personality = obsessive_perfectionist_personality
+	queen = {
+		name = "Rauha"
+		dynasty = "Anttonen"
+		adm = 2
+		dip = 4
+		mil = 3
+		country_of_origin = Z26
+		birth_date = 343.9.11
+		death_date = 403.9.11
+		female = yes
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = infertile_personality
+	heir = {
+		name = "Tatva"
+		monarch_name = "Tatva"
+		dynasty = "Yurakid"
+		adm = 6
+		dip = 5
+		mil = 4
+		birth_date = 378.10.16
+		death_date = 443.10.16
+		claim = 89
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_heir_personality = just_personality
+	add_heir_personality = silver_tongue_personality
+}
+409.6.30= {
+	add_prestige = 62
+	add_treasury = 38
+}

@@ -1,0 +1,17 @@
+owner = CHC
+controller = CHC
+capital = "Dali"
+is_city = yes
+culture = bai
+religion = buddhism
+trade_goods = tea
+base_tax = 3
+base_production = 3
+base_manpower = 3
+center_of_trade = 1
+add_core = CDL
+add_core = CHC
+add_core = MNG
+discovered_by = chinese
+discovered_by = indian
+discovered_by = nomad_group

@@ -1,0 +1,83 @@
+ZZZ_enhanced_unreformed_religion = {
+	potential = {
+		NOT = { has_global_flag = ZZZ_enhanced_random_world }
+		OR = {
+			religion = norse_pagan
+			religion = tengri_pagan
+			religion = baltic_pagan
+			religion = finnish_pagan
+			religion = slavic_pagan
+			religion = hellenic_pagan
+			religion = zun_pagan
+			religion = bon
+			religion = canaanite_pagan
+			religion = druidic_pagan
+			religion = sumerian_pagan
+			religion = cybelene_pagan
+			religion = zalmoxian_pagan
+			religion = arabic_pagan
+			religion = khaldic_pagan
+			religion = armazic_pagan
+			religion = iberian_pagan
+			religion = heptadic_pagan
+			religion = megalithic_pagan
+			religion = ritualistic_pagan
+			religion = illyric_pagan
+			religion = waaqi_pagan
+			religion = marite_pagan
+			religion = nuragic_pagan
+			religion = bamar_pagan
+			religion = hurrian_pagan
+			religion = hattian_pagan
+		}
+	}
+
+	trigger = {
+		always = yes
+	}
+
+	global_missionary_strength = -0.005
+}
+
+######################################
+# Fraticelli control of Rome.
+######################################
+fraticelli_rome = {
+	potential = {
+		normal_or_historical_nations = yes
+		has_discovered = 118	# Roma
+		religion = fraticelli
+		NOT = { tag = FAP }
+	}
+
+	trigger = {
+		NOT = { overlord_of = FAP }
+		owns_or_vassal_of = 118 # Roma
+		NOT = { tag = ITA }
+		NOT = { tag = ROM }
+		NOT = { tag = HLR }
+	}
+
+	papal_influence = -10
+	diplomatic_reputation = -1
+	#icon = 9
+}
+
+fraticelli_subjugation = {
+	potential = {
+		normal_or_historical_nations = yes
+		has_discovered = 118	# Roma
+		religion = catholic
+		NOT = { tag = FAP }
+	}
+
+	trigger = {
+		overlord_of = FAP
+		NOT = { tag = ITA }
+		NOT = { tag = ROM }
+		NOT = { tag = HLR }
+	}
+
+	diplomatic_reputation = -2
+	#icon = 9
+}

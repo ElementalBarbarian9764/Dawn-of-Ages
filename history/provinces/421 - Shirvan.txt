@@ -1,0 +1,27 @@
+owner = Z01
+controller = Z01
+capital = "Baku"
+is_city = yes
+culture = assyrian
+religion = hellenic_pagan_reformed
+trade_goods = silk
+fort_15th = yes
+base_tax = 3
+base_production = 9
+base_manpower = 2
+extra_cost = 10
+add_core = ASY
+add_core = Z01
+discovered_by = MGE
+discovered_by = east_african
+discovered_by = eastern
+discovered_by = indian
+discovered_by = muslim
+discovered_by = nomad_group
+discovered_by = ottoman
+discovered_by = sub_saharan
+discovered_by = western
+add_permanent_province_modifier = {
+	name = kura_estuary_modifier
+	duration = -1
+}

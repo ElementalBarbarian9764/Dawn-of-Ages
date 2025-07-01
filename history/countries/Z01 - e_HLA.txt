@@ -1,0 +1,26 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 3
+technology_group = eastern
+religion = hellenic_pagan_reformed
+primary_culture = assyrian
+capital = 2324
+add_accepted_culture = parthian
+409.6.30= {
+	monarch = {
+		name = "Yanai"
+		dynasty = "Bit_taqridi_inv"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 387.5.25
+		religion = hellenic_pagan_reformed
+		culture = assyrian
+	}
+	add_ruler_personality = infertile_personality
+	add_ruler_personality = inspiring_leader_personality
+}
+409.6.30= {
+	add_prestige = 53
+	add_treasury = 69
+}

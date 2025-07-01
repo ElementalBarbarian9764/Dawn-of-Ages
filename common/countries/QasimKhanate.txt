@@ -1,0 +1,86 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 82 135 124 }
+revolutionary_colors = { 8 15 8 }
+historical_idea_groups = {
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	religious_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	reformed_steppe_rifles
+	steppe_cavalry
+	steppe_footmen
+	steppe_infantry
+	steppe_lancers
+	steppe_mounted_raiders
+	steppe_musketeers
+	steppe_raiders
+	steppe_riders
+	steppe_rifles
+	steppe_uhlans
+}
+monarch_names = {
+	"Elisabet #0" = -1
+	"Ensio #0" = 0
+	"Into #0" = 0
+	"Kalevi #0" = 0
+	"Kezhay #0" = 0
+	"Kielo #0" = -1
+	"Kubrat #0" = 0
+	"Kuuti #0" = 0
+	"Mazava #0" = -1
+	"Meltsayka #0" = 0
+	"Nuyat #0" = 0
+	"Pemka #0" = -1
+	"Pihla #0" = -1
+	"Pivtsay #0" = 0
+	"Potekay #0" = -1
+	"Puresh #0" = 0
+	"Päivi #0" = -1
+	"Rauha #0" = -1
+	"Salme #0" = -1
+	"Shindyay #0" = 0
+	"Surt #0" = 0
+	"Tapani #0" = 0
+	"Titti #0" = -1
+	"Toivo #0" = 0
+	"Toyaksha #0" = -1
+	"Tuovi #0" = -1
+	"Turo #0" = 0
+	"Tuulikki #0" = -1
+	"Tyyni #0" = -1
+	"Utyayka #0" = -1
+}
+leader_names = {
+	"Al Tolui"
+	"Altan Chinua"
+	"Arigh Qorchi"
+	"Boke Unegen"
+	"Burilginai"
+	"Koke Qadan"
+	"Mongke Bayar"
+	"Oyugungene"
+	"Qacha-jin"
+	"Qadanteni"
+	"Qara Erdene"
+	"Qutughqai"
+	"Yeke Sube"
+}
+ship_names = {
+	"Argin"
+	"Han-Kirman"
+	"Jalair"
+	"Mangit"
+	"Meshchyora"
+	"Mishar Yurt"
+	"Muroma"
+	"Oka"
+	"Qasim xanligi"
+	"Qipchaq"
+}

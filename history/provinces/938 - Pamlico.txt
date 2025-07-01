@@ -1,0 +1,20 @@
+owner = CHE
+controller = CHE
+capital = "Pamlico"
+culture = powhatan
+religion = totemism
+trade_goods = tobacco
+base_tax = 5
+base_production = 4
+base_manpower = 8
+add_core = CHE
+add_core = POW
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american
+native_size = 10
+native_ferocity = 2
+native_hostileness = 8
+{

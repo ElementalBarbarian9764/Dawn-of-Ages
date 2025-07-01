@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = inuitgfx
+color = { 170 180 130 }
+monarch_names = {
+	"Alexandra #0" = -1
+	"Eeri #0" = 0
+	"Hõimulemb #0" = 0
+	"Ihatõiv #0" = 0
+	"Oie #0" = -1
+	"Sutemeel #0" = 0
+	"Syryava #0" = -1
+	"Talvikki #0" = -1
+	"Tõll #0" = 0
+	"Uru #0" = 0
+	"Vello #0" = 0
+	"Õie #0" = -1
+}

@@ -1,0 +1,26 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 151 11 0 }
+monarch_names = {
+	"Ankang #0" = -1
+	"Bhardha #0" = -1
+	"Dewang #0" = 0
+	"Fuyi #0" = 0
+	"He #0" = 0
+	"Hongben #0" = 0
+	"Kalden #0" = 0
+	"Lanling #0" = -1
+	"Lin #0" = 0
+	"Litsakra #0" = 0
+	"Longqing #0" = 0
+	"Qinde #0" = 0
+	"Quchulu #0" = 0
+	"Rangskya #0" = 0
+	"Saige #0" = -1
+	"She #0" = -1
+	"Thungtsamed #0" = -1
+	"Tingsho #0" = -1
+	"Wu #0" = -1
+	"Xingge #0" = -1
+	"Yanxiang #0" = -1
+}

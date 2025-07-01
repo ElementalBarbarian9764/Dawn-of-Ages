@@ -1,0 +1,19 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = high_american
+religion = totemism
+primary_culture = iroquois
+capital = 970
+mercantilism = 10
+unit_type = high_american
+1444.11.11= {
+	monarch = {
+		name = "Alliquippa"
+		dynasty = "Tionnontoguen"
+		female = yes
+		adm = 5
+		dip = 3
+		mil = 2
+	}
+}

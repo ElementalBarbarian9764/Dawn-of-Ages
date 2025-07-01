@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = rajput_kingdom
+government_rank = 2
+technology_group = indian
+religion = hinduism
+primary_culture = malvi
+capital = 2093
+add_accepted_culture = marathi
+409.6.30= {
+	monarch = {
+		name = "Viradeva III"
+		dynasty = "Pradyota"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 337.4.19
+		religion = hinduism
+		culture = malvi
+	}
+	add_ruler_personality = strict_personality
+	add_ruler_personality = zealot_personality
+	queen = {
+		name = "Hemavati"
+		dynasty = "Nagabhatid"
+		adm = 5
+		dip = 4
+		mil = 3
+		country_of_origin = Z18
+		birth_date = 371.7.20
+		death_date = 431.7.20
+		female = yes
+		religion = hinduism
+		culture = malvi
+	}
+	add_queen_personality = greedy_personality
+	add_queen_personality = lawgiver_personality
+	heir = {
+		name = "Ajayapala"
+		monarch_name = "Ajayapala"
+		dynasty = "Pradyota"
+		adm = 4
+		dip = 6
+		mil = 5
+		birth_date = 392.3.19
+		death_date = 457.3.19
+		claim = 89
+		religion = hinduism
+		culture = malvi
+	}
+	add_heir_personality = infertile_personality
+	add_heir_personality = zealot_personality
+}
+409.6.30= {
+	add_prestige = 63
+	add_treasury = 69
+}

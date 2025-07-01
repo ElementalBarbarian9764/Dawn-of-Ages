@@ -1,0 +1,21 @@
+government = monarchy
+add_government_reform = celestial_empire
+government_rank = 3
+technology_group = chinese
+religion = confucianism
+primary_culture = chihan
+capital = 1821
+add_accepted_culture = chihan
+add_harmonized_religion = mahayana
+409.6.30= {
+	monarch = {
+		name = "Xuanzong"
+		dynasty = "Doulu"
+		adm = 6
+		dip = 3
+		mil = 5
+		birth_date = 363.4.2
+		religion = confucianism
+		culture = chihan
+	}
+}

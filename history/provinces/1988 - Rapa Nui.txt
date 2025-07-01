@@ -1,0 +1,14 @@
+owner = INC
+controller = INC
+capital = "Hanga Roa"
+culture = inca
+religion = inti
+trade_goods = fish
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = INC
+discovered_by = polynesian_tech
+native_size = 1
+native_ferocity = 1
+native_hostileness = 1

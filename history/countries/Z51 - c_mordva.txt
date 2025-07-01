@@ -1,0 +1,57 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = mordvin
+capital = 302
+fixed_capital = 302
+409.6.30= {
+	monarch = {
+		name = "Chumbulat"
+		dynasty = "Pronskid"
+		adm = 2
+		dip = 4
+		mil = 3
+		birth_date = 361.3.3
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_ruler_personality = cruel_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Siyamka"
+		dynasty = "Kezhevatid"
+		adm = 3
+		dip = 4
+		mil = 2
+		country_of_origin = Z51
+		birth_date = 355.8.22
+		death_date = 415.8.22
+		female = yes
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_queen_personality = intricate_web_weaver_personality
+	add_queen_personality = silver_tongue_personality
+	heir = {
+		name = "Elyuva"
+		monarch_name = "Elyuva"
+		dynasty = "Pronskid"
+		adm = 6
+		dip = 3
+		mil = 5
+		birth_date = 397.10.22
+		death_date = 462.10.22
+		female = yes
+		claim = 89
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_heir_personality = cruel_personality
+	add_heir_personality = kind_hearted_personality
+}
+409.6.30= {
+	add_prestige = 38
+	add_treasury = 66
+}

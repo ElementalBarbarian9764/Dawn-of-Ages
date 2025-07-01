@@ -1,0 +1,24 @@
+government = republic
+add_government_reform = oligarchy_reform
+government_rank = 1
+technology_group = indian
+religion = hinduism
+primary_culture = rajput
+capital = 2228
+409.6.30= {
+	monarch = {
+		name = "Indrapal"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 349.10.10
+		religion = hinduism
+		culture = rajput
+	}
+	add_ruler_personality = industrious_personality
+	add_ruler_personality = tactical_genius_personality
+}
+409.6.30= {
+	add_prestige = 58
+	add_treasury = 63
+}

@@ -1,0 +1,69 @@
+spriteTypes = {
+	##Predefined Monuments
+	#Pyramids, Stonehenge and Mausoleum are in base game
+	spriteType = {
+		name = "GFX_great_project_lighthouse_of_alexandria"
+		texturefile = "gfx//interface//great_projects//great_project_golden_temple.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_hindu_konark"
+		texturefile = "gfx//interface//great_projects//great_project_prambanan_temple.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_apostolic_palace"
+		texturefile = "gfx//interface//great_projects//great_project_saint_peters_cathedral.dds"
+	}
+	spriteType = {
+		name = "GFX_great_project_house_of_wisdom"
+		texturefile = "gfx//interface//great_projects//great_project_ait_benhaddou.dds"
+	}
+	#Petra, Hagia and Notre are in the base game
+
+	##Dynamic Monuments
+spriteType = {
+		name = "GFX_great_project_wonder_university_8"
+		texturefile = "gfx//interface//great_projects//great_project_sankore_madrasah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_wonder_palace_4"
+		texturefile = "gfx//interface//great_projects//great_project_the_grand_palace.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_wonder_garden_11"
+		texturefile = "gfx//interface//great_projects//great_project_ambras_castle.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_wonder_university_3"
+		texturefile = "gfx//interface//great_projects//great_project_sankore_madrasah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_wonder_palace_7"
+		texturefile = "gfx//interface//great_projects//great_project_the_grand_palace.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_wonder_lighthouse_9"
+		texturefile = "gfx//interface//great_projects//great_project_belem_tower.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_wonder_garden_10"
+		texturefile = "gfx//interface//great_projects//great_project_ambras_castle.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_wonder_temple_hindu_5"
+		texturefile = "gfx//interface//great_projects//great_project_prambanan_temple.dds"
+	}
+
+	spriteType = {
+		name = "GFX_great_project_wonder_statue_ruler_6"
+		texturefile = "gfx//interface//great_projects//great_project_gomateshwara_statue.dds"
+	}
+
+	
+}

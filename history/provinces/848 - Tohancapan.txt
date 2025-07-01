@@ -1,0 +1,17 @@
+owner = TLX
+controller = TLX
+capital = "Tohancapan"
+is_city = yes
+culture = totonac
+religion = nahuatl
+trade_goods = spices
+base_tax = 4
+base_production = 4
+base_manpower = 2
+add_core = TLX
+add_core = TOT
+discovered_by = andean
+discovered_by = high_american
+discovered_by = mesoamerican
+discovered_by = north_american
+discovered_by = south_american

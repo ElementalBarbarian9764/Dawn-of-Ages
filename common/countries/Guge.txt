@@ -1,0 +1,92 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 50 37 125 }
+revolutionary_colors = { 13 16 13 }
+historical_idea_groups = {
+	quantity_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	diplomatic_ideas
+	spy_ideas
+	economic_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	chinese_dragoon
+	chinese_footsoldier
+	chinese_longspear
+	chinese_steppe
+	eastern_bow
+	han_banner
+	manchu_banner
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+	reformed_manchu_rifle
+}
+monarch_names = {
+	"Allat #0" = 0
+	"Bauladevi #0" = -1
+	"Bhoo-Chand #0" = 0
+	"Bhuyikadevi #0" = -1
+	"Brahmadeva #0" = 0
+	"Dambarisimha #0" = 0
+	"Dattadevi #0" = -1
+	"Draupada #0" = 0
+	"Gajasimha #0" = 0
+	"Ganapatideva #0" = 0
+	"Gopendraka #0" = 0
+	"Hariyadevi #0" = -1
+	"Hemavati #0" = -1
+	"Junpala #0" = 0
+	"Kakanvati #0" = -1
+	"Kalyanachandra #2" = 10
+	"Kanchuka #0" = -1
+	"Lakhanapala #0" = 0
+	"Mahlakadeva #0" = 0
+	"Nagabhata #0" = 0
+	"Namalladevi #0" = -1
+	"Narayanapala #0" = 0
+	"Paramardideva #0" = 0
+	"Prabhavatigupta #0" = -1
+	"Ratnapala #0" = 0
+	"Sidhawa #0" = -1
+	"Someshvara #0" = 0
+	"Sukhinpal #0" = 0
+	"Sukhinpala #0" = 0
+	"Tolpal #2" = 10
+	"Vakpati #0" = 0
+}
+leader_names = {
+	"Gampo"
+	"Phuntsok"
+	"Sonam"
+	"Sregs"
+	"Srong"
+	"Tashi"
+	"Thekchen"
+	"Tsewang"
+	"Wangdak"
+	"Wangdue"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

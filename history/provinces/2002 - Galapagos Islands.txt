@@ -1,0 +1,11 @@
+owner = INC
+controller = INC
+capital = "Puerto Baquerizo Moreno"
+culture = inca
+religion = inti
+trade_goods = unknown
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = INC
+discovered_by = INC

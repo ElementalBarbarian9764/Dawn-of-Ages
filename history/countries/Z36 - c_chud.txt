@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 4259
+fixed_capital = 4259
+409.6.30= {
+	monarch = {
+		name = "Aatos"
+		dynasty = "Kemiläinen"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 373.5.20
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Kanyava"
+		dynasty = "Kezhevatid"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Z36
+		birth_date = 374.9.1
+		death_date = 434.9.1
+		female = yes
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_queen_personality = midas_touched_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Tuure"
+		monarch_name = "Tuure"
+		dynasty = "Kemiläinen"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 397.5.12
+		death_date = 462.5.12
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = calm_personality
+	add_heir_personality = obsessive_perfectionist_personality
+}
+409.6.30= {
+	add_prestige = 7
+	add_treasury = 37
+}

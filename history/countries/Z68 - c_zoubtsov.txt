@@ -1,0 +1,36 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = ilmenian
+capital = 4249
+fixed_capital = 4249
+409.6.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 2
+		dip = 1
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = slavic_pagan
+		culture = ilmenian
+	}
+	heir = {
+		name = "Vsevolod"
+		dynasty = "Izbor"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 401.2.2
+		death_date = 466.2.2
+		claim = 89
+		religion = slavic_pagan
+		culture = ilmenian
+	}
+}
+409.6.30= {
+	add_prestige = 13
+	add_treasury = 38
+}

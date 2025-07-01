@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 100 40 10 }
+monarch_names = {
+	"Aatso #0" = 0
+	"Arvo #0" = 0
+	"Elisabet #0" = -1
+	"Ensio #0" = 0
+	"Havu #0" = 0
+	"Hintsa #0" = 0
+	"Inkeri #0" = -1
+	"Kolli #0" = 0
+	"Kunyavka #0" = -1
+	"Luule #0" = -1
+	"Metta #0" = -1
+	"Pentti #0" = 0
+}

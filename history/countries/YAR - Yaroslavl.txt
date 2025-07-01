@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = karelian
+capital = 312
+add_accepted_culture = mordvin
+409.6.30= {
+	monarch = {
+		name = "Mielitty"
+		dynasty = "Kemiläinen"
+		adm = 3
+		dip = 4
+		mil = 3
+		birth_date = 367.4.20
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_ruler_personality = righteous_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Päivi"
+		dynasty = "Lauri"
+		adm = 4
+		dip = 3
+		mil = 3
+		country_of_origin = YAR
+		birth_date = 368.5.9
+		death_date = 428.5.9
+		female = yes
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_queen_personality = charismatic_negotiator_personality
+	add_queen_personality = well_connected_personality
+	heir = {
+		name = "Aatos"
+		monarch_name = "Aatos III"
+		dynasty = "Kemiläinen"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 395.12.13
+		death_date = 460.12.13
+		claim = 89
+		religion = finnish_pagan
+		culture = karelian
+	}
+	add_heir_personality = expansionist_personality
+	add_heir_personality = kind_hearted_personality
+}
+409.6.30= {
+	add_prestige = 48
+	add_treasury = 75
+}

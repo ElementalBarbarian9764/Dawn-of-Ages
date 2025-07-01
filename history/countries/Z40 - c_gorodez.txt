@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 1
+technology_group = eastern
+religion = finnish_pagan
+primary_culture = mordvin
+capital = 1083
+fixed_capital = 1083
+409.6.30= {
+	monarch = {
+		name = "Varaka"
+		dynasty = "Kezhevatid"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 387.8.11
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_ruler_personality = expansionist_personality
+	add_ruler_personality = fertile_personality
+	queen = {
+		name = "Ngeva"
+		dynasty = "Yurakid"
+		adm = 4
+		dip = 3
+		mil = 4
+		country_of_origin = Z40
+		birth_date = 377.2.16
+		death_date = 437.2.16
+		female = yes
+		religion = finnish_pagan
+		culture = samoyed
+	}
+	add_queen_personality = free_thinker_personality
+	add_queen_personality = loose_lips_personality
+	heir = {
+		name = "Varmanpaz"
+		monarch_name = "Varmanpaz"
+		dynasty = "Kezhevatid"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 407.2.11
+		death_date = 472.2.11
+		claim = 89
+		religion = finnish_pagan
+		culture = mordvin
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+409.6.30= {
+	add_prestige = 9
+	add_treasury = 51
+}

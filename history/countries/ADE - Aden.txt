@@ -1,0 +1,37 @@
+government = monarchy
+add_government_reform = plutocratic_reform
+government_rank = 1
+technology_group = east_african
+religion = waaqi_pagan
+primary_culture = somali
+capital = 388
+fixed_capital = 388
+mercantilism = 15
+409.6.30= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 0
+		dip = 1
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = waaqi_pagan
+		culture = somali
+	}
+	heir = {
+		name = "Sa'ad"
+		dynasty = "Nassirid"
+		adm = 2
+		dip = 3
+		mil = 3
+		birth_date = 403.8.27
+		death_date = 468.8.27
+		claim = 89
+		religion = waaqi_pagan
+		culture = somali
+	}
+}
+409.6.30= {
+	add_prestige = 17
+	add_treasury = 66
+}

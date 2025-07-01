@@ -1,0 +1,20 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = high_american
+religion = totemism
+primary_culture = mesquakie
+capital = 945
+mercantilism = 10
+unit_type = high_american
+add_accepted_culture = chiwere
+1444.11.11= {
+	monarch = {
+		name = "Hantaywee"
+		dynasty = "Blackhawk"
+		female = yes
+		adm = 3
+		dip = 2
+		mil = 5
+	}
+}

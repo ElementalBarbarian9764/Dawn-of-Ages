@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 2
+technology_group = sub_saharan
+religion = shamanism
+primary_culture = soninke
+capital = 1161
+add_accepted_culture = kanuri
+409.6.30= {
+	monarch = {
+		name = "Fadima"
+		dynasty = "Kiffa"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 366.7.17
+		female = yes
+		religion = shamanism
+		culture = soninke
+	}
+	add_ruler_personality = benevolent_personality
+	add_ruler_personality = pious_personality
+	queen = {
+		name = "Tanko"
+		dynasty = "Gobiri"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = KBO
+		birth_date = 374.10.17
+		death_date = 434.10.17
+		religion = shamanism
+		culture = hausa
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Kisoki"
+		monarch_name = "Kisoki"
+		dynasty = "Gobiri"
+		adm = 1
+		dip = 3
+		mil = 2
+		birth_date = 367.6.2
+		death_date = 432.6.2
+		claim = 89
+		religion = shamanism
+		culture = hausa
+	}
+	add_heir_personality = obsessive_perfectionist_personality
+	add_heir_personality = zealot_personality
+}
+409.6.30= {
+	add_prestige = 11
+	add_treasury = 50
+}

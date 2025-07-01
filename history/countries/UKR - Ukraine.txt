@@ -1,0 +1,56 @@
+government = tribal
+add_government_reform = tribal_confederacy
+government_rank = 2
+technology_group = eastern
+religion = slavic_pagan
+primary_culture = ilmenian
+capital = 310
+add_accepted_culture = karelian
+409.6.30= {
+	monarch = {
+		name = "Igor II"
+		dynasty = "Izbor"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 379.6.2
+		religion = slavic_pagan
+		culture = ilmenian
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = midas_touched_personality
+	queen = {
+		name = "Gremislava"
+		dynasty = "Slovensky"
+		adm = 2
+		dip = 4
+		mil = 1
+		country_of_origin = UKR
+		birth_date = 382.6.10
+		death_date = 442.6.10
+		female = yes
+		religion = slavic_pagan
+		culture = ilmenian
+	}
+	add_queen_personality = conqueror_personality
+	add_queen_personality = expansionist_personality
+	heir = {
+		name = "Iliya"
+		monarch_name = "Iliya"
+		dynasty = "Izbor"
+		adm = 0
+		dip = 0
+		mil = 0
+		birth_date = 408.6.27
+		death_date = 473.6.27
+		claim = 89
+		religion = slavic_pagan
+		culture = ilmenian
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+409.6.30= {
+	add_prestige = 8
+	add_treasury = 64
+}
