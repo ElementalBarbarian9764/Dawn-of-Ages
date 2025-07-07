@@ -2,5 +2,5 @@ bookmark =
 {
 	name = CK2_NAME
 	desc = CK2_DESC
-	date = 409.6.30
+	date = 500.1.1
 }
