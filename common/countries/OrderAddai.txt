@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 180 80 140 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_cavalry_charge
@@ -10,7 +10,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"Aba #1" = 1
 	"Abraham #0" = 1
 	"Abris #0" = 1
@@ -52,49 +52,17 @@ monarch_names = {
 	"Yahballaha #1" = 1
 	"Zeta #0" = -1
 }
-leader_names = {
-	"Aba"
-	"Abaye"
-	"Abraham"
-	"Abris"
-	"Acacius"
-	"Ahadabui"
-	"Ahha"
-	"Akha d'abuh'"
-	"Babai"
-	"Babowai"
-	"Barba'shmin"
-	"Barsauma"
-	"Chanin"
-	"Dadisho"
-	"Ebid M'shikha"
-	"Elisha'"
-	"Farbokht"
-	"Foma"
-	"George"
-	"Isaac"
-	"Israel"
-	"Karna"
-	"Lazarus"
-	"Ma'na"
-	"Mar Aggai"
-	"Narsai"
-	"Palut"
-	"Paul"
-	"Qayyoma"
-	"Shahaloopa"
-	"Shahdost"
-	"Shem"
-	"Shila"
-	"Simeon"
-	"Tauma"
-	"Thaddeus"
-	"Thomas"
-	"Tomarsa"
-	"Ya'qob"
-	"Yahballaha"
-	"Zerika"
+leader_names = { 
+	Aba Abaye Abraham Abris Acacius Ahadabui Ahha "Akha d'abuh'" Babai Babowai
+	Barba'shmin Barsauma Chanin Dadisho "Ebid M'shikha" Elisha' Farbokht Foma George Isaac
+	Israel Karna Lazarus Ma'na "Mar Aggai" Narsai Palut Paul Qayyoma Shahaloopa
+	Shahdost Shem Shila Simeon Tauma Thaddeus Thomas Tomarsa Ya'qob Yahballaha
+	Zerika 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+ship_names = { 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 121 10 15 }
 revolutionary_colors = { 0 1 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -22,7 +22,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Absaquil #0" = 10
 	"Anta #0" = 10
 	"Cheenlenten #0" = 10
@@ -69,48 +69,16 @@ monarch_names = {
 	"Yalkus #0" = 10
 	"Yeptah #0" = 10
 }
-leader_names = {
-	"Atfalati"
-	"Calapooya"
-	"Cathlamet"
-	"Cathlapotle"
-	"Chelamela"
-	"Chepenafa"
-	"Chiluckittequaw"
-	"Clackamas"
-	"Clatsop"
-	"Clowwewalla"
-	"Lakmiut"
-	"Multnomah"
-	"Santiam"
-	"Skilloot"
-	"Wasco"
-	"Watlala"
-	"Wishram"
-	"Yamel"
-	"Yoncalla"
+leader_names = { 
+	Atfalati Calapooya Cathlamet Cathlapotle Chelamela Chepenafa Chiluckittequaw Clackamas Clatsop Clowwewalla
+	Lakmiut Multnomah Santiam Skilloot Wasco Watlala Wishram Yamel Yoncalla 
 }
-ship_names = {
-	"Atfalati"
-	"Calapooya"
-	"Cathlamet"
-	"Cathlapotle"
-	"Chelamela"
-	"Chepenafa"
-	"Chiluckittequaw"
-	"Clackamas"
-	"Clatsop"
-	"Clowwewalla"
-	"Lakmiut"
-	"Ltsuq"
-	"Multnomah"
-	"Oklumin"
-	"Oolax"
-	"Santiam"
-	"Skilloot"
-	"Wasco"
-	"Watlala"
-	"Wishram"
-	"Yamel"
-	"Yoncalla"
+ship_names = { 
+	Atfalati Calapooya Cathlamet Cathlapotle Chelamela Chepenafa Chiluckittequaw Clackamas Clatsop Clowwewalla
+	Lakmiut Ltsuq Multnomah Oklumin Oolax Santiam Skilloot Wasco Watlala Wishram
+	Yamel Yoncalla 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 201 19 70 }
 revolutionary_colors = { 9 9 9 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	african_dragoon
 	african_hill_warfare
 	african_hussar
@@ -25,7 +25,7 @@ historical_units = {
 	niger_kongolese_gunpowder_warfare
 	westernized_niger_kongolese
 }
-monarch_names = {
+monarch_names = { 
 	"Abd al-Rahman #0" = 20
 	"Abdallahi Yanka #0" = 10
 	"Abdu Caccabi #0" = 10
@@ -74,27 +74,13 @@ monarch_names = {
 	"Usuman dan Fodio #0" = 20
 	"Zubayru #0" = 10
 }
-leader_names = {
-	"Aluko"
-	"Deo"
-	"Diarra"
-	"Kanu"
-	"Keita"
-	"Kuti"
-	"Mamami"
-	"Modibo"
-	"Saibou"
-	"Toure"
+leader_names = { 
+	Aluko Deo Diarra Kanu Keita Kuti Mamami Modibo Saibou Toure
 }
-ship_names = {
-	"Abuja"
-	"Ede"
-	"Enugu"
-	"Jos"
-	"Kaduna"
-	"Kano"
-	"Katsina"
-	"Owo"
-	"Sokoto"
-	"Zaria"
+ship_names = { 
+	Abuja Ede Enugu Jos Kaduna Kano Katsina Owo Sokoto Zaria
+}
+fleet_names = { 
+}
+army_names = { 
 }

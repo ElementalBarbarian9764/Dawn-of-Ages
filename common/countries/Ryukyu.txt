@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 90 138 133 }
 revolutionary_colors = { 2 0 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -21,7 +21,7 @@ historical_units = {
 	eastern_bow
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Boku #0" = 30
 	"Bunei #1" = 1
 	"Chiru #0" = 0
@@ -73,59 +73,17 @@ monarch_names = {
 	"Wa #0" = 10
 	"Yo #0" = 10
 }
-leader_names = {
-	"Agarie"
-	"Arakachi"
-	"Ba"
-	"Fija"
-	"Ikegusuku"
-	"Kanagusuku"
-	"Mo"
-	"Nagusuku"
-	"O"
-	"Shimabuku"
-	"Sho"
-	"Tamagusuku"
-	"Tera"
-	"Toyomigusuku"
-	"Ufugusuku"
-	"Wibaru"
-	"Yamagusuku"
+leader_names = { 
+	Agarie Arakachi Ba Fija Ikegusuku Kanagusuku Mo Nagusuku O Shimabuku
+	Sho Tamagusuku Tera Toyomigusuku Ufugusuku Wibaru Yamagusuku 
 }
-ship_names = {
-	"Bunei"
-	"Chuzan"
-	"Eiji"
-	"Eiso"
-	"Gihon"
-	"Gusuku"
-	"Hokuzan"
-	"Naha"
-	"Nakijin"
-	"Nanzan"
-	"Satto"
-	"Sei"
-	"Sho"
-	"Sho Chu"
-	"Sho Ei"
-	"Sho En"
-	"Sho Gen"
-	"Sho Hashi"
-	"Sho Ho"
-	"Sho Ken"
-	"Sho Kinpuku"
-	"Sho Nei"
-	"Sho Sei"
-	"Sho Sen'i"
-	"Sho Shin"
-	"Sho Shisho"
-	"Sho Shitatsu"
-	"Sho Shitsu"
-	"Sho Taikyu"
-	"Sho Toku"
-	"Shun Bajunki"
-	"Shunten"
-	"Shuri"
-	"Taisei"
-	"Tamagusuku"
+ship_names = { 
+	Bunei Chuzan Eiji Eiso Gihon Gusuku Hokuzan Naha Nakijin Nanzan
+	Satto Sei Sho "Sho Chu" "Sho Ei" "Sho En" "Sho Gen" "Sho Hashi" "Sho Ho" "Sho Ken"
+	"Sho Kinpuku" "Sho Nei" "Sho Sei" "Sho Sen'i" "Sho Shin" "Sho Shisho" "Sho Shitatsu" "Sho Shitsu" "Sho Taikyu" "Sho Toku"
+	"Shun Bajunki" Shunten Shuri Taisei Tamagusuku 
+}
+fleet_names = { 
+}
+army_names = { 
 }

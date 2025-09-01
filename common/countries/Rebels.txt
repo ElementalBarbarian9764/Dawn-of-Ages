@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 30 30 30 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	quantity_ideas
 	defensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	economic_ideas
 	maritime_ideas
 }
-monarch_names = {
+monarch_names = { 
 	"Alexandra #0" = -1
 	"Boel #0" = -1
 	"Corneles #0" = 10
@@ -27,20 +27,13 @@ monarch_names = {
 	"Piet #0" = 10
 	"Regina #0" = -1
 }
-leader_names = {
-	"Angre"
-	"Anstis"
-	"Chivers"
-	"Condent"
-	"Condon"
-	"Coxon"
-	"Dalzeel"
-	"Hout"
-	"Lowther"
-	"Quelch"
-	"Searle"
-	"Spriggs"
-	"Vane"
-	"Vynne"
-	"Worley"
+leader_names = { 
+	Angre Anstis Chivers Condent Condon Coxon Dalzeel Hout Lowther Quelch
+	Searle Spriggs Vane Vynne Worley 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 25 123 48 }
 revolutionary_colors = { 10 6 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Akakotos #0" = 20
 	"Apawonistaw #0" = 20
 	"Apawstamix #0" = 20
@@ -71,56 +71,17 @@ monarch_names = {
 	"Waywasecapow #0" = 10
 	"Wichawostaka #0" = 20
 }
-leader_names = {
-	"Aegitina"
-	"Bizibina"
-	"Canhdada"
-	"Canhewincasta"
-	"Canknuhabi"
-	"Cephubi"
-	"Hebina"
-	"Hen Atonwaabina"
-	"Hudesabina"
-	"Huhuganebabi"
-	"Huhumasmibi"
-	"Indogahwincasta"
-	"Innianonbi"
-	"Insaombi"
-	"Inwantonwanbina"
-	"Minisatonwanbi"
-	"Minisoee Swnkeebi"
-	"Osnibi"
-	"Ptegabina"
-	"Sahiyaiyeskabi"
-	"Sihabi"
-	"Snugabi"
-	"Sunkcebi"
-	"Tanidabi"
-	"Tanzinapebina"
-	"Tokanbi"
-	"Unskaha"
-	"Wadopabina"
-	"Wadopahtonwan"
-	"Wasinazinyabi"
-	"Waziyamwincasta"
-	"Wiciyabina"
-	"Wokpanbi"
+leader_names = { 
+	Aegitina Bizibina Canhdada Canhewincasta Canknuhabi Cephubi Hebina "Hen Atonwaabina" Hudesabina Huhuganebabi
+	Huhumasmibi Indogahwincasta Innianonbi Insaombi Inwantonwanbina Minisatonwanbi "Minisoee Swnkeebi" Osnibi Ptegabina Sahiyaiyeskabi
+	Sihabi Snugabi Sunkcebi Tanidabi Tanzinapebina Tokanbi Unskaha Wadopabina Wadopahtonwan Wasinazinyabi
+	Waziyamwincasta Wiciyabina Wokpanbi 
 }
-ship_names = {
-	"Anukasa"
-	"Caba"
-	"Hehaka"
-	"Hiha"
-	"Jkumataga"
-	"Maga"
-	"Mato"
-	"Pahj"
-	"Paktasa"
-	"Snohena"
-	"Suga"
-	"Sugataga"
-	"Suksasna"
-	"Suktogeja"
-	"Tataga"
-	"Tuhmaga"
+ship_names = { 
+	Anukasa Caba Hehaka Hiha Jkumataga Maga Mato Pahj Paktasa Snohena
+	Suga Sugataga Suksasna Suktogeja Tataga Tuhmaga 
+}
+fleet_names = { 
+}
+army_names = { 
 }

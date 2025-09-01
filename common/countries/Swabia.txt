@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 225 98 87 }
 revolutionary_colors = { 8 8 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adolf #0" = 0
 	"Anselm #0" = 0
 	"August #0" = 10
@@ -91,76 +91,20 @@ monarch_names = {
 	"Wilhelm #0" = 20
 	"Wilhelm Ludwig #0" = 20
 }
-leader_names = {
-	"Beich"
-	"Breitmayer"
-	"Buchner"
-	"Börner"
-	"Börrner"
-	"Danhauser"
-	"Gohl"
-	"Gute"
-	"Helber"
-	"Henke"
-	"Hummelberger"
-	"Humpis"
-	"Kircher"
-	"Klein"
-	"Knapp"
-	"Kopp"
-	"Meck"
-	"Merkel"
-	"Ortlieb"
-	"Pfeilsticker"
-	"Roether"
-	"Schupp"
-	"Stütz"
-	"Susenbrot"
-	"Sülzle"
-	"Veit"
-	"Vietz"
-	"Vogel"
-	"Weber"
-	"Wieland"
-	"Wurst"
+leader_names = { 
+	Beich Breitmayer Buchner Börner Börrner Danhauser Gohl Gute Helber Henke
+	Hummelberger Humpis Kircher Klein Knapp Kopp Meck Merkel Ortlieb Pfeilsticker
+	Roether Schupp Stütz Susenbrot Sülzle Veit Vietz Vogel Weber Wieland
+	Wurst 
 }
-ship_names = {
-	"Andechs"
-	"Augsburg"
-	"Balingen"
-	"Breisgau"
-	"Burgau"
-	"Diessen"
-	"Friedberg"
-	"Graf von Bogen"
-	"Graf von Diepolding"
-	"Graf von Sulzbach"
-	"Gräfin Mechthild"
-	"Kaiser Friedrich I"
-	"Kaiser Friedrich II"
-	"Kaiser Heinrich VI"
-	"Kempten"
-	"Konstanz"
-	"König Arnulf"
-	"Lindau"
-	"Marbach"
-	"Memmingen"
-	"Mindel"
-	"Mömpelgard"
-	"Neuffen"
-	"Oettingen"
-	"Otto"
-	"Ravensburg"
-	"St. Kilian"
-	"St. Sebaldus"
-	"Stuttgart"
-	"Tassilo III"
-	"Wirtemberg"
-	"Wolfstein"
+ship_names = { 
+	Andechs Augsburg Balingen Breisgau Burgau Diessen Friedberg "Graf von Bogen" "Graf von Diepolding" "Graf von Sulzbach"
+	"Gräfin Mechthild" "Kaiser Friedrich I" "Kaiser Friedrich II" "Kaiser Heinrich VI" Kempten Konstanz "König Arnulf" Lindau Marbach Memmingen
+	Mindel Mömpelgard Neuffen Oettingen Otto Ravensburg "St. Kilian" "St. Sebaldus" Stuttgart "Tassilo III"
+	Wirtemberg Wolfstein 
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Dritte Schwäbische Armee"
-	"Erste Schwäbische Armee"
-	"Zweite Schwäbische Armee"
+army_names = { 
+	"Armee von $PROVINCE$" "Dritte Schwäbische Armee" "Erste Schwäbische Armee" "Zweite Schwäbische Armee" 
+}
+fleet_names = { 
 }

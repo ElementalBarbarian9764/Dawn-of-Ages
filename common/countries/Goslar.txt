@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 88 45 148 }
 revolutionary_colors = { 0 8 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albrecht #0" = 15
 	"Albrecht Friedrich #0" = 10
 	"Andreas #0" = 0
@@ -72,58 +72,17 @@ monarch_names = {
 	"Wilhelm #0" = 10
 	"Wilhelm Gustav #0" = 15
 }
-leader_names = {
-	"Ackermann"
-	"Alberti"
-	"Albrecht"
-	"Alvensleben"
-	"Amman"
-	"Annecke"
-	"Anthe"
-	"Bauer"
-	"Bause"
-	"Ehrenberg"
-	"Erxleben"
-	"Feuerstack"
-	"Flachsbart"
-	"Genthe"
-	"Gerstung"
-	"Held"
-	"Herzburg"
-	"Hoppe"
-	"Isaack"
-	"Janeck"
-	"Jantke"
-	"Kersten"
-	"Kleinau"
-	"März"
-	"Nehmiz"
-	"Rumpf"
-	"Scharfe"
-	"Schauseil"
-	"Schieck"
-	"von Zerbst"
+leader_names = { 
+	Ackermann Alberti Albrecht Alvensleben Amman Annecke Anthe Bauer Bause Ehrenberg
+	Erxleben Feuerstack Flachsbart Genthe Gerstung Held Herzburg Hoppe Isaack Janeck
+	Jantke Kersten Kleinau März Nehmiz Rumpf Scharfe Schauseil Schieck "von Zerbst"
 }
-ship_names = {
-	"Albrecht Ballenstedt"
-	"Albrecht der Bär"
-	"Aschersleben"
-	"Bernburg"
-	"Bernhard Wittenberg"
-	"Bischof Siegfried"
-	"Brocken"
-	"Coswig"
-	"Dessau"
-	"Dietrich Werben"
-	"Hartz"
-	"Heinrich I"
-	"Hermann Orlamünde"
-	"Köthen"
-	"Plötzkau"
-	"Ramberg"
-	"Rosslau"
-	"Zerbst"
+ship_names = { 
+	"Albrecht Ballenstedt" "Albrecht der Bär" Aschersleben Bernburg "Bernhard Wittenberg" "Bischof Siegfried" Brocken Coswig Dessau "Dietrich Werben"
+	Hartz "Heinrich I" "Hermann Orlamünde" Köthen Plötzkau Ramberg Rosslau Zerbst 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

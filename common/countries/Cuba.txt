@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 140 65 166 }
 revolutionary_colors = { 13 0 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	economic_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Agustín #0" = 20
 	"Alfredo #0" = 0
 	"Armando #0" = 0
@@ -73,72 +73,19 @@ monarch_names = {
 	"Álvaro #0" = 0
 	"Ángel #0" = 10
 }
-leader_names = {
-	"Aldama"
-	"Allende"
-	"Benavente"
-	"Bravo"
-	"Bustamante"
-	"Carranza"
-	"Comonfort"
-	"Cárdenas"
-	"Domingo"
-	"Díaz"
-	"Echávarri"
-	"Elizondo"
-	"Elías"
-	"Galeana"
-	"García"
-	"Gonzalez"
-	"Guerrero"
-	"Gómez"
-	"Hidalgo"
-	"Huerta"
-	"Iglesias"
-	"Itúrbide"
-	"Juárez"
-	"Lerdo de Tejada"
-	"León de la Barra"
-	"López"
-	"Madero"
-	"Matamoros"
-	"Mejía"
-	"Mendoza"
-	"Mina"
-	"Miramón"
-	"Mora"
-	"Morelos"
-	"Moreno"
-	"Negrete"
-	"Obregón"
-	"Ortíz"
-	"Pino"
-	"Ramírez de Arellano"
-	"Rayón"
-	"Ruíz de Apodaca"
-	"Santa Anna"
-	"Suárez"
-	"Torres"
-	"Victoria"
-	"Villa"
-	"Zaragoza"
-	"de Zavala"
-	"Álvarez"
+leader_names = { 
+	Aldama Allende Benavente Bravo Bustamante Carranza Comonfort Cárdenas Domingo Díaz
+	Echávarri Elizondo Elías Galeana García Gonzalez Guerrero Gómez Hidalgo Huerta
+	Iglesias Itúrbide Juárez "Lerdo de Tejada" "León de la Barra" López Madero Matamoros Mejía Mendoza
+	Mina Miramón Mora Morelos Moreno Negrete Obregón Ortíz Pino "Ramírez de Arellano"
+	Rayón "Ruíz de Apodaca" "Santa Anna" Suárez Torres Victoria Villa Zaragoza "de Zavala" Álvarez
 }
-ship_names = {
-	"Abasolo"
-	"Allende"
-	"Bravo"
-	"Durango"
-	"Galeana"
-	"Guanjuato"
-	"Ilhunicamina"
-	"Juarez"
-	"Netzahualcoyotl"
-	"Romero"
-	"Serria"
-	"Sonora"
-	"Veracruz"
-	"Victoria"
+ship_names = { 
+	Abasolo Allende Bravo Durango Galeana Guanjuato Ilhunicamina Juarez Netzahualcoyotl Romero
+	Serria Sonora Veracruz Victoria 
 }
 colonial_parent = SPA
+fleet_names = { 
+}
+army_names = { 
+}

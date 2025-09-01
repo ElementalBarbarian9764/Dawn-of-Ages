@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 11 84 179 }
 revolutionary_colors = { 10 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	african_dragoon
 	african_hussar
 	african_mandelaku
@@ -25,7 +25,7 @@ historical_units = {
 	songhai_tribal_warfare
 	westernized_niger_kongolese
 }
-monarch_names = {
+monarch_names = { 
 	"Adandozan #0" = 20
 	"Adoma Tomo #0" = 0
 	"Afyavi #0" = -1
@@ -58,32 +58,14 @@ monarch_names = {
 	"Tegbessou #0" = 20
 	"Togni-ahoussou #0" = 20
 }
-leader_names = {
-	"Ahyi"
-	"Assogba"
-	"Glélé"
-	"Koukou"
-	"Maiga"
-	"Seka"
-	"Sessegnon"
-	"Sinzogan"
-	"Séka"
-	"Tometin"
+leader_names = { 
+	Ahyi Assogba Glélé Koukou Maiga Seka Sessegnon Sinzogan Séka Tometin
 }
-ship_names = {
-	"Adakpén"
-	"Adan"
-	"Adla Denkpè"
-	"Agasu"
-	"Agbanlin"
-	"Agbo"
-	"Agbète"
-	"Aixosu"
-	"Ajinaku"
-	"Alotlo"
-	"Ato"
-	"Atoké"
-	"Azwi"
-	"Gbègluza"
-	"Jawunta"
+ship_names = { 
+	Adakpén Adan "Adla Denkpè" Agasu Agbanlin Agbo Agbète Aixosu Ajinaku Alotlo
+	Ato Atoké Azwi Gbègluza Jawunta 
+}
+fleet_names = { 
+}
+army_names = { 
 }

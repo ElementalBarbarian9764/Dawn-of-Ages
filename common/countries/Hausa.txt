@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 48 169 96 }
 revolutionary_colors = { 10 0 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quantity_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	adal_guerilla_warfare
 	adal_gunpowder_warfare
 	african_dragoon
@@ -25,7 +25,7 @@ historical_units = {
 	niger_kongolese_tribal_warfare
 	westernized_adal
 }
-monarch_names = {
+monarch_names = { 
 	"Alima #0" = -1
 	"Amita #0" = -1
 	"Baba #0" = -1
@@ -49,31 +49,14 @@ monarch_names = {
 	"Zahrah #0" = -1
 	"Zenku #1" = 10
 }
-leader_names = {
-	"Aluko"
-	"Bakara"
-	"Balewa"
-	"Bandele"
-	"Diore"
-	"Kanu"
-	"Kountché"
-	"Kuti"
-	"Mamami"
-	"Saibou"
+leader_names = { 
+	Aluko Bakara Balewa Bandele Diore Kanu Kountché Kuti Mamami Saibou
 }
-ship_names = {
-	"Babban dutse"
-	"Fure"
-	"Gajimare"
-	"Hazo"
-	"Iska"
-	"Itace"
-	"Rairayi"
-	"Rana"
-	"Ruwa"
-	"Saiwa"
-	"Sama"
-	"Tauraro"
-	"Teku"
-	"Wata"
+ship_names = { 
+	"Babban dutse" Fure Gajimare Hazo Iska Itace Rairayi Rana Ruwa Saiwa
+	Sama Tauraro Teku Wata 
+}
+fleet_names = { 
+}
+army_names = { 
 }

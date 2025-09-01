@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 186 14 92 }
 revolutionary_colors = { 16 8 16 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Bich Ngoc #0" = -1
 	"Hoang #0" = 20
 	"Kim #0" = 20
@@ -41,92 +41,22 @@ monarch_names = {
 	"Thanh Thao #0" = -1
 	"Thuy Tram #0" = -1
 }
-leader_names = {
-	"Banh"
-	"Bui"
-	"Cao"
-	"Chau"
-	"Chu"
-	"Chung"
-	"Dam"
-	"Dang"
-	"Dao"
-	"Diep"
-	"Dinh"
-	"Do"
-	"Doan"
-	"Duong"
-	"Giang"
-	"Ha"
-	"Han"
-	"Ho"
-	"Huynh"
-	"Kieu"
-	"Kim"
-	"La"
-	"Lac"
-	"Lam"
-	"Lieu"
-	"Luc"
-	"Luong"
-	"Luu"
-	"Ly"
-	"Lê"
-	"Ma"
-	"Mac"
-	"Mach"
-	"Mai"
-	"Nghiem"
-	"Ngo"
-	"Nguyen"
-	"Pham"
-	"Phan"
-	"Pho"
-	"Phung"
-	"Quach"
-	"Quang"
-	"Quyen"
-	"Ta"
-	"Thach"
-	"Thai"
-	"Thi"
-	"Thuy"
-	"Tieu"
-	"To"
-	"Ton"
-	"Tran"
-	"Trang"
-	"Trieu"
-	"Trinh"
-	"Truong"
-	"Van"
-	"Vinh"
-	"Vu"
-	"Vuong"
+leader_names = { 
+	Banh Bui Cao Chau Chu Chung Dam Dang Dao Diep
+	Dinh Do Doan Duong Giang Ha Han Ho Huynh Kieu
+	Kim La Lac Lam Lieu Luc Luong Luu Ly Lê
+	Ma Mac Mach Mai Nghiem Ngo Nguyen Pham Phan Pho
+	Phung Quach Quang Quyen Ta Thach Thai Thi Thuy Tieu
+	To Ton Tran Trang Trieu Trinh Truong Van Vinh Vu
+	Vuong 
 }
-ship_names = {
-	"Anh Tông"
-	"Du Tông"
-	"Due Tông"
-	"Duong Nhat Lê"
-	"Hien Tông"
-	"Minh Tông"
-	"Nghe Tông"
-	"Nhân Tông"
-	"Thuan Tông"
-	"Thái Tông"
-	"Thánh Tông"
-	"Tran An"
-	"Tran Canh"
-	"Tran Hao"
-	"Tran Hien"
-	"Tran Hoang"
-	"Tran Khâm"
-	"Tran Kính"
-	"Tran Manh"
-	"Tran Ngung"
-	"Tran Phu"
-	"Tran Thuyên"
-	"Tran Vuong"
+ship_names = { 
+	"Anh Tông" "Du Tông" "Due Tông" "Duong Nhat Lê" "Hien Tông" "Minh Tông" "Nghe Tông" "Nhân Tông" "Thuan Tông" "Thái Tông"
+	"Thánh Tông" "Tran An" "Tran Canh" "Tran Hao" "Tran Hien" "Tran Hoang" "Tran Khâm" "Tran Kính" "Tran Manh" "Tran Ngung"
+	"Tran Phu" "Tran Thuyên" "Tran Vuong" 
 }
 special_unit_culture = south_east_asian_special
+fleet_names = { 
+}
+army_names = { 
+}

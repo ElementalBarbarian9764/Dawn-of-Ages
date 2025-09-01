@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 38 101 255 }
 revolutionary_colors = { 16 8 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Ataklumo #1" = -1
 	"Datserhim #0" = 0
 	"Desho Lek #1" = 10
@@ -55,63 +55,18 @@ monarch_names = {
 	"Xinuoluo #2" = 10
 	"Zanam Zindé #1" = 10
 }
-leader_names = {
-	"Bal"
-	"Bri"
-	"Bro"
-	"Chespong"
-	"Cogro"
-	"Dbas"
-	"Dbra"
-	"Dru"
-	"Gnon"
-	"Gnyags"
-	"Khjungpo"
-	"Khu"
-	"Khun"
-	"Lang"
-	"Ldong"
-	"Lig"
-	"Mchims"
-	"Mgar"
-	"Mgus"
-	"Mjang"
-	"Mkar"
-	"Mnyammed"
-	"Mong"
-	"Nganlam"
-	"Nyang"
-	"Phjongsrgjas"
-	"Rinspungs"
-	"Rlangs"
-	"Rma"
-	"Rmu"
-	"Sba"
-	"Sbas"
-	"Se"
-	"Sgro"
-	"Shudpu"
-	"Snang"
-	"Snyiba"
-	"Stong"
-	"Thonmi"
-	"Zhang"
-	"Zhingshag"
+leader_names = { 
+	Bal Bri Bro Chespong Cogro Dbas Dbra Dru Gnon Gnyags
+	Khjungpo Khu Khun Lang Ldong Lig Mchims Mgar Mgus Mjang
+	Mkar Mnyammed Mong Nganlam Nyang Phjongsrgjas Rinspungs Rlangs Rma Rmu
+	Sba Sbas Se Sgro Shudpu Snang Snyiba Stong Thonmi Zhang
+	Zhingshag 
 }
-ship_names = {
-	"Barkam"
-	"Dartsendo"
-	"Gartse"
-	"Gyantse"
-	"Lhasa"
-	"Lhotse"
-	"Makalu"
-	"Nagqu"
-	"Nedong"
-	"Nyingchi"
-	"Pelbar"
-	"Qamdo"
-	"Sakya"
-	"Shigatse"
-	"Tinggri"
+ship_names = { 
+	Barkam Dartsendo Gartse Gyantse Lhasa Lhotse Makalu Nagqu Nedong Nyingchi
+	Pelbar Qamdo Sakya Shigatse Tinggri 
+}
+fleet_names = { 
+}
+army_names = { 
 }

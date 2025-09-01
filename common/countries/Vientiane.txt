@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 151 174 28 }
 revolutionary_colors = { 5 8 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Anousa #0" = -1
 	"Anouvong #0" = 20
 	"Anurutha #0" = 5
@@ -84,73 +84,20 @@ monarch_names = {
 	"Xiang Keo #0" = 5
 	"Yu Khong #0" = 10
 }
-leader_names = {
-	"Abhay"
-	"Baravon"
-	"Boupha"
-	"Champassak"
-	"Chounlamany"
-	"Chounramany"
-	"Insisiengmay"
-	"Keola"
-	"Kommadam"
-	"Luangviset"
-	"Nosavan"
-	"Pathammavong"
-	"Phetrasy"
-	"Phimmasone"
-	"Phomvihan"
-	"Phouma"
-	"Phoumsovan"
-	"Rattanasamay"
-	"Sananikoe"
-	"Sasorit"
-	"Soukbandit"
-	"Souksomboun"
-	"Sounthone"
-	"Thammavongsa"
-	"Vathanatham"
-	"Vatthana"
-	"Vichit"
-	"Vongkhamkeaw"
-	"Vongprachan"
-	"Vongsak"
-	"Vongsawat"
-	"Vongvicht"
-	"Voravong"
+leader_names = { 
+	Abhay Baravon Boupha Champassak Chounlamany Chounramany Insisiengmay Keola Kommadam Luangviset
+	Nosavan Pathammavong Phetrasy Phimmasone Phomvihan Phouma Phoumsovan Rattanasamay Sananikoe Sasorit
+	Soukbandit Souksomboun Sounthone Thammavongsa Vathanatham Vatthana Vichit Vongkhamkeaw Vongprachan Vongsak
+	Vongsawat Vongvicht Voravong 
 }
-ship_names = {
-	"Angkor"
-	"Anousa"
-	"Chiang Kham"
-	"Fa Kheun"
-	"Fa Ngum"
-	"Keo Koumari"
-	"Khamteam"
-	"Khamtum"
-	"Kongkeo"
-	"Lan Kham Deng"
-	"Lan Xang"
-	"Leu Xay"
-	"Manora"
-	"Manorom"
-	"Mekong"
-	"Muang Huom"
-	"Muang Nan"
-	"Muang Sing"
-	"Nge-Anh"
-	"Ngo Fa"
-	"Noy Onsa"
-	"Pak Beng"
-	"Pak Ou"
-	"Phommathat"
-	"Sai"
-	"Siva Yaka"
-	"Souphutta"
-	"Ubosot"
-	"Un Heuan"
-	"Vinh"
-	"Xieng Hung"
-	"Yu Khong"
+ship_names = { 
+	Angkor Anousa "Chiang Kham" "Fa Kheun" "Fa Ngum" "Keo Koumari" Khamteam Khamtum Kongkeo "Lan Kham Deng"
+	"Lan Xang" "Leu Xay" Manora Manorom Mekong "Muang Huom" "Muang Nan" "Muang Sing" Nge-Anh "Ngo Fa"
+	"Noy Onsa" "Pak Beng" "Pak Ou" Phommathat Sai "Siva Yaka" Souphutta Ubosot "Un Heuan" Vinh
+	"Xieng Hung" "Yu Khong" 
 }
 special_unit_culture = south_east_asian_special
+fleet_names = { 
+}
+army_names = { 
+}

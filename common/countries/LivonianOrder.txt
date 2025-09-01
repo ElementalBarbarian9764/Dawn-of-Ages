@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 125 30 100 }
 revolutionary_colors = { 5 9 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	administrative_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adolf #0" = 0
 	"Albrecht #0" = 0
 	"Andreas #0" = 0
@@ -83,112 +83,22 @@ monarch_names = {
 	"Wenzel #0" = 0
 	"Wilhelm #2" = 20
 }
-leader_names = {
-	"Ascheberg"
-	"Behr"
-	"Bilderling"
-	"Blomberg"
-	"Borch"
-	"Brincken"
-	"Brüggen"
-	"Buchholtz"
-	"Derschau"
-	"Drachenfels"
-	"Düsterlohe"
-	"Engelhardt"
-	"Fircks"
-	"Funck"
-	"Fölkersam"
-	"Grotthuss"
-	"Haaren"
-	"Hahn"
-	"Heyking"
-	"Howen"
-	"Kleist"
-	"Klopmann"
-	"Komorowski"
-	"Koskull"
-	"Lambsdorff"
-	"Mirbach"
-	"Nettelhorst"
-	"Nolcken"
-	"Oelsen"
-	"Offenberg"
-	"Osten-Sacken"
-	"Pahlen"
-	"Raczynski"
-	"Recke"
-	"Ropp"
-	"Rosenberg"
-	"Schlippenbach"
-	"Seefeld"
-	"Stackelberg"
-	"Stromberg"
-	"Taube"
-	"von Altenbockum"
-	"von Bach"
-	"von Boetticher"
-	"von Hoerner"
-	"von Lysander"
-	"von Rummel"
-	"von Schroeders"
-	"von Timroth"
-	"von der Launitz"
+leader_names = { 
+	Ascheberg Behr Bilderling Blomberg Borch Brincken Brüggen Buchholtz Derschau Drachenfels
+	Düsterlohe Engelhardt Fircks Funck Fölkersam Grotthuss Haaren Hahn Heyking Howen
+	Kleist Klopmann Komorowski Koskull Lambsdorff Mirbach Nettelhorst Nolcken Oelsen Offenberg
+	Osten-Sacken Pahlen Raczynski Recke Ropp Rosenberg Schlippenbach Seefeld Stackelberg Stromberg
+	Taube "von Altenbockum" "von Bach" "von Boetticher" "von Hoerner" "von Lysander" "von Rummel" "von Schroeders" "von Timroth" "von der Launitz"
 }
-ship_names = {
-	"Aa"
-	"Blumentopf"
-	"Bruno"
-	"Dame"
-	"Das Wappen der Herzogin von Kurland"
-	"Diderick Tork"
-	"Drei Heringe"
-	"Düna"
-	"Franco Kerskorff"
-	"Goldingen"
-	"Hasenpoth"
-	"Herzogenstein"
-	"Hoffnung"
-	"Johannes Ungenade"
-	"Krokodil"
-	"Lynn kurländische Möwe"
-	"Mitau"
-	"Reimar Hane"
-	"Seeburg"
-	"Tukums"
-	"Windau"
-	"von Bockenvorde"
-	"von Breithausen"
-	"von Bürggeneye"
-	"von Dreileben"
-	"von Eltz"
-	"von Endorp"
-	"von Feuchtwangen"
-	"von Fürstenberg"
-	"von Galen"
-	"von Grüningen"
-	"von Hercke"
-	"von Herse"
-	"von Hohembach"
-	"von Hornhausen"
-	"von Jocke"
-	"von Loringhofe"
-	"von Lutterberg"
-	"von Mandern"
-	"von Mengede"
-	"von Monheim"
-	"von Nortecken"
-	"von Overbergen"
-	"von Plettenberg"
-	"von Rassburg"
-	"von Rogga"
-	"von Rutenberg"
-	"von Sangershausen"
-	"von Spanheim"
-	"von Stierland"
-	"von Vietinghof"
-	"von Vrymersheim"
-	"von der Borch"
-	"von der Recke"
-	"von dinkelaghe"
+ship_names = { 
+	Aa Blumentopf Bruno Dame "Das Wappen der Herzogin von Kurland" "Diderick Tork" "Drei Heringe" Düna "Franco Kerskorff" Goldingen
+	Hasenpoth Herzogenstein Hoffnung "Johannes Ungenade" Krokodil "Lynn kurländische Möwe" Mitau "Reimar Hane" Seeburg Tukums
+	Windau "von Bockenvorde" "von Breithausen" "von Bürggeneye" "von Dreileben" "von Eltz" "von Endorp" "von Feuchtwangen" "von Fürstenberg" "von Galen"
+	"von Grüningen" "von Hercke" "von Herse" "von Hohembach" "von Hornhausen" "von Jocke" "von Loringhofe" "von Lutterberg" "von Mandern" "von Mengede"
+	"von Monheim" "von Nortecken" "von Overbergen" "von Plettenberg" "von Rassburg" "von Rogga" "von Rutenberg" "von Sangershausen" "von Spanheim" "von Stierland"
+	"von Vietinghof" "von Vrymersheim" "von der Borch" "von der Recke" "von dinkelaghe" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

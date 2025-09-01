@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 67 96 179 }
 revolutionary_colors = { 12 14 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	expansion_ideas
 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_cavalry_charge
@@ -21,7 +21,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"Bomilcar #1" = 10
 	"Dido #1" = -1
 	"Gisco #1" = 10
@@ -33,31 +33,14 @@ monarch_names = {
 	"Mago #3" = 30
 	"Malchus #1" = 10
 }
-leader_names = {
-	"Barqa"
-	"Hamilcar"
-	"Hannibal"
-	"Hasdrubal"
-	"Mago"
+leader_names = { 
+	Barqa Hamilcar Hannibal Hasdrubal Mago 
 }
-ship_names = {
-	"Alim"
-	"Aziz"
-	"Bari"
-	"Fattah"
-	"Ghaffar"
-	"Jabbar"
-	"Khaliq"
-	"Malik"
-	"Mu'min"
-	"Muhaymin"
-	"Musawwir"
-	"Mutakabbir"
-	"Qahhar"
-	"Quddus"
-	"Rahim"
-	"Rahman"
-	"Razzaq"
-	"Salam"
-	"Wahhab"
+ship_names = { 
+	Alim Aziz Bari Fattah Ghaffar Jabbar Khaliq Malik Mu'min Muhaymin
+	Musawwir Mutakabbir Qahhar Quddus Rahim Rahman Razzaq Salam Wahhab 
+}
+fleet_names = { 
+}
+army_names = { 
 }

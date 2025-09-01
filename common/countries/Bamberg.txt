@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 200 219 195 }
 revolutionary_colors = { 5 13 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adam Friedrich #0" = 20
 	"Albrecht #0" = 15
 	"Alfred #0" = 0
@@ -72,42 +72,16 @@ monarch_names = {
 	"Thora #0" = -1
 	"Wolfram #0" = 15
 }
-leader_names = {
-	"Blochberger"
-	"Bär"
-	"Degen"
-	"Dick"
-	"Egelkraut"
-	"Fichtelmann"
-	"Färber"
-	"Födisch"
-	"Gäbelein"
-	"Hager"
-	"Hofmann"
-	"Höhrer"
-	"Rank"
-	"Sack"
-	"Schwager"
-	"Sell"
-	"Simon"
-	"Söll"
-	"Wirth"
+leader_names = { 
+	Blochberger Bär Degen Dick Egelkraut Fichtelmann Färber Födisch Gäbelein Hager
+	Hofmann Höhrer Rank Sack Schwager Sell Simon Söll Wirth 
 }
-ship_names = {
-	"Bergtheim"
-	"Biebelried"
-	"Eigelstadt"
-	"Gramschatz"
-	"Höchberg"
-	"Julius Echter"
-	"Kietzingen"
-	"Main"
-	"Marienberg"
-	"Ochsenfurth"
-	"Rimpar"
-	"Uettingen"
-	"Wern"
+ship_names = { 
+	Bergtheim Biebelried Eigelstadt Gramschatz Höchberg "Julius Echter" Kietzingen Main Marienberg Ochsenfurth
+	Rimpar Uettingen Wern 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

@@ -2,8 +2,7 @@ owner = GER
 controller = GER
 capital = "Kraków"
 is_city = yes
-culture = vandal
-religion = norse_pagan
+religion = fyrnsidu
 trade_goods = salt
 base_tax = 2
 base_production = 4
@@ -20,6 +19,6 @@ discovered_by = nomad_group
 discovered_by = ottoman
 discovered_by = sub_saharan
 discovered_by = western
-latent_trade_goods = {
-	coal
+latent_trade_goods = { 
+	coal 
 }

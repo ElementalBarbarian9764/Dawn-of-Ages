@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 186 106 58 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	plutocracy_ideas
 	humanist_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	quality_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -26,7 +26,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Alberico #0" = 10
 	"Albertino #0" = 25
 	"Alberto #0" = 0
@@ -78,75 +78,19 @@ monarch_names = {
 	"Vitaliano #0" = 0
 	"Zaccaria #0" = 0
 }
-leader_names = {
-	"Andeini"
-	"Barbaro"
-	"Barberigo"
-	"Beccadelli"
-	"Broglia"
-	"Caliari"
-	"Camposampiero"
-	"Canova"
-	"Cristofori"
-	"Dente"
-	"Facciolati"
-	"Falloppio"
-	"Fanoli"
-	"Landi"
-	"Magini"
-	"Malacapelli"
-	"Mantagna"
-	"Mussato"
-	"Nizolio"
-	"Padovano"
-	"Palladio"
-	"Papafava"
-	"Pellegrini"
-	"Piscopia"
-	"Pomponazzi"
-	"Ramazzini"
-	"Scamozzi"
-	"Squarcione"
-	"Stancaro"
-	"Tasso"
-	"d'Acquapendente"
-	"d'Este"
-	"da Campagnola"
-	"da Carrara"
-	"da Corregio"
-	"da Lucca"
-	"da Romano"
-	"dei Lovati"
-	"di Villandres"
+leader_names = { 
+	Andeini Barbaro Barberigo Beccadelli Broglia Caliari Camposampiero Canova Cristofori Dente
+	Facciolati Falloppio Fanoli Landi Magini Malacapelli Mantagna Mussato Nizolio Padovano
+	Palladio Papafava Pellegrini Piscopia Pomponazzi Ramazzini Scamozzi Squarcione Stancaro Tasso
+	d'Acquapendente d'Este "da Campagnola" "da Carrara" "da Corregio" "da Lucca" "da Romano" "dei Lovati" "di Villandres" 
 }
-ship_names = {
-	"Abano Bagni"
-	"Adelaide"
-	"Amabilia"
-	"Antenor"
-	"Bacchiglione"
-	"Castagnaro"
-	"Cisalpina"
-	"Enrico Scrovegni"
-	"Fabia"
-	"Francesco Zabarella"
-	"Giacomina"
-	"Griselda"
-	"Medoacus"
-	"Patavium"
-	"Ruzzante"
-	"San Daniele"
-	"San Gaetano"
-	"San Luca Evangelista"
-	"San Massimo il Confessore"
-	"San Prosdocimo"
-	"Sant'Antonio"
-	"Santa Giustina"
-	"Santa Sofia"
-	"Tito Livio"
-	"Tornalisce"
-	"Vicenza"
+ship_names = { 
+	"Abano Bagni" Adelaide Amabilia Antenor Bacchiglione Castagnaro Cisalpina "Enrico Scrovegni" Fabia "Francesco Zabarella"
+	Giacomina Griselda Medoacus Patavium Ruzzante "San Daniele" "San Gaetano" "San Luca Evangelista" "San Massimo il Confessore" "San Prosdocimo"
+	Sant'Antonio "Santa Giustina" "Santa Sofia" "Tito Livio" Tornalisce Vicenza 
 }
-army_names = {
-	"Armata di $PROVINCE$"
+army_names = { 
+	"Armata di $PROVINCE$" 
+}
+fleet_names = { 
 }

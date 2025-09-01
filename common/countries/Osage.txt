@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 251 245 104 }
 revolutionary_colors = { 14 8 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Aguigueda #0" = 20
 	"Amanpasse #0" = 20
 	"Bashemindhe #0" = 20
@@ -145,54 +145,16 @@ monarch_names = {
 	"Watoesa #0" = -1
 	"voibahe #0" = 20
 }
-leader_names = {
-	"Chetopa"
-	"Doppike"
-	"Hominy"
-	"Koholo"
-	"Neodesha"
-	"Neosho"
-	"Niukonska"
-	"Owasso"
-	"Pahusan"
-	"Pasueli"
-	"Pawhuska"
-	"Picayune"
-	"Sansueli"
-	"Tsishu"
-	"Wahakolin"
-	"Wazhaze"
-	"Wyota"
+leader_names = { 
+	Chetopa Doppike Hominy Koholo Neodesha Neosho Niukonska Owasso Pahusan Pasueli
+	Pawhuska Picayune Sansueli Tsishu Wahakolin Wazhaze Wyota 
 }
-ship_names = {
-	"Gray Horse"
-	"Ho"
-	"Hominy"
-	"Inlonka"
-	"Kkawa"
-	"Kkaxe"
-	"Kke"
-	"Manshchinke"
-	"Mi"
-	"Mihonton"
-	"Mikka"
-	"Ni"
-	"Niukonska"
-	"Oppon"
-	"Pahushan"
-	"Pawhuska"
-	"Ppahin"
-	"Shonke"
-	"Tallchief"
-	"Ttatonka"
-	"Ttse"
-	"Ttsepuka"
-	"Wahzhazhe"
-	"Wappoke"
-	"Wasake"
-	"Wazhinka"
-	"Wetsa"
-	"Xuthappa"
-	"Zhanpe"
-	"Zinka"
+ship_names = { 
+	"Gray Horse" Ho Hominy Inlonka Kkawa Kkaxe Kke Manshchinke Mi Mihonton
+	Mikka Ni Niukonska Oppon Pahushan Pawhuska Ppahin Shonke Tallchief Ttatonka
+	Ttse Ttsepuka Wahzhazhe Wappoke Wasake Wazhinka Wetsa Xuthappa Zhanpe Zinka
+}
+fleet_names = { 
+}
+army_names = { 
 }

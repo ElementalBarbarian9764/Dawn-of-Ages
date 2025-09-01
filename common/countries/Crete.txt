@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 138 110 130 }
 revolutionary_colors = { 15 0 15 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -30,7 +30,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Aiolos #0" = 0
 	"Andrea #0" = 10
 	"Antonio #0" = 60
@@ -75,30 +75,14 @@ monarch_names = {
 	"Tomasso #0" = 15
 	"Zaccaria #0" = 20
 }
-leader_names = {
-	"Argyrus"
-	"Artavasdus"
-	"Basileus"
-	"Diogenes"
-	"Ducas"
-	"Monomachus"
-	"Morosini"
-	"Romanus"
-	"Stauracius"
-	"Stratioticus"
-	"Vataces"
-	"Zimisces"
-	"de Vendôme"
+leader_names = { 
+	Argyrus Artavasdus Basileus Diogenes Ducas Monomachus Morosini Romanus Stauracius Stratioticus
+	Vataces Zimisces "de Vendôme" 
 }
-ship_names = {
-	"Dermoaros"
-	"Frangokastelo"
-	"Glalos"
-	"Koudouras"
-	"Lentas"
-	"Matala"
-	"Paleochora"
-	"Papadogiannis"
-	"Plakias"
-	"Sougia"
+ship_names = { 
+	Dermoaros Frangokastelo Glalos Koudouras Lentas Matala Paleochora Papadogiannis Plakias Sougia
+}
+fleet_names = { 
+}
+army_names = { 
 }

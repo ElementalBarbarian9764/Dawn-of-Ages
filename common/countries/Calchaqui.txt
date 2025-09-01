@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = southamericagfx
 color = { 74 44 126 }
 revolutionary_colors = { 6 1 6 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	economic_ideas
 	defensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	inca_mountain_warfare
 	incan_axemen
 	incan_guerilla_warfare
@@ -26,7 +26,7 @@ historical_units = {
 	south_american_warfare
 	westernized_incan
 }
-monarch_names = {
+monarch_names = { 
 	"Aman #0" = 20
 	"Ana #0" = -1
 	"Anco #0" = 0
@@ -56,27 +56,13 @@ monarch_names = {
 	"Tucuma #0" = 20
 	"Viltipoco #0" = 20
 }
-leader_names = {
-	"Aconquijas"
-	"Anguinahao"
-	"Caca"
-	"Capayan"
-	"Hualfin"
-	"Omaguaca"
-	"Paccioca"
-	"Pular"
-	"Quilme"
-	"Tocpo"
+leader_names = { 
+	Aconquijas Anguinahao Caca Capayan Hualfin Omaguaca Paccioca Pular Quilme Tocpo
 }
-ship_names = {
-	"Caca"
-	"Capayan"
-	"Elqui"
-	"Hualfin"
-	"Huasco"
-	"Huilla"
-	"Paccioca"
-	"Pular"
-	"Quilme"
-	"Tilcara"
+ship_names = { 
+	Caca Capayan Elqui Hualfin Huasco Huilla Paccioca Pular Quilme Tilcara
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 78 65 15 }
 revolutionary_colors = { 4 0 4 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Brita #0" = -1
 	"Dovyat #0" = 10
 	"Elmede #0" = -1
@@ -56,32 +56,14 @@ monarch_names = {
 	"Vetseke #0" = 0
 	"Yudki #0" = 0
 }
-leader_names = {
-	"Aminoff"
-	"Armfelt"
-	"Bielke"
-	"Bonde"
-	"Carpelan"
-	"Fleming"
-	"Furuhjelm"
-	"Horn"
-	"Mannerheim"
-	"Paijkull"
-	"Rehbinder"
-	"Schulman"
-	"Soop"
-	"Tott"
-	"Wrede"
+leader_names = { 
+	Aminoff Armfelt Bielke Bonde Carpelan Fleming Furuhjelm Horn Mannerheim Paijkull
+	Rehbinder Schulman Soop Tott Wrede 
 }
-ship_names = {
-	"Dobeln"
-	"Dorpat"
-	"Dünaburg"
-	"Fellin"
-	"Karkus"
-	"Kokenhusen"
-	"Riga"
-	"Segewold"
-	"Wenden"
-	"Wolmar"
+ship_names = { 
+	Dobeln Dorpat Dünaburg Fellin Karkus Kokenhusen Riga Segewold Wenden Wolmar
+}
+fleet_names = { 
+}
+army_names = { 
 }

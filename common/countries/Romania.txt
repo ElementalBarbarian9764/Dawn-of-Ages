@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 21 96 178 }
 revolutionary_colors = { 13 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -29,7 +29,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Adelina #0" = -1
 	"Alexandru #0" = 20
 	"Alexandru Ilias #0" = 20
@@ -74,62 +74,18 @@ monarch_names = {
 	"Vladislav #0" = 20
 	"Vladut #0" = 20
 }
-leader_names = {
-	"Basarab"
-	"Brâncoveanu"
-	"Callimachi"
-	"Campineanu"
-	"Cantacuzino"
-	"Cantemir"
-	"Caragea"
-	"Craiovescu"
-	"Dracul"
-	"Duca"
-	"Ghica"
-	"Golescu"
-	"Ilias"
-	"Ipsilanti"
-	"Lupu"
-	"Mavrocordat"
-	"Mircea"
-	"Moruzi"
-	"Movila"
-	"Musatin"
-	"Norocea"
-	"Racovita"
-	"Ruset"
-	"Sturdza"
-	"Sutu"
-	"Tepelus"
-	"Tolmay"
-	"Vacarescu"
-	"Voda"
+leader_names = { 
+	Basarab Brâncoveanu Callimachi Campineanu Cantacuzino Cantemir Caragea Craiovescu Dracul Duca
+	Ghica Golescu Ilias Ipsilanti Lupu Mavrocordat Mircea Moruzi Movila Musatin
+	Norocea Racovita Ruset Sturdza Sutu Tepelus Tolmay Vacarescu Voda 
 }
-ship_names = {
-	"Atacul de noapte"
-	"Athleta Christi"
-	"Baia"
-	"Bogdan I"
-	"Calugareni"
-	"Dracul"
-	"Frumuseatsa valurilor"
-	"Iuga"
-	"Litovoi"
-	"Moldova"
-	"Posada"
-	"Putera"
-	"Romania"
-	"Rovine"
-	"Râul Prut"
-	"Sirmium"
-	"Sperietoaria"
-	"Stefan cel Mare"
-	"Suceava"
-	"Târgul Moldovei"
-	"Vaslui"
-	"Viteazul"
-	"mari"
+ship_names = { 
+	"Atacul de noapte" "Athleta Christi" Baia "Bogdan I" Calugareni Dracul "Frumuseatsa valurilor" Iuga Litovoi Moldova
+	Posada Putera Romania Rovine "Râul Prut" Sirmium Sperietoaria "Stefan cel Mare" Suceava "Târgul Moldovei"
+	Vaslui Viteazul mari 
 }
-army_names = {
-	"Oastea de $PROVINCE$"
+army_names = { 
+	"Oastea de $PROVINCE$" 
+}
+fleet_names = { 
 }

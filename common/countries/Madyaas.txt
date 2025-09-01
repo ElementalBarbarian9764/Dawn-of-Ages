@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 208 145 55 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	economic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -21,7 +21,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Balengkaka #0" = 10
 	"Bangkaya #0" = 10
 	"Dailisan #0" = 10
@@ -39,38 +39,15 @@ monarch_names = {
 	"Puti #0" = 10
 	"Samanga #0" = 10
 }
-leader_names = {
-	"Agung"
-	"Batara"
-	"Bima"
-	"Elok"
-	"Karna"
-	"Rimba"
-	"Saleh"
-	"Satria"
-	"Sentosa"
-	"Yuda"
+leader_names = { 
+	Agung Batara Bima Elok Karna Rimba Saleh Satria Sentosa Yuda
 }
-ship_names = {
-	"Balanguingle"
-	"Bangalao"
-	"Bucutua"
-	"Cabingaan"
-	"Cap"
-	"Capual"
-	"Dammail"
-	"Julu"
-	"Kalingalan"
-	"Kulassein"
-	"Lapac"
-	"Laparan"
-	"Lungus"
-	"Marunggas"
-	"Panducan"
-	"Pangutaran"
-	"Pata"
-	"Siasi"
-	"Simsa"
-	"Suluan"
-	"Tapul"
+ship_names = { 
+	Balanguingle Bangalao Bucutua Cabingaan Cap Capual Dammail Julu Kalingalan Kulassein
+	Lapac Laparan Lungus Marunggas Panducan Pangutaran Pata Siasi Simsa Suluan
+	Tapul 
+}
+fleet_names = { 
+}
+army_names = { 
 }

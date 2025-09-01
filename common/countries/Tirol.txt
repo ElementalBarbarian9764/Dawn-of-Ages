@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 170 43 21 }
 revolutionary_colors = { 0 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	economic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adalbert #0" = 0
 	"Adolf #0" = 0
 	"Albrecht #5" = 20
@@ -73,38 +73,15 @@ monarch_names = {
 	"Wilhelm #0" = 20
 	"Wolfgang #0" = 15
 }
-leader_names = {
-	"Abenthung"
-	"Aschbacher"
-	"Blattl"
-	"Bucher"
-	"Eisenstecken"
-	"Hagleitner"
-	"Haspinger"
-	"Hofer"
-	"Krismer"
-	"Luger"
-	"Oblasser"
-	"Pfurtscheller"
-	"Rapp"
-	"Santer"
-	"Scholl"
-	"Speckbacher"
-	"Straub"
-	"Thalguter"
+leader_names = { 
+	Abenthung Aschbacher Blattl Bucher Eisenstecken Hagleitner Haspinger Hofer Krismer Luger
+	Oblasser Pfurtscheller Rapp Santer Scholl Speckbacher Straub Thalguter 
 }
-ship_names = {
-	"Bozen"
-	"Brenner"
-	"Brixen"
-	"Inn"
-	"Innsbruck"
-	"Kufstein"
-	"Meran"
-	"Stubaital"
-	"Zillertal"
-	"Öztal"
+ship_names = { 
+	Bozen Brenner Brixen Inn Innsbruck Kufstein Meran Stubaital Zillertal Öztal
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

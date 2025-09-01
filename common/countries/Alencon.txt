@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 162 116 225 }
 revolutionary_colors = { 8 15 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Alexandre #0" = 0
 	"Alexandre-Louis #0" = 10
 	"Ambroise #0" = 0
@@ -75,116 +75,22 @@ monarch_names = {
 	"Thibaut #0" = 0
 	"Xavier #0" = 0
 }
-leader_names = {
-	"Badoux"
-	"Bernard de Montebise"
-	"Garandeau"
-	"Givès de Creusy"
-	"Le Maître"
-	"Le Texier"
-	"Péan de Saint-Gilles"
-	"Scott de Coulanges"
-	"Seurat de La Boullaye"
-	"d'Avaray"
-	"d'Ennery"
-	"de Barville"
-	"de Beaugency"
-	"de Beauharnais"
-	"de Beauregard"
-	"de Boigneux"
-	"de Chabot"
-	"de Châtillon"
-	"de Garlande"
-	"de Gauville"
-	"de Geresme"
-	"de L'Estoile"
-	"de La Brisardière"
-	"de La Bussière"
-	"de La Chapelle"
-	"de La Chesnaye"
-	"de La Valette"
-	"de Laage"
-	"de Maintenon"
-	"de Marolles"
-	"de Martel de Rénac"
-	"de Montboissier"
-	"de Montigny"
-	"de Montlhéry"
-	"de Neufcarres"
-	"de Phéline"
-	"de Pontville"
-	"de Prunelé"
-	"de Rancourt"
-	"de Réméon d'Orval"
-	"de Sabrecois"
-	"de Saint-Cosme"
-	"de Saint-Marc"
-	"de Saint-Mars"
-	"de Salles"
-	"de Senneville"
-	"de Sérizy"
-	"de Tannoys"
-	"de Villiers"
-	"du Bellay"
+leader_names = { 
+	Badoux "Bernard de Montebise" Garandeau "Givès de Creusy" "Le Maître" "Le Texier" "Péan de Saint-Gilles" "Scott de Coulanges" "Seurat de La Boullaye" d'Avaray
+	d'Ennery "de Barville" "de Beaugency" "de Beauharnais" "de Beauregard" "de Boigneux" "de Chabot" "de Châtillon" "de Garlande" "de Gauville"
+	"de Geresme" "de L'Estoile" "de La Brisardière" "de La Bussière" "de La Chapelle" "de La Chesnaye" "de La Valette" "de Laage" "de Maintenon" "de Marolles"
+	"de Martel de Rénac" "de Montboissier" "de Montigny" "de Montlhéry" "de Neufcarres" "de Phéline" "de Pontville" "de Prunelé" "de Rancourt" "de Réméon d'Orval"
+	"de Sabrecois" "de Saint-Cosme" "de Saint-Marc" "de Saint-Mars" "de Salles" "de Senneville" "de Sérizy" "de Tannoys" "de Villiers" "du Bellay"
 }
-ship_names = {
-	"l'Amboise"
-	"l'Amilly"
-	"l'Artenay"
-	"l'Azay-le-Rideau"
-	"l'Olivet"
-	"l'Outarville"
-	"l'Ouzouer"
-	"la Beaune-la-Rolande"
-	"la Bellegarde"
-	"la Briare"
-	"la Bussière"
-	"la Chalette"
-	"la Fay-aux-Loges"
-	"la Ferté-Saint-Aubin"
-	"le Beauregard"
-	"le Blois"
-	"le Chambord"
-	"le Chamerolles"
-	"le Chenonceau"
-	"le Cheverny"
-	"le Chevilly"
-	"le Château-Renard"
-	"le Châteauneuf"
-	"le Châtillon-Coligny"
-	"le Chécy"
-	"le Cléry-Saint-André"
-	"le Combleux"
-	"le Courtenay"
-	"le Dunois"
-	"le Ferrières"
-	"le Fleury-les-Aubrais"
-	"le Germigny"
-	"le Gien"
-	"le Jargeau"
-	"le Malesherbes"
-	"le Meung-sur-Loire"
-	"le Montargis"
-	"le Neuville-aux-Bois"
-	"le Patay"
-	"le Pithiviers"
-	"le Pontchevron"
-	"le Puiseaux"
-	"le Saint-Benoît"
-	"le Saint-Jean-de-Braye"
-	"le Saint-Jean-le-Blanc"
-	"le Sully"
-	"le Talcy"
-	"le Vendôme"
-	"le Villesavin"
+ship_names = { 
+	l'Amboise l'Amilly l'Artenay l'Azay-le-Rideau l'Olivet l'Outarville l'Ouzouer "la Beaune-la-Rolande" "la Bellegarde" "la Briare"
+	"la Bussière" "la Chalette" "la Fay-aux-Loges" "la Ferté-Saint-Aubin" "le Beauregard" "le Blois" "le Chambord" "le Chamerolles" "le Chenonceau" "le Cheverny"
+	"le Chevilly" "le Château-Renard" "le Châteauneuf" "le Châtillon-Coligny" "le Chécy" "le Cléry-Saint-André" "le Combleux" "le Courtenay" "le Dunois" "le Ferrières"
+	"le Fleury-les-Aubrais" "le Germigny" "le Gien" "le Jargeau" "le Malesherbes" "le Meung-sur-Loire" "le Montargis" "le Neuville-aux-Bois" "le Patay" "le Pithiviers"
+	"le Pontchevron" "le Puiseaux" "le Saint-Benoît" "le Saint-Jean-de-Braye" "le Saint-Jean-le-Blanc" "le Sully" "le Talcy" "le Vendôme" "le Villesavin" 
 }
-army_names = {
-	"Armée de $PROVINCE$"
-	"Armée de Sologne"
-	"Armée de la Beauce"
-	"Armée de la Loire"
-	"Armée du Blésois"
-	"Armée du Dunois"
-	"Armée du Gâtinais"
-	"Armée du Vendômois"
+army_names = { 
+	"Armée de $PROVINCE$" "Armée de Sologne" "Armée de la Beauce" "Armée de la Loire" "Armée du Blésois" "Armée du Dunois" "Armée du Gâtinais" "Armée du Vendômois" 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 75 188 60 }
 revolutionary_colors = { 9 0 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Abel #0" = 0
 	"Agustín #0" = 0
 	"Alberto #0" = 0
@@ -69,68 +69,18 @@ monarch_names = {
 	"Xiomara #0" = -1
 	"Álvaro #0" = 0
 }
-leader_names = {
-	"Alberti"
-	"Artigas"
-	"Azcuenaga"
-	"Balcarce"
-	"Bazán"
-	"Belgrano"
-	"Brown"
-	"Bustos"
-	"Cabral"
-	"Castro"
-	"Chiclana"
-	"Costa"
-	"Derqui"
-	"Dorrego"
-	"González"
-	"Goyeneche"
-	"Guazurary"
-	"Heredia"
-	"Jonte"
-	"Kaunitz de Holmberg"
-	"Larrea"
-	"López"
-	"Mansilla"
-	"Matheu"
-	"Monteagudo"
-	"Moreno"
-	"Paso"
-	"Paz"
-	"Peña"
-	"Planes"
-	"Posadas"
-	"Pérez"
-	"Ramírez"
-	"Riglos"
-	"Robinson"
-	"Rodríguez"
-	"Rondeau"
-	"Saavedra"
-	"Sarratea"
-	"Sáenz"
-	"Urquiza"
-	"Warnes"
-	"de Alvear"
-	"de Güemes"
-	"de Laprida"
-	"de Pueyrredón"
-	"de Rosas"
-	"de San Martín"
-	"de las Heras"
-	"Álvarez"
+leader_names = { 
+	Alberti Artigas Azcuenaga Balcarce Bazán Belgrano Brown Bustos Cabral Castro
+	Chiclana Costa Derqui Dorrego González Goyeneche Guazurary Heredia Jonte "Kaunitz de Holmberg"
+	Larrea López Mansilla Matheu Monteagudo Moreno Paso Paz Peña Planes
+	Posadas Pérez Ramírez Riglos Robinson Rodríguez Rondeau Saavedra Sarratea Sáenz
+	Urquiza Warnes "de Alvear" "de Güemes" "de Laprida" "de Pueyrredón" "de Rosas" "de San Martín" "de las Heras" Álvarez
 }
-ship_names = {
-	"Asunción"
-	"El Plata"
-	"Fulgencio"
-	"Gaspar"
-	"Gran Chaco"
-	"Independencia"
-	"Libertad"
-	"Moreno"
-	"Rivalda"
-	"Yegros"
+ship_names = { 
+	Asunción "El Plata" Fulgencio Gaspar "Gran Chaco" Independencia Libertad Moreno Rivalda Yegros
 }
 colonial_parent = SPA
+fleet_names = { 
+}
+army_names = { 
+}

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 124 183 151 }
 revolutionary_colors = { 5 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quantity_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	druzhina_cavalry
 	eastern_carabinier
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Chipaz #1" = 10
 	"Dobrynia #0" = 0
 	"Fedot #0" = 0
@@ -65,88 +65,20 @@ monarch_names = {
 	"Yefrosinia #0" = -1
 	"Yelizaveta #0" = -1
 }
-leader_names = {
-	"Antonovych"
-	"Avramenko"
-	"Babko"
-	"Bogolyubov"
-	"Bunyakovskii"
-	"Chebotaryov"
-	"Cholesky"
-	"Chuperchuk"
-	"Davydova"
-	"Dmytrenko"
-	"Doroshenko"
-	"Drahomanov"
-	"Filitov"
-	"Fomenko"
-	"Hlushkov"
-	"Hnedenko"
-	"Horbachov"
-	"Kondratyuk"
-	"Korolyuk"
-	"Kravchuk"
-	"Krivokhyzha"
-	"Lysenko"
-	"Maksymovych"
-	"Mytropolsky"
-	"Ohloblyn"
-	"Oleinik"
-	"Ostrogradsky"
-	"Petryshyn"
-	"Pogorelov"
-	"Poretsky"
-	"Potapow"
-	"Pryma"
-	"Samoilenko"
-	"Shafarevich"
-	"Sharkovsky"
-	"Shatunovsky"
-	"Shchukarev"
-	"Shekera"
-	"Shtokalo"
-	"Skorokhod"
-	"Sleszynski"
-	"Stojko"
-	"Sydorenko"
-	"Trfimenko"
-	"Tyutyunnikov"
-	"Urysohn"
-	"Vantukh"
-	"Vashchenko"
-	"Vasylenko"
-	"Verkhovynets"
-	"Voronoy"
-	"Yavornytsky"
+leader_names = { 
+	Antonovych Avramenko Babko Bogolyubov Bunyakovskii Chebotaryov Cholesky Chuperchuk Davydova Dmytrenko
+	Doroshenko Drahomanov Filitov Fomenko Hlushkov Hnedenko Horbachov Kondratyuk Korolyuk Kravchuk
+	Krivokhyzha Lysenko Maksymovych Mytropolsky Ohloblyn Oleinik Ostrogradsky Petryshyn Pogorelov Poretsky
+	Potapow Pryma Samoilenko Shafarevich Sharkovsky Shatunovsky Shchukarev Shekera Shtokalo Skorokhod
+	Sleszynski Stojko Sydorenko Trfimenko Tyutyunnikov Urysohn Vantukh Vashchenko Vasylenko Verkhovynets
+	Voronoy Yavornytsky 
 }
-ship_names = {
-	"Alchevsk"
-	"Balta"
-	"Bug"
-	"Ghernigiv"
-	"Hmelnieckiy"
-	"Izyaslav"
-	"Kahovka"
-	"Kherson"
-	"Khersones"
-	"Kiev"
-	"Kolomiya"
-	"Korets"
-	"Kovel"
-	"Kremenchuk"
-	"Kremenets"
-	"Kriviy Rig"
-	"Lutsk"
-	"Mariupol"
-	"Melitopol"
-	"Noviy"
-	"Pryluky"
-	"Shostka"
-	"Slavutych"
-	"Sudak"
-	"Svitlovods'k"
-	"Tovaristsch"
-	"Tsyurupynsk"
-	"Uman"
-	"Vinnitsya"
+ship_names = { 
+	Alchevsk Balta Bug Ghernigiv Hmelnieckiy Izyaslav Kahovka Kherson Khersones Kiev
+	Kolomiya Korets Kovel Kremenchuk Kremenets "Kriviy Rig" Lutsk Mariupol Melitopol Noviy
+	Pryluky Shostka Slavutych Sudak Svitlovods'k Tovaristsch Tsyurupynsk Uman Vinnitsya 
+}
+fleet_names = { 
+}
+army_names = { 
 }

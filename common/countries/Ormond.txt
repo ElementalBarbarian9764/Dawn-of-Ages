@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 220 227 43 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	aristocracy_ideas
 	trade_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	british_hussar
 	british_redcoat
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
 }
-monarch_names = {
+monarch_names = { 
 	"Charles #0" = 20
 	"Deaglán #0" = 0
 	"Dougal #0" = 0
@@ -72,27 +72,13 @@ monarch_names = {
 	"Uinseann #0" = 0
 	"Walter #0" = 20
 }
-leader_names = {
-	"Barry"
-	"Boyle"
-	"Darcy"
-	"FitzGerald"
-	"FitzThomas"
-	"MacCarthy"
-	"O'Brien"
-	"O'Neill"
-	"Sarsfield"
-	"Talbot"
+leader_names = { 
+	Barry Boyle Darcy FitzGerald FitzThomas MacCarthy O'Brien O'Neill Sarsfield Talbot
 }
-ship_names = {
-	"Clare"
-	"Cork"
-	"Deas Mhuman"
-	"Kerry"
-	"Lar Mumhan"
-	"Limerick"
-	"Tipperary"
-	"Tuad Mhuman"
-	"Urh Mumhan"
-	"Waterford"
+ship_names = { 
+	Clare Cork "Deas Mhuman" Kerry "Lar Mumhan" Limerick Tipperary "Tuad Mhuman" "Urh Mumhan" Waterford
+}
+fleet_names = { 
+}
+army_names = { 
 }

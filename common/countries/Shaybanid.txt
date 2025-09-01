@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 89 134 166 }
 revolutionary_colors = { 14 0 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	quantity_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	defensive_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Abdul-Aziz #0" = 20
 	"Abdul-Karim #0" = 20
 	"Abdul-Mumin #0" = 20
@@ -96,34 +96,15 @@ monarch_names = {
 	"Vali Muhammad #0" = 20
 	"Yadgar #0" = 20
 }
-leader_names = {
-	"Altan Vachir"
-	"Arigh Gan"
-	"Bayan Checheg"
-	"Boke Arslan"
-	"Bora Chinua"
-	"Chagan Erdene"
-	"Mongke Bayar"
-	"Mongke Enq"
-	"Mongke Nasan"
-	"Qara Temur"
-	"Shria Gal"
-	"Suren Unegen"
-	"Yeke Burilgi"
+leader_names = { 
+	"Altan Vachir" "Arigh Gan" "Bayan Checheg" "Boke Arslan" "Bora Chinua" "Chagan Erdene" "Mongke Bayar" "Mongke Enq" "Mongke Nasan" "Qara Temur"
+	"Shria Gal" "Suren Unegen" "Yeke Burilgi" 
 }
-ship_names = {
-	"Amudarja"
-	"Bajsun"
-	"Chiva"
-	"Chudzand"
-	"Cimkent"
-	"Gizduvan"
-	"Gulistan"
-	"Guzar"
-	"Jangijul"
-	"Karakul"
-	"Karsi"
-	"Kerki"
-	"Mukry"
-	"Syrdarja"
+ship_names = { 
+	Amudarja Bajsun Chiva Chudzand Cimkent Gizduvan Gulistan Guzar Jangijul Karakul
+	Karsi Kerki Mukry Syrdarja 
+}
+fleet_names = { 
+}
+army_names = { 
 }

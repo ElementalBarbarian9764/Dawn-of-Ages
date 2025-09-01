@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 215 86 0 }
 revolutionary_colors = { 5 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	bhonsle_infantry
 	indian_archers
@@ -26,7 +26,7 @@ historical_units = {
 	mughal_musketeer
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Annapurna Bai #0" = -1
 	"Baji Prabhu #0" = 0
 	"Baka Bai #0" = -1
@@ -63,83 +63,20 @@ monarch_names = {
 	"Uma Bai #0" = -1
 	"Yashwantrao  #0" = 0
 }
-leader_names = {
-	"Aher"
-	"Bhanja"
-	"Bhonsle"
-	"Chavan"
-	"Dabhad"
-	"Deb"
-	"Deo"
-	"Gangabansi"
-	"Ghumsur"
-	"Gujar"
-	"Kate"
-	"Kaushal"
-	"Khursh"
-	"Krishnamma"
-	"Lahiri"
-	"Lolaksi"
-	"Malusare"
-	"Maruthi"
-	"Moray"
-	"Muthuswami"
-	"Nagaraj"
-	"Narsala"
-	"Nikam"
-	"Nimbalk"
-	"Nirmal"
-	"Parmar"
-	"Patnaik"
-	"Purujit"
-	"Pusapati"
-	"Rajal"
-	"Ramiah"
-	"Rane"
-	"Rawat"
-	"Samant"
-	"Sawant"
-	"Shirke"
-	"Sindhia"
-	"Singh"
-	"Sugriva"
-	"Tyagri"
-	"Vidyadhar"
-	"Viraj"
-	"Virmani"
-	"Vish"
+leader_names = { 
+	Aher Bhanja Bhonsle Chavan Dabhad Deb Deo Gangabansi Ghumsur Gujar
+	Kate Kaushal Khursh Krishnamma Lahiri Lolaksi Malusare Maruthi Moray Muthuswami
+	Nagaraj Narsala Nikam Nimbalk Nirmal Parmar Patnaik Purujit Pusapati Rajal
+	Ramiah Rane Rawat Samant Sawant Shirke Sindhia Singh Sugriva Tyagri
+	Vidyadhar Viraj Virmani Vish 
 }
-ship_names = {
-	"Agni"
-	"Bhim"
-	"Brahma"
-	"Devi"
-	"Durga"
-	"Ganesh"
-	"Gayatri"
-	"Hanumaun"
-	"Indra"
-	"Jalsena"
-	"Kala Jahazi"
-	"Kali"
-	"Krishna"
-	"Kubera"
-	"Lakshmi"
-	"Lal Jahazi"
-	"Nausena"
-	"Nav ka Yudh"
-	"Nila Jahazi"
-	"Parvati"
-	"Radha"
-	"Ratri"
-	"Sagar"
-	"Sarasvati"
-	"Shiva"
-	"Sita"
-	"Soma"
-	"Surya"
-	"Varuna"
-	"Vayu"
-	"Vishnu"
-	"Yama"
+ship_names = { 
+	Agni Bhim Brahma Devi Durga Ganesh Gayatri Hanumaun Indra Jalsena
+	"Kala Jahazi" Kali Krishna Kubera Lakshmi "Lal Jahazi" Nausena "Nav ka Yudh" "Nila Jahazi" Parvati
+	Radha Ratri Sagar Sarasvati Shiva Sita Soma Surya Varuna Vayu
+	Vishnu Yama 
+}
+fleet_names = { 
+}
+army_names = { 
 }

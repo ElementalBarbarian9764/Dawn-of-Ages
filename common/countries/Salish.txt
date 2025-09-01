@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 0 74 128 }
 revolutionary_colors = { 0 1 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -22,7 +22,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Belole #0" = 10
 	"Chlahben #0" = 10
 	"Chloksuts #0" = 10
@@ -107,83 +107,19 @@ monarch_names = {
 	"Yimkadam #0" = 10
 	"Yoikum #0" = 10
 }
-leader_names = {
-	"Aitchelitz"
-	"Chawathil"
-	"Cheam"
-	"Chehalis"
-	"Katzie"
-	"Kwantlen"
-	"Leqamel"
-	"Matsqui"
-	"Popkum"
-	"Samish"
-	"Sawehamish"
-	"Semiahmoo"
-	"Shishalh"
-	"Shxwowhamel"
-	"Siletz"
-	"Skagits"
-	"Skokomish"
-	"Skowkale"
-	"Skwah"
-	"Skway"
-	"Snohomish"
-	"Snoqualmie"
-	"Songhees"
-	"Soowalhie"
-	"Squamish"
-	"Squaxin"
-	"Stillaguamish"
-	"Stolo"
-	"Suiaxbixw"
-	"Sumas"
-	"Suquamish"
-	"Swinomish"
-	"Tsawassen"
-	"Tsleil-Waututh"
-	"Tulalip"
-	"Tzeatchen"
-	"Xacuabs"
-	"Yakweakwioose"
+leader_names = { 
+	Aitchelitz Chawathil Cheam Chehalis Katzie Kwantlen Leqamel Matsqui Popkum Samish
+	Sawehamish Semiahmoo Shishalh Shxwowhamel Siletz Skagits Skokomish Skowkale Skwah Skway
+	Snohomish Snoqualmie Songhees Soowalhie Squamish Squaxin Stillaguamish Stolo Suiaxbixw Sumas
+	Suquamish Swinomish Tsawassen Tsleil-Waututh Tulalip Tzeatchen Xacuabs Yakweakwioose 
 }
-ship_names = {
-	"Aitchelitz"
-	"Chawathil"
-	"Cheam"
-	"Chehalis"
-	"Katzie"
-	"Kwantlen"
-	"Leqamel"
-	"Matsqui"
-	"Popkum"
-	"Samish"
-	"Sawehamish"
-	"Semiahmoo"
-	"Shishalh"
-	"Shxwowhamel"
-	"Siletz"
-	"Skagits"
-	"Skokomish"
-	"Skowkale"
-	"Skwah"
-	"Skway"
-	"Snohomish"
-	"Snoqualmie"
-	"Songhees"
-	"Soowalhie"
-	"Squamish"
-	"Squaxin"
-	"Stillaguamish"
-	"Stolo"
-	"Suiaxbixw"
-	"Sumas"
-	"Suquamish"
-	"Swinomish"
-	"Tsawassen"
-	"Tsleil-Waututh"
-	"Tulalip"
-	"Tzeatchen"
-	"Xacuabs"
-	"Yakweakwioose"
+ship_names = { 
+	Aitchelitz Chawathil Cheam Chehalis Katzie Kwantlen Leqamel Matsqui Popkum Samish
+	Sawehamish Semiahmoo Shishalh Shxwowhamel Siletz Skagits Skokomish Skowkale Skwah Skway
+	Snohomish Snoqualmie Songhees Soowalhie Squamish Squaxin Stillaguamish Stolo Suiaxbixw Sumas
+	Suquamish Swinomish Tsawassen Tsleil-Waututh Tulalip Tzeatchen Xacuabs Yakweakwioose 
+}
+fleet_names = { 
+}
+army_names = { 
 }

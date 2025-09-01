@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 239 239 239 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	influence_ideas
 	diplomatic_ideas
 	economic_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	quality_ideas
 }
 historical_score = 4400
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adolf #0" = 0
 	"Albrecht #3" = 40
 	"Alexander #0" = 10
@@ -97,180 +97,30 @@ monarch_names = {
 	"Wilhelm #0" = 0
 	"Wolfgang #0" = 0
 }
-leader_names = {
-	"Alvinczy"
-	"Alvintzky"
-	"Andrássy"
-	"Arenberg"
-	"Batthyány"
-	"Beleznay"
-	"Benovský"
-	"Bethlen"
-	"Bethmann"
-	"Bocskay"
-	"Boroewitsch"
-	"Buseck"
-	"Byszynski"
-	"Báthory"
-	"Casper"
-	"Csák"
-	"Dessewffy"
-	"Erlmayr"
-	"Esterházy"
-	"Festetics"
-	"Frangepán"
-	"Frantsits"
-	"Freystadt"
-	"Garay"
-	"Hadik"
-	"Haemrich"
-	"Hagedorn"
-	"Heinrich"
-	"Horthy"
-	"Hunyadi"
-	"Kemeny"
-	"Ketterer"
-	"Kinizsi"
-	"Kolin"
-	"Kán"
-	"Károlyi"
-	"Lackovic'"
-	"Lobkowitz"
-	"Losonci"
-	"Meinl"
-	"Milványi"
-	"Minucci"
-	"Mittelbach"
-	"Mészáros"
-	"Nadasdy"
-	"Ozoray"
-	"Poll"
-	"Rozgonyi"
-	"Rákóczi"
-	"Sauerzapff"
-	"Schrüder"
-	"Seyssel"
-	"Steiger"
-	"Stichsenstein"
-	"Sulerzycki"
-	"Széchenyi"
-	"Tegethoff"
-	"Teleki"
-	"Thököly"
-	"Zakrzewsky"
-	"Zichy"
-	"Zrinski"
-	"Zwerger"
-	"Zápolya"
-	"de Kovats"
-	"von Esterhazy"
-	"von Guttenberg"
-	"von Habsburg"
-	"von Hatzfeldt"
-	"von Hohenberg"
-	"von Ihering"
-	"von Kapfenberg"
-	"von Laudon"
-	"von Neippberg"
-	"von Oberg"
-	"von Quadt"
-	"von Riedesel"
-	"von Schwarzenberg"
-	"von Schönbrunn"
-	"von Schönburg"
-	"von Stark"
-	"von Stauffenberg"
-	"von Stubenrauch"
-	"von Waldstein"
-	"Šubic'"
+leader_names = { 
+	Alvinczy Alvintzky Andrássy Arenberg Batthyány Beleznay Benovský Bethlen Bethmann Bocskay
+	Boroewitsch Buseck Byszynski Báthory Casper Csák Dessewffy Erlmayr Esterházy Festetics
+	Frangepán Frantsits Freystadt Garay Hadik Haemrich Hagedorn Heinrich Horthy Hunyadi
+	Kemeny Ketterer Kinizsi Kolin Kán Károlyi Lackovic' Lobkowitz Losonci Meinl
+	Milványi Minucci Mittelbach Mészáros Nadasdy Ozoray Poll Rozgonyi Rákóczi Sauerzapff
+	Schrüder Seyssel Steiger Stichsenstein Sulerzycki Széchenyi Tegethoff Teleki Thököly Zakrzewsky
+	Zichy Zrinski Zwerger Zápolya "de Kovats" "von Esterhazy" "von Guttenberg" "von Habsburg" "von Hatzfeldt" "von Hohenberg"
+	"von Ihering" "von Kapfenberg" "von Laudon" "von Neippberg" "von Oberg" "von Quadt" "von Riedesel" "von Schwarzenberg" "von Schönbrunn" "von Schönburg"
+	"von Stark" "von Stauffenberg" "von Stubenrauch" "von Waldstein" Šubic' 
 }
-ship_names = {
-	"Albatros"
-	"Arpad"
-	"Aurora"
-	"Austria"
-	"Austria Imperare"
-	"Babenberg"
-	"Baron Bruck"
-	"Baron Call"
-	"Belvedre"
-	"Donau"
-	"Doppeladler"
-	"Emenentius"
-	"Erzherzog Ferdinand"
-	"Felix"
-	"Fides et Spes"
-	"Fiume"
-	"Fortitas"
-	"Goliath"
-	"Habsburg"
-	"Herkules"
-	"Imperator"
-	"Inexhaustus"
-	"Inn"
-	"Invulnerabilis"
-	"Kaiserin Maria Theresia"
-	"Lachs"
-	"Lacroma"
-	"Leitha"
-	"Leopard"
-	"Lindwurm"
-	"Möwe"
-	"Natter"
-	"Nixe"
-	"Novara"
-	"Nymphe"
-	"Pannonia"
-	"Panther"
-	"Pavidarus"
-	"Plus Ultra"
-	"Pola"
-	"Pustazer"
-	"Saida"
-	"Salzach"
-	"Samson"
-	"Sankt Stephan"
-	"Sankt Wolfgang"
-	"Satellit"
-	"Taurus"
-	"Theresia"
-	"Tiger"
-	"Tirol"
-	"Trabant"
-	"Traisen"
-	"Triest"
-	"Trinitas"
-	"Vigilatia"
-	"Vindobona"
-	"Viribus Unitis"
-	"Wachau"
-	"Wien"
-	"Zara"
-	"Zenta"
-	"Zrinyi"
+ship_names = { 
+	Albatros Arpad Aurora Austria "Austria Imperare" Babenberg "Baron Bruck" "Baron Call" Belvedre Donau
+	Doppeladler Emenentius "Erzherzog Ferdinand" Felix "Fides et Spes" Fiume Fortitas Goliath Habsburg Herkules
+	Imperator Inexhaustus Inn Invulnerabilis "Kaiserin Maria Theresia" Lachs Lacroma Leitha Leopard Lindwurm
+	Möwe Natter Nixe Novara Nymphe Pannonia Panther Pavidarus "Plus Ultra" Pola
+	Pustazer Saida Salzach Samson "Sankt Stephan" "Sankt Wolfgang" Satellit Taurus Theresia Tiger
+	Tirol Trabant Traisen Triest Trinitas Vigilatia Vindobona "Viribus Unitis" Wachau Wien
+	Zara Zenta Zrinyi 
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Armee von Böhmen"
-	"Armee von Italien"
-	"Armee von Schlesien"
-	"Armee von Ungarn"
-	"Habsburgische Armee"
-	"K.u.K Armee"
-	"Kaiserliche Armee"
+army_names = { 
+	"Armee von $PROVINCE$" "Armee von Böhmen" "Armee von Italien" "Armee von Schlesien" "Armee von Ungarn" "Habsburgische Armee" "K.u.K Armee" "Kaiserliche Armee" 
 }
-fleet_names = {
-	"Adriatik Flotte"
-	"Aranybulla"
-	"Arpad"
-	"Habsburgische Flotte"
-	"Hunyadi Matyas"
-	"Kaiserliche Flotte"
-	"Kalman"
-	"Karoly Robert"
-	"Laszlo"
-	"Magyar"
-	"Nagy Lajos"
-	"Sigismund"
-	"Szent Istvan kiraly"
+fleet_names = { 
+	"Adriatik Flotte" Aranybulla Arpad "Habsburgische Flotte" "Hunyadi Matyas" "Kaiserliche Flotte" Kalman "Karoly Robert" Laszlo Magyar
+	"Nagy Lajos" Sigismund "Szent Istvan kiraly" 
 }

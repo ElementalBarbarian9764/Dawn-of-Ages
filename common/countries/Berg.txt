@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 240 205 140 }
 revolutionary_colors = { 0 13 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adalbert #0" = 0
 	"Adolf #7" = 30
 	"Agnes #0" = -1
@@ -90,97 +90,21 @@ monarch_names = {
 	"Wilhelm #2" = 30
 	"Wolfgang Wilhelm #0" = 30
 }
-leader_names = {
-	"Achenbach"
-	"Assing"
-	"Baumgarten"
-	"Bechstein"
-	"Burgmüller"
-	"Camphausen"
-	"Clasen"
-	"Collin"
-	"Curtens"
-	"Dietze"
-	"Geither"
-	"Ghogreff"
-	"Gottschalk"
-	"Hardenrath"
-	"Hasenclever"
-	"Josten"
-	"Kaulen"
-	"Klüber"
-	"Köttgen"
-	"Lüninck"
-	"Olmans"
-	"Ploennies"
-	"Raitz von Frentz"
-	"Schramm"
-	"Schädler"
-	"Schöller"
-	"Ströhling"
-	"Stüttgen"
-	"Varnhagen von Ense"
-	"Windscheid"
-	"Wüllner"
-	"Zintgraff"
-	"de Kleist"
-	"von Althoven"
-	"von Appen"
-	"von Cornelius"
-	"von Dinslaken"
-	"von Fuchsius"
-	"von Geldern"
-	"von Goltstein"
-	"von Gruben"
-	"von Hatzfeld-Wildenburg"
-	"von Hochkirchen"
-	"von Hochstaden"
-	"von Hompesch"
-	"von Kalckreuth"
-	"von Langer"
-	"von Leerodt"
-	"von Nesselrode"
-	"von Neuberg"
-	"von Orsbeck"
-	"von Sayn"
-	"von Schaesberg"
-	"von Sybel"
-	"von Velbrück"
-	"von Villers"
-	"von Vlatten"
-	"von Wyle"
-	"von Wüllenweber"
-	"von Zandt"
-	"von Zimmermann"
-	"von der Broel"
-	"von der Horst"
-	"von der Leyen"
-	"von der Pfalz"
-	"von und zu Winkelhausen"
-	"zum Pütz"
+leader_names = { 
+	Achenbach Assing Baumgarten Bechstein Burgmüller Camphausen Clasen Collin Curtens Dietze
+	Geither Ghogreff Gottschalk Hardenrath Hasenclever Josten Kaulen Klüber Köttgen Lüninck
+	Olmans Ploennies "Raitz von Frentz" Schramm Schädler Schöller Ströhling Stüttgen "Varnhagen von Ense" Windscheid
+	Wüllner Zintgraff "de Kleist" "von Althoven" "von Appen" "von Cornelius" "von Dinslaken" "von Fuchsius" "von Geldern" "von Goltstein"
+	"von Gruben" "von Hatzfeld-Wildenburg" "von Hochkirchen" "von Hochstaden" "von Hompesch" "von Kalckreuth" "von Langer" "von Leerodt" "von Nesselrode" "von Neuberg"
+	"von Orsbeck" "von Sayn" "von Schaesberg" "von Sybel" "von Velbrück" "von Villers" "von Vlatten" "von Wyle" "von Wüllenweber" "von Zandt"
+	"von Zimmermann" "von der Broel" "von der Horst" "von der Leyen" "von der Pfalz" "von und zu Winkelhausen" "zum Pütz" 
 }
-ship_names = {
-	"Altenberg"
-	"Berg"
-	"Bliesgau"
-	"Bochum"
-	"Cunigunda"
-	"Deutz"
-	"Düsseldorf"
-	"Elberfeld"
-	"Ezzo"
-	"Homburg"
-	"Lüdenscheid"
-	"Mark"
-	"Mechthildis"
-	"Monschau"
-	"Münstereifel"
-	"Sinzig"
-	"Werden"
-	"Windeck"
-	"Zaubergreth"
-	"Zulpich"
+ship_names = { 
+	Altenberg Berg Bliesgau Bochum Cunigunda Deutz Düsseldorf Elberfeld Ezzo Homburg
+	Lüdenscheid Mark Mechthildis Monschau Münstereifel Sinzig Werden Windeck Zaubergreth Zulpich
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

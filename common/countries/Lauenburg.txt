@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 79 139 99 }
 revolutionary_colors = { 13 5 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_tercio
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Alexander #0" = 0
 	"Alois #0" = 0
 	"Amelie #0" = -1
@@ -72,38 +72,15 @@ monarch_names = {
 	"Viktor #0" = 0
 	"Waldemar #0" = 0
 }
-leader_names = {
-	"Ahlers"
-	"Basedow"
-	"Beuß"
-	"Bostelmann"
-	"Breden"
-	"Burmeister"
-	"Dietz"
-	"Döpner"
-	"Flathmann"
-	"Garbade"
-	"Gefken"
-	"Gehrken"
-	"Martin"
-	"Pielken"
-	"Reinbeck"
-	"Sölter"
-	"Westermann"
-	"von Hodenberg"
+leader_names = { 
+	Ahlers Basedow Beuß Bostelmann Breden Burmeister Dietz Döpner Flathmann Garbade
+	Gefken Gehrken Martin Pielken Reinbeck Sölter Westermann "von Hodenberg" 
 }
-ship_names = {
-	"Bischof Amelung"
-	"Herzog Ernst"
-	"Herzog Otto"
-	"Herzog Wilhelm"
-	"Illmenau"
-	"Kalkberg"
-	"Luniburcs"
-	"Magnus Torquatus"
-	"Markgraf Billung"
-	"St. Michaelis"
+ship_names = { 
+	"Bischof Amelung" "Herzog Ernst" "Herzog Otto" "Herzog Wilhelm" Illmenau Kalkberg Luniburcs "Magnus Torquatus" "Markgraf Billung" "St. Michaelis"
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 211 207 173 }
 revolutionary_colors = { 13 16 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -29,7 +29,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Amasztáz #0" = 0
 	"András #0" = 20
 	"Ardojan #0" = 0
@@ -74,36 +74,14 @@ monarch_names = {
 	"Zsigmond #0" = 20
 	"Ákos #0" = 20
 }
-leader_names = {
-	"Alvinczy"
-	"Apafi"
-	"Bethlen"
-	"Bocskai"
-	"Báthory"
-	"Dózsa"
-	"Gyulai"
-	"Kemény"
-	"Lackovic"
-	"Lázár"
-	"Rhédey"
-	"Rákóczy"
-	"Sasul"
-	"Thököly"
-	"Zabanius"
-	"Zrinyi"
-	"Zápolya"
-	"von Brukenthal"
-	"von Harteneck"
+leader_names = { 
+	Alvinczy Apafi Bethlen Bocskai Báthory Dózsa Gyulai Kemény Lackovic Lázár
+	Rhédey Rákóczy Sasul Thököly Zabanius Zrinyi Zápolya "von Brukenthal" "von Harteneck" 
 }
-ship_names = {
-	"Antal Budai Nagy"
-	"Gyula"
-	"Hunyadi Janos"
-	"Ladislas Kan"
-	"Legforus"
-	"Leustachius"
-	"Mercurius"
-	"Roland Borsza"
-	"Varna"
-	"Vaskapu"
+ship_names = { 
+	"Antal Budai Nagy" Gyula "Hunyadi Janos" "Ladislas Kan" Legforus Leustachius Mercurius "Roland Borsza" Varna Vaskapu
+}
+fleet_names = { 
+}
+army_names = { 
 }

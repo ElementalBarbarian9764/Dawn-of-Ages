@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 100 140 100 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	druzhina_cavalry
 	eastern_carabinier
@@ -19,7 +19,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Andriy #0" = 1
 	"Bogdan #0" = 1
 	"Bohuslav #0" = 1
@@ -73,113 +73,24 @@ monarch_names = {
 	"Yuriy #0" = 1
 	"Zoya #0" = -1
 }
-leader_names = {
-	"Antonovych"
-	"Avramenko"
-	"Babko"
-	"Bogolyubov"
-	"Bunyakovskii"
-	"Chebotaryov"
-	"Cholesky"
-	"Chuperchuk"
-	"Davydova"
-	"Dmytrenko"
-	"Doroshenko"
-	"Drahomanov"
-	"Filitov"
-	"Fomenko"
-	"Golitzin"
-	"Hlushkov"
-	"Hnedenko"
-	"Horbachov"
-	"Kaibula"
-	"Kamenski"
-	"Kolzoff"
-	"Kondratyuk"
-	"Korolyuk"
-	"Kravchuk"
-	"Krivokhyzha"
-	"Lysenko"
-	"Maksymovych"
-	"Mensjikov"
-	"Mustislavski"
-	"Mytropolsky"
-	"Ohloblyn"
-	"Oleinik"
-	"Ostermann Tolstoy"
-	"Ostrogradsky"
-	"Paletskij"
-	"Petryshyn"
-	"Pogorelov"
-	"Poretsky"
-	"Potapow"
-	"Pryma"
-	"Rajevski"
-	"Samoilenko"
-	"Shafarevich"
-	"Sharkovsky"
-	"Shatunovsky"
-	"Shchukarev"
-	"Shekera"
-	"Shtokalo"
-	"Skorokhod"
-	"Sleszynski"
-	"Stojko"
-	"Sydorenko"
-	"Trfimenko"
-	"Tyutyunnikov"
-	"Urysohn"
-	"Vantukh"
-	"Vashchenko"
-	"Vasylenko"
-	"Verkhovynets"
-	"Voronoy"
-	"Yavornytsky"
+leader_names = { 
+	Antonovych Avramenko Babko Bogolyubov Bunyakovskii Chebotaryov Cholesky Chuperchuk Davydova Dmytrenko
+	Doroshenko Drahomanov Filitov Fomenko Golitzin Hlushkov Hnedenko Horbachov Kaibula Kamenski
+	Kolzoff Kondratyuk Korolyuk Kravchuk Krivokhyzha Lysenko Maksymovych Mensjikov Mustislavski Mytropolsky
+	Ohloblyn Oleinik "Ostermann Tolstoy" Ostrogradsky Paletskij Petryshyn Pogorelov Poretsky Potapow Pryma
+	Rajevski Samoilenko Shafarevich Sharkovsky Shatunovsky Shchukarev Shekera Shtokalo Skorokhod Sleszynski
+	Stojko Sydorenko Trfimenko Tyutyunnikov Urysohn Vantukh Vashchenko Vasylenko Verkhovynets Voronoy
+	Yavornytsky 
 }
-ship_names = {
-	"Alchevsk"
-	"Balta"
-	"Bug"
-	"Coluna"
-	"Cortiza"
-	"Ghernigiv"
-	"Hmelnieckiy"
-	"Iausa"
-	"Izyaslav"
-	"Kahovka"
-	"Kherson"
-	"Khersones"
-	"Kiev"
-	"Klin"
-	"Kolomiya"
-	"Korets"
-	"Kovel"
-	"Kremenchuk"
-	"Kremenets"
-	"Kriviy Rig"
-	"Lutsk"
-	"Mariupol"
-	"Melitopol"
-	"Moscha"
-	"Mosnisk"
-	"Noviy"
-	"Olescho"
-	"Piersek"
-	"Pryluky"
-	"Rurik"
-	"Schorna"
-	"Shostka"
-	"Slavutych"
-	"Sudak"
-	"Svitlovods'k"
-	"Tovaristsch"
-	"Troitzkoy"
-	"Tsyurupynsk"
-	"Uman"
-	"Vinnitsya"
-	"Volga"
-	"Wolok"
+ship_names = { 
+	Alchevsk Balta Bug Coluna Cortiza Ghernigiv Hmelnieckiy Iausa Izyaslav Kahovka
+	Kherson Khersones Kiev Klin Kolomiya Korets Kovel Kremenchuk Kremenets "Kriviy Rig"
+	Lutsk Mariupol Melitopol Moscha Mosnisk Noviy Olescho Piersek Pryluky Rurik
+	Schorna Shostka Slavutych Sudak Svitlovods'k Tovaristsch Troitzkoy Tsyurupynsk Uman Vinnitsya
+	Volga Wolok 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+fleet_names = { 
 }

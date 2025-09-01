@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 146 251 82 }
 revolutionary_colors = { 0 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	economic_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Agostino #0" = 0
 	"Alberto #1" = 15
 	"Aldobrandino #3" = 5
@@ -71,88 +71,20 @@ monarch_names = {
 	"Torquato #0" = 0
 	"Vincenzo #0" = 0
 }
-leader_names = {
-	"Allegri"
-	"Araldini"
-	"Ariosto"
-	"Avanzini"
-	"Bacciochi"
-	"Barberini"
-	"Battisti"
-	"Boiardo"
-	"Boncompagni"
-	"Boncompagni-Ludovisi"
-	"Calcagnini"
-	"Catena"
-	"Colonna"
-	"Farini"
-	"Giardini"
-	"Grandi"
-	"Graziosi"
-	"Gualandelli"
-	"Gucciardini"
-	"Loschi"
-	"Malmussi"
-	"Marescalchi"
-	"Menotti"
-	"Mitelli"
-	"Montecuccoli"
-	"Montefeltro"
-	"Nardi"
-	"Nobili"
-	"Ordelaffi"
-	"Pavironica"
-	"Peretti"
-	"Pico"
-	"Pio"
-	"Rangoni"
-	"Rossetti"
-	"Santarosa"
-	"Tassoni"
-	"Tura"
-	"Viridis"
-	"Zini"
-	"d'Appiani d'Aragona"
-	"d'Este"
-	"de Roberti"
-	"de Tolomei"
-	"del Cossa"
-	"della Torre"
-	"di Ardizzone"
-	"di Farnese"
-	"di Ferrari"
-	"di Sauli"
+leader_names = { 
+	Allegri Araldini Ariosto Avanzini Bacciochi Barberini Battisti Boiardo Boncompagni Boncompagni-Ludovisi
+	Calcagnini Catena Colonna Farini Giardini Grandi Graziosi Gualandelli Gucciardini Loschi
+	Malmussi Marescalchi Menotti Mitelli Montecuccoli Montefeltro Nardi Nobili Ordelaffi Pavironica
+	Peretti Pico Pio Rangoni Rossetti Santarosa Tassoni Tura Viridis Zini
+	"d'Appiani d'Aragona" d'Este "de Roberti" "de Tolomei" "del Cossa" "della Torre" "di Ardizzone" "di Farnese" "di Ferrari" "di Sauli"
 }
-ship_names = {
-	"Albareto"
-	"Anselmo da Campione"
-	"Baggiovara"
-	"Ca'Fusara"
-	"Cicerone"
-	"Cittanova"
-	"Cognento"
-	"Collegara"
-	"Este"
-	"Ganaceto"
-	"Lanfranco"
-	"Leodoino"
-	"Lesignana"
-	"Marzaglia"
-	"Navicello"
-	"Nonantola"
-	"Portile"
-	"San Damaso"
-	"San Donnino"
-	"San Francesco"
-	"San Geminiano"
-	"Sant'Agostino"
-	"Sant'Ambrogio"
-	"Santa Maria della Pomposa"
-	"Santo Anselmo"
-	"Tre Olmi"
-	"Villanova"
-	"re Enzo"
+ship_names = { 
+	Albareto "Anselmo da Campione" Baggiovara Ca'Fusara Cicerone Cittanova Cognento Collegara Este Ganaceto
+	Lanfranco Leodoino Lesignana Marzaglia Navicello Nonantola Portile "San Damaso" "San Donnino" "San Francesco"
+	"San Geminiano" Sant'Agostino Sant'Ambrogio "Santa Maria della Pomposa" "Santo Anselmo" "Tre Olmi" Villanova "re Enzo" 
 }
-army_names = {
-	"Armata di $PROVINCE$"
+army_names = { 
+	"Armata di $PROVINCE$" 
+}
+fleet_names = { 
 }

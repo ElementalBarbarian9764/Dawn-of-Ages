@@ -52,3 +52,15 @@ FAP = "countries/Fraticelli.txt"
 
 #Other
 ASY = "countries/Assyria.txt"
+
+#Temporary Location for New Nations
+PYT = "countries/Pythoria.txt"
+FAR = "countries/RealmsOfElisaria.txt"
+DFR = "countries/ThorissiaRealm.txt"
+AMR = "countries/Amaruisa.txt"
+ORR = "countries/Orrusai.txt"
+CUI = "countries/Cuiosy.txt"
+JUC = "countries/Juchocya.txt"
+QUZ = "countries/Quizoltarya.txt"
+XOC = "countries/Xochiousal.txt"
+TOC = "countries/Toctlieosa.txt"

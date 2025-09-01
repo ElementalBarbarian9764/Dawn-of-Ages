@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 26 207 81 }
 revolutionary_colors = { 1 8 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	quantity_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_elephant
@@ -27,7 +27,7 @@ historical_units = {
 	sikh_rifle
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd Allah #0" = 0
 	"'Ala' ad-din #0" = 20
 	"Abhang #0" = 0
@@ -65,55 +65,17 @@ monarch_names = {
 	"Sultan #0" = 0
 	"Tufal Khan Dakhni #0" = 20
 }
-leader_names = {
-	"Ardastani"
-	"Astarabadi"
-	"Badakshi"
-	"Banda"
-	"Basri"
-	"Bhosle"
-	"Bukhari"
-	"Changezi"
-	"Dakhni"
-	"Gilani"
-	"Hasanabadi"
-	"Jurjani"
-	"Kabuli"
-	"Khan"
-	"Kirmani"
-	"Kudha"
-	"Majmudar"
-	"Maloji"
-	"Munshi"
-	"Muzzafar"
-	"Parikh"
-	"Qummi"
-	"Shahji"
-	"Uzbek"
+leader_names = { 
+	Ardastani Astarabadi Badakshi Banda Basri Bhosle Bukhari Changezi Dakhni Gilani
+	Hasanabadi Jurjani Kabuli Khan Kirmani Kudha Majmudar Maloji Munshi Muzzafar
+	Parikh Qummi Shahji Uzbek 
 }
-ship_names = {
-	"Alia"
-	"Arusa"
-	"Bori"
-	"Fatimah"
-	"Girna"
-	"Jalsena"
-	"Kala Jahazi"
-	"Khan"
-	"Lal Jahazi"
-	"Narmada"
-	"Nausena"
-	"Nav ka Yudh"
-	"Niknaz"
-	"Nila Jahazi"
-	"Niloufa"
-	"Noor"
-	"Panjhra"
-	"Sagar"
-	"Salima"
-	"Shameena"
-	"Suhalia"
-	"Tapi"
-	"Yasmine"
-	"Zahira"
+ship_names = { 
+	Alia Arusa Bori Fatimah Girna Jalsena "Kala Jahazi" Khan "Lal Jahazi" Narmada
+	Nausena "Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Noor Panjhra Sagar Salima Shameena
+	Suhalia Tapi Yasmine Zahira 
+}
+fleet_names = { 
+}
+army_names = { 
 }

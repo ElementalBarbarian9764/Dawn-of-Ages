@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 255 133 15 }
 revolutionary_colors = { 5 1 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	expansion_ideas
 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_cavalry_charge
@@ -21,7 +21,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-'Aziz #0" = 0
 	"'Abdallâh #0" = 20
 	"'Alî #0" = 60
@@ -66,47 +66,16 @@ monarch_names = {
 	"Yûsuf #0" = 40
 	"Ziyad #0" = 0
 }
-leader_names = {
-	"Banu"
-	"Hamza"
-	"Ka'b"
-	"Khalaf"
-	"Makki"
-	"Sulaym"
-	"Thabit"
-	"Yamlul"
-	"al-Rind"
+leader_names = { 
+	Banu Hamza Ka'b Khalaf Makki Sulaym Thabit Yamlul al-Rind 
 }
-ship_names = {
-	"Akhir"
-	"Awwal"
-	"Ba'ith"
-	"Barr"
-	"Batin"
-	"Hamid"
-	"Haqq"
-	"Hayy"
-	"Majid"
-	"Matin"
-	"Mu'akhkhir"
-	"Mu'id"
-	"Mubdi"
-	"Muhsi"
-	"Muhyi"
-	"Mumit"
-	"Muqaddim"
-	"Muqtadir"
-	"Muta'al"
-	"Qadir"
-	"Qawiyy"
-	"Qayyum"
-	"Samad"
-	"Shahid"
-	"Tawwab"
-	"Wahid"
-	"Wajid"
-	"Wakil"
-	"Wali"
-	"Waliyy"
-	"Zahir"
+ship_names = { 
+	Akhir Awwal Ba'ith Barr Batin Hamid Haqq Hayy Majid Matin
+	Mu'akhkhir Mu'id Mubdi Muhsi Muhyi Mumit Muqaddim Muqtadir Muta'al Qadir
+	Qawiyy Qayyum Samad Shahid Tawwab Wahid Wajid Wakil Wali Waliyy
+	Zahir 
+}
+fleet_names = { 
+}
+army_names = { 
 }

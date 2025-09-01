@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 96 57 19 }
 revolutionary_colors = { 13 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Ahuhwuthtakum #0" = -1
 	"Akachuata #0" = 10
 	"Ashahabbeet #0" = 10
@@ -100,49 +100,16 @@ monarch_names = {
 	"Wuleaboo #0" = 10
 	"Zipkiyah #0" = 10
 }
-leader_names = {
-	"Ditsakana"
-	"Guage-johe"
-	"Hainenaurie"
-	"Hois"
-	"Itchitabudan"
-	"Jupe"
-	"Ketahto"
-	"Kewatsana"
-	"Kotsoteka"
-	"Kwahada"
-	"Kwashi"
-	"Motsai"
-	"Muvinabore"
-	"Nauniem"
-	"Nokoni"
-	"Nonaum"
-	"Pagatsu"
-	"Parkeenaum"
-	"Pehnahterkuh"
-	"Penateka"
-	"Pohoi"
-	"Tahneemuh"
-	"Tenawa"
-	"Titchakenah"
-	"Waaih"
-	"Widyunnu"
-	"Yamparika"
-	"Yapaor"
+leader_names = { 
+	Ditsakana Guage-johe Hainenaurie Hois Itchitabudan Jupe Ketahto Kewatsana Kotsoteka Kwahada
+	Kwashi Motsai Muvinabore Nauniem Nokoni Nonaum Pagatsu Parkeenaum Pehnahterkuh Penateka
+	Pohoi Tahneemuh Tenawa Titchakenah Waaih Widyunnu Yamparika Yapaor 
 }
-ship_names = {
-	"Aruka"
-	"Kwasinaboo"
-	"Kwihnai"
-	"O'o"
-	"Paruuku"
-	"Pia wa'oo"
-	"Pisunii"
-	"Puuku"
-	"Sarii"
-	"Tasiwoo"
-	"Tseena"
-	"Tuwikaa"
-	"Wakarée"
-	"Wasape"
+ship_names = { 
+	Aruka Kwasinaboo Kwihnai O'o Paruuku "Pia wa'oo" Pisunii Puuku Sarii Tasiwoo
+	Tseena Tuwikaa Wakarée Wasape 
+}
+fleet_names = { 
+}
+army_names = { 
 }

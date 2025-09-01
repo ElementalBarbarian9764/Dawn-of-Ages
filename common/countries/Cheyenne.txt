@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 150 50 10 }
 revolutionary_colors = { 15 0 15 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -22,7 +22,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Aamanaco #0" = 20
 	"Avonaco #0" = 20
 	"Axkahpsaypi #0" = -1
@@ -51,36 +51,14 @@ monarch_names = {
 	"Wahhanissatta #0" = 20
 	"Wechegalla #0" = 20
 }
-leader_names = {
-	"Adahy"
-	"Atagulkalu"
-	"Cheasequah"
-	"Degataga"
-	"Diwali"
-	"Mohe"
-	"Onacona"
-	"Tsiyi"
-	"Waya"
+leader_names = { 
+	Adahy Atagulkalu Cheasequah Degataga Diwali Mohe Onacona Tsiyi Waya 
 }
-ship_names = {
-	"Ah-ni-ga-to-ge-wi"
-	"Ah-ni-gi-lo-hi"
-	"Ah-ni-ka-wi"
-	"Ah-ni-sa-ho-ni"
-	"Ah-ni-tsi-sk-wa"
-	"Ah-ni-wa-ya"
-	"Ah-ni-wo-di"
-	"Ani Yuntikwalaski"
-	"Ani-kutani"
-	"Anisga'ya Tsunsdi"
-	"Asgaya Gigagei"
-	"I'nage-utasvhi"
-	"Kana'ti"
-	"Nv-da gu-ti-ha"
-	"Nv-da ka-na-wo-ga"
-	"Nv-da ko-la"
-	"Nv-da u-no-le"
-	"Oonawieh Unggi"
-	"Selu"
-	"Tsul Kalu"
+ship_names = { 
+	Ah-ni-ga-to-ge-wi Ah-ni-gi-lo-hi Ah-ni-ka-wi Ah-ni-sa-ho-ni Ah-ni-tsi-sk-wa Ah-ni-wa-ya Ah-ni-wo-di "Ani Yuntikwalaski" Ani-kutani "Anisga'ya Tsunsdi"
+	"Asgaya Gigagei" I'nage-utasvhi Kana'ti "Nv-da gu-ti-ha" "Nv-da ka-na-wo-ga" "Nv-da ko-la" "Nv-da u-no-le" "Oonawieh Unggi" Selu "Tsul Kalu"
+}
+fleet_names = { 
+}
+army_names = { 
 }

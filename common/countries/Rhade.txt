@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 218 113 11 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	spy_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -21,7 +21,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Bhaskaradevi #0" = -1
 	"Bo La Gia #0" = -1
 	"Che Anan #0" = 20
@@ -49,35 +49,16 @@ monarch_names = {
 	"Po Tithuntirai #0" = 20
 	"Tra Hoa #0" = 20
 }
-leader_names = {
-	"Che"
-	"Dang"
-	"Duong"
-	"Lang"
-	"Le"
-	"Minh"
-	"Nguyen"
-	"Ong"
-	"Pham"
-	"Sam"
-	"Tra"
+leader_names = { 
+	Che Dang Duong Lang Le Minh Nguyen Ong Pham Sam
+	Tra 
 }
-ship_names = {
-	"Amaravati"
-	"Bhadravarman"
-	"Bichai"
-	"Bo-de"
-	"Che Bong-nga"
-	"Harivarman"
-	"Indrapura"
-	"Indravarman"
-	"Jayasimhavarman"
-	"Kauthara"
-	"Mahendravarman"
-	"Panduranga"
-	"Paramabodhisattva"
-	"Parameshvaravarman"
-	"Rudravarman"
-	"Vijayq"
+ship_names = { 
+	Amaravati Bhadravarman Bichai Bo-de "Che Bong-nga" Harivarman Indrapura Indravarman Jayasimhavarman Kauthara
+	Mahendravarman Panduranga Paramabodhisattva Parameshvaravarman Rudravarman Vijayq 
 }
 special_unit_culture = south_east_asian_special
+fleet_names = { 
+}
+army_names = { 
+}

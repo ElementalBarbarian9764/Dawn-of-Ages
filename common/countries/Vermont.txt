@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 50 120 10 }
 revolutionary_colors = { 14 0 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	plutocracy_ideas
 	trade_ideas
 	economic_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	quantity_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	british_hussar
 	british_redcoat
@@ -31,7 +31,7 @@ historical_units = {
 	western_longbow
 	western_medieval_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"Aaron #0" = 0
 	"Alexander #0" = 0
 	"Angus #0" = 0
@@ -80,113 +80,24 @@ monarch_names = {
 	"Wilbur #0" = 0
 	"William #0" = 0
 }
-leader_names = {
-	"Adams"
-	"Arkeith"
-	"Arnott"
-	"Arthur"
-	"Ashton"
-	"Atworth"
-	"Bean"
-	"Boyd"
-	"Burr"
-	"Caddock"
-	"Clinton"
-	"Coolidge"
-	"Dalton"
-	"Davenport"
-	"Deere"
-	"Dellwin"
-	"Dewey"
-	"Douglas"
-	"Drummond"
-	"Dylan"
-	"Farnham"
-	"Fisk"
-	"Flanders"
-	"Floyd"
-	"Garvey"
-	"Graves"
-	"Harrison"
-	"Hunt"
-	"Jay"
-	"Jefferson"
-	"Kempton"
-	"Kendrick"
-	"Kennedy"
-	"King"
-	"Lane"
-	"Langdon"
-	"Lindon"
-	"Lyle"
-	"Madison"
-	"Merrick"
-	"Monroe"
-	"Morrill"
-	"Morris"
-	"Pendelton"
-	"Pickney"
-	"Richardson"
-	"Rutledge"
-	"Sanders"
-	"Sheehan"
-	"Sheldon"
-	"Smith"
-	"Spencer"
-	"Starbuck"
-	"Steed"
-	"Stetson"
-	"Stover"
-	"Stryder"
-	"Sutcliffe"
-	"Swaggert"
-	"Tabor"
-	"Thompson"
-	"Thorley"
-	"Trevin"
-	"Unwin"
-	"Valley"
-	"Vaughan"
-	"Walden"
-	"Ward"
-	"Wells"
-	"Winston"
-	"Young"
+leader_names = { 
+	Adams Arkeith Arnott Arthur Ashton Atworth Bean Boyd Burr Caddock
+	Clinton Coolidge Dalton Davenport Deere Dellwin Dewey Douglas Drummond Dylan
+	Farnham Fisk Flanders Floyd Garvey Graves Harrison Hunt Jay Jefferson
+	Kempton Kendrick Kennedy King Lane Langdon Lindon Lyle Madison Merrick
+	Monroe Morrill Morris Pendelton Pickney Richardson Rutledge Sanders Sheehan Sheldon
+	Smith Spencer Starbuck Steed Stetson Stover Stryder Sutcliffe Swaggert Tabor
+	Thompson Thorley Trevin Unwin Valley Vaughan Walden Ward Wells Winston
+	Young 
 }
-ship_names = {
-	"Bennington"
-	"Brattleboro"
-	"Castleton"
-	"Chimney Point"
-	"Enterprise"
-	"Fort Dummer"
-	"Fourteenth Star"
-	"Freeman's Oath"
-	"General Allen"
-	"General Enos"
-	"General Stark"
-	"Grand Isle"
-	"Green Mountains"
-	"Green Whig"
-	"Hubbardton"
-	"Isaac Tichenor"
-	"Jonas Fay"
-	"Lake Champlain"
-	"Liberty"
-	"Moses Robinson"
-	"Mount Independence"
-	"Mountaineer"
-	"New Connecticut"
-	"Old Molly"
-	"Ranger"
-	"Revenge"
-	"Royal Savage"
-	"Seth Warner"
-	"Thomas Chittenden"
-	"Ticonderoga"
-	"Vermontis Res Publica"
-	"Westminster"
-	"White River"
-	"Windsor"
+ship_names = { 
+	Bennington Brattleboro Castleton "Chimney Point" Enterprise "Fort Dummer" "Fourteenth Star" "Freeman's Oath" "General Allen" "General Enos"
+	"General Stark" "Grand Isle" "Green Mountains" "Green Whig" Hubbardton "Isaac Tichenor" "Jonas Fay" "Lake Champlain" Liberty "Moses Robinson"
+	"Mount Independence" Mountaineer "New Connecticut" "Old Molly" Ranger Revenge "Royal Savage" "Seth Warner" "Thomas Chittenden" Ticonderoga
+	"Vermontis Res Publica" Westminster "White River" Windsor 
 }
 colonial_parent = GBR
+fleet_names = { 
+}
+army_names = { 
+}

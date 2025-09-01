@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 97 102 135 }
 revolutionary_colors = { 10 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	trade_ideas
 	quantity_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	defensive_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Bulït #0" = -1
 	"Dukum #0" = 0
 	"Kadïñ #0" = -1
@@ -37,34 +37,15 @@ monarch_names = {
 	"Tähtaman #0" = 0
 	"Yildiz #0" = -1
 }
-leader_names = {
-	"Cälil"
-	"Göbäydullina"
-	"Isxaqi"
-	"Märcani"
-	"Nasiri"
-	"Nigmät"
-	"Nurgäli"
-	"Näcmetdin"
-	"Qamay"
-	"Qol-Gäli"
-	"Qursawi"
-	"Tuqay"
-	"Yusupow"
+leader_names = { 
+	Cälil Göbäydullina Isxaqi Märcani Nasiri Nigmät Nurgäli Näcmetdin Qamay Qol-Gäli
+	Qursawi Tuqay Yusupow 
 }
-ship_names = {
-	"Alat"
-	"Arca"
-	"Cöri"
-	"Ghiasetdin"
-	"Gärec"
-	"Nugay"
-	"Qazan"
-	"Qazansu"
-	"Qazgan"
-	"Qazi"
-	"Säyet"
-	"Säyex"
-	"Söyembikä"
-	"Tas Ayaq"
+ship_names = { 
+	Alat Arca Cöri Ghiasetdin Gärec Nugay Qazan Qazansu Qazgan Qazi
+	Säyet Säyex Söyembikä "Tas Ayaq" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

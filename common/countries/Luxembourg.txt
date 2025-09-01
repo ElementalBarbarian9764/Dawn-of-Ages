@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 53 140 73 }
 revolutionary_colors = { 16 0 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	administrative_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albrecht #0" = 0
 	"Andreas #0" = 0
 	"Anton #0" = 20
@@ -76,56 +76,17 @@ monarch_names = {
 	"Wenzel #1" = 20
 	"Wilhelm #1" = 5
 }
-leader_names = {
-	"Biberen"
-	"Borchert"
-	"Bourscheidt"
-	"Bültel"
-	"Cemmerer"
-	"Clees"
-	"Croye"
-	"Delhaes"
-	"Dumont"
-	"Genot"
-	"Gonderinger"
-	"Greff"
-	"Herrig"
-	"Hoscheit"
-	"Maussen"
-	"Mersch"
-	"Nissar"
-	"Paguet"
-	"Petilliot"
-	"Pinkernell"
-	"Riener"
-	"Schannen"
-	"Voigt"
-	"Weiler"
-	"Winen"
-	"du Carme"
-	"von Bettborn"
-	"von Bous"
-	"von Capellen"
-	"von Diekirch"
-	"von Grevenmach"
-	"von Grosbous"
-	"von Pontpierre"
-	"von Redange"
-	"von Reisdorf"
-	"von Schuttrange"
-	"von Sommerfeld"
+leader_names = { 
+	Biberen Borchert Bourscheidt Bültel Cemmerer Clees Croye Delhaes Dumont Genot
+	Gonderinger Greff Herrig Hoscheit Maussen Mersch Nissar Paguet Petilliot Pinkernell
+	Riener Schannen Voigt Weiler Winen "du Carme" "von Bettborn" "von Bous" "von Capellen" "von Diekirch"
+	"von Grevenmach" "von Grosbous" "von Pontpierre" "von Redange" "von Reisdorf" "von Schuttrange" "von Sommerfeld" 
 }
-ship_names = {
-	"Capellen"
-	"Clervaux"
-	"Diekirch"
-	"Echternach"
-	"Esch-sur-Alzette"
-	"Feulen"
-	"Grevenmacher"
-	"Mersch"
-	"Redange"
-	"Remich"
-	"Vianden"
-	"Wiltz"
+ship_names = { 
+	Capellen Clervaux Diekirch Echternach Esch-sur-Alzette Feulen Grevenmacher Mersch Redange Remich
+	Vianden Wiltz 
+}
+fleet_names = { 
+}
+army_names = { 
 }

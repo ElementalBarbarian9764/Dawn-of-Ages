@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 76 110 150 }
 revolutionary_colors = { 0 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Ahlaachick #0" = 10
 	"Alimee #0" = 10
 	"Apacahund #0" = 10
@@ -64,80 +64,19 @@ monarch_names = {
 	"Tunis #0" = 10
 	"Walela #0" = -1
 }
-leader_names = {
-	"Absecon"
-	"Aquehonga"
-	"Assupink"
-	"Communipaw"
-	"Conshohocken"
-	"Hakensack"
-	"Hoboken"
-	"Hohokus"
-	"Hopatcong"
-	"Mahwah"
-	"Manacknong"
-	"Manahawkin"
-	"Manalapan"
-	"Manayunk"
-	"Mantoloking"
-	"Mantua"
-	"Matawan"
-	"Metuchen"
-	"Minisin"
-	"Monsey"
-	"Musconetcong"
-	"Naraticong"
-	"Nayack"
-	"Nechtanc"
-	"Passaic"
-	"Passyunk"
-	"Peapack"
-	"Sapokanikan"
-	"Sassian"
-	"Scheyichbi"
-	"Secaucus"
-	"Shackamaxon"
-	"Shawkopoke"
-	"Sowanus"
-	"Weehawken"
-	"Wissahickon"
+leader_names = { 
+	Absecon Aquehonga Assupink Communipaw Conshohocken Hakensack Hoboken Hohokus Hopatcong Mahwah
+	Manacknong Manahawkin Manalapan Manayunk Mantoloking Mantua Matawan Metuchen Minisin Monsey
+	Musconetcong Naraticong Nayack Nechtanc Passaic Passyunk Peapack Sapokanikan Sassian Scheyichbi
+	Secaucus Shackamaxon Shawkopoke Sowanus Weehawken Wissahickon 
 }
-ship_names = {
-	"Absecon"
-	"Aquehonga"
-	"Assupink"
-	"Communipaw"
-	"Conshohocken"
-	"Hakensack"
-	"Hoboken"
-	"Hohokus"
-	"Hopatcong"
-	"Lenapehoking"
-	"Mahwah"
-	"Manacknong"
-	"Manahawkin"
-	"Manalapan"
-	"Manayunk"
-	"Mantoloking"
-	"Mantua"
-	"Matawan"
-	"Metuchen"
-	"Minisin"
-	"Monsey"
-	"Musconetcong"
-	"Naraticong"
-	"Nayack"
-	"Nechtanc"
-	"Passaic"
-	"Passyunk"
-	"Peapack"
-	"Sapokanikan"
-	"Sassian"
-	"Scheyichbi"
-	"Secaucus"
-	"Shackamaxon"
-	"Shawkopoke"
-	"Sowanus"
-	"Weehawken"
-	"Wissahickon"
+ship_names = { 
+	Absecon Aquehonga Assupink Communipaw Conshohocken Hakensack Hoboken Hohokus Hopatcong Lenapehoking
+	Mahwah Manacknong Manahawkin Manalapan Manayunk Mantoloking Mantua Matawan Metuchen Minisin
+	Monsey Musconetcong Naraticong Nayack Nechtanc Passaic Passyunk Peapack Sapokanikan Sassian
+	Scheyichbi Secaucus Shackamaxon Shawkopoke Sowanus Weehawken Wissahickon 
+}
+fleet_names = { 
+}
+army_names = { 
 }

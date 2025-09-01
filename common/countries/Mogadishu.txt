@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 212 175 55 }
 revolutionary_colors = { 5 0 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	trade_ideas
 	innovativeness_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	administrative_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	adal_guerilla_warfare
 	adal_gunpowder_warfare
 	african_abyssinian_cavalry
@@ -25,7 +25,7 @@ historical_units = {
 	bantu_tribal_warfare
 	westernized_adal
 }
-monarch_names = {
+monarch_names = { 
 	"Abdallah #0" = 20
 	"Abdikarim #0" = 40
 	"Abdul #0" = 20
@@ -53,53 +53,18 @@ monarch_names = {
 	"Yusuf Ali #0" = 0
 	"Zeinab #0" = -1
 }
-leader_names = {
-	"Abdallah"
-	"Abdikarim"
-	"Abubakar"
-	"Ahmad"
-	"Ayub"
-	"Dalmar"
-	"Ghedi"
-	"Gurey"
-	"Hassan"
-	"Khalid"
-	"Liban"
-	"Mahad"
-	"Mosa"
-	"Muhammad"
-	"Omar"
-	"Rahim"
-	"Saad"
-	"Sadiq"
-	"Sharif"
+leader_names = { 
+	Abdallah Abdikarim Abubakar Ahmad Ayub Dalmar Ghedi Gurey Hassan Khalid
+	Liban Mahad Mosa Muhammad Omar Rahim Saad Sadiq Sharif 
 }
-ship_names = {
-	"Abdiaziz"
-	"Aura"
-	"Awash"
-	"Banaadir"
-	"Berahle"
-	"Chifra"
-	"Dallol"
-	"Dubti"
-	"Dulecha"
-	"Elidar"
-	"Ewa"
-	"Gewane"
-	"Hamar"
-	"Koneba"
-	"Mille"
-	"Muqdisho"
-	"Semera"
-	"Shibis"
-	"Simurobi"
-	"Xamar"
-	"Yalo"
+ship_names = { 
+	Abdiaziz Aura Awash Banaadir Berahle Chifra Dallol Dubti Dulecha Elidar
+	Ewa Gewane Hamar Koneba Mille Muqdisho Semera Shibis Simurobi Xamar
+	Yalo 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
 }
-fleet_names = {
-	"Fleet of $PROVINCE$"
+fleet_names = { 
+	"Fleet of $PROVINCE$" 
 }

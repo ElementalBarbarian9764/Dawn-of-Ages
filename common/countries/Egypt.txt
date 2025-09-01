@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 255 220 104 }
 revolutionary_colors = { 5 0 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	expansion_ideas
 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_cavalry_charge
@@ -21,7 +21,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-'Aziz #0" = 20
 	"'Abd al-Malik #0" = 0
 	"'Alî #2" = 10
@@ -67,61 +67,17 @@ monarch_names = {
 	"al-Musta'in #0" = 20
 	"al-Nasr Faraj #0" = 20
 }
-leader_names = {
-	"Ali"
-	"Aybak"
-	"Baibars"
-	"Bay"
-	"Bey"
-	"Bugha"
-	"Inâl"
-	"Kansur"
-	"Sayfuddin"
-	"Zangi"
+leader_names = { 
+	Ali Aybak Baibars Bay Bey Bugha Inâl Kansur Sayfuddin Zangi
 }
-ship_names = {
-	"Ad-Däkhilah"
-	"Adl"
-	"Ahmen Muyaid"
-	"Al-Ali"
-	"Al-Bahriyah"
-	"Al-Farafirah"
-	"Al-Kharijah"
-	"Alim"
-	"Ashraf Barsbay"
-	"Aziz"
-	"Aziz Gamal"
-	"Bari"
-	"Basir"
-	"Basit"
-	"Ben Barqooq"
-	"Farag Ben Barqooq"
-	"Fattah"
-	"Ghaffar"
-	"Hakam"
-	"Jabbar"
-	"Khafid"
-	"Khaliq"
-	"Malik"
-	"Mu'izz"
-	"Mu'min"
-	"Mudhill"
-	"Muhaymin"
-	"Musawwir"
-	"Mutakabbir"
-	"Muyaid Sheikh"
-	"Nahr an-Nil"
-	"Nasser Muhamed"
-	"Qabid"
-	"Qahhar"
-	"Quddus"
-	"Rafi"
-	"Rahim"
-	"Rahman"
-	"Razzaq"
-	"Salam"
-	"Sami"
-	"Wahhab"
-	"Zaher Barqooq"
-	"Zaher Tatar"
+ship_names = { 
+	Ad-Däkhilah Adl "Ahmen Muyaid" Al-Ali Al-Bahriyah Al-Farafirah Al-Kharijah Alim "Ashraf Barsbay" Aziz
+	"Aziz Gamal" Bari Basir Basit "Ben Barqooq" "Farag Ben Barqooq" Fattah Ghaffar Hakam Jabbar
+	Khafid Khaliq Malik Mu'izz Mu'min Mudhill Muhaymin Musawwir Mutakabbir "Muyaid Sheikh"
+	"Nahr an-Nil" "Nasser Muhamed" Qabid Qahhar Quddus Rafi Rahim Rahman Razzaq Salam
+	Sami Wahhab "Zaher Barqooq" "Zaher Tatar" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

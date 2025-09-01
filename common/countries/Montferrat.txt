@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 96 183 6 }
 revolutionary_colors = { 5 0 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Alberto #0" = 0
 	"Benedetto #0" = 0
 	"Boniface #0" = 20
@@ -65,76 +65,19 @@ monarch_names = {
 	"Vincenzo #0" = 20
 	"Vittorio #0" = 0
 }
-leader_names = {
-	"Alberti"
-	"Amelia"
-	"Barone"
-	"Barzagli"
-	"Belmonte"
-	"Bibiena"
-	"Boninsegna"
-	"Bosio"
-	"Casabianca"
-	"Castagnaro"
-	"Cocconi"
-	"Colombo"
-	"Conti"
-	"Fancelli"
-	"Freddi"
-	"Gatti"
-	"Germano"
-	"Gonzaga"
-	"Grazioli"
-	"Grosso"
-	"Idoni"
-	"Innocenti"
-	"Juvarra"
-	"Lori"
-	"Manfredi"
-	"Mantegna"
-	"Montanari"
-	"Neri"
-	"Oddo"
-	"Panzavecchia"
-	"Pesci"
-	"Piccoli"
-	"Pico"
-	"Poggio"
-	"Poma"
-	"Romano"
-	"Speri"
-	"Tassoni"
-	"Tazolli"
-	"Tedesco"
-	"Toselli"
-	"Zaccardo"
-	"Zappa"
-	"d'Absburgo"
-	"de Canal"
-	"de Rossi"
-	"de' Medici"
-	"del Piero"
-	"di Busca"
+leader_names = { 
+	Alberti Amelia Barone Barzagli Belmonte Bibiena Boninsegna Bosio Casabianca Castagnaro
+	Cocconi Colombo Conti Fancelli Freddi Gatti Germano Gonzaga Grazioli Grosso
+	Idoni Innocenti Juvarra Lori Manfredi Mantegna Montanari Neri Oddo Panzavecchia
+	Pesci Piccoli Pico Poggio Poma Romano Speri Tassoni Tazolli Tedesco
+	Toselli Zaccardo Zappa d'Absburgo "de Canal" "de Rossi" "de' Medici" "del Piero" "di Busca" 
 }
-ship_names = {
-	"Alberto Pitentino"
-	"Andrea Mantegna"
-	"Anselmo de Lucca"
-	"Barbara di Brandeburgo"
-	"Castelletto Borgo"
-	"Donatello"
-	"Fiume Mincio"
-	"Formigosa"
-	"Ghibellini"
-	"Guelphi"
-	"Luca Fancelli"
-	"Matilde Canossa"
-	"Pinamonte Bonacolsi"
-	"Rinaldo Bonacolsi"
-	"San Lorenzo"
-	"San Sebastiano"
-	"Sant'Andrea"
+ship_names = { 
+	"Alberto Pitentino" "Andrea Mantegna" "Anselmo de Lucca" "Barbara di Brandeburgo" "Castelletto Borgo" Donatello "Fiume Mincio" Formigosa Ghibellini Guelphi
+	"Luca Fancelli" "Matilde Canossa" "Pinamonte Bonacolsi" "Rinaldo Bonacolsi" "San Lorenzo" "San Sebastiano" Sant'Andrea 
 }
-army_names = {
-	"Armata de $PROVINCE$"
+army_names = { 
+	"Armata de $PROVINCE$" 
+}
+fleet_names = { 
 }

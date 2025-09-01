@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 223 198 64 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_tercio
 	dutch_maurician
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adriaan #0" = 0
 	"Alexander #0" = 0
 	"Andries #1" = 5
@@ -72,63 +72,19 @@ monarch_names = {
 	"Willem #2" = 5
 	"Yvonne #0" = -1
 }
-leader_names = {
-	"Agterberg"
-	"Bailly"
-	"Beekmann"
-	"Bernard"
-	"Brenninkmeyer"
-	"Conring"
-	"Cordewiender"
-	"Cubes"
-	"Edelkoort"
-	"Elsendoorn"
-	"Geitenbeek"
-	"Gildemeester"
-	"Hartog"
-	"Kuijper"
-	"Laan"
-	"Leicher"
-	"Ligteringe"
-	"Makkink"
-	"Osti"
-	"Pylsweert"
-	"Rekkae"
-	"Rijke"
-	"de Arthuysen"
-	"de Geer"
-	"de Groot"
-	"van Aduard"
-	"van Amerongen"
-	"van Carnbee"
-	"van Coehoorn"
-	"van Giessenburg"
-	"van Grovestins"
-	"van Pelt"
-	"van Schoonheten"
-	"van Selmont"
-	"van Steenwijk"
-	"van Welderen"
-	"van Zoelen"
-	"van der Oije"
+leader_names = { 
+	Agterberg Bailly Beekmann Bernard Brenninkmeyer Conring Cordewiender Cubes Edelkoort Elsendoorn
+	Geitenbeek Gildemeester Hartog Kuijper Laan Leicher Ligteringe Makkink Osti Pylsweert
+	Rekkae Rijke "de Arthuysen" "de Geer" "de Groot" "van Aduard" "van Amerongen" "van Carnbee" "van Coehoorn" "van Giessenburg"
+	"van Grovestins" "van Pelt" "van Schoonheten" "van Selmont" "van Steenwijk" "van Welderen" "van Zoelen" "van der Oije" 
 }
-ship_names = {
-	"Alberik I"
-	"Amersfoort"
-	"De dom van Utrecht"
-	"Duifje"
-	"Muiden"
-	"Sticht van Utrecht"
-	"Utrecht"
-	"Wachter"
-	"Wapen van Amersfoort"
-	"Wapen van Utrecht"
-	"Wijk bij Duurstede"
-	"Willibrord"
+ship_names = { 
+	"Alberik I" Amersfoort "De dom van Utrecht" Duifje Muiden "Sticht van Utrecht" Utrecht Wachter "Wapen van Amersfoort" "Wapen van Utrecht"
+	"Wijk bij Duurstede" Willibrord 
 }
-army_names = {
-	"Leger van $PROVINCE$"
+army_names = { 
+	"Leger van $PROVINCE$" 
 }
-fleet_names = {
-	"Vloot van $PROVINCE$"
+fleet_names = { 
+	"Vloot van $PROVINCE$" 
 }

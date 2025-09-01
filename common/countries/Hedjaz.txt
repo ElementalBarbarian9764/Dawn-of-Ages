@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 255 215 185 }
 revolutionary_colors = { 1 0 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quantity_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_cavalry_charge
@@ -21,7 +21,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-Ilah #0" = 20
 	"'Abdul-Karim #0" = 10
 	"'Abdullah #0" = 20
@@ -57,33 +57,14 @@ monarch_names = {
 	"Yahya #0" = 10
 	"Zaid #0" = 10
 }
-leader_names = {
-	"Abbas"
-	"Chammas"
-	"Farhat"
-	"Hammoud"
-	"Ibrahim"
-	"Khalil"
-	"Mansour"
-	"Saleh"
-	"Taleb"
-	"Youssef"
+leader_names = { 
+	Abbas Chammas Farhat Hammoud Ibrahim Khalil Mansour Saleh Taleb Youssef
 }
-ship_names = {
-	"Harrat Al-Buqum"
-	"Harrat Al-Kishb"
-	"Harrat Hadan"
-	"Harrat Khaybar"
-	"Harrat Kurama"
-	"Harrat Nawasif"
-	"Harrat Rahat"
-	"Harrat al-Unayyir"
-	"Hijaz"
-	"Jabal Abu Hasan"
-	"Jabal Baydan"
-	"Jabal Sawda"
-	"Jabal al-Jurayrah"
-	"Jeddah"
-	"Mecca"
-	"Medina"
+ship_names = { 
+	"Harrat Al-Buqum" "Harrat Al-Kishb" "Harrat Hadan" "Harrat Khaybar" "Harrat Kurama" "Harrat Nawasif" "Harrat Rahat" "Harrat al-Unayyir" Hijaz "Jabal Abu Hasan"
+	"Jabal Baydan" "Jabal Sawda" "Jabal al-Jurayrah" Jeddah Mecca Medina 
+}
+fleet_names = { 
+}
+army_names = { 
 }

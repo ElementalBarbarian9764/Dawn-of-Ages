@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 100 94 125 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	innovativeness_ideas
 	quantity_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	aristocracy_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	indian_arquebusier
 	indian_elephant
@@ -25,7 +25,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Ahmad #0" = 20
 	"Alauddin #0" = 0
 	"Ali #0" = 0
@@ -52,46 +52,16 @@ monarch_names = {
 	"Saadat #0" = 0
 	"Safdarjung #0" = 0
 }
-leader_names = {
-	"Awadhi"
-	"Chand"
-	"Hindustani"
-	"Karrani"
-	"Khan"
-	"Khilji"
-	"Lodi"
-	"Pundir"
-	"Sarwar"
-	"Sharqi"
-	"Siddiqui"
-	"ud Daula"
+leader_names = { 
+	Awadhi Chand Hindustani Karrani Khan Khilji Lodi Pundir Sarwar Sharqi
+	Siddiqui "ud Daula" 
 }
-ship_names = {
-	"Bagmati"
-	"Budhi"
-	"Devi"
-	"Durga"
-	"Falgu"
-	"Gandak"
-	"Ganga"
-	"Gayatri"
-	"Jalsena"
-	"Kali Nauk"
-	"Kosi"
-	"Lakshmi"
-	"Lal Nauk"
-	"Loki Devi"
-	"Manasa Devi"
-	"Parvati"
-	"Radha"
-	"Ratri"
-	"Sagorer Bahini"
-	"Sarasvati"
-	"Shakti"
-	"Shaktir Nauk"
-	"Shasti Ma"
-	"Sita"
-	"Son"
-	"Trishool"
-	"Uma"
+ship_names = { 
+	Bagmati Budhi Devi Durga Falgu Gandak Ganga Gayatri Jalsena "Kali Nauk"
+	Kosi Lakshmi "Lal Nauk" "Loki Devi" "Manasa Devi" Parvati Radha Ratri "Sagorer Bahini" Sarasvati
+	Shakti "Shaktir Nauk" "Shasti Ma" Sita Son Trishool Uma 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 236 242 243 }
 revolutionary_colors = { 5 2 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	quantity_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_elephant
@@ -26,7 +26,7 @@ historical_units = {
 	south_indian_musketeer
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Bettada Devaraja #0" = 10
 	"Chamaraja #1" = 50
 	"Chidananda #0" = 0
@@ -53,43 +53,16 @@ monarch_names = {
 	"Venkayarya #0" = 0
 	"Yadu Raya #0" = 20
 }
-leader_names = {
-	"Balija"
-	"Billava"
-	"Dasa"
-	"Devaraja"
-	"Gowda"
-	"Pulayar"
-	"Rajbal"
-	"Setty"
-	"Ummattur"
-	"Vaidya"
-	"Vokkaliga"
-	"Wodeyar"
+leader_names = { 
+	Balija Billava Dasa Devaraja Gowda Pulayar Rajbal Setty Ummattur Vaidya
+	Vokkaliga Wodeyar 
 }
-ship_names = {
-	"Amirtha"
-	"Amman"
-	"Arul"
-	"Bhima"
-	"Chellam"
-	"Devi"
-	"Durga"
-	"Gayatri"
-	"Iniya"
-	"Krishna"
-	"Lakshmi"
-	"Madhu"
-	"Meenakshi"
-	"Nalini"
-	"Pallar"
-	"Parvati"
-	"Payaswani"
-	"Pennar"
-	"Ponni"
-	"Radha"
-	"Ratri"
-	"Sarasvati"
-	"Sita"
-	"Tamarai"
+ship_names = { 
+	Amirtha Amman Arul Bhima Chellam Devi Durga Gayatri Iniya Krishna
+	Lakshmi Madhu Meenakshi Nalini Pallar Parvati Payaswani Pennar Ponni Radha
+	Ratri Sarasvati Sita Tamarai 
+}
+fleet_names = { 
+}
+army_names = { 
 }

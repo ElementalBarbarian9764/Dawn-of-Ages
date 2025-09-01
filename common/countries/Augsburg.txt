@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 20 188 118 }
 revolutionary_colors = { 5 9 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	economic_ideas
 	innovativeness_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	trade_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adam #0" = 0
 	"Albrecht #1" = 15
 	"Alexander #0" = 0
@@ -73,62 +73,18 @@ monarch_names = {
 	"Siegmund #0" = 0
 	"Ulrike #0" = -1
 }
-leader_names = {
-	"Adler"
-	"Alers"
-	"Bake"
-	"Beckröge"
-	"Bergius"
-	"Berninghausen"
-	"Boelken"
-	"Bollheim"
-	"Brill"
-	"Delius"
-	"Drewers"
-	"Engels"
-	"Ficke"
-	"Foukhard"
-	"Geffken"
-	"Gildemeister"
-	"Grovermann"
-	"Happach"
-	"Heimbruch"
-	"Hinke"
-	"Kindt"
-	"Krefting"
-	"Köhne"
-	"Laporte"
-	"Löning"
-	"Meyer"
-	"Oelrichs"
-	"Ordemann"
-	"Reiners"
-	"Rohde"
-	"Sanders"
-	"Schulken"
-	"Steinwachs"
-	"Stucken"
-	"Truernitt"
-	"von Bobert"
-	"von Cappeln"
-	"von Holten"
-	"von Horn"
-	"von Meinertzhagen"
+leader_names = { 
+	Adler Alers Bake Beckröge Bergius Berninghausen Boelken Bollheim Brill Delius
+	Drewers Engels Ficke Foukhard Geffken Gildemeister Grovermann Happach Heimbruch Hinke
+	Kindt Krefting Köhne Laporte Löning Meyer Oelrichs Ordemann Reiners Rohde
+	Sanders Schulken Steinwachs Stucken Truernitt "von Bobert" "von Cappeln" "von Holten" "von Horn" "von Meinertzhagen"
 }
-ship_names = {
-	"Anticipation Of A New Lover's Arrival"
-	"Dressed Up To Party"
-	"Furious Purpose"
-	"Geelbeen"
-	"Honorius"
-	"Jever"
-	"Johann Dove"
-	"Roland"
-	"Tagenbare"
-	"The Confessor"
-	"Weserwelle"
-	"Willehad"
+ship_names = { 
+	"Anticipation Of A New Lover's Arrival" "Dressed Up To Party" "Furious Purpose" Geelbeen Honorius Jever "Johann Dove" Roland Tagenbare "The Confessor"
+	Weserwelle Willehad 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 40 75 175 }
 revolutionary_colors = { 4 0 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_dragoon
@@ -26,7 +26,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"Abdul-Aziz #0" = 20
 	"Abdul-Karim #0" = 20
 	"Abdul-Mumin #0" = 20
@@ -97,29 +97,14 @@ monarch_names = {
 	"Vali Muhammad #0" = 20
 	"Yadgar #0" = 20
 }
-leader_names = {
-	"Alim"
-	"Bachi"
-	"Bahadur"
-	"Erdeni"
-	"Khudayar"
-	"Malla"
-	"Murad"
-	"Quli"
-	"Tura"
+leader_names = { 
+	Alim Bachi Bahadur Erdeni Khudayar Malla Murad Quli Tura 
 }
-ship_names = {
-	"Alajskij Chrebet"
-	"Amu Darja"
-	"Besharik"
-	"Fergana"
-	"Khamza"
-	"Khavakend"
-	"Kuva"
-	"Kuvasay"
-	"Margilan"
-	"Nar"
-	"Rishdan"
-	"Syr Darja"
-	"Uzeravsan"
+ship_names = { 
+	"Alajskij Chrebet" "Amu Darja" Besharik Fergana Khamza Khavakend Kuva Kuvasay Margilan Nar
+	Rishdan "Syr Darja" Uzeravsan 
+}
+fleet_names = { 
+}
+army_names = { 
 }

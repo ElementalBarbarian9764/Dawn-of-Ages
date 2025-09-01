@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 155 3 22 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	religious_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -21,7 +21,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Anaukpetlun #0" = 10
 	"Atula Thiri #0" = -1
 	"Bayinnaug #0" = 10
@@ -46,57 +46,18 @@ monarch_names = {
 	"Yaza Dewi #0" = -1
 	"Zalahtinyan #0" = 10
 }
-leader_names = {
-	"Aung-Hla"
-	"Aung-San"
-	"Hla-Thein"
-	"Khin-Nyunt"
-	"Khun-Sa"
-	"Kwan-Kywa"
-	"Maung-Gyi"
-	"Maung-Win"
-	"Min-Tun"
-	"Ohn-Myint"
-	"Sein-Win"
-	"Than-Htay"
-	"Thet-Naung"
-	"U-Nu"
+leader_names = { 
+	Aung-Hla Aung-San Hla-Thein Khin-Nyunt Khun-Sa Kwan-Kywa Maung-Gyi Maung-Win Min-Tun Ohn-Myint
+	Sein-Win Than-Htay Thet-Naung U-Nu 
 }
-ship_names = {
-	"Alaungsithu"
-	"Ananda"
-	"Anawrahta"
-	"Ava"
-	"Ayeyarwady"
-	"Bagan"
-	"Htilominlo"
-	"Kyanzittha"
-	"Kyaswa"
-	"Kyawswa"
-	"Lokananda"
-	"Mali Hka"
-	"N'Mai Hka"
-	"Narapatisithu"
-	"Naratheinkha"
-	"Narathihapati"
-	"Narathu"
-	"Nyima"
-	"Pegu"
-	"Pyinbya"
-	"Sawhnit"
-	"Sawlu"
-	"Sawmunnit"
-	"Sein-nyet Ama"
-	"Shwe-gu-gyi"
-	"Shwe-hsan-daw"
-	"Shwe-zigon"
-	"Sula-mani"
-	"Tambadipa"
-	"Tan-chi-daung Paya"
-	"Thamudarit"
-	"Tharaba"
-	"That-byin-nyu"
-	"Toungoo"
-	"Uzana"
+ship_names = { 
+	Alaungsithu Ananda Anawrahta Ava Ayeyarwady Bagan Htilominlo Kyanzittha Kyaswa Kyawswa
+	Lokananda "Mali Hka" "N'Mai Hka" Narapatisithu Naratheinkha Narathihapati Narathu Nyima Pegu Pyinbya
+	Sawhnit Sawlu Sawmunnit "Sein-nyet Ama" Shwe-gu-gyi Shwe-hsan-daw Shwe-zigon Sula-mani Tambadipa "Tan-chi-daung Paya"
+	Thamudarit Tharaba That-byin-nyu Toungoo Uzana 
 }
 special_unit_culture = south_east_asian_special
+fleet_names = { 
+}
+army_names = { 
+}

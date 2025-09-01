@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 229 153 34 }
 revolutionary_colors = { 15 1 15 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_dragoon
@@ -25,7 +25,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"Ahmad #0" = 10
 	"Ali #0" = 10
 	"Ali Mirza #0" = 20
@@ -38,34 +38,15 @@ monarch_names = {
 	"Mohammad #0" = 10
 	"Sayyed Naser #0" = 20
 }
-leader_names = {
-	"Ardashir"
-	"Buzurg"
-	"Dabuya"
-	"Dadhburzmihr"
-	"Farrukhan"
-	"Hassan"
-	"Kamal"
-	"Khurshid"
-	"Kiya"
-	"Mazyar"
-	"Qarin"
-	"Quhyar"
-	"Rida"
-	"Rustam"
-	"Shahriyar"
-	"Vindadhhurmuzd"
+leader_names = { 
+	Ardashir Buzurg Dabuya Dadhburzmihr Farrukhan Hassan Kamal Khurshid Kiya Mazyar
+	Qarin Quhyar Rida Rustam Shahriyar Vindadhhurmuzd 
 }
-ship_names = {
-	"Amol"
-	"Ardashir"
-	"Astarabad"
-	"Chalus"
-	"Farim"
-	"Kelar"
-	"Lahican"
-	"Mazyar"
-	"Natel"
-	"Rustam"
-	"Vindadhhurmuzd"
+ship_names = { 
+	Amol Ardashir Astarabad Chalus Farim Kelar Lahican Mazyar Natel Rustam
+	Vindadhhurmuzd 
+}
+fleet_names = { 
+}
+army_names = { 
 }

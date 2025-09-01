@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 204 186 201 }
 revolutionary_colors = { 14 1 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adora #0" = -1
 	"Agustín #0" = 0
 	"Alberto #0" = 0
@@ -67,68 +67,18 @@ monarch_names = {
 	"Yessica #0" = -1
 	"Álvaro #0" = 0
 }
-leader_names = {
-	"Alcantuz"
-	"Alfaro"
-	"Anzoátegui"
-	"Bello"
-	"Beltrán"
-	"Berbeo"
-	"Betancur"
-	"Bolívar"
-	"Cabezas"
-	"Díaz"
-	"Flores"
-	"Gaitán"
-	"Galán"
-	"García de Toledo"
-	"Gutiérrez de Piñeres"
-	"Gómez"
-	"Marño"
-	"Mazariegos"
-	"Michelena"
-	"Mier"
-	"Molina"
-	"Monagas"
-	"Monsalve"
-	"Montúfar"
-	"Márquez"
-	"Méndez"
-	"Nariño"
-	"Narvarte"
-	"O'Baal"
-	"O'Leary"
-	"Ortíz"
-	"Paredo"
-	"Pastrana"
-	"Pinilla"
-	"Pizarro"
-	"Plata"
-	"Plaza"
-	"Páez"
-	"Roa"
-	"Rodríguez"
-	"Rojas"
-	"Rondón"
-	"Rosillo"
-	"Santander"
-	"Soublette"
-	"Torres"
-	"Urbaneja"
-	"Uribe"
-	"Vargas"
-	"Viscardo"
-	"de Miranda"
+leader_names = { 
+	Alcantuz Alfaro Anzoátegui Bello Beltrán Berbeo Betancur Bolívar Cabezas Díaz
+	Flores Gaitán Galán "García de Toledo" "Gutiérrez de Piñeres" Gómez Marño Mazariegos Michelena Mier
+	Molina Monagas Monsalve Montúfar Márquez Méndez Nariño Narvarte O'Baal O'Leary
+	Ortíz Paredo Pastrana Pinilla Pizarro Plata Plaza Páez Roa Rodríguez
+	Rojas Rondón Rosillo Santander Soublette Torres Urbaneja Uribe Vargas Viscardo
+	"de Miranda" 
 }
-ship_names = {
-	"Belize"
-	"Boaco"
-	"Bonanza"
-	"Cama"
-	"Flores"
-	"La Ceiba"
-	"Quesada"
-	"Siuna"
-	"Somoto"
-	"Sonsonate"
+ship_names = { 
+	Belize Boaco Bonanza Cama Flores "La Ceiba" Quesada Siuna Somoto Sonsonate
+}
+fleet_names = { 
+}
+army_names = { 
 }

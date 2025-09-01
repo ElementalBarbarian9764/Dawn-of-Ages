@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 134 166 117 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	spy_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_elephant
@@ -25,7 +25,7 @@ historical_units = {
 	south_indian_musketeer
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Aditya Varma #0" = 40
 	"Bala Rama Varma #0" = 20
 	"Chera Udaya Varma #0" = 20
@@ -62,45 +62,16 @@ monarch_names = {
 	"Unni #0" = 0
 	"Unni Varma #0" = 10
 }
-leader_names = {
-	"Kaimal"
-	"Kartha"
-	"Keyi"
-	"Kurup"
-	"Naduvazhi"
-	"Pandalai"
-	"Pillai"
-	"Thampi"
-	"Unnithan"
-	"Varma"
-	"Venadu Swaroopam"
+leader_names = { 
+	Kaimal Kartha Keyi Kurup Naduvazhi Pandalai Pillai Thampi Unnithan Varma
+	"Venadu Swaroopam" 
 }
-ship_names = {
-	"Achankoil"
-	"Amirtha"
-	"Amman"
-	"Arul"
-	"Bharatapuzha"
-	"Chalakudy"
-	"Chaliyar"
-	"Chellam"
-	"Devi"
-	"Durga"
-	"Gayatri"
-	"Iniya"
-	"Kadalundy"
-	"Lakshmi"
-	"Madhu"
-	"Meenakshi"
-	"Nalini"
-	"Pamba"
-	"Parvati"
-	"Periyar"
-	"Ponni"
-	"Radha"
-	"Ratri"
-	"Sarasvati"
-	"Sita"
-	"Tamarai"
-	"Venbenad"
+ship_names = { 
+	Achankoil Amirtha Amman Arul Bharatapuzha Chalakudy Chaliyar Chellam Devi Durga
+	Gayatri Iniya Kadalundy Lakshmi Madhu Meenakshi Nalini Pamba Parvati Periyar
+	Ponni Radha Ratri Sarasvati Sita Tamarai Venbenad 
+}
+fleet_names = { 
+}
+army_names = { 
 }

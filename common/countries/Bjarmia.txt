@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = inuitgfx
 color = { 188 238 234 }
 revolutionary_colors = { 7 0 7 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	economic_ideas
 	quality_ideas
@@ -11,4 +11,14 @@ historical_idea_groups = {
 	administrative_ideas
 	diplomatic_ideas
 	quantity_ideas
+}
+monarch_names = { 
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

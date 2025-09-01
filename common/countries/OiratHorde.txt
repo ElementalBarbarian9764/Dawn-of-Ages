@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 204 184 177 }
 revolutionary_colors = { 8 14 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	humanist_ideas
 	trade_ideas
 	quantity_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	defensive_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Altai #0" = 0
 	"Amursana #0" = 20
 	"Batula #1" = 40
@@ -71,36 +71,15 @@ monarch_names = {
 	"Yelu #0" = 0
 	"Zaya #0" = 0
 }
-leader_names = {
-	"Batmunkh"
-	"Bira"
-	"Choros"
-	"Davaa"
-	"Dorbed"
-	"Ganbold"
-	"Gonbat"
-	"Hattori"
-	"Jasray"
-	"Khoid"
-	"Ochirbal"
-	"Olzvoi"
-	"Saihan"
-	"Torghud"
+leader_names = { 
+	Batmunkh Bira Choros Davaa Dorbed Ganbold Gonbat Hattori Jasray Khoid
+	Ochirbal Olzvoi Saihan Torghud 
 }
-ship_names = {
-	"Altan Khan"
-	"Amdo"
-	"Bargut"
-	"Buzav"
-	"Dorbot"
-	"Dzungar"
-	"Dörvn Öörd"
-	"Güshi"
-	"Kerait"
-	"Khoshot"
-	"Khoshut"
-	"Naiman"
-	"Olo"
-	"Olöts"
-	"Torgut"
+ship_names = { 
+	"Altan Khan" Amdo Bargut Buzav Dorbot Dzungar "Dörvn Öörd" Güshi Kerait Khoshot
+	Khoshut Naiman Olo Olöts Torgut 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 131 101 85 }
 revolutionary_colors = { 1 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	aristocracy_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	british_hussar
 	british_redcoat
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
 }
-monarch_names = {
+monarch_names = { 
 	"Alaois #0" = 0
 	"Alastar #0" = 0
 	"Aonghus #0" = 0
@@ -73,60 +73,17 @@ monarch_names = {
 	"Áed #13" = 20
 	"Éamonn #0" = 0
 }
-leader_names = {
-	"Mac Anna"
-	"Mac Artian"
-	"Mac Cearbhaill"
-	"Mac Dhomhnaill"
-	"Mac Lochlainn"
-	"Mac Mathghamha"
-	"Mac Suibhne"
-	"Mac Árdghail"
-	"Mag Aonghusa"
-	"Mag Uidhir"
-	"Ó Banain"
-	"Ó Baoghill"
-	"Ó Caiside"
-	"Ó Canannain"
-	"Ó Caoinnigh"
-	"Ó Ceallaigh"
-	"Ó Cleireigh"
-	"Ó Corcráin"
-	"Ó Cuileannáin"
-	"Ó Cuinn"
-	"Ó Daimhín"
-	"Ó Dochartaigh"
-	"Ó Doibhilin"
-	"Ó Duacháin"
-	"Ó Duibheamhna"
-	"Ó Faracháin"
-	"Ó Flaithre"
-	"Ó Flannagáin"
-	"Ó Longáin"
-	"Ó Lorcáin"
-	"Ó Maolagáin"
-	"Ó Maoldúin"
-	"Ó Neill"
-	"Ó Raithbheartiagh"
-	"Ó fLaithbheartaigh"
-	"Ó hAnluain"
-	"Ó hAodhagáin"
-	"Ó hInneirghe"
-	"Ó hÉignigh"
-	"Ó hÍr"
+leader_names = { 
+	"Mac Anna" "Mac Artian" "Mac Cearbhaill" "Mac Dhomhnaill" "Mac Lochlainn" "Mac Mathghamha" "Mac Suibhne" "Mac Árdghail" "Mag Aonghusa" "Mag Uidhir"
+	"Ó Banain" "Ó Baoghill" "Ó Caiside" "Ó Canannain" "Ó Caoinnigh" "Ó Ceallaigh" "Ó Cleireigh" "Ó Corcráin" "Ó Cuileannáin" "Ó Cuinn"
+	"Ó Daimhín" "Ó Dochartaigh" "Ó Doibhilin" "Ó Duacháin" "Ó Duibheamhna" "Ó Faracháin" "Ó Flaithre" "Ó Flannagáin" "Ó Longáin" "Ó Lorcáin"
+	"Ó Maolagáin" "Ó Maoldúin" "Ó Neill" "Ó Raithbheartiagh" "Ó fLaithbheartaigh" "Ó hAnluain" "Ó hAodhagáin" "Ó hInneirghe" "Ó hÉignigh" "Ó hÍr"
 }
-ship_names = {
-	"Aedh"
-	"Baedan"
-	"Colman"
-	"Cookstown"
-	"Donal"
-	"Eocha"
-	"Eogan"
-	"Fergal"
-	"Fergus"
-	"Niall"
-	"Omagh"
-	"Strabane"
-	"Suibne"
+ship_names = { 
+	Aedh Baedan Colman Cookstown Donal Eocha Eogan Fergal Fergus Niall
+	Omagh Strabane Suibne 
+}
+fleet_names = { 
+}
+army_names = { 
 }

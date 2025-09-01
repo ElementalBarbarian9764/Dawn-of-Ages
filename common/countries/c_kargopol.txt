@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 100 40 10 }
-monarch_names = {
+monarch_names = { 
 	"Aatso #0" = 0
 	"Arvo #0" = 0
 	"Elisabet #0" = -1
@@ -14,4 +14,12 @@ monarch_names = {
 	"Luule #0" = -1
 	"Metta #0" = -1
 	"Pentti #0" = 0
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 148 150 28 }
 revolutionary_colors = { 5 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Apacahund #0" = 10
 	"Aupamut #0" = 20
 	"Awashonks #0" = -1
@@ -52,50 +52,17 @@ monarch_names = {
 	"Weetamoo #0" = -1
 	"Wootonekanuske #0" = -1
 }
-leader_names = {
-	"Bantam"
-	"Chaghnet"
-	"Horikan"
-	"Kaunaumeek"
-	"Kenuckpacook"
-	"Mahaiwe"
-	"Maringoman"
-	"Mehckentowoon"
-	"Monemius"
-	"Muhhcanneuw"
-	"Nepaug"
-	"Paanpaack"
-	"Pamperaug"
-	"Peantam"
-	"Potick"
-	"Potie"
-	"Scaticook"
-	"Shakehook"
-	"Shecomeco"
-	"Shodac"
-	"Unawat"
-	"Wawyachtonoc"
-	"Weataug"
-	"Wechquadnach"
-	"Wequadnack"
-	"Westenhuck"
-	"Wiatiae"
-	"Wiekagjoc"
-	"Wikwajek"
-	"Winooskeek"
-	"Wyeck"
+leader_names = { 
+	Bantam Chaghnet Horikan Kaunaumeek Kenuckpacook Mahaiwe Maringoman Mehckentowoon Monemius Muhhcanneuw
+	Nepaug Paanpaack Pamperaug Peantam Potick Potie Scaticook Shakehook Shecomeco Shodac
+	Unawat Wawyachtonoc Weataug Wechquadnach Wequadnack Westenhuck Wiatiae Wiekagjoc Wikwajek Winooskeek
+	Wyeck 
 }
-ship_names = {
-	"Achtonu"
-	"Amuau"
-	"Amuchkq"
-	"Keesog"
-	"Machooksis"
-	"Machq"
-	"Nahnioges"
-	"Namaas"
-	"Ndiau"
-	"Stau"
-	"Tpochgo"
-	"Tschechtschis"
+ship_names = { 
+	Achtonu Amuau Amuchkq Keesog Machooksis Machq Nahnioges Namaas Ndiau Stau
+	Tpochgo Tschechtschis 
+}
+fleet_names = { 
+}
+army_names = { 
 }

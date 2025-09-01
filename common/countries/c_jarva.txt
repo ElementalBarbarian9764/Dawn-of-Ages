@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = inuitgfx
 color = { 98 40 40 }
-monarch_names = {
+monarch_names = { 
 	"Ann #0" = -1
 	"Aulemb #0" = 0
 	"Hüvameel #0" = 0
@@ -18,4 +18,12 @@ monarch_names = {
 	"Varjelemb #0" = 0
 	"Vilitõiv #0" = 0
 	"Virge #0" = -1
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

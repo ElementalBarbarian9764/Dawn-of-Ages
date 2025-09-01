@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 76 141 58 }
 revolutionary_colors = { 10 0 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quantity_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_cavalry_charge
@@ -21,7 +21,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-'Aziz #0" = 20
 	"'Abd al-Ilah #0" = 20
 	"'Abd al-Malik #0" = 0
@@ -91,93 +91,21 @@ monarch_names = {
 	"al-Musta'in #0" = 20
 	"al-Nasr Faraj #0" = 20
 }
-leader_names = {
-	"Abbas"
-	"Ali"
-	"Aybak"
-	"Baibars"
-	"Bay"
-	"Bey"
-	"Bugha"
-	"Chammas"
-	"Farhat"
-	"Hammoud"
-	"Ibrahim"
-	"Inâl"
-	"Kansur"
-	"Khalil"
-	"Mansour"
-	"Saleh"
-	"Sayfuddin"
-	"Taleb"
-	"Youssef"
-	"Zangi"
+leader_names = { 
+	Abbas Ali Aybak Baibars Bay Bey Bugha Chammas Farhat Hammoud
+	Ibrahim Inâl Kansur Khalil Mansour Saleh Sayfuddin Taleb Youssef Zangi
 }
-ship_names = {
-	"Ad-Däkhilah"
-	"Adl"
-	"Ahmen Muyaid"
-	"Al-Ali"
-	"Al-Bahriyah"
-	"Al-Farafirah"
-	"Al-Kharijah"
-	"Alim"
-	"Ashraf Barsbay"
-	"Aziz"
-	"Aziz Gamal"
-	"Bari"
-	"Basir"
-	"Basit"
-	"Ben Barqooq"
-	"Farag Ben Barqooq"
-	"Fattah"
-	"Ghaffar"
-	"Hakam"
-	"Harrat Al-Buqum"
-	"Harrat Al-Kishb"
-	"Harrat Hadan"
-	"Harrat Khaybar"
-	"Harrat Kurama"
-	"Harrat Nawasif"
-	"Harrat Rahat"
-	"Harrat al-Unayyir"
-	"Hijaz"
-	"Jabal Abu Hasan"
-	"Jabal Baydan"
-	"Jabal Sawda"
-	"Jabal al-Jurayrah"
-	"Jabbar"
-	"Jeddah"
-	"Khafid"
-	"Khaliq"
-	"Malik"
-	"Mecca"
-	"Medina"
-	"Mu'izz"
-	"Mu'min"
-	"Mudhill"
-	"Muhaymin"
-	"Musawwir"
-	"Mutakabbir"
-	"Muyaid Sheikh"
-	"Nahr an-Nil"
-	"Nasser Muhamed"
-	"Qabid"
-	"Qahhar"
-	"Quddus"
-	"Rafi"
-	"Rahim"
-	"Rahman"
-	"Razzaq"
-	"Salam"
-	"Sami"
-	"Wahhab"
-	"Zaher Barqooq"
-	"Zaher Tatar"
+ship_names = { 
+	Ad-Däkhilah Adl "Ahmen Muyaid" Al-Ali Al-Bahriyah Al-Farafirah Al-Kharijah Alim "Ashraf Barsbay" Aziz
+	"Aziz Gamal" Bari Basir Basit "Ben Barqooq" "Farag Ben Barqooq" Fattah Ghaffar Hakam "Harrat Al-Buqum"
+	"Harrat Al-Kishb" "Harrat Hadan" "Harrat Khaybar" "Harrat Kurama" "Harrat Nawasif" "Harrat Rahat" "Harrat al-Unayyir" Hijaz "Jabal Abu Hasan" "Jabal Baydan"
+	"Jabal Sawda" "Jabal al-Jurayrah" Jabbar Jeddah Khafid Khaliq Malik Mecca Medina Mu'izz
+	Mu'min Mudhill Muhaymin Musawwir Mutakabbir "Muyaid Sheikh" "Nahr an-Nil" "Nasser Muhamed" Qabid Qahhar
+	Quddus Rafi Rahim Rahman Razzaq Salam Sami Wahhab "Zaher Barqooq" "Zaher Tatar"
 }
-army_names = {
-	"Jaish-al $PROVINCE$"
+army_names = { 
+	"Jaish-al $PROVINCE$" 
 }
-fleet_names = {
-	"Istawal-al $PROVINCE$"
+fleet_names = { 
+	"Istawal-al $PROVINCE$" 
 }

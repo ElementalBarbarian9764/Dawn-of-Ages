@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 209 203 31 }
 revolutionary_colors = { 8 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-Hâdî #0" = 10
 	"'Abd al-Jalîl #0" = 10
 	"'Abd al-Khaliq #0" = 10
@@ -70,41 +70,15 @@ monarch_names = {
 	"Zain #0" = 10
 	"Zaynal-'Abidîn #0" = 10
 }
-leader_names = {
-	"Abdulfatah"
-	"Ahmad"
-	"Amir"
-	"Anwar"
-	"Azmi"
-	"Batuta"
-	"Chairul"
-	"Hamzah"
-	"Hasanuddin"
-	"Ibnu"
-	"Kyai"
-	"Mahat"
-	"Mukhtar"
-	"Najamuddin"
-	"Natzar"
-	"Nazmizan"
-	"Roem"
-	"Syarifuddin"
-	"Zulkifli"
+leader_names = { 
+	Abdulfatah Ahmad Amir Anwar Azmi Batuta Chairul Hamzah Hasanuddin Ibnu
+	Kyai Mahat Mukhtar Najamuddin Natzar Nazmizan Roem Syarifuddin Zulkifli 
 }
-ship_names = {
-	"Apa"
-	"Balla"
-	"Bambang"
-	"Battu"
-	"Bulu"
-	"Cipuru"
-	"Doe"
-	"Iyo"
-	"Karaeng"
-	"Keko"
-	"Lakeko"
-	"Lompo"
-	"Sallo"
-	"Tabe"
-	"Tena"
+ship_names = { 
+	Apa Balla Bambang Battu Bulu Cipuru Doe Iyo Karaeng Keko
+	Lakeko Lompo Sallo Tabe Tena 
+}
+fleet_names = { 
+}
+army_names = { 
 }

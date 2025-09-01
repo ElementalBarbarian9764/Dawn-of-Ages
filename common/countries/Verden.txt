@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 227 211 34 }
 revolutionary_colors = { 0 1 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	defensive_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	spy_ideas
 }
 historical_score = 50
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adam #0" = 0
 	"Albrecht #1" = 15
 	"Alexander #0" = 0
@@ -74,63 +74,19 @@ monarch_names = {
 	"Siegmund #0" = 0
 	"Verena #0" = -1
 }
-leader_names = {
-	"Adler"
-	"Alers"
-	"Bake"
-	"Beckröge"
-	"Bergius"
-	"Berninghausen"
-	"Boelken"
-	"Bollheim"
-	"Brill"
-	"Delius"
-	"Drewers"
-	"Engels"
-	"Ficke"
-	"Foukhard"
-	"Geffken"
-	"Gildemeister"
-	"Grovermann"
-	"Happach"
-	"Heimbruch"
-	"Hinke"
-	"Kindt"
-	"Krefting"
-	"Köhne"
-	"Laporte"
-	"Löning"
-	"Meyer"
-	"Oelrichs"
-	"Ordemann"
-	"Reiners"
-	"Rohde"
-	"Sanders"
-	"Schulken"
-	"Steinwachs"
-	"Stucken"
-	"Truernitt"
-	"von Bobert"
-	"von Cappeln"
-	"von Holten"
-	"von Horn"
-	"von Meinertzhagen"
+leader_names = { 
+	Adler Alers Bake Beckröge Bergius Berninghausen Boelken Bollheim Brill Delius
+	Drewers Engels Ficke Foukhard Geffken Gildemeister Grovermann Happach Heimbruch Hinke
+	Kindt Krefting Köhne Laporte Löning Meyer Oelrichs Ordemann Reiners Rohde
+	Sanders Schulken Steinwachs Stucken Truernitt "von Bobert" "von Cappeln" "von Holten" "von Horn" "von Meinertzhagen"
 }
-ship_names = {
-	"Bremer Schlüssel"
-	"Bremer Stolz"
-	"Geelbeen"
-	"Honorius"
-	"Jever"
-	"Johann Dove"
-	"Roland"
-	"Tagenbare"
-	"Wappen von Bremen"
-	"Weserwelle"
-	"Willehad"
+ship_names = { 
+	"Bremer Schlüssel" "Bremer Stolz" Geelbeen Honorius Jever "Johann Dove" Roland Tagenbare "Wappen von Bremen" Weserwelle
+	Willehad 
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Erzbischofliche Garde"
+army_names = { 
+	"Armee von $PROVINCE$" "Erzbischofliche Garde" 
 }
 preferred_religion = protestant
+fleet_names = { 
+}

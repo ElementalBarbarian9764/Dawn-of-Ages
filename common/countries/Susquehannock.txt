@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 126 24 62 }
 revolutionary_colors = { 10 5 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Alliquippa #0" = -1
 	"Andra Sonque #0" = 10
 	"Auroghteregh #0" = 10
@@ -44,49 +44,16 @@ monarch_names = {
 	"Waskanecqua #0" = 10
 	"Wastahanda #0" = 10
 }
-leader_names = {
-	"Akhrakouaeronon"
-	"Akwinoshioni"
-	"Atquanachuke"
-	"Carentouan"
-	"Cepowig"
-	"Junita"
-	"Kaiuariegehaga"
-	"Kanastoge"
-	"Ohongeoguena"
-	"Onojutta-Haga"
-	"Oscalui"
-	"Quadroque"
-	"Scahentoarrhonon"
-	"Sconondihago"
-	"Seosquacke"
-	"Takoulguehronon"
-	"Tehaque"
-	"Tehotitachsae"
-	"Tesinigh"
-	"Unquehiett"
-	"Usququhaga"
-	"Utochwig"
-	"Wyoming"
-	"Wysox"
+leader_names = { 
+	Akhrakouaeronon Akwinoshioni Atquanachuke Carentouan Cepowig Junita Kaiuariegehaga Kanastoge Ohongeoguena Onojutta-Haga
+	Oscalui Quadroque Scahentoarrhonon Sconondihago Seosquacke Takoulguehronon Tehaque Tehotitachsae Tesinigh Unquehiett
+	Usququhaga Utochwig Wyoming Wysox 
 }
-ship_names = {
-	"Adekagagwaa"
-	"Ataensic"
-	"Atahensic"
-	"Gah-oh"
-	"Gaol"
-	"Gendenwitha"
-	"Gohone"
-	"Ha Wen Neyu"
-	"Hahgwehdaetgan"
-	"Hahgwehdiyu"
-	"Jogah"
-	"Losheka"
-	"Oki"
-	"Onatha"
-	"Sosondowah"
-	"Tarhuhyiawahku"
-	"Ya-o-gah"
-	"Yosheka"
+ship_names = { 
+	Adekagagwaa Ataensic Atahensic Gah-oh Gaol Gendenwitha Gohone "Ha Wen Neyu" Hahgwehdaetgan Hahgwehdiyu
+	Jogah Losheka Oki Onatha Sosondowah Tarhuhyiawahku Ya-o-gah Yosheka 
+}
+fleet_names = { 
+}
+army_names = { 
 }

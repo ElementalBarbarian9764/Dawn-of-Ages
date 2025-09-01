@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 194 140 86 }
 revolutionary_colors = { 9 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	spy_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	british_hussar
 	british_redcoat
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
 }
-monarch_names = {
+monarch_names = { 
 	"Albert #0" = 20
 	"Alexandre #0" = 0
 	"André #0" = 0
@@ -73,36 +73,15 @@ monarch_names = {
 	"Zéphirin #0" = 0
 	"Émile #0" = 0
 }
-leader_names = {
-	"Aucoin"
-	"Bergeron"
-	"Bouchard"
-	"Boulton"
-	"Bourque"
-	"Brisebois"
-	"Béliveau"
-	"Chouniard"
-	"Cloutier"
-	"Deveraux"
-	"Gagné"
-	"Giguère"
-	"Lacroix"
-	"Lambert"
-	"Lecavalier"
-	"Lemieux"
-	"Roy"
-	"Ysebeart"
+leader_names = { 
+	Aucoin Bergeron Bouchard Boulton Bourque Brisebois Béliveau Chouniard Cloutier Deveraux
+	Gagné Giguère Lacroix Lambert Lecavalier Lemieux Roy Ysebeart 
 }
-ship_names = {
-	"l'Acadie"
-	"l'Île Saint-Jean"
-	"l'Île-Royale"
-	"la Sainte-Croix"
-	"le Duquesne"
-	"le Gaspé"
-	"le Louisbourg"
-	"le Montréal"
-	"le Québec"
-	"le Trois-Rivières"
+ship_names = { 
+	l'Acadie "l'Île Saint-Jean" l'Île-Royale "la Sainte-Croix" "le Duquesne" "le Gaspé" "le Louisbourg" "le Montréal" "le Québec" "le Trois-Rivières"
 }
 colonial_parent = FRA
+fleet_names = { 
+}
+army_names = { 
+}

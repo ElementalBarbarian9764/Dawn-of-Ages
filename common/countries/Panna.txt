@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 254 254 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	quantity_ideas
 	offensive_ideas
 	diplomatic_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	indian_arquebusier
 	indian_elephant
@@ -24,7 +24,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Anirudh #0" = 0
 	"Anirudh Singh #0" = 20
 	"Baghwat Singh #0" = 20
@@ -61,53 +61,17 @@ monarch_names = {
 	"Sawant Singh Mahendra #0" = 20
 	"Udwat Singh #0" = 20
 }
-leader_names = {
-	"Baghela"
-	"Bais"
-	"Bhaal"
-	"Bundela"
-	"Chandela"
-	"Chattar"
-	"Chauhan"
-	"Datia"
-	"Jadon"
-	"Jasos"
-	"Katoch"
-	"Mihir"
-	"Minhas"
-	"Mori"
-	"Naga"
-	"Naru"
-	"Pakhral"
-	"Pundir"
-	"Saharan"
-	"Singh"
-	"Tomara"
+leader_names = { 
+	Baghela Bais Bhaal Bundela Chandela Chattar Chauhan Datia Jadon Jasos
+	Katoch Mihir Minhas Mori Naga Naru Pakhral Pundir Saharan Singh
+	Tomara 
 }
-ship_names = {
-	"Betwa"
-	"Devi"
-	"Durga"
-	"Gandak"
-	"Ganga"
-	"Gayatri"
-	"Ghagra"
-	"Gomti"
-	"Jalsena"
-	"Kala Jahazi"
-	"Ken"
-	"Lakshmi"
-	"Lal Jahazi"
-	"Nausena"
-	"Nav ka Yudh"
-	"Nila Jahazi"
-	"Parvati"
-	"Radha"
-	"Ramganga"
-	"Ratri"
-	"Sagar"
-	"Sarasvati"
-	"Satlaj"
-	"Sita"
-	"Yamuna"
+ship_names = { 
+	Betwa Devi Durga Gandak Ganga Gayatri Ghagra Gomti Jalsena "Kala Jahazi"
+	Ken Lakshmi "Lal Jahazi" Nausena "Nav ka Yudh" "Nila Jahazi" Parvati Radha Ramganga Ratri
+	Sagar Sarasvati Satlaj Sita Yamuna 
+}
+fleet_names = { 
+}
+army_names = { 
 }

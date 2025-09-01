@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 242 101 34 }
 revolutionary_colors = { 10 5 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Aquoqua #0" = 10
 	"Capontwa #0" = 10
 	"Catchacommu #0" = 10
@@ -73,35 +73,15 @@ monarch_names = {
 	"Weesaka #0" = 10
 	"Wonakasa #0" = 10
 }
-leader_names = {
-	"Asakiwakie"
-	"Blackhawk"
-	"Etnataek"
-	"Kickapoo"
-	"Kickapougwoi"
-	"Kithlipecanuk"
-	"Mesquakie"
-	"Osakis"
-	"Saukenuk"
-	"Tama"
-	"Thakiwakie"
-	"Wagosh"
+leader_names = { 
+	Asakiwakie Blackhawk Etnataek Kickapoo Kickapougwoi Kithlipecanuk Mesquakie Osakis Saukenuk Tama
+	Thakiwakie Wagosh 
 }
-ship_names = {
-	"Amowa"
-	"Anehka"
-	"Anemoha"
-	"Esepana"
-	"Ketiwa"
-	"Mahwewa"
-	"Makhwa"
-	"Manetowa"
-	"Meshihkeha"
-	"Meshweha"
-	"Moswa"
-	"Nektaoshakshaha"
-	"Peshekisia"
-	"Shekakwa"
-	"Wakosheha"
-	"Witekowa"
+ship_names = { 
+	Amowa Anehka Anemoha Esepana Ketiwa Mahwewa Makhwa Manetowa Meshihkeha Meshweha
+	Moswa Nektaoshakshaha Peshekisia Shekakwa Wakosheha Witekowa 
+}
+fleet_names = { 
+}
+army_names = { 
 }

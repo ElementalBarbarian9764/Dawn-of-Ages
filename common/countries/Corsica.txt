@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 106 178 46 }
 revolutionary_colors = { 15 0 16 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	french_bluecoat
 	french_caracolle
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albanu #0" = 0
 	"Alfonsu #1" = 0
 	"Amadeu #0" = 0
@@ -74,105 +74,21 @@ monarch_names = {
 	"Ubertu #0" = 0
 	"Zaccaria #0" = 0
 }
-leader_names = {
-	"Acquaviva"
-	"Agostini"
-	"Albertini"
-	"Angeli"
-	"Appietto"
-	"Astolfi"
-	"Bartoli"
-	"Batesti"
-	"Biancchini"
-	"Buonaparte"
-	"Cardi"
-	"Castelli"
-	"Ceccaldi"
-	"Cesari"
-	"Cipriani"
-	"Colonna"
-	"Corsofieru"
-	"Cucchi"
-	"Della Rocca"
-	"Della Serra"
-	"Franceschetti"
-	"Franceschini"
-	"Grafferi"
-	"Graziani"
-	"Guidoni"
-	"Leca"
-	"Lucchini"
-	"Luciani"
-	"Mancini"
-	"Marcaggi"
-	"Mariani"
-	"Mondolini"
-	"Moracchini"
-	"Natalini"
-	"Orsini"
-	"Orsoni"
-	"Palazzo"
-	"Paoli"
-	"Peretti"
-	"Raffaeli"
-	"Rivarola"
-	"Rossi"
-	"Salicetti"
-	"Sampiero"
-	"Sanguinetti"
-	"Santoni"
-	"Scarbonchi"
-	"Torre"
+leader_names = { 
+	Acquaviva Agostini Albertini Angeli Appietto Astolfi Bartoli Batesti Biancchini Buonaparte
+	Cardi Castelli Ceccaldi Cesari Cipriani Colonna Corsofieru Cucchi "Della Rocca" "Della Serra"
+	Franceschetti Franceschini Grafferi Graziani Guidoni Leca Lucchini Luciani Mancini Marcaggi
+	Mariani Mondolini Moracchini Natalini Orsini Orsoni Palazzo Paoli Peretti Raffaeli
+	Rivarola Rossi Salicetti Sampiero Sanguinetti Santoni Scarbonchi Torre 
 }
-ship_names = {
-	"Aria Marina"
-	"Attunante"
-	"Bucarone"
-	"Corsica"
-	"Corso Fieru"
-	"Galleotta"
-	"Gregale"
-	"Independenzia"
-	"Indumevule"
-	"Inflessibile"
-	"Intraprendente"
-	"Libecciu"
-	"Libertà"
-	"Livante"
-	"Maistrale"
-	"Maria"
-	"Nazione"
-	"Orgugliosu"
-	"Patriota"
-	"Pruch'ella Duri"
-	"Punente"
-	"Sant'Abele"
-	"Sant'Apebe"
-	"Sant'Egidiu"
-	"Santa Brigita"
-	"Santa Prudenzia"
-	"Santa Tassiana"
-	"Santa Teresa"
-	"Santa Zita"
-	"Santissima Concezzione"
-	"Santu Briziu"
-	"Santu Ghjambattista"
-	"Santu Landericu"
-	"Santu Lanfrancu"
-	"Santu Mauru"
-	"Santu Prutasiu"
-	"Santu Tavianu"
-	"Sbuffulera"
-	"Scioru"
-	"Sciroccu"
-	"Sculapratu"
-	"St'Antonio di Padova"
-	"Stella"
-	"Terribile"
-	"Terrore"
-	"Timevule"
-	"Timpesta"
-	"Tramuntana"
-	"Tunizata"
-	"Ventizata"
+ship_names = { 
+	"Aria Marina" Attunante Bucarone Corsica "Corso Fieru" Galleotta Gregale Independenzia Indumevule Inflessibile
+	Intraprendente Libecciu Libertà Livante Maistrale Maria Nazione Orgugliosu Patriota "Pruch'ella Duri"
+	Punente Sant'Abele Sant'Apebe Sant'Egidiu "Santa Brigita" "Santa Prudenzia" "Santa Tassiana" "Santa Teresa" "Santa Zita" "Santissima Concezzione"
+	"Santu Briziu" "Santu Ghjambattista" "Santu Landericu" "Santu Lanfrancu" "Santu Mauru" "Santu Prutasiu" "Santu Tavianu" Sbuffulera Scioru Sciroccu
+	Sculapratu "St'Antonio di Padova" Stella Terribile Terrore Timevule Timpesta Tramuntana Tunizata Ventizata
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 117 161 67 }
 revolutionary_colors = { 8 5 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albrecht #0" = 10
 	"Albrecht Karl #0" = 10
 	"August Georg #0" = 20
@@ -73,55 +73,18 @@ monarch_names = {
 	"Wolfgang #0" = 10
 	"Wolfram #0" = 0
 }
-leader_names = {
-	"Albers"
-	"Baehr"
-	"Beer"
-	"Benthens"
-	"Breh"
-	"Bächtold"
-	"Eisenkolb"
-	"Erb"
-	"Ferstenfeld"
-	"Fischer"
-	"Grether"
-	"Göhringer"
-	"Heitzmann"
-	"Helff"
-	"Kempf"
-	"Klee"
-	"Mackensen"
-	"Römermann"
-	"Schüßler"
-	"Steinmann"
-	"Tientjen"
-	"Tuve"
-	"Wachsmuth"
+leader_names = { 
+	Albers Baehr Beer Benthens Breh Bächtold Eisenkolb Erb Ferstenfeld Fischer
+	Grether Göhringer Heitzmann Helff Kempf Klee Mackensen Römermann Schüßler Steinmann
+	Tientjen Tuve Wachsmuth 
 }
-ship_names = {
-	"Bretten"
-	"Bruchsal"
-	"Constance"
-	"Eberbach"
-	"Feldberg"
-	"Freiburg"
-	"Heidelberg"
-	"Karlsruhe"
-	"Kinzig"
-	"Lahr"
-	"Linzgau"
-	"Lörrach"
-	"Mannheim"
-	"Markgraf Bernard I"
-	"Markgraf Hermann"
-	"Markgraf Karl I"
-	"Offenburg"
-	"Rastatt"
-	"Rhein"
-	"Tauber"
-	"Villingen"
+ship_names = { 
+	Bretten Bruchsal Constance Eberbach Feldberg Freiburg Heidelberg Karlsruhe Kinzig Lahr
+	Linzgau Lörrach Mannheim "Markgraf Bernard I" "Markgraf Hermann" "Markgraf Karl I" Offenburg Rastatt Rhein Tauber
+	Villingen 
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Markgräfische Garde"
+army_names = { 
+	"Armee von $PROVINCE$" "Markgräfische Garde" 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 245 200 30 }
 revolutionary_colors = { 8 0 16 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -30,7 +30,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Aiolos #0" = 0
 	"Amalric #2" = 5
 	"Barbara #0" = -1
@@ -74,27 +74,13 @@ monarch_names = {
 	"Zacharias #0" = 0
 	"Zenobios #0" = 0
 }
-leader_names = {
-	"Bragadin"
-	"Crispo"
-	"Doria"
-	"Fadrigue"
-	"Lusignans"
-	"Melissinos"
-	"Plethon"
-	"Rendis"
-	"Saraceno"
-	"Tocco"
+leader_names = { 
+	Bragadin Crispo Doria Fadrigue Lusignans Melissinos Plethon Rendis Saraceno Tocco
 }
-ship_names = {
-	"Agios Georgios"
-	"Kato Yialla"
-	"Lachi"
-	"Leivadi"
-	"Lempa"
-	"Maa"
-	"Maurvoll"
-	"Pakhyammos"
-	"Pomos"
-	"Symvoulos"
+ship_names = { 
+	"Agios Georgios" "Kato Yialla" Lachi Leivadi Lempa Maa Maurvoll Pakhyammos Pomos Symvoulos
+}
+fleet_names = { 
+}
+army_names = { 
 }

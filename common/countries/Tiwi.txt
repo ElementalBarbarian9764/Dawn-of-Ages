@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = aboriginalgfx
 color = { 55 135 17 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	maritime_ideas
 	economic_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	trade_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	aboriginal_arquebusier
 	aboriginal_boomerang
 	aboriginal_cavalry
@@ -24,7 +24,7 @@ historical_units = {
 	aboriginal_riflemen
 	aboriginal_swarm_cav
 }
-monarch_names = {
+monarch_names = { 
 	"Adoni #0" = 1
 	"Akala #0" = -1
 	"Akama #0" = 1
@@ -137,62 +137,17 @@ monarch_names = {
 	"Yarall #0" = -1
 	"Yemmerrawanne #0" = 1
 }
-leader_names = {
-	"Adoni"
-	"Akama"
-	"Allambee"
-	"Amaroo"
-	"Apari"
-	"Araluen"
-	"Arunta"
-	"Balun"
-	"Balunn"
-	"Dural"
-	"Ganan"
-	"Gelar"
-	"Girra"
-	"Jarra"
-	"Jarrah"
-	"Jerara"
-	"Jirra"
-	"Kalti"
-	"Maka"
-	"Mallee"
-	"Mandu"
-	"Marron"
-	"Matari"
-	"Mearann"
-	"Minar"
-	"Miro"
-	"Mogo"
-	"Monti"
-	"Mowan"
-	"Odern"
-	"Orad"
-	"Parri"
-	"Pindan"
-	"Pindari"
-	"Taree"
-	"Tewart"
-	"Tuart"
-	"Uwan"
-	"Warra"
-	"Warrain"
+leader_names = { 
+	Adoni Akama Allambee Amaroo Apari Araluen Arunta Balun Balunn Dural
+	Ganan Gelar Girra Jarra Jarrah Jerara Jirra Kalti Maka Mallee
+	Mandu Marron Matari Mearann Minar Miro Mogo Monti Mowan Odern
+	Orad Parri Pindan Pindari Taree Tewart Tuart Uwan Warra Warrain
 }
-ship_names = {
-	"Batavia"
-	"Drua"
-	"Falua"
-	"Karakoa"
-	"Lanong"
-	"Lisi"
-	"Owong"
-	"Pajala"
-	"Panineman"
-	"Patorani"
-	"Peland"
-	"Perahupayang"
-	"Sandeq"
-	"Xantho"
-	"Zuytdorp"
+ship_names = { 
+	Batavia Drua Falua Karakoa Lanong Lisi Owong Pajala Panineman Patorani
+	Peland Perahupayang Sandeq Xantho Zuytdorp 
+}
+fleet_names = { 
+}
+army_names = { 
 }

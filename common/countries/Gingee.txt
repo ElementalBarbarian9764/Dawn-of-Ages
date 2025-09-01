@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 62 39 142 }
 revolutionary_colors = { 10 0 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	offensive_ideas
 	administrative_ideas
 	economic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	trade_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_elephant
@@ -26,7 +26,7 @@ historical_units = {
 	south_indian_musketeer
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Achyuta #0" = 10
 	"Appa  #0" = 10
 	"Chennappa #0" = 20
@@ -50,39 +50,15 @@ monarch_names = {
 	"Venkata Rama Bhupaala #0" = 20
 	"Venkatappa #0" = 10
 }
-leader_names = {
-	"Bahadur"
-	"Chetty"
-	"Khader"
-	"Khan"
-	"Khan Wallajah"
-	"Mudaliar"
-	"Rajapopalachari"
-	"Reddy"
-	"Saluva"
-	"Sastri"
-	"Thondaiman"
-	"ul Umra"
+leader_names = { 
+	Bahadur Chetty Khader Khan "Khan Wallajah" Mudaliar Rajapopalachari Reddy Saluva Sastri
+	Thondaiman "ul Umra" 
 }
-ship_names = {
-	"Chambal"
-	"Devi"
-	"Durga"
-	"Ganga"
-	"Gayatri"
-	"Jalsena"
-	"Kala Jahazi"
-	"Lakshmi"
-	"Lal Jahazi"
-	"Nausena"
-	"Nav ka Yudh"
-	"Nila Jahazi"
-	"Parvati"
-	"Radha"
-	"Ratri"
-	"Sagar"
-	"Sarasvati"
-	"Sita"
-	"Spiti"
-	"Yamuna"
+ship_names = { 
+	Chambal Devi Durga Ganga Gayatri Jalsena "Kala Jahazi" Lakshmi "Lal Jahazi" Nausena
+	"Nav ka Yudh" "Nila Jahazi" Parvati Radha Ratri Sagar Sarasvati Sita Spiti Yamuna
+}
+fleet_names = { 
+}
+army_names = { 
 }

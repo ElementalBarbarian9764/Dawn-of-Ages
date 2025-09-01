@@ -1,9 +1,7 @@
-owner = SDM
-controller = SDM
 capital = "Vestbygden"
 culture = danish
 religion = norse_pagan
-trade_goods = ivory
+trade_goods = unknown
 base_tax = 3
 base_production = 3
 base_manpower = 3

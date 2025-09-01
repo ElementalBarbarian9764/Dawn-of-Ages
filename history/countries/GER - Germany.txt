@@ -2,11 +2,10 @@ government = monarchy
 add_government_reform = autocracy_reform
 government_rank = 3
 technology_group = western
-religion = norse_pagan_reformed
-primary_culture = suebi
+religion = fyrnsidu
 capital = 50
-409.6.30= {
-	monarch = {
+409.6.30 = { 
+	monarch = { 
 		name = "Friedrick II"
 		dynasty = "Anguling"
 		adm = 3
@@ -18,7 +17,7 @@ capital = 50
 	}
 	add_ruler_personality = free_thinker_personality
 	add_ruler_personality = sinner_personality
-	heir = {
+	heir = { 
 		name = "Friedrick III"
 		monarch_name = "Friedrick III"
 		dynasty = "Anguling"
@@ -34,7 +33,8 @@ capital = 50
 	add_heir_personality = strict_personality
 	add_heir_personality = tactical_genius_personality
 }
-409.6.30= {
+409.6.30 = { 
 	add_prestige = 98
 	add_treasury = 76
 }
+primary_culture = berliners

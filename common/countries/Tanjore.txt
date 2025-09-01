@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 203 32 82 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	quantity_ideas
 	defensive_ideas
 	trade_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	economic_ideas
 	aristocracy_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_elephant
@@ -24,7 +24,7 @@ historical_units = {
 	south_indian_musketeer
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Achuthappa #0" = 10
 	"Alagiri #0" = 10
 	"Ariyanatha #0" = 0
@@ -41,41 +41,15 @@ monarch_names = {
 	"Vijaya Raghava #0" = 10
 	"Yachama #0" = 0
 }
-leader_names = {
-	"Chetty"
-	"Dalawa"
-	"Mudaliar"
-	"Nayak"
-	"Rajapopalachari"
-	"Saluva"
-	"Saraf"
-	"Sastri"
-	"Senji"
-	"Thondaiman"
+leader_names = { 
+	Chetty Dalawa Mudaliar Nayak Rajapopalachari Saluva Saraf Sastri Senji Thondaiman
 }
-ship_names = {
-	"Amirtha"
-	"Amman"
-	"Arul"
-	"Chellam"
-	"Devi"
-	"Durga"
-	"Gayatri"
-	"Iniya"
-	"Kaveri"
-	"Lakshmi"
-	"Madhu"
-	"Meenakshi"
-	"Nalini"
-	"Palar"
-	"Parvati"
-	"Pennar"
-	"Ponnaiyar"
-	"Ponni"
-	"Radha"
-	"Ratri"
-	"Sarasvati"
-	"Sita"
-	"Tamarai"
-	"Vaigai"
+ship_names = { 
+	Amirtha Amman Arul Chellam Devi Durga Gayatri Iniya Kaveri Lakshmi
+	Madhu Meenakshi Nalini Palar Parvati Pennar Ponnaiyar Ponni Radha Ratri
+	Sarasvati Sita Tamarai Vaigai 
+}
+fleet_names = { 
+}
+army_names = { 
 }

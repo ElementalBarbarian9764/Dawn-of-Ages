@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 89 128 68 }
 revolutionary_colors = { 5 13 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adam Friedrich #0" = 20
 	"Adolf #0" = 0
 	"Albrecht #0" = 15
@@ -107,70 +107,19 @@ monarch_names = {
 	"Wilhelm Friedrich #0" = 20
 	"Wolfram #0" = 15
 }
-leader_names = {
-	"Blochberger"
-	"Bär"
-	"Degen"
-	"Dick"
-	"Dietsch"
-	"Däumler"
-	"Egelkraut"
-	"Ernst"
-	"Fichtelmann"
-	"Fischer"
-	"Franck"
-	"Färber"
-	"Födisch"
-	"Grimm"
-	"Gäbelein"
-	"Hager"
-	"Hofmann"
-	"Höhrer"
-	"Knörnschild"
-	"Langheinrich"
-	"Maier"
-	"Narr"
-	"Ott"
-	"Ranck"
-	"Rank"
-	"Rudl"
-	"Sack"
-	"Schmidt"
-	"Schwager"
-	"Seel"
-	"Sell"
-	"Simon"
-	"Söll"
-	"Teichmann"
-	"Weinrich"
-	"Wirth"
+leader_names = { 
+	Blochberger Bär Degen Dick Dietsch Däumler Egelkraut Ernst Fichtelmann Fischer
+	Franck Färber Födisch Grimm Gäbelein Hager Hofmann Höhrer Knörnschild Langheinrich
+	Maier Narr Ott Ranck Rank Rudl Sack Schmidt Schwager Seel
+	Sell Simon Söll Teichmann Weinrich Wirth 
 }
-ship_names = {
-	"Albrecht Achilles"
-	"Bayreuth"
-	"Bergtheim"
-	"Biebelried"
-	"Eigelstadt"
-	"Friedrich V"
-	"Friedrich von Ansbach"
-	"Georg"
-	"Georg Friedrich"
-	"Gramschatz"
-	"Hohenzollern"
-	"Höchberg"
-	"Julius Echter"
-	"Kietzingen"
-	"Kulmbach"
-	"Main"
-	"Marienberg"
-	"Ochsenfurth"
-	"Onoldsbach"
-	"Rezat"
-	"Rimpar"
-	"Uettingen"
-	"Wern"
+ship_names = { 
+	"Albrecht Achilles" Bayreuth Bergtheim Biebelried Eigelstadt "Friedrich V" "Friedrich von Ansbach" Georg "Georg Friedrich" Gramschatz
+	Hohenzollern Höchberg "Julius Echter" Kietzingen Kulmbach Main Marienberg Ochsenfurth Onoldsbach Rezat
+	Rimpar Uettingen Wern 
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Erste Fränkische Armee"
+army_names = { 
+	"Armee von $PROVINCE$" "Erste Fränkische Armee" 
+}
+fleet_names = { 
 }

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 200 130 70 }
-monarch_names = {
+monarch_names = { 
 	"Akal #0" = -1
 	"Bauladevi #0" = -1
 	"Deopali-Deo #0" = 0
@@ -32,4 +32,12 @@ monarch_names = {
 	"Vigrharaja #0" = 0
 	"Yasovarman #1" = 10
 	"Zhaorong #0" = -1
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

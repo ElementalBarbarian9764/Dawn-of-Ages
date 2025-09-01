@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = southamericagfx
 color = { 255 200 0 }
-historical_units = {
+historical_units = { 
 	aztec_gunpowder_warfare
 	aztec_hill_warfare
 	aztec_tribal_warfare
@@ -9,7 +9,7 @@ historical_units = {
 	south_american_spearmen
 	westernized_aztec
 }
-monarch_names = {
+monarch_names = { 
 	"Acacitli #0" = 1
 	"Acamapichtli #0" = 1
 	"Ahcambal #0" = 1
@@ -54,148 +54,26 @@ monarch_names = {
 	"Yaztachimal #0" = 1
 	"Zolton #0" = 1
 }
-leader_names = {
-	"Acatlotzin"
-	"Ahuítzotl"
-	"Axayacátl"
-	"Axoquetzin"
-	"Cacamatzin"
-	"Chalchiutlatonac"
-	"Cuauhtemoc"
-	"Cuitlahuac"
-	"Cuitlalpitoc"
-	"Ecatzin"
-	"Eyahue"
-	"Ezhuahuacatl"
-	"Huemac"
-	"Huestzin"
-	"Huitzilihuitl"
-	"Itzcoatl"
-	"Ixtlilxochitl"
-	"Izquemitl"
-	"Maxixcatzin"
-	"Mazatl"
-	"Moctezuma"
-	"Motelchiuh"
-	"Nauyotl"
-	"Nezahualpilli"
-	"Nopaltzin"
-	"Ocelopan"
-	"Olintecke"
-	"Opochtli"
-	"Oquitzin"
-	"Panitzin"
-	"Pimotl"
-	"Popopoyotl"
-	"Quahcoatl"
-	"Qualpopoca"
-	"Quilaztli"
-	"Quimichetl"
-	"Temilotecatl"
-	"Tezozomoc"
-	"Tizoc"
-	"Totoquihuatzin"
-	"Tzompantli"
-	"Xiconocatzin"
-	"Xochipanitzin"
-	"Xolotl"
-	"Xomimitl"
-	"Yaomauhitzin"
-	"Yaztachimal"
-	"Zincicha"
-	"Zoanacochtzin"
-	"Zolton"
+leader_names = { 
+	Acatlotzin Ahuítzotl Axayacátl Axoquetzin Cacamatzin Chalchiutlatonac Cuauhtemoc Cuitlahuac Cuitlalpitoc Ecatzin
+	Eyahue Ezhuahuacatl Huemac Huestzin Huitzilihuitl Itzcoatl Ixtlilxochitl Izquemitl Maxixcatzin Mazatl
+	Moctezuma Motelchiuh Nauyotl Nezahualpilli Nopaltzin Ocelopan Olintecke Opochtli Oquitzin Panitzin
+	Pimotl Popopoyotl Quahcoatl Qualpopoca Quilaztli Quimichetl Temilotecatl Tezozomoc Tizoc Totoquihuatzin
+	Tzompantli Xiconocatzin Xochipanitzin Xolotl Xomimitl Yaomauhitzin Yaztachimal Zincicha Zoanacochtzin Zolton
 }
-ship_names = {
-	"Acolmiztli"
-	"Acolnahuacat"
-	"Ah Hoya"
-	"Ah Tzenul"
-	"Amimitl"
-	"Apanecatl"
-	"Atl"
-	"Atlau"
-	"Axoloa"
-	"Camaxtli"
-	"Centeot"
-	"Centzonuiznaua"
-	"Chalchiuhtlatonal"
-	"Chalchiuhtlicue"
-	"Chalchiutotolin"
-	"Chalmecalt"
-	"Chalmecaucihuilt"
-	"Chantico"
-	"Chichomexochtli"
-	"Chicomecoatl"
-	"Chiconahuai"
-	"Chihalma"
-	"Chualchihuitlcue"
-	"Cihuacaotyl"
-	"Cinteotl"
-	"Citlalatonac"
-	"Citlalicue"
-	"Ciucoatl"
-	"Coatlicue"
-	"Cochimetl"
-	"Coyolxauhqui"
-	"Cuauhcoatl"
-	"Ehehcatl"
-	"Eueucoyotl"
-	"Hopop Can"
-	"Huehueteotl"
-	"Huitzilopochtli"
-	"Huixtocihuatl"
-	"Itzcoliuhqui"
-	"Itzli"
-	"Itzpapalotl"
-	"Itzpzpalotl"
-	"Ixtlilton"
-	"Iztamixcoatzin"
-	"Macuilxochitl"
-	"Mahayuel"
-	"Malinalxochi"
-	"Matalcueye"
-	"Metztli"
-	"Mictlan"
-	"Mictlancihuntl"
-	"Mictlantechtle"
-	"Mictlantechupi"
-	"Mictlantecihuatl"
-	"Mixcoatl"
-	"Nanauatzin"
-	"Ococaltzin"
-	"Omecihuatl"
-	"Ometecuhlti"
-	"Ometeotl"
-	"Omeyocan"
-	"Patecatli"
-	"Paynal"
-	"Quetzalcoatl"
-	"Tecciztecatl"
-	"Teoyaomqui"
-	"Tepeyollotl"
-	"Teteoinnan"
-	"Tezacoatl"
-	"Tezcatlipoca"
-	"Tillan-Tlapallan"
-	"Tlaloc"
-	"Tlalocan"
-	"Tlaltechhtlii"
-	"Tlazolteotl"
-	"Tonacatecuhtli"
-	"Tonatiuhican"
-	"Tonatiuth"
-	"Tzitmime"
-	"Xilonen"
-	"Xipe Totec"
-	"Xiucoatl"
-	"Xiuhtecuhtli"
-	"Xochipilli"
-	"Xochiquetzal"
-	"Xolotl"
-	"Xonecuilli"
-	"Yacatechutli"
+ship_names = { 
+	Acolmiztli Acolnahuacat "Ah Hoya" "Ah Tzenul" Amimitl Apanecatl Atl Atlau Axoloa Camaxtli
+	Centeot Centzonuiznaua Chalchiuhtlatonal Chalchiuhtlicue Chalchiutotolin Chalmecalt Chalmecaucihuilt Chantico Chichomexochtli Chicomecoatl
+	Chiconahuai Chihalma Chualchihuitlcue Cihuacaotyl Cinteotl Citlalatonac Citlalicue Ciucoatl Coatlicue Cochimetl
+	Coyolxauhqui Cuauhcoatl Ehehcatl Eueucoyotl "Hopop Can" Huehueteotl Huitzilopochtli Huixtocihuatl Itzcoliuhqui Itzli
+	Itzpapalotl Itzpzpalotl Ixtlilton Iztamixcoatzin Macuilxochitl Mahayuel Malinalxochi Matalcueye Metztli Mictlan
+	Mictlancihuntl Mictlantechtle Mictlantechupi Mictlantecihuatl Mixcoatl Nanauatzin Ococaltzin Omecihuatl Ometecuhlti Ometeotl
+	Omeyocan Patecatli Paynal Quetzalcoatl Tecciztecatl Teoyaomqui Tepeyollotl Teteoinnan Tezacoatl Tezcatlipoca
+	Tillan-Tlapallan Tlaloc Tlalocan Tlaltechhtlii Tlazolteotl Tonacatecuhtli Tonatiuhican Tonatiuth Tzitmime Xilonen
+	"Xipe Totec" Xiucoatl Xiuhtecuhtli Xochipilli Xochiquetzal Xolotl Xonecuilli Yacatechutli 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+fleet_names = { 
 }

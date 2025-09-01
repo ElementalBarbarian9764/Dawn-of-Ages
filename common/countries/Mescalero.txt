@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 218 158 79 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -20,7 +20,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Ahzaah #0" = 20
 	"Bazheech #0" = 20
 	"Chacon #0" = 20
@@ -50,62 +50,18 @@ monarch_names = {
 	"Tillaka #0" = 20
 	"Tohayea #0" = -1
 }
-leader_names = {
-	"Arivaipa"
-	"Carlanas"
-	"Ch'uuk'anen"
-	"Chiricahua"
-	"Cholome"
-	"Cibecue"
-	"Coyotero"
-	"Faraones"
-	"Gileno"
-	"Jicarilla"
-	"Jocome"
-	"KIowa"
-	"Kiva"
-	"Lipan"
-	"Lipiyanes"
-	"Llanero"
-	"Manso"
-	"Mescalero"
-	"Mimbrenos"
-	"Mogollon"
-	"Mojave"
-	"Na'iisha"
-	"Natages"
-	"Navajo"
-	"Pelone"
-	"Pinal"
-	"Querechos"
-	"Ramah"
-	"Sibolo"
-	"Toboso"
-	"Tonto"
-	"Yavapai"
+leader_names = { 
+	Arivaipa Carlanas Ch'uuk'anen Chiricahua Cholome Cibecue Coyotero Faraones Gileno Jicarilla
+	Jocome KIowa Kiva Lipan Lipiyanes Llanero Manso Mescalero Mimbrenos Mogollon
+	Mojave Na'iisha Natages Navajo Pelone Pinal Querechos Ramah Sibolo Toboso
+	Tonto Yavapai 
 }
-ship_names = {
-	"Ba'cho"
-	"Biih"
-	"Chaa"
-	"Chinii"
-	"Dahsziné"
-	"Dl'ishtlohé"
-	"Gaagé"
-	"Gah"
-	"Golizhi"
-	"Goshe"
-	"Gosnih"
-	"Itsa"
-	"Koh"
-	"Muh"
-	"Na'iltsoh"
-	"Ndotkah"
-	"T'iish"
-	"Tij"
-	"Tl'é'na'ai"
-	"Tog"
-	"Tsét'soyé"
-	"Tulij"
-	"Ya'ii"
+ship_names = { 
+	Ba'cho Biih Chaa Chinii Dahsziné Dl'ishtlohé Gaagé Gah Golizhi Goshe
+	Gosnih Itsa Koh Muh Na'iltsoh Ndotkah T'iish Tij Tl'é'na'ai Tog
+	Tsét'soyé Tulij Ya'ii 
+}
+fleet_names = { 
+}
+army_names = { 
 }

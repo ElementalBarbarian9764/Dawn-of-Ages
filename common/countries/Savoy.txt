@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 235 196 231 }
 revolutionary_colors = { 5 13 6 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	french_bluecoat
 	french_carabinier
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adriano #0" = 10
 	"Agostino #0" = 0
 	"Aimone #0" = 10
@@ -76,110 +76,23 @@ monarch_names = {
 	"Vittorio #0" = 0
 	"Vittorio Amedeo #0" = 40
 }
-leader_names = {
-	"Alfieri"
-	"Arborio Mella"
-	"Asinari"
-	"Balbo"
-	"Benso"
-	"Boncompagni Ludovisi"
-	"Borromeo"
-	"Bosco"
-	"Botta"
-	"Broglia"
-	"Cacherano"
-	"Cafasso"
-	"Cantatore di Breo"
-	"Carignano"
-	"Casati"
-	"Chiodo"
-	"Cisa Asinari"
-	"Cottolengo"
-	"Doria di Cirié"
-	"Ferrero-Fiesco"
-	"Fiesco"
-	"Gaetani"
-	"Gaetani dell'Aquila"
-	"Galletti"
-	"Gioberti"
-	"Lascaris"
-	"Luserna di Bonifacio"
-	"Luserna di Campiglione"
-	"Luserna di Chiaberto"
-	"Melzi"
-	"Micca"
-	"Paleologi Montferrato"
-	"Pallavicini"
-	"Solaro"
-	"Taparelli"
-	"Valdo"
-	"Valfré"
-	"Vico"
-	"d'Acaja"
-	"d'Appiani d'Aragona"
-	"d'Attalaya"
-	"d'Incisa"
-	"d'Ottaiano"
-	"de Maretta"
-	"del Marco"
-	"del Monte"
-	"del Vasto"
-	"della Torre"
-	"di Busca"
-	"di Cadoval"
-	"di Cardé"
-	"di Challant"
-	"di Luserna"
-	"di Paesana"
-	"di Saluzzo"
-	"di Savoia"
+leader_names = { 
+	Alfieri "Arborio Mella" Asinari Balbo Benso "Boncompagni Ludovisi" Borromeo Bosco Botta Broglia
+	Cacherano Cafasso "Cantatore di Breo" Carignano Casati Chiodo "Cisa Asinari" Cottolengo "Doria di Cirié" Ferrero-Fiesco
+	Fiesco Gaetani "Gaetani dell'Aquila" Galletti Gioberti Lascaris "Luserna di Bonifacio" "Luserna di Campiglione" "Luserna di Chiaberto" Melzi
+	Micca "Paleologi Montferrato" Pallavicini Solaro Taparelli Valdo Valfré Vico d'Acaja "d'Appiani d'Aragona"
+	d'Attalaya d'Incisa d'Ottaiano "de Maretta" "del Marco" "del Monte" "del Vasto" "della Torre" "di Busca" "di Cadoval"
+	"di Cardé" "di Challant" "di Luserna" "di Paesana" "di Saluzzo" "di Savoia" 
 }
-ship_names = {
-	"Adelaide di Susa"
-	"Aimone"
-	"Albane"
-	"Amedeo Coda"
-	"Annecy"
-	"Bauges"
-	"Bellevaux"
-	"Biancamano"
-	"Bonifacio"
-	"Casa di Savoia"
-	"Chablais"
-	"Chambéry"
-	"Contamine-sur-Arve"
-	"Dora Riparia"
-	"Edoardo"
-	"Entremont"
-	"Faucigny"
-	"Filippo"
-	"Genevois"
-	"Giacomo"
-	"Hautecombe"
-	"Jaquerio"
-	"Lac du Bourget"
-	"Leysse"
-	"Maurienne"
-	"Oddone"
-	"Piemonte"
-	"Pietro I"
-	"Sacra Sindone"
-	"San Domenico"
-	"San Donato"
-	"San Paolo"
-	"San Salvario"
-	"Sangone"
-	"Santa Rita"
-	"Stura di Lanzo"
-	"Talloires"
-	"Tamié"
-	"Tarentaise"
-	"Tommaso"
-	"Torino"
-	"Umberto Sabaudia"
-	"Val d'Aosta"
-	"fiume Po"
+ship_names = { 
+	"Adelaide di Susa" Aimone Albane "Amedeo Coda" Annecy Bauges Bellevaux Biancamano Bonifacio "Casa di Savoia"
+	Chablais Chambéry Contamine-sur-Arve "Dora Riparia" Edoardo Entremont Faucigny Filippo Genevois Giacomo
+	Hautecombe Jaquerio "Lac du Bourget" Leysse Maurienne Oddone Piemonte "Pietro I" "Sacra Sindone" "San Domenico"
+	"San Donato" "San Paolo" "San Salvario" Sangone "Santa Rita" "Stura di Lanzo" Talloires Tamié Tarentaise Tommaso
+	Torino "Umberto Sabaudia" "Val d'Aosta" "fiume Po" 
 }
-army_names = {
-	"Armata di $PROVINCE$"
+army_names = { 
+	"Armata di $PROVINCE$" 
+}
+fleet_names = { 
 }

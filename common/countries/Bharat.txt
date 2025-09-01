@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 80 165 10 }
 revolutionary_colors = { 6 0 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	humanist_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_elephant
@@ -26,7 +26,7 @@ historical_units = {
 	sikh_rifle
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Achyuta #0" = 20
 	"Adarsh #0" = 0
 	"Aliya Rama #0" = 5
@@ -78,81 +78,19 @@ monarch_names = {
 	"Yachama #0" = 0
 	"Yethiraja #0" = 10
 }
-leader_names = {
-	"Ali"
-	"Azad"
-	"Bhutto"
-	"Chatterji"
-	"Chittoor"
-	"Dasari"
-	"Ghemawat"
-	"Hussein"
-	"Jahan"
-	"Jeoomal"
-	"Keshaw"
-	"Khan"
-	"Lodi"
-	"Lohia"
-	"Malini"
-	"Mallikarjun"
-	"Mayekar"
-	"Musharif"
-	"Nagar"
-	"Nazimuddin"
-	"Padmesh"
-	"Ra'ana"
-	"Sharif"
-	"Sharma"
-	"Sinan"
-	"Singh"
-	"Viqar-ul-Mulk"
+leader_names = { 
+	Ali Azad Bhutto Chatterji Chittoor Dasari Ghemawat Hussein Jahan Jeoomal
+	Keshaw Khan Lodi Lohia Malini Mallikarjun Mayekar Musharif Nagar Nazimuddin
+	Padmesh Ra'ana Sharif Sharma Sinan Singh Viqar-ul-Mulk 
 }
-ship_names = {
-	"Alia"
-	"Amirtha"
-	"Amman"
-	"Arul"
-	"Bharatapuza"
-	"Bhavani"
-	"Bhima"
-	"Chambal"
-	"Chellam"
-	"Devi"
-	"Durga"
-	"Fatimah"
-	"Ganges"
-	"Gayatri"
-	"Godavari"
-	"Iniya"
-	"Jalsena"
-	"Kabani"
-	"Kala Jahazi"
-	"Kaveri"
-	"Khan"
-	"Krishna"
-	"Lakshmi"
-	"Lal Jahazi"
-	"Madhu"
-	"Meenakshi"
-	"Nalini"
-	"Nausena"
-	"Nav ka Yudh"
-	"Niknaz"
-	"Nila Jahazi"
-	"Niloufa"
-	"Noor"
-	"Pambar"
-	"Parvati"
-	"Periyar"
-	"Ponni"
-	"Radha"
-	"Ratri"
-	"Sagar"
-	"Sarasvati"
-	"Sita"
-	"Spiti"
-	"Tamarai"
-	"Tungabhadra"
-	"Yamuna"
-	"Yasmine"
+ship_names = { 
+	Alia Amirtha Amman Arul Bharatapuza Bhavani Bhima Chambal Chellam Devi
+	Durga Fatimah Ganges Gayatri Godavari Iniya Jalsena Kabani "Kala Jahazi" Kaveri
+	Khan Krishna Lakshmi "Lal Jahazi" Madhu Meenakshi Nalini Nausena "Nav ka Yudh" Niknaz
+	"Nila Jahazi" Niloufa Noor Pambar Parvati Periyar Ponni Radha Ratri Sagar
+	Sarasvati Sita Spiti Tamarai Tungabhadra Yamuna Yasmine 
+}
+fleet_names = { 
+}
+army_names = { 
 }

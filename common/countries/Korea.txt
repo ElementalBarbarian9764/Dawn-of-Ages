@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 26 53 177 }
 revolutionary_colors = { 0 5 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	naval_ideas
 	offensive_ideas
 	maritime_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Bu #0" = 10
 	"Busik #0" = 0
 	"Byeon #0" = 10
@@ -123,98 +123,21 @@ monarch_names = {
 	"Yun-ui #0" = 0
 	"Yung #0" = 10
 }
-leader_names = {
-	"An"
-	"Bae"
-	"Baek"
-	"Ban"
-	"Bang"
-	"Chae"
-	"Cho"
-	"Choi"
-	"Dae"
-	"Do"
-	"Du"
-	"Ga"
-	"Gang"
-	"Go"
-	"Gye"
-	"Gyeong"
-	"Ha"
-	"Han"
-	"Heo"
-	"Hong"
-	"Hwang"
-	"Jang"
-	"Jeon"
-	"Jeong"
-	"Jin"
-	"Ki"
-	"Kim"
-	"Kwak"
-	"Kwon"
-	"Lim"
-	"Ma"
-	"Min"
-	"Mun"
-	"Na"
-	"Nam"
-	"Noh"
-	"O"
-	"Pak"
-	"Seo"
-	"Seok"
-	"Shin"
-	"Sim"
-	"Son"
-	"Song"
-	"Sung"
-	"Wang"
-	"Won"
-	"Woo"
-	"Yang"
-	"Yi"
-	"Yu"
-	"Yun"
+leader_names = { 
+	An Bae Baek Ban Bang Chae Cho Choi Dae Do
+	Du Ga Gang Go Gye Gyeong Ha Han Heo Hong
+	Hwang Jang Jeon Jeong Jin Ki Kim Kwak Kwon Lim
+	Ma Min Mun Na Nam Noh O Pak Seo Seok
+	Shin Sim Son Song Sung Wang Won Woo Yang Yi
+	Yu Yun 
 }
-ship_names = {
-	"Baekdu"
-	"Baekje"
-	"Buyeo"
-	"Chilbosan"
-	"Daedeok"
-	"Dongmyeongseong"
-	"Duman"
-	"Eulji Mundeok"
-	"Gayasan"
-	"Geumgang"
-	"Geumho"
-	"Goguryeo"
-	"Gumiho"
-	"Gyeon Hwon"
-	"Habaek"
-	"Haemosu"
-	"Hanseong"
-	"Hwaeomsa"
-	"Imjingang"
-	"Inmyeonjo"
-	"Jang Bogo"
-	"Jangbaek"
-	"Jeong Do-jeon"
-	"Jeongjong"
-	"Jirisan"
-	"Kumgangsan"
-	"Myohyangsan"
-	"Nakdong"
-	"Samjogo"
-	"Silla"
-	"Sincheon"
-	"Sobaek"
-	"Taebaek"
-	"Taejo"
-	"Worak"
-	"Yeon Gaesomun"
-	"Yeong"
-	"Yi Seong-gye"
-	"Yuhwa"
+ship_names = { 
+	Baekdu Baekje Buyeo Chilbosan Daedeok Dongmyeongseong Duman "Eulji Mundeok" Gayasan Geumgang
+	Geumho Goguryeo Gumiho "Gyeon Hwon" Habaek Haemosu Hanseong Hwaeomsa Imjingang Inmyeonjo
+	"Jang Bogo" Jangbaek "Jeong Do-jeon" Jeongjong Jirisan Kumgangsan Myohyangsan Nakdong Samjogo Silla
+	Sincheon Sobaek Taebaek Taejo Worak "Yeon Gaesomun" Yeong "Yi Seong-gye" Yuhwa 
+}
+fleet_names = { 
+}
+army_names = { 
 }

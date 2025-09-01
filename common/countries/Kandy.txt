@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 43 148 246 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	spy_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_archers
 	indian_arquebusier
@@ -23,7 +23,7 @@ historical_units = {
 	south_indian_musketeer
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Bhuvanaikabahu #4" = 20
 	"Dharmapalabahu #0" = 20
 	"Dhatmapala #0" = 10
@@ -45,32 +45,14 @@ monarch_names = {
 	"Vijayabahu #6" = 20
 	"Vimala Dharmasuriya #0" = 10
 }
-leader_names = {
-	"Atapattu"
-	"Chandana"
-	"Jayaratne"
-	"Jayawardene"
-	"Kalpage"
-	"Pushpakumara"
-	"Ranga"
-	"Ratnayake"
-	"Thilakaratne"
-	"Tillekaratne"
+leader_names = { 
+	Atapattu Chandana Jayaratne Jayawardene Kalpage Pushpakumara Ranga Ratnayake Thilakaratne Tillekaratne
 }
-ship_names = {
-	"Anaradhapura"
-	"Anula"
-	"Jaffna"
-	"Kandy"
-	"Mahaweli"
-	"Mannar"
-	"Nil Manel"
-	"Palk"
-	"Pidurutalagala"
-	"Siddhartha"
-	"Sigiriya"
-	"Sinharaja"
-	"Sirimavo"
-	"Sri Maha Bodhi"
-	"Sri Pada"
+ship_names = { 
+	Anaradhapura Anula Jaffna Kandy Mahaweli Mannar "Nil Manel" Palk Pidurutalagala Siddhartha
+	Sigiriya Sinharaja Sirimavo "Sri Maha Bodhi" "Sri Pada" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

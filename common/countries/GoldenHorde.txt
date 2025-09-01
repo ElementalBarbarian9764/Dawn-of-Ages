@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 250 182 3 }
 revolutionary_colors = { 8 6 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	expansion_ideas
 	offensive_ideas
 	administrative_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Abdul-Karim #0" = 40
 	"Abdul-Latif #0" = 20
 	"Abdul-Rahman #0" = 40
@@ -105,55 +105,17 @@ monarch_names = {
 	"Yadigar Muhammad #0" = 20
 	"Yamghurchi #0" = 20
 }
-leader_names = {
-	"Bayangge"
-	"Boke Temur"
-	"Bora Chinua"
-	"Chinuagene"
-	"Delger Bayar"
-	"Koke Burilgi"
-	"Nasange"
-	"Qutlugh Vachir"
-	"Qutughqan"
-	"Shria Gan"
-	"Suren Chinua"
-	"Surenchar"
-	"Temur-chi"
-	"Toluilun"
+leader_names = { 
+	Bayangge "Boke Temur" "Bora Chinua" Chinuagene "Delger Bayar" "Koke Burilgi" Nasange "Qutlugh Vachir" Qutughqan "Shria Gan"
+	"Suren Chinua" Surenchar Temur-chi Toluilun 
 }
-ship_names = {
-	"Abdallah"
-	"Baraq"
-	"Batu"
-	"Berdi Beg"
-	"Berke"
-	"Dawlat Berdi"
-	"Ediguh"
-	"Jabbar Berdi"
-	"Jalal ad-Din"
-	"Jani Beg"
-	"Karim Berdi"
-	"Kebek"
-	"Khidr"
-	"Mamai Khan"
-	"Mengu-Timur"
-	"Muhammad Bolak"
-	"Nawruz Beg"
-	"Nogai Khan"
-	"Polad Khan"
-	"Qulpa"
-	"Sartaq"
-	"Sayud Ahmad"
-	"Shadi Beg"
-	"Talabuga"
-	"Temür"
-	"Temür Qutlugh"
-	"Timur Khwaja"
-	"Tini Beg"
-	"Tokhta"
-	"Toqtamish"
-	"Tuda-Mengu"
-	"Ulaghchi"
-	"Ulugh Muhammad"
-	"Öz Beg"
+ship_names = { 
+	Abdallah Baraq Batu "Berdi Beg" Berke "Dawlat Berdi" Ediguh "Jabbar Berdi" "Jalal ad-Din" "Jani Beg"
+	"Karim Berdi" Kebek Khidr "Mamai Khan" Mengu-Timur "Muhammad Bolak" "Nawruz Beg" "Nogai Khan" "Polad Khan" Qulpa
+	Sartaq "Sayud Ahmad" "Shadi Beg" Talabuga Temür "Temür Qutlugh" "Timur Khwaja" "Tini Beg" Tokhta Toqtamish
+	Tuda-Mengu Ulaghchi "Ulugh Muhammad" "Öz Beg" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = southamericagfx
 color = { 158 18 20 }
 revolutionary_colors = { 5 6 15 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	central_american_horsemen
 	mesoamerican_spearmen
 	mexican_guerilla_warfare
@@ -21,7 +21,7 @@ historical_units = {
 	zapotec_plains_warfare
 	zapotec_tribal_warfare
 }
-monarch_names = {
+monarch_names = { 
 	"Bibejw #0" = 0
 	"Binech #0" = 0
 	"Bzojj Chsáaxcejj #0" = 0
@@ -66,48 +66,16 @@ monarch_names = {
 	"Zyanya #0" = -1
 	"Zyrx #0" = 0
 }
-leader_names = {
-	"Beljjw"
-	"Bibejw"
-	"Binech"
-	"Bzojj Chsáaxcejj"
-	"Cháalaxa"
-	"Coqui"
-	"Djoraxa"
-	"Gwpeibóoné"
-	"Gyazob"
-	"Gyejj"
-	"Ji Jzió"
-	"Jituh"
-	"Jzió"
-	"Lyebe"
-	"Láxdaóxo"
-	"Mbalaz"
-	"Na Yel"
-	"Ngolbex An"
-	"Pijje Jzió"
-	"Pwuix Dao"
-	"Vziá"
-	"Véeni"
-	"Zne Yel"
-	"Zniá"
-	"Zyrx"
+leader_names = { 
+	Beljjw Bibejw Binech "Bzojj Chsáaxcejj" Cháalaxa Coqui Djoraxa Gwpeibóoné Gyazob Gyejj
+	"Ji Jzió" Jituh Jzió Lyebe Láxdaóxo Mbalaz "Na Yel" "Ngolbex An" "Pijje Jzió" "Pwuix Dao"
+	Vziá Véeni "Zne Yel" Zniá Zyrx 
 }
-ship_names = {
-	"Atoyac"
-	"Atzompa"
-	"Chalchiuhtlicue"
-	"Chico"
-	"Cocijo"
-	"Ipalnemoani"
-	"Monte Alban"
-	"Nahuatl"
-	"Necocyautl"
-	"Oaxaca"
-	"Omacatl"
-	"Quetzalcoatl"
-	"Tecciztecatl"
-	"Tezcatlipoca"
-	"Tlaloc"
-	"Xochiquetzal"
+ship_names = { 
+	Atoyac Atzompa Chalchiuhtlicue Chico Cocijo Ipalnemoani "Monte Alban" Nahuatl Necocyautl Oaxaca
+	Omacatl Quetzalcoatl Tecciztecatl Tezcatlipoca Tlaloc Xochiquetzal 
+}
+fleet_names = { 
+}
+army_names = { 
 }

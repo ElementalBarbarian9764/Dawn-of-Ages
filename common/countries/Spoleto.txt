@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 169 26 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	economic_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	religious_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Achille #0" = 0
 	"Alberto #0" = 0
 	"Alessandro #0" = 0
@@ -90,96 +90,22 @@ monarch_names = {
 	"Vincenzo #0" = 0
 	"Virgilio #0" = 0
 }
-leader_names = {
-	"Accoramboni"
-	"Acqua"
-	"Albertini"
-	"Ancaiani"
-	"Arnaldi"
-	"Benedetti"
-	"Bianconi"
-	"Bonavisa"
-	"Bucci di Cave"
-	"Cacciaguerra"
-	"Cadolini"
-	"Campilius"
-	"Canali"
-	"Castrucci"
-	"Claudi"
-	"Collicola"
-	"Corvini"
-	"Croci"
-	"Cybo"
-	"Di Campello"
-	"Eroli"
-	"Facchinetti"
-	"Fantini"
-	"Gaddi"
-	"Gattapone"
-	"Gherardi"
-	"Lanfranco"
-	"Leonio"
-	"Lippi"
-	"Locaetlli"
-	"Maculari"
-	"Marignoli"
-	"Menotti"
-	"Merlini"
-	"Muti"
-	"Paladini"
-	"Pandolfini"
-	"Petruccini"
-	"Pianciani"
-	"Pontano"
-	"Rosario"
-	"Sabbioni"
-	"Sansi"
-	"Sanvitale"
-	"Sardi"
-	"Sbarretti"
-	"Scelli"
-	"Sciamanna"
-	"Sordini"
-	"Vincioli"
-	"Vittori"
-	"Viviari"
-	"Zabolino"
-	"da Teramo"
-	"de Pomis"
-	"de Vigili"
-	"de' Bardi"
-	"de' Bonneval"
-	"de' Conti"
-	"di Campli"
-	"di Lese"
-	"di Montichiello"
-	"di Preneste"
+leader_names = { 
+	Accoramboni Acqua Albertini Ancaiani Arnaldi Benedetti Bianconi Bonavisa "Bucci di Cave" Cacciaguerra
+	Cadolini Campilius Canali Castrucci Claudi Collicola Corvini Croci Cybo "Di Campello"
+	Eroli Facchinetti Fantini Gaddi Gattapone Gherardi Lanfranco Leonio Lippi Locaetlli
+	Maculari Marignoli Menotti Merlini Muti Paladini Pandolfini Petruccini Pianciani Pontano
+	Rosario Sabbioni Sansi Sanvitale Sardi Sbarretti Scelli Sciamanna Sordini Vincioli
+	Vittori Viviari Zabolino "da Teramo" "de Pomis" "de Vigili" "de' Bardi" "de' Bonneval" "de' Conti" "di Campli"
+	"di Lese" "di Montichiello" "di Preneste" 
 }
-ship_names = {
-	"Azzano"
-	"Duca Faroaldo"
-	"Egidio Albornoz"
-	"Maddalena"
-	"Monteluco"
-	"Paoluccio"
-	"Ponte Sanguinario"
-	"San Bonaventura"
-	"San Domenico"
-	"San Filippo Neri"
-	"San Gregorio Maggiore"
-	"San Paolo"
-	"San Ponziano"
-	"San Salvatore"
-	"Sant'Ansano"
-	"Sant'Eufemia"
-	"Santa Maria Assunta"
-	"Santa Maria della Manna d'Oro"
-	"Spoletum"
-	"Suor Marina"
-	"Vespasiano"
-	"Zottone"
-	"gaio Melisso"
+ship_names = { 
+	Azzano "Duca Faroaldo" "Egidio Albornoz" Maddalena Monteluco Paoluccio "Ponte Sanguinario" "San Bonaventura" "San Domenico" "San Filippo Neri"
+	"San Gregorio Maggiore" "San Paolo" "San Ponziano" "San Salvatore" Sant'Ansano Sant'Eufemia "Santa Maria Assunta" "Santa Maria della Manna d'Oro" Spoletum "Suor Marina"
+	Vespasiano Zottone "gaio Melisso" 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

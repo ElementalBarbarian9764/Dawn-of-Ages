@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 80 200 120 }
 revolutionary_colors = { 0 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	french_caracolle
 	french_dragoon
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adam #0" = 10
 	"Alessandru #0" = 10
 	"Anard #0" = 0
@@ -71,31 +71,14 @@ monarch_names = {
 	"Wenzu #0" = 0
 	"Zaru #0" = 0
 }
-leader_names = {
-	"Ahmad"
-	"Hussain"
-	"Jahagir"
-	"Mahmud"
-	"Mirza"
-	"Mohsin"
-	"Rukh"
-	"Sa'id"
-	"Uways"
-	"Zaman"
+leader_names = { 
+	Ahmad Hussain Jahagir Mahmud Mirza Mohsin Rukh Sa'id Uways Zaman
 }
-ship_names = {
-	"Alfonse of Portugal"
-	"Arnaud de Comps"
-	"Auger de Balben"
-	"Garnier de Naplous"
-	"Gastone de Murols"
-	"Geoffrey le Rat"
-	"Geoffroy de Donjon"
-	"Gilbert d'Aissailly"
-	"Gilbert of Syria"
-	"Hermangard d'Asp"
-	"Hélion de Villeneuve"
-	"Raymond du Puy de Provence"
-	"Roger de Moulins"
-	"The Blessed Gerard"
+ship_names = { 
+	"Alfonse of Portugal" "Arnaud de Comps" "Auger de Balben" "Garnier de Naplous" "Gastone de Murols" "Geoffrey le Rat" "Geoffroy de Donjon" "Gilbert d'Aissailly" "Gilbert of Syria" "Hermangard d'Asp"
+	"Hélion de Villeneuve" "Raymond du Puy de Provence" "Roger de Moulins" "The Blessed Gerard" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

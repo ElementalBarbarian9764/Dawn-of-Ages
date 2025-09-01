@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 100 100 0 }
-monarch_names = {
+monarch_names = { 
 	"Abbas #0" = 0
 	"Abolhassan #0" = 0
 	"Afshar #0" = 0
@@ -125,124 +125,23 @@ monarch_names = {
 	"Zand #0" = 0
 	"Zia #0" = 0
 }
-leader_names = {
-	"Abbas"
-	"Abolhassan"
-	"Afshar"
-	"Ahmad"
-	"Akbar"
-	"Ali"
-	"Allahyar"
-	"Amin"
-	"Anushirvan"
-	"Aram"
-	"Ardahan"
-	"Ardavan"
-	"Ardeshir"
-	"Assad"
-	"Aurang"
-	"Ayeshah"
-	"Babak"
-	"Bahman"
-	"Bahram"
-	"Bakhtiar"
-	"Behrad"
-	"Behrouz"
-	"Bozorg"
-	"Danush"
-	"Darab"
-	"Dariush"
-	"Davud"
-	"Djamasp"
-	"Ebrahim"
-	"Ehsan"
-	"Esfandiar"
-	"Eskander"
-	"Esma'il"
-	"Faramarz"
-	"Faraz"
-	"Fareed"
-	"Farhad"
-	"Fariborz"
-	"Farroukh"
-	"Farrukhzad"
-	"Farzad"
-	"Fath"
-	"Ferdows"
-	"Fereedun"
-	"Ghobad"
-	"Gholam"
-	"Godarz"
-	"Goshtasb"
-	"Hafez"
-	"Hassan"
-	"Hazarasp"
-	"Hedayat"
-	"Hooshyar"
-	"Hormoz"
-	"Hossein"
-	"Humayun"
-	"Jahandar"
-	"Jahangir"
-	"Jahanshah"
-	"Jamshid"
-	"Javeed"
-	"Kambiz"
-	"Kamran"
-	"Kavadh"
-	"Kavoos"
-	"Keyghobad"
-	"Keykhosrau"
-	"Kharmandar"
-	"Khashayar"
-	"Khodadad"
-	"Khosrau"
-	"Khudayar"
-	"Khurshid"
-	"Kurush"
-	"Mahmud"
-	"Manuchihr"
-	"Manushihr"
-	"Marzuban"
-	"Mashad"
-	"Mehrab"
-	"Mehrzad"
-	"Mohammed"
-	"Morad"
-	"Morteza"
-	"Mozaffar"
-	"Nard"
-	"Naveed"
-	"Nawid"
-	"Nezam"
-	"Parviz"
-	"Pashang"
-	"Peroz"
-	"Pujman"
-	"Reza"
-	"Rostam"
-	"Ruhollah"
-	"Sadri"
-	"Salman"
-	"Shahab"
-	"Shahbaz"
-	"Shahin"
-	"Shahram"
-	"Shahrokh"
-	"Shahruz"
-	"Shahryar"
-	"Shayan"
-	"Sina"
-	"Tahmasb"
-	"Vahhab"
-	"Vahid"
-	"Vali"
-	"Varshasb"
-	"Vishtasb"
-	"Yazdegerd"
-	"Yousef"
-	"Zahak"
-	"Zakaria"
-	"Zand"
-	"Zia"
+leader_names = { 
+	Abbas Abolhassan Afshar Ahmad Akbar Ali Allahyar Amin Anushirvan Aram
+	Ardahan Ardavan Ardeshir Assad Aurang Ayeshah Babak Bahman Bahram Bakhtiar
+	Behrad Behrouz Bozorg Danush Darab Dariush Davud Djamasp Ebrahim Ehsan
+	Esfandiar Eskander Esma'il Faramarz Faraz Fareed Farhad Fariborz Farroukh Farrukhzad
+	Farzad Fath Ferdows Fereedun Ghobad Gholam Godarz Goshtasb Hafez Hassan
+	Hazarasp Hedayat Hooshyar Hormoz Hossein Humayun Jahandar Jahangir Jahanshah Jamshid
+	Javeed Kambiz Kamran Kavadh Kavoos Keyghobad Keykhosrau Kharmandar Khashayar Khodadad
+	Khosrau Khudayar Khurshid Kurush Mahmud Manuchihr Manushihr Marzuban Mashad Mehrab
+	Mehrzad Mohammed Morad Morteza Mozaffar Nard Naveed Nawid Nezam Parviz
+	Pashang Peroz Pujman Reza Rostam Ruhollah Sadri Salman Shahab Shahbaz
+	Shahin Shahram Shahrokh Shahruz Shahryar Shayan Sina Tahmasb Vahhab Vahid
+	Vali Varshasb Vishtasb Yazdegerd Yousef Zahak Zakaria Zand Zia 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

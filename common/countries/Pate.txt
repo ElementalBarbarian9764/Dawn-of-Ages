@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 104 111 208 }
 revolutionary_colors = { 0 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	african_abyssinian_cavalry
 	african_abyssinian_light_cavalry
 	african_dragoon
@@ -25,7 +25,7 @@ historical_units = {
 	bantu_tribal_warfare
 	westernized_bantu
 }
-monarch_names = {
+monarch_names = { 
 	"'Alawi #0" = 0
 	"Abiria #0" = -1
 	"Abubakar #0" = 40
@@ -61,33 +61,14 @@ monarch_names = {
 	"Sulaymân #0" = 30
 	"Twakali #0" = 0
 }
-leader_names = {
-	"Dato"
-	"Jumbe"
-	"Kawawe"
-	"Salim"
-	"Semid"
-	"Setia"
-	"Sokoine"
-	"Suja"
-	"Wakil"
-	"Yomba"
+leader_names = { 
+	Dato Jumbe Kawawe Salim Semid Setia Sokoine Suja Wakil Yomba
 }
-ship_names = {
-	"Mlima"
-	"damu"
-	"homu"
-	"jua"
-	"maji"
-	"mbwa"
-	"mnyama"
-	"moshi"
-	"moto"
-	"mwezi"
-	"ndege"
-	"nyoka"
-	"nyota"
-	"samaki"
-	"ua"
-	"ukungu"
+ship_names = { 
+	Mlima damu homu jua maji mbwa mnyama moshi moto mwezi
+	ndege nyoka nyota samaki ua ukungu 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 16 142 49 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	maritime_ideas
 	religious_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	spy_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_dragoon
@@ -24,7 +24,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"Abal #0" = -1
 	"Abdallah #0" = 30
 	"Ali #0" = 10
@@ -54,37 +54,14 @@ monarch_names = {
 	"Walida #0" = -1
 	"al-Mansur #0" = 10
 }
-leader_names = {
-	"Ali"
-	"Ibrahim"
-	"Issa"
-	"Jomaa"
-	"Khalil"
-	"Mansour"
-	"Saab"
-	"Saad"
-	"Saleh"
-	"Shammas"
+leader_names = { 
+	Ali Ibrahim Issa Jomaa Khalil Mansour Saab Saad Saleh Shammas
 }
-ship_names = {
-	"Al-Kawd"
-	"Ali ibn Rasul"
-	"At-Tubah"
-	"Dhubab"
-	"Ibb"
-	"Jabal Kharaz"
-	"Jabal Thamar"
-	"Jabal al-Hasha"
-	"Malik al-Mujahid"
-	"Mansur Umar"
-	"Mawiyah"
-	"Musaymir"
-	"Muzaffar Yusuf"
-	"Qa'tabah"
-	"Shaykh Uthman"
-	"Ta'izz"
-	"Wadi Bana"
-	"Whaqra"
-	"Zabid"
-	"Zaizz"
+ship_names = { 
+	Al-Kawd "Ali ibn Rasul" At-Tubah Dhubab Ibb "Jabal Kharaz" "Jabal Thamar" "Jabal al-Hasha" "Malik al-Mujahid" "Mansur Umar"
+	Mawiyah Musaymir "Muzaffar Yusuf" Qa'tabah "Shaykh Uthman" Ta'izz "Wadi Bana" Whaqra Zabid Zaizz
+}
+fleet_names = { 
+}
+army_names = { 
 }

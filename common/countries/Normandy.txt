@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 131 138 116 }
 revolutionary_colors = { 5 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	maritime_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	chevauchee
 	dutch_maurician
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_infantry
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adrien #0" = 0
 	"Alexandre #0" = 0
 	"Amédée #0" = 0
@@ -74,183 +74,29 @@ monarch_names = {
 	"Émery #0" = 0
 	"Étienne #1" = 1
 }
-leader_names = {
-	"Duquesne"
-	"Esquemelin"
-	"Gosselin"
-	"Guillaumery"
-	"Le Moyne"
-	"Le Tellier"
-	"Lesperon"
-	"Parmentier"
-	"Roncerolles "
-	"d'Abancourt"
-	"d'Aboville"
-	"d'Alençon"
-	"d'Amfreville"
-	"d'Estrimont"
-	"d'Harcourt"
-	"d'Herbouville"
-	"d'Imbleval"
-	"d'Ozenne"
-	"d'Ymonville"
-	"d'Émondeville"
-	"de Bailleul"
-	"de Berquetot"
-	"de Bracquemont"
-	"de Brionne"
-	"de Béthencourt"
-	"de Croismarie"
-	"de Crottay"
-	"de Dampierre"
-	"de Fry"
-	"de Fréville"
-	"de Graville"
-	"de Houdetot"
-	"de Joigny"
-	"de Jourville"
-	"de La Houssaye"
-	"de La Motte"
-	"de Lenemont"
-	"de Lessard"
-	"de Marigny"
-	"de Mauquenchy"
-	"de Mornay"
-	"de Noscey"
-	"de Parbay"
-	"de Presteval"
-	"de Quenonville"
-	"de Quesdeville"
-	"de Riancourt"
-	"de Saint-Bosmer"
-	"de Saint-Passy"
-	"de Sébouville"
-	"de Tallebot"
-	"de Tassigny"
-	"de Thiboutot"
-	"de Valiquerville"
-	"de Vauquelin"
-	"de la Boucque"
-	"de la Galissonière"
-	"du Chastel"
-	"du Moucel"
-	"du Quesnoy"
+leader_names = { 
+	Duquesne Esquemelin Gosselin Guillaumery "Le Moyne" "Le Tellier" Lesperon Parmentier Roncerolles d'Abancourt
+	d'Aboville d'Alençon d'Amfreville d'Estrimont d'Harcourt d'Herbouville d'Imbleval d'Ozenne d'Ymonville d'Émondeville
+	"de Bailleul" "de Berquetot" "de Bracquemont" "de Brionne" "de Béthencourt" "de Croismarie" "de Crottay" "de Dampierre" "de Fry" "de Fréville"
+	"de Graville" "de Houdetot" "de Joigny" "de Jourville" "de La Houssaye" "de La Motte" "de Lenemont" "de Lessard" "de Marigny" "de Mauquenchy"
+	"de Mornay" "de Noscey" "de Parbay" "de Presteval" "de Quenonville" "de Quesdeville" "de Riancourt" "de Saint-Bosmer" "de Saint-Passy" "de Sébouville"
+	"de Tallebot" "de Tassigny" "de Thiboutot" "de Valiquerville" "de Vauquelin" "de la Boucque" "de la Galissonière" "du Chastel" "du Moucel" "du Quesnoy"
 }
-ship_names = {
-	"Le Havre"
-	"l'Actif"
-	"l'Adroit"
-	"l'Aigrette"
-	"l'Alcyon"
-	"l'Alouette"
-	"l'Amarante"
-	"l'Angélique"
-	"l'Ardent"
-	"l'Arrogant"
-	"l'Aréthuse"
-	"l'Atalante"
-	"l'Aurore"
-	"l'Embuscade"
-	"l'Enjouée"
-	"l'Entendue"
-	"l'Harmonie"
-	"l'Heureux"
-	"l'Hébé"
-	"l'Inconstante"
-	"l'Infidèle"
-	"l'Orage"
-	"l'Oriflamme"
-	"l'Écluse"
-	"l'Écueil"
-	"l'Émeraude"
-	"l'Éole"
-	"l'Étoile"
-	"la Balance"
-	"la Blanche"
-	"la Blonde"
-	"la Bricolle"
-	"la Brune"
-	"la Brûlante"
-	"la Carpe"
-	"la Charente"
-	"la Chasse"
-	"la Corneille"
-	"la Coulisse"
-	"la Cruelle"
-	"la Curieuse"
-	"la Danuble"
-	"la Dauphine"
-	"la Digue"
-	"la Diligente"
-	"la Dryade"
-	"la Favorite"
-	"la Fidèle"
-	"la Fine"
-	"la Flatteuse"
-	"la Flore"
-	"la Fée"
-	"la Félicité"
-	"la Galatée"
-	"la Garonne"
-	"la Gazelle"
-	"la Gentille"
-	"la Gironde"
-	"la Gloire"
-	"la Gracieuse"
-	"la Grive"
-	"la Grâce"
-	"la Jolie"
-	"la Joyeuse"
-	"la Junon"
-	"la Levrette"
-	"la Marie-Françoise"
-	"la Martiale"
-	"la Menaçante"
-	"la Nayade"
-	"la Normande"
-	"la Palombe"
-	"la Pintade"
-	"la Pélerine"
-	"la Rocheloise"
-	"la Somme"
-	"la Subtile"
-	"la Trompeuse"
-	"la Turquoise"
-	"le Brave"
-	"le Chariot-Royal"
-	"le Danaé"
-	"le François"
-	"le Gaillard"
-	"le Grand-Ponton"
-	"le Jason"
-	"le Juste"
-	"le Lion"
-	"le Léger"
-	"le Marin"
-	"le Palmier"
-	"le Petit Saint-François"
-	"le Petit-Ponton"
-	"le Prompte"
-	"le Précieux"
-	"le Rubis"
-	"le Résolu"
-	"le Saint-Louis"
-	"le Saint-Michel"
-	"le Sans-Pareil"
+ship_names = { 
+	"Le Havre" l'Actif l'Adroit l'Aigrette l'Alcyon l'Alouette l'Amarante l'Angélique l'Ardent l'Arrogant
+	l'Aréthuse l'Atalante l'Aurore l'Embuscade l'Enjouée l'Entendue l'Harmonie l'Heureux l'Hébé l'Inconstante
+	l'Infidèle l'Orage l'Oriflamme l'Écluse l'Écueil l'Émeraude l'Éole l'Étoile "la Balance" "la Blanche"
+	"la Blonde" "la Bricolle" "la Brune" "la Brûlante" "la Carpe" "la Charente" "la Chasse" "la Corneille" "la Coulisse" "la Cruelle"
+	"la Curieuse" "la Danuble" "la Dauphine" "la Digue" "la Diligente" "la Dryade" "la Favorite" "la Fidèle" "la Fine" "la Flatteuse"
+	"la Flore" "la Fée" "la Félicité" "la Galatée" "la Garonne" "la Gazelle" "la Gentille" "la Gironde" "la Gloire" "la Gracieuse"
+	"la Grive" "la Grâce" "la Jolie" "la Joyeuse" "la Junon" "la Levrette" "la Marie-Françoise" "la Martiale" "la Menaçante" "la Nayade"
+	"la Normande" "la Palombe" "la Pintade" "la Pélerine" "la Rocheloise" "la Somme" "la Subtile" "la Trompeuse" "la Turquoise" "le Brave"
+	"le Chariot-Royal" "le Danaé" "le François" "le Gaillard" "le Grand-Ponton" "le Jason" "le Juste" "le Lion" "le Léger" "le Marin"
+	"le Palmier" "le Petit Saint-François" "le Petit-Ponton" "le Prompte" "le Précieux" "le Rubis" "le Résolu" "le Saint-Louis" "le Saint-Michel" "le Sans-Pareil"
 }
-army_names = {
-	"Armée d'Alençon"
-	"Armée d'Argentan"
-	"Armée de $PROVINCE$"
-	"Armée de Caen"
-	"Armée de Falaise"
-	"Armée de Neubourg"
-	"Armée de l'Avranchin"
-	"Armée du Bessin"
-	"Armée du Cotentin"
-	"Armée du Mortainais"
-	"Armée du Pays d'Auge"
-	"Armée du Pays de Caux"
-	"Armée du Perche"
-	"Armée du Virois"
+army_names = { 
+	"Armée d'Alençon" "Armée d'Argentan" "Armée de $PROVINCE$" "Armée de Caen" "Armée de Falaise" "Armée de Neubourg" "Armée de l'Avranchin" "Armée du Bessin" "Armée du Cotentin" "Armée du Mortainais"
+	"Armée du Pays d'Auge" "Armée du Pays de Caux" "Armée du Perche" "Armée du Virois" 
+}
+fleet_names = { 
 }

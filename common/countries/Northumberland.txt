@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 83 149 105 }
 revolutionary_colors = { 8 5 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	aristocracy_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	british_hussar
 	british_redcoat
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
 }
-monarch_names = {
+monarch_names = { 
 	"Alan #0" = 5
 	"Algernon #0" = 40
 	"Arabella #0" = -1
@@ -73,87 +73,19 @@ monarch_names = {
 	"William #0" = 10
 	"Zachariah #0" = 0
 }
-leader_names = {
-	"Armstrong"
-	"Atkinson"
-	"Ball"
-	"Bell"
-	"Birkett"
-	"Braithwaite"
-	"Burdon"
-	"Carlisle"
-	"Carr"
-	"Cavendish"
-	"Charlton"
-	"Dacre"
-	"Dixon"
-	"Dodd"
-	"Elliott"
-	"Featherstonehaugh"
-	"Fenwick"
-	"Graham"
-	"Grey"
-	"Hall"
-	"Heron"
-	"Hodgson"
-	"Hume"
-	"Lambton"
-	"Liddell"
-	"Lowther"
-	"Lumley"
-	"Marley"
-	"Milburn"
-	"Musgrave"
-	"Neville"
-	"Percy"
-	"Radcliffe"
-	"Robinson"
-	"Robson"
-	"Scott"
-	"Shafto"
-	"Swinburne"
-	"Todhunter"
-	"Tyson"
+leader_names = { 
+	Armstrong Atkinson Ball Bell Birkett Braithwaite Burdon Carlisle Carr Cavendish
+	Charlton Dacre Dixon Dodd Elliott Featherstonehaugh Fenwick Graham Grey Hall
+	Heron Hodgson Hume Lambton Liddell Lowther Lumley Marley Milburn Musgrave
+	Neville Percy Radcliffe Robinson Robson Scott Shafto Swinburne Todhunter Tyson
 }
-ship_names = {
-	"Aethelfrith"
-	"Alnwick"
-	"Bamburgh"
-	"Bede"
-	"Bernicia"
-	"Berwick"
-	"Blackadder"
-	"Borderer"
-	"Bowes"
-	"Carlisle"
-	"Cheviot"
-	"Cumberland"
-	"Derwent"
-	"Durham"
-	"Eden"
-	"Hadrian"
-	"Helvellyn"
-	"Jarrow"
-	"Lindisfarne"
-	"Morpeth"
-	"Newcastle"
-	"Northumbria"
-	"Penrith"
-	"Percy"
-	"Reiver"
-	"Rheged"
-	"Scafell"
-	"Shap"
-	"Skiddaw"
-	"Solway"
-	"St Cuthbert"
-	"St Edwin"
-	"St Oswald"
-	"Sunderland"
-	"Tees"
-	"Tweed"
-	"Tyne"
-	"Wear"
-	"Westmorland"
-	"Windermere"
+ship_names = { 
+	Aethelfrith Alnwick Bamburgh Bede Bernicia Berwick Blackadder Borderer Bowes Carlisle
+	Cheviot Cumberland Derwent Durham Eden Hadrian Helvellyn Jarrow Lindisfarne Morpeth
+	Newcastle Northumbria Penrith Percy Reiver Rheged Scafell Shap Skiddaw Solway
+	"St Cuthbert" "St Edwin" "St Oswald" Sunderland Tees Tweed Tyne Wear Westmorland Windermere
+}
+fleet_names = { 
+}
+army_names = { 
 }

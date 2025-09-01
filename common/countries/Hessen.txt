@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 114 171 184 }
 revolutionary_colors = { 15 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adelmar #0" = 0
 	"Adolf #0" = 10
 	"Albrecht #0" = 0
@@ -73,31 +73,15 @@ monarch_names = {
 	"Wilhelm #0" = 170
 	"Wolfram #0" = 0
 }
-leader_names = {
-	"Arnsberg"
-	"Bebra"
-	"Eder"
-	"Fulda"
-	"Hamm"
-	"Kassel"
-	"Knyphausen"
-	"Lippstadt"
-	"Münden"
-	"Paderborn"
-	"von Scheideck"
+leader_names = { 
+	Arnsberg Bebra Eder Fulda Hamm Kassel Knyphausen Lippstadt Münden Paderborn
+	"von Scheideck" 
 }
-ship_names = {
-	"Fulda"
-	"Hanau"
-	"Heinrich I"
-	"Kassel"
-	"Lahn"
-	"Marburg"
-	"Stirnberg"
-	"Wasserkuppe"
-	"Werra"
-	"Wetzlar"
+ship_names = { 
+	Fulda Hanau "Heinrich I" Kassel Lahn Marburg Stirnberg Wasserkuppe Werra Wetzlar
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

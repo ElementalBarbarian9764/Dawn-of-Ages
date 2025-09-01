@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 240 227 27 }
 revolutionary_colors = { 5 0 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	plutocracy_ideas
 	trade_ideas
 	economic_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	quantity_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	british_hussar
 	british_redcoat
@@ -31,7 +31,7 @@ historical_units = {
 	western_longbow
 	western_medieval_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"Aaron #0" = 0
 	"Alexander #0" = 0
 	"Angus #0" = 0
@@ -78,235 +78,35 @@ monarch_names = {
 	"Wilbur #0" = 0
 	"William #0" = 0
 }
-leader_names = {
-	"Adams"
-	"Arkeith"
-	"Arnott"
-	"Ashton"
-	"Atworth"
-	"Boyd"
-	"Burr"
-	"Caddock"
-	"Clinton"
-	"Dalton"
-	"Dellwin"
-	"Douglas"
-	"Drummond"
-	"Dylan"
-	"Floyd"
-	"Harrison"
-	"Jay"
-	"Jefferson"
-	"Kempton"
-	"Kendrick"
-	"Kennedy"
-	"King"
-	"Lane"
-	"Langdon"
-	"Lindon"
-	"Lyle"
-	"Madison"
-	"Merrick"
-	"Monroe"
-	"Pickney"
-	"Richardson"
-	"Rutledge"
-	"Sheldon"
-	"Spencer"
-	"Starbuck"
-	"Steed"
-	"Stetson"
-	"Stover"
-	"Stryder"
-	"Sutcliffe"
-	"Swaggert"
-	"Thompson"
-	"Thorley"
-	"Trevin"
-	"Unwin"
-	"Vaughan"
-	"Walden"
-	"Ward"
-	"Winston"
+leader_names = { 
+	Adams Arkeith Arnott Ashton Atworth Boyd Burr Caddock Clinton Dalton
+	Dellwin Douglas Drummond Dylan Floyd Harrison Jay Jefferson Kempton Kendrick
+	Kennedy King Lane Langdon Lindon Lyle Madison Merrick Monroe Pickney
+	Richardson Rutledge Sheldon Spencer Starbuck Steed Stetson Stover Stryder Sutcliffe
+	Swaggert Thompson Thorley Trevin Unwin Vaughan Walden Ward Winston 
 }
-ship_names = {
-	"Abigail"
-	"Achilles"
-	"Active"
-	"Adams"
-	"Addition"
-	"Adventure"
-	"Albany"
-	"Alfred"
-	"Alliance"
-	"Alston"
-	"America"
-	"American Fabius"
-	"American Revenue"
-	"Amphitrite"
-	"Annapolis"
-	"Argo"
-	"Ariel"
-	"Arnold"
-	"Astrea"
-	"Aurora"
-	"Bachelor"
-	"Black Prince"
-	"Bonhomme Richard"
-	"Boston"
-	"Bourbon"
-	"Brandywine"
-	"Bricole"
-	"Bruke"
-	"Bulldog"
-	"Bulloch"
-	"Bunker Hill"
-	"Cabot"
-	"Camden"
-	"Caswell"
-	"Chatham"
-	"Chesapeake"
-	"Columbus"
-	"Comet"
-	"Commerce"
-	"Concord"
-	"Confederacy"
-	"Confiance"
-	"Congress"
-	"Connecticut"
-	"Constellation"
-	"Constitution"
-	"Cyane"
-	"Deane"
-	"Defence"
-	"Delaware"
-	"Dickenson"
-	"Dilligent"
-	"Disdain"
-	"Dolphin"
-	"Dragon"
-	"Eagle"
-	"Effingham"
-	"Endeavour"
-	"Enterprise"
-	"Essex"
-	"Experiment"
-	"Fairfield"
-	"Fox"
-	"Franklin"
-	"Friendship"
-	"Frolic"
-	"Ganges"
-	"General Gadsen"
-	"General Gates"
-	"General Greene"
-	"General Mifflin"
-	"General Montgomery"
-	"General Washington"
-	"Greyhound"
-	"Griffon"
-	"Guilford"
-	"Hague"
-	"Hammond"
-	"Hampden"
-	"Hancock"
-	"Hannah"
-	"Hannibal"
-	"Happy Return"
-	"Harlequin"
-	"Hawke"
-	"Hazard"
-	"Henry"
-	"Hero"
-	"Hibernia"
-	"Hudson"
-	"Hunter"
-	"Impertinent"
-	"Independence"
-	"Insurgent"
-	"Jamestown"
-	"Java"
-	"Katy"
-	"Lee"
-	"Lewis"
-	"Lexington"
-	"Liberty"
-	"Lincoln"
-	"Lynch"
-	"Macedonia"
-	"Manly"
-	"Marblehead"
-	"Massachusetts"
-	"Merrimack"
-	"Middletown"
-	"Mifflin"
-	"Minerva"
-	"Monmouth"
-	"Montezuma"
-	"Morning Star"
-	"Morris"
-	"Mosquito"
-	"New Haven"
-	"New York"
-	"Norfolk Revenge"
-	"North Carolina"
-	"Northampton"
-	"Ohio"
-	"Page"
-	"Patapsco"
-	"Peacock"
-	"Pennsylvania"
-	"Philadephia"
-	"Pilgrim"
-	"Pompey"
-	"Portsmouth"
-	"Potomac"
-	"President"
-	"Prosper"
-	"Protector"
-	"Providence"
-	"Putnam"
-	"Queen of France"
-	"Raleigh"
-	"Randolph"
-	"Ranger"
-	"Rattlesnake"
-	"Reprisal"
-	"Republic"
-	"Repulse"
-	"Resistance"
-	"Resolution"
-	"Retrieve"
-	"Rhodes"
-	"Richard"
-	"Sabine"
-	"Safeguard"
-	"Saratoga"
-	"Scorpion"
-	"Shark"
-	"South Carolina"
-	"South Edisto"
-	"Spitfire"
-	"Spy"
-	"St. Lawrence"
-	"St. Louis"
-	"Surprise"
-	"Swift"
-	"Tartar"
-	"Tempest"
-	"True Blue"
-	"Trumbull"
-	"Tyrannicide"
-	"United States"
-	"Vengeance"
-	"Vermont"
-	"Viper"
-	"Virginia"
-	"Wabash"
-	"Warren"
-	"Washington"
-	"Wasp"
-	"White Oak"
-	"Wilkes"
+ship_names = { 
+	Abigail Achilles Active Adams Addition Adventure Albany Alfred Alliance Alston
+	America "American Fabius" "American Revenue" Amphitrite Annapolis Argo Ariel Arnold Astrea Aurora
+	Bachelor "Black Prince" "Bonhomme Richard" Boston Bourbon Brandywine Bricole Bruke Bulldog Bulloch
+	"Bunker Hill" Cabot Camden Caswell Chatham Chesapeake Columbus Comet Commerce Concord
+	Confederacy Confiance Congress Connecticut Constellation Constitution Cyane Deane Defence Delaware
+	Dickenson Dilligent Disdain Dolphin Dragon Eagle Effingham Endeavour Enterprise Essex
+	Experiment Fairfield Fox Franklin Friendship Frolic Ganges "General Gadsen" "General Gates" "General Greene"
+	"General Mifflin" "General Montgomery" "General Washington" Greyhound Griffon Guilford Hague Hammond Hampden Hancock
+	Hannah Hannibal "Happy Return" Harlequin Hawke Hazard Henry Hero Hibernia Hudson
+	Hunter Impertinent Independence Insurgent Jamestown Java Katy Lee Lewis Lexington
+	Liberty Lincoln Lynch Macedonia Manly Marblehead Massachusetts Merrimack Middletown Mifflin
+	Minerva Monmouth Montezuma "Morning Star" Morris Mosquito "New Haven" "New York" "Norfolk Revenge" "North Carolina"
+	Northampton Ohio Page Patapsco Peacock Pennsylvania Philadephia Pilgrim Pompey Portsmouth
+	Potomac President Prosper Protector Providence Putnam "Queen of France" Raleigh Randolph Ranger
+	Rattlesnake Reprisal Republic Repulse Resistance Resolution Retrieve Rhodes Richard Sabine
+	Safeguard Saratoga Scorpion Shark "South Carolina" "South Edisto" Spitfire Spy "St. Lawrence" "St. Louis"
+	Surprise Swift Tartar Tempest "True Blue" Trumbull Tyrannicide "United States" Vengeance Vermont
+	Viper Virginia Wabash Warren Washington Wasp "White Oak" Wilkes 
 }
 colonial_parent = SPA
+fleet_names = { 
+}
+army_names = { 
+}

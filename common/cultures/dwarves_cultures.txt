@@ -1,0 +1,11 @@
+dwarven_culture_group = {
+    # Graphics form the culture
+    graphical_culture = westerngfx
+    # Gray Mountain Dwarven (Regular Dwarves)
+    gray_dwarf_culture = {
+        
+    }
+    obsidion_dwarf_culture = {
+        
+    }
+}

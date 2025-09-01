@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 232 48 2 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	humanist_ideas
 	trade_ideas
 	quantity_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	defensive_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -24,7 +24,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Abaqa #1" = 20
 	"Abu Sa'id #1" = 20
 	"Anushirwan #1" = 20
@@ -49,53 +49,17 @@ monarch_names = {
 	"Tekuder #1" = 20
 	"Temür #0" = 10
 }
-leader_names = {
-	"Abbâs"
-	"Abû"
-	"Akbar"
-	"Bakr"
-	"Borjigin"
-	"Genghisid"
-	"Jahagir"
-	"Jalâl"
-	"Jâmî"
-	"Khalil"
-	"Mohsin"
-	"Zaman"
-	"ud-Dîn"
+leader_names = { 
+	Abbâs Abû Akbar Bakr Borjigin Genghisid Jahagir Jalâl Jâmî Khalil
+	Mohsin Zaman ud-Dîn 
 }
-ship_names = {
-	"Adai"
-	"Batu"
-	"Bo'orchu"
-	"Borokhula"
-	"Böke"
-	"Chagaan"
-	"Chilaun"
-	"Dharmapala"
-	"Dörben Külü'üd"
-	"Dörben Noyas"
-	"Elbeg"
-	"Ghengis Khan"
-	"Hohhot"
-	"Hülegü"
-	"Jebe"
-	"Jelme"
-	"Jinggim"
-	"Jöchi"
-	"Kamala"
-	"Karakorum"
-	"Khar Khiruge"
-	"Khubilai"
-	"Mugali"
-	"Möngke"
-	"Qubilai"
-	"Shikhikhutug"
-	"Sorqan Shira"
-	"Subutai"
-	"Tolui"
-	"Yelü Chucai"
-	"Yingchang"
-	"Ögödei"
-	"Örüg Temür"
+ship_names = { 
+	Adai Batu Bo'orchu Borokhula Böke Chagaan Chilaun Dharmapala "Dörben Külü'üd" "Dörben Noyas"
+	Elbeg "Ghengis Khan" Hohhot Hülegü Jebe Jelme Jinggim Jöchi Kamala Karakorum
+	"Khar Khiruge" Khubilai Mugali Möngke Qubilai Shikhikhutug "Sorqan Shira" Subutai Tolui "Yelü Chucai"
+	Yingchang Ögödei "Örüg Temür" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

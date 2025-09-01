@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 234 233 124 }
 revolutionary_colors = { 13 14 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	religious_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_dragoon
@@ -25,7 +25,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"'Ali #0" = 10
 	"Aisha #0" = -1
 	"Ayaz #0" = 10
@@ -42,29 +42,14 @@ monarch_names = {
 	"Sulayman #0" = 10
 	"Zayid #0" = 10
 }
-leader_names = {
-	"Al-Karachi"
-	"Al-Muwalid"
-	"Anwar"
-	"Atef"
-	"Faraj"
-	"Ismail"
-	"Madari"
-	"Saleh"
-	"Siham"
+leader_names = { 
+	Al-Karachi Al-Muwalid Anwar Atef Faraj Ismail Madari Saleh Siham 
 }
-ship_names = {
-	"Abu Ali"
-	"Ad-Dammam"
-	"Al-Ahsa"
-	"Al-Jubayl"
-	"Al-Khubar"
-	"Al-Quatif"
-	"Al-Zahran"
-	"An-Naqirah"
-	"As-Saffaniyah"
-	"Hofuf"
-	"Ra's Al-Mish'ab"
-	"Ra's Tannurah"
-	"Wabrah"
+ship_names = { 
+	"Abu Ali" Ad-Dammam Al-Ahsa Al-Jubayl Al-Khubar Al-Quatif Al-Zahran An-Naqirah As-Saffaniyah Hofuf
+	"Ra's Al-Mish'ab" "Ra's Tannurah" Wabrah 
+}
+fleet_names = { 
+}
+army_names = { 
 }

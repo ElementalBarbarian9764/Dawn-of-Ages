@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 154 69 116 }
 revolutionary_colors = { 9 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	humanist_ideas
 	trade_ideas
 	economic_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	quantity_ideas
 }
 historical_score = 150
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	eastern_carabinier
 	eastern_knights
@@ -30,7 +30,7 @@ historical_units = {
 	russian_mass
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Agné #0" = -1
 	"Albertas #0" = 0
 	"Aleksandras #0" = 20
@@ -82,63 +82,17 @@ monarch_names = {
 	"Vytenis #1" = 0
 	"Zygimantas #0" = 40
 }
-leader_names = {
-	"Alseniskis"
-	"Astikas"
-	"Chodkevicius"
-	"Daukantas"
-	"Dauksa"
-	"Denhofas"
-	"Giedraitis"
-	"Gosevskis"
-	"Gostautas"
-	"Kesgaila"
-	"Kiska"
-	"Kosakovskis"
-	"Kulvietis"
-	"Lietuvis"
-	"Masalskis"
-	"Mazvydas"
-	"Nemirovicius"
-	"Oginskis"
-	"Ostrogiskis"
-	"Pacas"
-	"Pociejus"
-	"Radvila"
-	"Rapolionis"
-	"Rimsa"
-	"Sanguska"
-	"Sapiega"
-	"Simonavicius"
-	"Sirvydas"
-	"Skorina"
-	"Sluska"
-	"Sosnovskis"
-	"Svyriskis"
-	"Tiskevicius"
-	"Valancius"
-	"Valavicius"
-	"Visniovieckis"
-	"Zabiela"
+leader_names = { 
+	Alseniskis Astikas Chodkevicius Daukantas Dauksa Denhofas Giedraitis Gosevskis Gostautas Kesgaila
+	Kiska Kosakovskis Kulvietis Lietuvis Masalskis Mazvydas Nemirovicius Oginskis Ostrogiskis Pacas
+	Pociejus Radvila Rapolionis Rimsa Sanguska Sapiega Simonavicius Sirvydas Skorina Sluska
+	Sosnovskis Svyriskis Tiskevicius Valancius Valavicius Visniovieckis Zabiela 
 }
-ship_names = {
-	"Alytus"
-	"Birzai"
-	"Druskininkai"
-	"Gardinas"
-	"Jonava"
-	"Kaunas"
-	"Kretinga"
-	"Kreva"
-	"Lazdijai"
-	"Naugardukas"
-	"Palanga"
-	"Raseiniai"
-	"Siauliai"
-	"Sventoji"
-	"Taurage"
-	"Telsiai"
-	"Trakai"
-	"Utena"
-	"Vilkmerge"
+ship_names = { 
+	Alytus Birzai Druskininkai Gardinas Jonava Kaunas Kretinga Kreva Lazdijai Naugardukas
+	Palanga Raseiniai Siauliai Sventoji Taurage Telsiai Trakai Utena Vilkmerge 
+}
+fleet_names = { 
+}
+army_names = { 
 }

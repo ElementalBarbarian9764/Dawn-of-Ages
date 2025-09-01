@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 190 32 16 }
 revolutionary_colors = { 1 5 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	innovativeness_ideas
 	religious_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	trade_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adalbert #0" = 0
 	"Albert #0" = 10
 	"Albrecht #0" = 0
@@ -87,37 +87,15 @@ monarch_names = {
 	"Wilhelm #0" = 0
 	"Willem #0" = 0
 }
-leader_names = {
-	"Abdema"
-	"Aildesna"
-	"Allena"
-	"Beninga"
-	"Brok"
-	"Cirksena"
-	"Knyphausen"
-	"Manninga"
-	"Michels"
-	"Onneken"
-	"Störtebeker"
-	"Tjarksena"
-	"Ukena"
-	"Wichmann"
-	"Wiemken"
-	"Wigbold"
-	"tom"
+leader_names = { 
+	Abdema Aildesna Allena Beninga Brok Cirksena Knyphausen Manninga Michels Onneken
+	Störtebeker Tjarksena Ukena Wichmann Wiemken Wigbold tom 
 }
-ship_names = {
-	"Edewecht"
-	"Elsfleth"
-	"Hatten"
-	"Hude"
-	"Likedeelers"
-	"Rastede"
-	"Victualia"
-	"Wardenburg"
-	"Weifelstede"
-	"Zwischenahn"
+ship_names = { 
+	Edewecht Elsfleth Hatten Hude Likedeelers Rastede Victualia Wardenburg Weifelstede Zwischenahn
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

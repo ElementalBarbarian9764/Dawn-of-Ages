@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 245 139 127 }
 revolutionary_colors = { 6 8 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	offensive_ideas
 	quantity_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	bhonsle_infantry
 	indian_arquebusier
@@ -28,7 +28,7 @@ historical_units = {
 	sikh_rifle
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Anand Rao #0" = 10
 	"Baiji Bai #0" = -1
 	"Chandra Bai #0" = -1
@@ -42,49 +42,16 @@ monarch_names = {
 	"Pilaji Rao #0" = 10
 	"Sayaji Rao #0" = 10
 }
-leader_names = {
-	"Lakhani"
-	"Nisheeth"
-	"Prajna"
-	"Ramdas"
-	"Sitipala"
-	"Sukarman"
-	"Tjakur"
-	"Vishwa"
-	"Vyapari"
-	"Yateen"
+leader_names = { 
+	Lakhani Nisheeth Prajna Ramdas Sitipala Sukarman Tjakur Vishwa Vyapari Yateen
 }
-ship_names = {
-	"Agni"
-	"Bhim"
-	"Brahma"
-	"Devi"
-	"Durga"
-	"Ganesh"
-	"Gayatri"
-	"Hanumaun"
-	"Indra"
-	"Jalsena"
-	"Kala Jahazi"
-	"Kali"
-	"Krishna"
-	"Kubera"
-	"Lakshmi"
-	"Lal Jahazi"
-	"Nausena"
-	"Nav ka Yudh"
-	"Nila Jahazi"
-	"Parvati"
-	"Radha"
-	"Ratri"
-	"Sagar"
-	"Sarasvati"
-	"Shiva"
-	"Sita"
-	"Soma"
-	"Surya"
-	"Varuna"
-	"Vayu"
-	"Vishnu"
-	"Yama"
+ship_names = { 
+	Agni Bhim Brahma Devi Durga Ganesh Gayatri Hanumaun Indra Jalsena
+	"Kala Jahazi" Kali Krishna Kubera Lakshmi "Lal Jahazi" Nausena "Nav ka Yudh" "Nila Jahazi" Parvati
+	Radha Ratri Sagar Sarasvati Shiva Sita Soma Surya Varuna Vayu
+	Vishnu Yama 
+}
+fleet_names = { 
+}
+army_names = { 
 }

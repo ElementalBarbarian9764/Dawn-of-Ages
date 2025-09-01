@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 152 85 92 }
 revolutionary_colors = { 5 0 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	economic_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	spy_ideas
 }
 historical_score = 250
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	eastern_carabinier
 	eastern_knights
@@ -28,7 +28,7 @@ historical_units = {
 	polish_winged_hussar
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Agnes #0" = -1
 	"Albert #1" = 20
 	"Anasztáz #0" = 0
@@ -72,54 +72,16 @@ monarch_names = {
 	"Vencel #0" = 0
 	"Zsigmond #1" = 10
 }
-leader_names = {
-	"Alvinczy"
-	"Andrássy"
-	"Batthyány"
-	"Beleznay"
-	"Benovský"
-	"Bethlen"
-	"Bocskay"
-	"Báthory"
-	"Csák"
-	"Dessewffy"
-	"Esterházy"
-	"Festetics"
-	"Frangepán"
-	"Garay"
-	"Hadik"
-	"Horthy"
-	"Hunyadi"
-	"Kemeny"
-	"Kinizsi"
-	"Kán"
-	"Károlyi"
-	"Lackovic'"
-	"Losonci"
-	"Milványi"
-	"Mészáros"
-	"Nadasdy"
-	"Ozoray"
-	"Rozgonyi"
-	"Rákóczi"
-	"Széchenyi"
-	"Teleki"
-	"Thököly"
-	"Zichy"
-	"Zrinski"
-	"Zápolya"
-	"de Kovats"
-	"Šubic'"
+leader_names = { 
+	Alvinczy Andrássy Batthyány Beleznay Benovský Bethlen Bocskay Báthory Csák Dessewffy
+	Esterházy Festetics Frangepán Garay Hadik Horthy Hunyadi Kemeny Kinizsi Kán
+	Károlyi Lackovic' Losonci Milványi Mészáros Nadasdy Ozoray Rozgonyi Rákóczi Széchenyi
+	Teleki Thököly Zichy Zrinski Zápolya "de Kovats" Šubic' 
 }
-ship_names = {
-	"Aranybulla"
-	"Arpad"
-	"Hunyadi Matyas"
-	"Kalman"
-	"Karoly Robert"
-	"Laszlo"
-	"Magyar"
-	"Nagy Lajos"
-	"Sigismund"
-	"Szent Istvan kiraly"
+ship_names = { 
+	Aranybulla Arpad "Hunyadi Matyas" Kalman "Karoly Robert" Laszlo Magyar "Nagy Lajos" Sigismund "Szent Istvan kiraly"
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -1,0 +1,6 @@
+greater_demonic_group = {
+
+}
+lesser_demonic_group = {
+
+}

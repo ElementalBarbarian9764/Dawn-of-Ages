@@ -1,0 +1,72 @@
+# Fae Realm Nation
+# Graphic Culture selection
+graphical_culture = northamericagfx
+# Nation Color options
+color = { 17 230 53 }
+# Revolutionary Colors (Max 16)
+revolutionary_colors = { 10 14 11 }
+# Idea Group selection in histroy
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+# Unit selection for the nation
+historical_units = { 
+	algonkin_tomahawk_charge
+	american_western_franchise_warfare
+	commanche_swarm
+	native_indian_archer
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	native_indian_tribal_warfare
+	sioux_dragoon
+}
+# Ruler Names (Negative means Female)
+monarch_names = { 
+	# Pulled from fantasynamegenerators
+	# (Males)
+	"Almond #0" = 10
+	"Skylark #0" = 10
+	"Ash #0" = 10
+	"Reef #0" = 10
+	"Flax #0" = 10
+	"Helio #0" = 10
+	"Cosmo #0" = 10
+	"Sundew #0" = 10
+	"Aphid #0" = 10
+	"Poppy #0" = 10
+	"Ashley #0" = -10
+	"Elva #0" = -10
+	"Primrose #0" = -10
+	"Ali #0" = -10
+	"Nautila #0" = -10
+	"Rhoda #0" = -10
+	"Ginger #0" = -10
+}
+# Military Leader name List
+leader_names = { 
+	# Pulled from fantasynamegenerators
+	Almond Skylark Ash Reef Flax Helio Cosmo Sundew Aphid Poppy
+	Ashley Elva Primrose Ali Nautila Rhoda Ginger 
+}
+# Names for Ships
+ship_names = { 
+	StormBringer Ironclad ThunderClap "Igor's Reckoning" FlameBrothire Paragon Malekuthi Positha Shalithor Leviathan
+	Lumoisia 
+}
+# Army names
+amy_names = { 
+	"Light Dancers" 
+}
+Fleet Names 
+fleet_names = { 
+	Serpentina 
+}
+army_names = { 
+}

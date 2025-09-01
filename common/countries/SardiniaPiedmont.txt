@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 97 209 251 }
 revolutionary_colors = { 0 5 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	defensive_ideas
 	administrative_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adriano #0" = 10
 	"Agostino #0" = 0
 	"Aimone #0" = 10
@@ -96,104 +96,22 @@ monarch_names = {
 	"Vittorio #0" = 0
 	"Vittorio Amedeo #1" = 40
 }
-leader_names = {
-	"Alfieri"
-	"Arborio Mella"
-	"Asinari"
-	"Balbo"
-	"Benso"
-	"Boncompagni Ludovisi"
-	"Borromeo"
-	"Bosco"
-	"Botta"
-	"Broglia"
-	"Cacherano"
-	"Cafasso"
-	"Carignano"
-	"Casati"
-	"Chiodo"
-	"Cisa Asinari"
-	"Cottolengo"
-	"Delitalia"
-	"Doria di Cirié"
-	"Facchinetti de Nuce"
-	"Ferrero-Fiesco"
-	"Gaetani dell'Aquila"
-	"Galletti"
-	"Gioberti"
-	"Homo dei Moura"
-	"Lascaris"
-	"Ludovisi"
-	"Luserna Campiglione"
-	"Micca"
-	"Ossorio"
-	"Pallavicini"
-	"Pignatelli"
-	"Solaro"
-	"Taparelli"
-	"Tassoni"
-	"Trivulzio"
-	"Vico"
-	"d'Acaja"
-	"d'Appiani d'Aragona"
-	"d'Attalaya"
-	"d'Incisa"
-	"d'Ottaiano"
-	"de Bette"
-	"de Maretta"
-	"de Tutavila"
-	"del Carreto"
-	"del Marco"
-	"del Vasto"
-	"della Torre"
-	"di Busca"
-	"di Cardé"
-	"di Cavour"
-	"di Challant"
-	"di Luserna"
-	"di Paesana"
-	"di Savoia"
+leader_names = { 
+	Alfieri "Arborio Mella" Asinari Balbo Benso "Boncompagni Ludovisi" Borromeo Bosco Botta Broglia
+	Cacherano Cafasso Carignano Casati Chiodo "Cisa Asinari" Cottolengo Delitalia "Doria di Cirié" "Facchinetti de Nuce"
+	Ferrero-Fiesco "Gaetani dell'Aquila" Galletti Gioberti "Homo dei Moura" Lascaris Ludovisi "Luserna Campiglione" Micca Ossorio
+	Pallavicini Pignatelli Solaro Taparelli Tassoni Trivulzio Vico d'Acaja "d'Appiani d'Aragona" d'Attalaya
+	d'Incisa d'Ottaiano "de Bette" "de Maretta" "de Tutavila" "del Carreto" "del Marco" "del Vasto" "della Torre" "di Busca"
+	"di Cardé" "di Cavour" "di Challant" "di Luserna" "di Paesana" "di Savoia" 
 }
-ship_names = {
-	"Aguila"
-	"Alceste"
-	"Aurora"
-	"Azzardoso"
-	"Beata Margherita"
-	"Bella Genovese"
-	"Beroldo"
-	"Capitana"
-	"Carlo"
-	"Carloforte"
-	"Colombo"
-	"Commerce di Genova"
-	"Cristina"
-	"Daino"
-	"Diana"
-	"Eridano"
-	"Euridice"
-	"Falco"
-	"Felice"
-	"Generoso"
-	"Haute Combe"
-	"Maria Teresa"
-	"Neireide"
-	"Patrona"
-	"Prima"
-	"Regina"
-	"Rondinella"
-	"San Carlo"
-	"San Michele"
-	"San Vittore"
-	"San Vittorio"
-	"Santa Anna"
-	"Santa Barbara"
-	"Santa Teresa"
-	"Staffetta"
-	"Tirsi"
-	"Tritone"
-	"Veloce"
-	"Vigilante"
-	"Vittorio Emanuele"
-	"Zeffiro"
+ship_names = { 
+	Aguila Alceste Aurora Azzardoso "Beata Margherita" "Bella Genovese" Beroldo Capitana Carlo Carloforte
+	Colombo "Commerce di Genova" Cristina Daino Diana Eridano Euridice Falco Felice Generoso
+	"Haute Combe" "Maria Teresa" Neireide Patrona Prima Regina Rondinella "San Carlo" "San Michele" "San Vittore"
+	"San Vittorio" "Santa Anna" "Santa Barbara" "Santa Teresa" Staffetta Tirsi Tritone Veloce Vigilante "Vittorio Emanuele"
+	Zeffiro 
+}
+fleet_names = { 
+}
+army_names = { 
 }

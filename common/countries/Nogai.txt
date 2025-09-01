@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 0 120 145 }
 revolutionary_colors = { 10 0 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	quantity_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	defensive_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Aaliyah #0" = -1
 	"Abbas #0" = 10
 	"Agish #0" = 10
@@ -77,34 +77,15 @@ monarch_names = {
 	"Yash Tarak #0" = 10
 	"Yusuf #0" = 10
 }
-leader_names = {
-	"Batu-tu"
-	"Berkegene"
-	"Bora Chinua"
-	"Burilgidai"
-	"Chaganchar"
-	"Delger Cheren"
-	"Qadantai"
-	"Qara Erdene"
-	"Qorchigene"
-	"Suren Unegen"
-	"Tegus-chi"
-	"Temurcher"
-	"Ulagan Temur"
-	"Yekechar"
+leader_names = { 
+	Batu-tu Berkegene "Bora Chinua" Burilgidai Chaganchar "Delger Cheren" Qadantai "Qara Erdene" Qorchigene "Suren Unegen"
+	Tegus-chi Temurcher "Ulagan Temur" Yekechar 
 }
-ship_names = {
-	"Batu Khan"
-	"Buri"
-	"Chaka"
-	"Chinggis Khan"
-	"Edigü"
-	"Kara Nojaj"
-	"Mangyt"
-	"Möngke Timur"
-	"Qara Quchuq"
-	"Saraycik"
-	"Tartar Khan"
-	"Waqqas Bej"
-	"Yayik"
+ship_names = { 
+	"Batu Khan" Buri Chaka "Chinggis Khan" Edigü "Kara Nojaj" Mangyt "Möngke Timur" "Qara Quchuq" Saraycik
+	"Tartar Khan" "Waqqas Bej" Yayik 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 61 136 66 }
 revolutionary_colors = { 14 0 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	innovativeness_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albrecht #0" = 0
 	"Arnt #0" = 0
 	"August #0" = 0
@@ -77,61 +77,17 @@ monarch_names = {
 	"Wilhelm #0" = 0
 	"Wratislaw #5" = 20
 }
-leader_names = {
-	"Behm"
-	"Beyse"
-	"Grosch"
-	"Heidmann"
-	"Jürgens"
-	"Krumtum"
-	"Kurzmann"
-	"Meuseling"
-	"Miercke"
-	"Normann"
-	"Rähl"
-	"Stellmacher"
-	"Wessel"
-	"Witt"
-	"von Borcke"
-	"von Cammin"
-	"von Eickstedt"
-	"von Greifswald"
-	"von Kolberg"
-	"von Krockows"
-	"von Lettows"
-	"von Neubrandenburg"
-	"von Neustettin"
-	"von Neustreliz"
-	"von Peglows"
-	"von Prenzlau"
-	"von Ramin"
-	"von Rügen"
-	"von Schwerin"
-	"von Stettin"
-	"von Stolp"
-	"von Stralsund"
-	"von Strelows"
-	"von Szczecin"
-	"von Wolgast"
-	"von Wolgatz"
-	"von Wolin"
-	"von Zitzewitzes"
-	"von und zu Stargard"
+leader_names = { 
+	Behm Beyse Grosch Heidmann Jürgens Krumtum Kurzmann Meuseling Miercke Normann
+	Rähl Stellmacher Wessel Witt "von Borcke" "von Cammin" "von Eickstedt" "von Greifswald" "von Kolberg" "von Krockows"
+	"von Lettows" "von Neubrandenburg" "von Neustettin" "von Neustreliz" "von Peglows" "von Prenzlau" "von Ramin" "von Rügen" "von Schwerin" "von Stettin"
+	"von Stolp" "von Stralsund" "von Strelows" "von Szczecin" "von Wolgast" "von Wolgatz" "von Wolin" "von Zitzewitzes" "von und zu Stargard" 
 }
-ship_names = {
-	"Anklam"
-	"Cammin"
-	"Demmin"
-	"Fräulein von Rügen"
-	"Greifswald"
-	"Herzog Bogislaw"
-	"Herzog Kasimir"
-	"Herzog Otto"
-	"Neustettin"
-	"Pommern"
-	"Rostock"
-	"Stettin Herzog Barnim"
-	"Stralsund"
-	"Wismar"
-	"Wolgast"
+ship_names = { 
+	Anklam Cammin Demmin "Fräulein von Rügen" Greifswald "Herzog Bogislaw" "Herzog Kasimir" "Herzog Otto" Neustettin Pommern
+	Rostock "Stettin Herzog Barnim" Stralsund Wismar Wolgast 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = inuitgfx
 color = { 246 186 25 }
-monarch_names = {
+monarch_names = { 
 	"Chumbulat #0" = 0
 	"Elyuva #0" = -1
 	"Esin #0" = -1
@@ -19,4 +19,12 @@ monarch_names = {
 	"Syryava #0" = -1
 	"Tatka #0" = -1
 	"Vakpati #0" = 0
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

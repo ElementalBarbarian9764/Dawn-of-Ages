@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 229 231 26 }
 revolutionary_colors = { 5 9 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	offensive_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	indian_arquebusier
 	indian_elephant
@@ -26,7 +26,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Ala Singh #0" = 20
 	"Amar Singh #0" = 20
 	"Balbir #0" = 0
@@ -70,68 +70,18 @@ monarch_names = {
 	"Tara #0" = 0
 	"Udasi #0" = 0
 }
-leader_names = {
-	"Ahluwalia"
-	"Bahadur"
-	"Bara"
-	"Bhangalia"
-	"Bhatia"
-	"Bhatta"
-	"Chandral"
-	"Chattar"
-	"Chauhan"
-	"Das"
-	"Dev"
-	"Gahunia"
-	"Gami"
-	"Jamwal"
-	"Jivan"
-	"Kamboh"
-	"Katoch"
-	"Khan"
-	"Khatri"
-	"Khokhar"
-	"Kisthwaria"
-	"Lal"
-	"Makhdum"
-	"Mian"
-	"Minha"
-	"Naga"
-	"Naru"
-	"Pahore"
-	"Pakhral"
-	"Parmanand"
-	"Pundir"
-	"Rai"
-	"Ramgarhia"
-	"Rathore"
-	"Samma"
-	"Saran"
-	"Shergill"
-	"Singh"
-	"Sodhi"
-	"Sohal"
-	"Soomrah"
-	"Suleria"
+leader_names = { 
+	Ahluwalia Bahadur Bara Bhangalia Bhatia Bhatta Chandral Chattar Chauhan Das
+	Dev Gahunia Gami Jamwal Jivan Kamboh Katoch Khan Khatri Khokhar
+	Kisthwaria Lal Makhdum Mian Minha Naga Naru Pahore Pakhral Parmanand
+	Pundir Rai Ramgarhia Rathore Samma Saran Shergill Singh Sodhi Sohal
+	Soomrah Suleria 
 }
-ship_names = {
-	"Beas"
-	"Chenab"
-	"Devi"
-	"Gayatri"
-	"Guru"
-	"Indus"
-	"Jalsena"
-	"Jhelum"
-	"Lakshmi"
-	"Nausena"
-	"Nav ka Yudh"
-	"Parvati"
-	"Radha"
-	"Ratri"
-	"Ravi"
-	"Sagar"
-	"Sarasvati"
-	"Sita"
-	"Sutlej"
+ship_names = { 
+	Beas Chenab Devi Gayatri Guru Indus Jalsena Jhelum Lakshmi Nausena
+	"Nav ka Yudh" Parvati Radha Ratri Ravi Sagar Sarasvati Sita Sutlej 
+}
+fleet_names = { 
+}
+army_names = { 
 }

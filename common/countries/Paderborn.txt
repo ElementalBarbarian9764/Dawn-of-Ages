@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 214 90 79 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	defensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	spy_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adam #0" = 0
 	"Adolf #0" = 20
 	"Alfred #0" = 0
@@ -72,55 +72,18 @@ monarch_names = {
 	"Wikbold #0" = 15
 	"Wilhelm #0" = 15
 }
-leader_names = {
-	"Baten"
-	"Bombeck"
-	"Boymann"
-	"Bremer"
-	"Breucker"
-	"Buschmann"
-	"Bühmer"
-	"Diekmann"
-	"Eckrath"
-	"Fischedick"
-	"Fortkamp"
-	"Glaser"
-	"Grüter"
-	"Hegemann"
-	"Kappenberg"
-	"Knümann"
-	"Leggewe"
-	"Liesenfeld"
-	"Limberg"
-	"Lochtkemper"
-	"Lohe"
-	"Lohmann"
-	"Nathrath"
-	"Ortmann"
-	"Perdekamp"
-	"Pickenbrock"
-	"Sankühler"
-	"Springmann"
-	"Stenkhoff"
-	"Stratmann"
-	"Wessels"
-	"von Wedich"
-	"von Westerburg"
+leader_names = { 
+	Baten Bombeck Boymann Bremer Breucker Buschmann Bühmer Diekmann Eckrath Fischedick
+	Fortkamp Glaser Grüter Hegemann Kappenberg Knümann Leggewe Liesenfeld Limberg Lochtkemper
+	Lohe Lohmann Nathrath Ortmann Perdekamp Pickenbrock Sankühler Springmann Stenkhoff Stratmann
+	Wessels "von Wedich" "von Westerburg" 
 }
-ship_names = {
-	"Agger"
-	"Bischof Hildebold"
-	"Engelbert II"
-	"Erbischof Anno"
-	"Erft"
-	"Erzbischof Brun"
-	"Erzbischof Gero"
-	"Erzbischof Gunthar"
-	"Konrad Hochstaden"
-	"Rainald von Dassel"
-	"Rhein"
+ship_names = { 
+	Agger "Bischof Hildebold" "Engelbert II" "Erbischof Anno" Erft "Erzbischof Brun" "Erzbischof Gero" "Erzbischof Gunthar" "Konrad Hochstaden" "Rainald von Dassel"
+	Rhein 
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Erzbischofliche Garde"
+army_names = { 
+	"Armee von $PROVINCE$" "Erzbischofliche Garde" 
+}
+fleet_names = { 
 }

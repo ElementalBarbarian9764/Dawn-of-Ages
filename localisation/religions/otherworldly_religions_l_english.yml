@@ -1,0 +1,41 @@
+﻿l_english:
+
+# Elven Religions
+elven_religion_group: "Elven Religions"
+
+# High Elven Religion
+high_elven_religion: "High Elven Religion"
+high_elven_religion_desc: "Temp"
+
+# Nature Elven Religion
+nature_elven_religion: "Nature Elven Religion"
+nature_elven_religion_desc: "Temp"
+
+# Dark Elven Religion
+dark_elven_religion: "Dark Elven Religion"
+dark_elven_religion_desc: "Temp"
+
+
+
+# Dwarven Religions
+dwarven_religion_group: ""
+
+# Dwarven Religion
+dwarven_religion: "Dwarven Gods"
+dwarven_religion_desc: "Temp"
+
+# Dwemer Religion
+dwemer_religion: "Dwemer Atheism"
+dwemer_religion_desc:"Temp"
+
+
+# Orchish Religions
+orchish_religion_group: "Orchish Religions"
+
+# Warghism
+warghism: "WHAAAA"
+warghism_desc: "WHHAAA"
+
+# cult of the dark lord
+cult_of_dark_lord: "Cult of the Dark Lord"
+cult_of_dark_lord_desc: "Dark Lord"

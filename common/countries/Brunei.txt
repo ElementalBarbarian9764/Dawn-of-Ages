@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 41 89 174 }
 revolutionary_colors = { 1 0 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -21,7 +21,7 @@ historical_units = {
 	eastern_bow
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-Jalîl #0" = 20
 	"'Abd al-Mubin #0" = 20
 	"'Abd al-Qahhar #0" = 20
@@ -45,47 +45,16 @@ monarch_names = {
 	"Sayf ar-Rijal #0" = 20
 	"Sulaymân #0" = 20
 }
-leader_names = {
-	"Abdulfatah"
-	"Ahmad"
-	"Amir"
-	"Anwar"
-	"Azmi"
-	"Batuta"
-	"Chairul"
-	"Hamzah"
-	"Hasanuddin"
-	"Ibnu"
-	"Kyai"
-	"Mahat"
-	"Mukhtar"
-	"Najamuddin"
-	"Natzar"
-	"Nazmizan"
-	"Roem"
-	"Syarifuddin"
-	"Zulkifli"
+leader_names = { 
+	Abdulfatah Ahmad Amir Anwar Azmi Batuta Chairul Hamzah Hasanuddin Ibnu
+	Kyai Mahat Mukhtar Najamuddin Natzar Nazmizan Roem Syarifuddin Zulkifli 
 }
-ship_names = {
-	"Bangar"
-	"Batang"
-	"Batang Baram"
-	"Batu Danau"
-	"Kuala Baram"
-	"Kuala Belait"
-	"Kuala Medamit"
-	"Labi"
-	"Lumut"
-	"Lungai Limbang"
-	"Penanjong"
-	"Sukang"
-	"Sungai Bakong"
-	"Sungai Belait"
-	"Sungai Pandaruan"
-	"Sungai Tembureng"
-	"Sungai Tinjar"
-	"Sungai Tutoh"
-	"Sungai Tutong"
-	"Telingan"
-	"Trusan"
+ship_names = { 
+	Bangar Batang "Batang Baram" "Batu Danau" "Kuala Baram" "Kuala Belait" "Kuala Medamit" Labi Lumut "Lungai Limbang"
+	Penanjong Sukang "Sungai Bakong" "Sungai Belait" "Sungai Pandaruan" "Sungai Tembureng" "Sungai Tinjar" "Sungai Tutoh" "Sungai Tutong" Telingan
+	Trusan 
+}
+fleet_names = { 
+}
+army_names = { 
 }

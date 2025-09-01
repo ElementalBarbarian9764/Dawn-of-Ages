@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 86 136 83 }
-monarch_names = {
+monarch_names = { 
 	"Arshaka #1" = 10
 	"Aryawratha #1" = 10
 	"Bagabuxsha #1" = 10
@@ -27,4 +27,12 @@ monarch_names = {
 	"Uvaxshtra #1" = 10
 	"Vadhut #0" = -1
 	"Yïlgun #0" = -1
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

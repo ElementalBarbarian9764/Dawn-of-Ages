@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 181 0 20 }
 revolutionary_colors = { 4 1 4 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	eastern_carabinier
 	eastern_knights
@@ -29,7 +29,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Adnan #0" = 1
 	"Agim #0" = 1
 	"Aleksandër #0" = 10
@@ -98,61 +98,17 @@ monarch_names = {
 	"Ylli #0" = 1
 	"Zenel #0" = 1
 }
-leader_names = {
-	"Alia"
-	"Arianit"
-	"Badera"
-	"Balsha"
-	"Bua"
-	"Cervota"
-	"Chani"
-	"Comneniates"
-	"Corbajram"
-	"Dosti"
-	"Duka"
-	"Dukagjini"
-	"Elezi"
-	"Fakaj"
-	"Faqemiri"
-	"Gecaj"
-	"Gjika"
-	"Gjokaj"
-	"Gojcin"
-	"Golemi"
-	"Hajdaraga"
-	"Halili"
-	"Hamza"
-	"Hoxha"
-	"Kastrioti"
-	"Losha"
-	"Musaki"
-	"Sguros"
-	"Shehu"
-	"Shpata"
-	"Spani"
-	"Thopia"
-	"Toptani"
-	"Useni"
-	"Vata"
-	"Veseli"
-	"Vishanj"
-	"Xhaferi"
-	"Xhumba"
-	"Ymeri"
-	"Zenevisi"
-	"Ziberi"
-	"Zogu"
-	"Çarçani"
+leader_names = { 
+	Alia Arianit Badera Balsha Bua Cervota Chani Comneniates Corbajram Dosti
+	Duka Dukagjini Elezi Fakaj Faqemiri Gecaj Gjika Gjokaj Gojcin Golemi
+	Hajdaraga Halili Hamza Hoxha Kastrioti Losha Musaki Sguros Shehu Shpata
+	Spani Thopia Toptani Useni Vata Veseli Vishanj Xhaferi Xhumba Ymeri
+	Zenevisi Ziberi Zogu Çarçani 
 }
-ship_names = {
-	"Bishti i Palles"
-	"Gjiri i Drinit"
-	"Gjiri i Rondonit"
-	"Jube"
-	"Kalaja e Turres"
-	"Kepi i Rodonit"
-	"Kyrekuq"
-	"Shengjin"
-	"Shetaj"
-	"Velipoje"
+ship_names = { 
+	"Bishti i Palles" "Gjiri i Drinit" "Gjiri i Rondonit" Jube "Kalaja e Turres" "Kepi i Rodonit" Kyrekuq Shengjin Shetaj Velipoje
+}
+fleet_names = { 
+}
+army_names = { 
 }

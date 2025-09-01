@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 155 147 180 }
 revolutionary_colors = { 0 9 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	diplomatic_ideas
 	defensive_ideas
 	innovativeness_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	administrative_ideas
 }
 historical_score = 300
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -30,7 +30,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albrecht #3" = 40
 	"Alexander #0" = 15
 	"Alfred #0" = 0
@@ -75,55 +75,19 @@ monarch_names = {
 	"Wolfgang #0" = 10
 	"Wolfram #0" = 0
 }
-leader_names = {
-	"Arnim"
-	"Bieber"
-	"Bretfeld"
-	"Deitz"
-	"Dietze"
-	"Fischer"
-	"Gödel"
-	"Hamann"
-	"Harzer"
-	"Hergesell"
-	"Kirbach"
-	"Kranke"
-	"Kuhn"
-	"Oelssner"
-	"Oertel"
-	"Pilz"
-	"Rabs"
-	"Rank"
-	"Schönfeld"
-	"Sehm"
-	"Taut"
-	"Teichmann"
-	"Tellig"
-	"Uebigau"
-	"Uhlich"
-	"Winkler"
-	"von Rath"
+leader_names = { 
+	Arnim Bieber Bretfeld Deitz Dietze Fischer Gödel Hamann Harzer Hergesell
+	Kirbach Kranke Kuhn Oelssner Oertel Pilz Rabs Rank Schönfeld Sehm
+	Taut Teichmann Tellig Uebigau Uhlich Winkler "von Rath" 
 }
-ship_names = {
-	"Bernhard I"
-	"Billing"
-	"Brun"
-	"Edberg"
-	"Heinrich I"
-	"Heinrich II"
-	"Liedolf"
-	"Lothar"
-	"Manus"
-	"Ordulf"
-	"Otto I"
-	"Wichman"
-	"Widukind"
+ship_names = { 
+	"Bernhard I" Billing Brun Edberg "Heinrich I" "Heinrich II" Liedolf Lothar Manus Ordulf
+	"Otto I" Wichman Widukind 
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Kurfürstliche Garde"
+army_names = { 
+	"Armee von $PROVINCE$" "Kurfürstliche Garde" 
 }
-fleet_names = {
-	"Kurfürstliche Flotte"
+fleet_names = { 
+	"Kurfürstliche Flotte" 
 }
 preferred_religion = protestant

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 239 162 53 }
 revolutionary_colors = { 5 5 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Amalia #0" = -1
 	"Andreas #0" = 10
 	"Anton Ulrich #0" = 20
@@ -70,39 +70,16 @@ monarch_names = {
 	"Rudolf August #0" = 20
 	"Wilhelm #0" = 40
 }
-leader_names = {
-	"Brach"
-	"Eickenroth"
-	"Gruebel"
-	"Hattendorf"
-	"Hehn"
-	"Hein"
-	"Ickelrath"
-	"Jaxtheim"
-	"Lindemann"
-	"Opp"
-	"Schauseil"
-	"Schütze"
-	"Talken"
-	"Wassman"
-	"von Rhein"
+leader_names = { 
+	Brach Eickenroth Gruebel Hattendorf Hehn Hein Ickelrath Jaxtheim Lindemann Opp
+	Schauseil Schütze Talken Wassman "von Rhein" 
 }
-ship_names = {
-	"Albert I"
-	"Bischof Branthag"
-	"Bischof Godehard"
-	"Bruno"
-	"Darkward"
-	"Gottingen"
-	"Grubenhagen"
-	"Gräfin Gertrud"
-	"Heinrich I."
-	"Herzog Ludolf"
-	"Herzog Otto"
-	"Lothar III"
-	"Magnus II"
-	"Wolfenbuttel"
+ship_names = { 
+	"Albert I" "Bischof Branthag" "Bischof Godehard" Bruno Darkward Gottingen Grubenhagen "Gräfin Gertrud" "Heinrich I." "Herzog Ludolf"
+	"Herzog Otto" "Lothar III" "Magnus II" Wolfenbuttel 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

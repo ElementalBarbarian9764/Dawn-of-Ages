@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 180 165 70 }
-historical_units = {
+historical_units = { 
 	african_abyssinian_cavalry
 	african_abyssinian_light_cavalry
 	african_dragoon
@@ -15,7 +15,7 @@ historical_units = {
 	ethiopian_mountain_warfare
 	westernized_ethiopian
 }
-monarch_names = {
+monarch_names = { 
 	"'Amda Seyôn #1" = 20
 	"'Amsa Gîyôrgîs #0" = 20
 	"'Endreyâs #1" = 1
@@ -63,34 +63,16 @@ monarch_names = {
 	"Yôstôs #0" = 20
 	"Zar'a Yâqob #0" = 20
 }
-leader_names = {
-	"Ambo"
-	"Asfaw"
-	"Asres"
-	"Bayisa"
-	"Degife"
-	"Dereje"
-	"Eshete"
-	"Eyob"
-	"Ezana"
-	"Wami"
+leader_names = { 
+	Ambo Asfaw Asres Bayisa Degife Dereje Eshete Eyob Ezana Wami
 }
-ship_names = {
-	"Kedus Harbe"
-	"Lalibela"
-	"Mara Takla"
-	"Na'akueto La'ab"
-	"Seyum"
-	"Shewa"
-	"Tatadum"
-	"Tigray"
-	"Yekuno Amlak"
-	"Yetbarak"
-	"Yodit"
+ship_names = { 
+	"Kedus Harbe" Lalibela "Mara Takla" "Na'akueto La'ab" Seyum Shewa Tatadum Tigray "Yekuno Amlak" Yetbarak
+	Yodit 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
 }
-fleet_names = {
-	"Flotilla of $PROVINCE$"
+fleet_names = { 
+	"Flotilla of $PROVINCE$" 
 }

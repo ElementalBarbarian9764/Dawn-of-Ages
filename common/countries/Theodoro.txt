@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 61 8 81 }
 revolutionary_colors = { 5 1 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_skirmisher
 	eastern_uhlan
@@ -31,7 +31,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	ottoman_yaya
 }
-monarch_names = {
+monarch_names = { 
 	"Agape #0" = -1
 	"Aineias #0" = 0
 	"Alexandros #0" = 0
@@ -78,35 +78,14 @@ monarch_names = {
 	"Theodoros #0" = 0
 	"Timotheos #0" = 0
 }
-leader_names = {
-	"Akyel"
-	"Atan"
-	"Bulut"
-	"Cimsir"
-	"Kamil"
-	"Riza"
-	"Said"
-	"Sungur"
-	"Yattara"
-	"Zengin"
+leader_names = { 
+	Akyel Atan Bulut Cimsir Kamil Riza Said Sungur Yattara Zengin
 }
-ship_names = {
-	"Alexios I"
-	"Amisus"
-	"Andronikos I"
-	"Anna"
-	"Basileios"
-	"Chersonesos"
-	"Heraclea Pontica"
-	"Ioannes I"
-	"Ioannes II"
-	"Irene"
-	"Kersh"
-	"Manouel I"
-	"Paphlagonia"
-	"Perateia"
-	"Sinope"
-	"Sougdeia"
-	"Theodora"
-	"Trebizond"
+ship_names = { 
+	"Alexios I" Amisus "Andronikos I" Anna Basileios Chersonesos "Heraclea Pontica" "Ioannes I" "Ioannes II" Irene
+	Kersh "Manouel I" Paphlagonia Perateia Sinope Sougdeia Theodora Trebizond 
+}
+fleet_names = { 
+}
+army_names = { 
 }

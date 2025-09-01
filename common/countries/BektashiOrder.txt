@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 90 150 0 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_skirmisher
 	eastern_uhlan
@@ -20,7 +20,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	ottoman_yaya
 }
-monarch_names = {
+monarch_names = { 
 	"Abbas #0" = 1
 	"Abdul #0" = 1
 	"Abdullah #0" = 1
@@ -65,53 +65,17 @@ monarch_names = {
 	"Turhan #0" = -1
 	"Zeynep #0" = -1
 }
-leader_names = {
-	"Abbas"
-	"Abdul"
-	"Abdullah"
-	"Abolhassan"
-	"Abu-Bakr"
-	"Ahmad"
-	"Ak-Yazili"
-	"Akbar"
-	"Al-Fatiha"
-	"Ali"
-	"Ali-Fay"
-	"Ali-Kolon"
-	"Ali-Zalil"
-	"Alians"
-	"Allahyar"
-	"Arabati"
-	"Balim"
-	"Bektash"
-	"Demir"
-	"Eke"
-	"Emini"
-	"Ercan"
-	"Gül"
-	"Haji"
-	"Hasan"
-	"Haydar"
-	"Hossein"
-	"Hussayn"
-	"Ismail"
-	"Lama"
-	"Mahmud"
-	"Mohammed"
-	"Mondi"
-	"Muammar"
-	"Muhammad"
-	"Mumin"
-	"Mustafa"
-	"Naim"
-	"Nesimi"
-	"Otman"
-	"Pasha"
-	"Reshat"
-	"Rexheb"
-	"Tahir"
-	"Teke"
+leader_names = { 
+	Abbas Abdul Abdullah Abolhassan Abu-Bakr Ahmad Ak-Yazili Akbar Al-Fatiha Ali
+	Ali-Fay Ali-Kolon Ali-Zalil Alians Allahyar Arabati Balim Bektash Demir Eke
+	Emini Ercan Gül Haji Hasan Haydar Hossein Hussayn Ismail Lama
+	Mahmud Mohammed Mondi Muammar Muhammad Mumin Mustafa Naim Nesimi Otman
+	Pasha Reshat Rexheb Tahir Teke 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+ship_names = { 
+}
+fleet_names = { 
 }

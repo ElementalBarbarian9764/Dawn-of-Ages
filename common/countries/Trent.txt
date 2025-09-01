@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 148 122 151 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	trade_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Aleida #0" = -1
 	"Andreas Jakob #0" = 20
 	"Benedikt #0" = 0
@@ -71,39 +71,15 @@ monarch_names = {
 	"Wolf Dietrich #0" = 20
 	"Wolfgang #0" = 0
 }
-leader_names = {
-	"Aigner"
-	"Amanshauser"
-	"Burgstaller"
-	"Bäck"
-	"Doppler"
-	"Feiersinger"
-	"Gruber"
-	"Macheiner"
-	"Maislinger"
-	"Mayer"
-	"Mohr"
-	"Rendl"
-	"Rohracher"
-	"Scharl"
-	"Schönswetter"
-	"Trakl"
-	"Waggerl"
-	"Witzigmann"
+leader_names = { 
+	Aigner Amanshauser Burgstaller Bäck Doppler Feiersinger Gruber Macheiner Maislinger Mayer
+	Mohr Rendl Rohracher Scharl Schönswetter Trakl Waggerl Witzigmann 
 }
-ship_names = {
-	"Apollo"
-	"Athena"
-	"Bozen"
-	"Brixen"
-	"Bruneck"
-	"Eberhard"
-	"Innsbruck"
-	"Meran"
-	"Poseidon"
-	"Trent"
+ship_names = { 
+	Apollo Athena Bozen Brixen Bruneck Eberhard Innsbruck Meran Poseidon Trent
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Fürstbischofliche Garde"
+army_names = { 
+	"Armee von $PROVINCE$" "Fürstbischofliche Garde" 
+}
+fleet_names = { 
 }

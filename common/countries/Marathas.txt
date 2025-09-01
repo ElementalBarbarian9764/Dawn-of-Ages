@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 67 124 181 }
 revolutionary_colors = { 6 8 6 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	offensive_ideas
 	administrative_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	aristocracy_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_footsoldier
@@ -25,7 +25,7 @@ historical_units = {
 	sikh_rifle
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Baji Prabhu #0" = 0
 	"Baji Rao #0" = 10
 	"Balaji #0" = 10
@@ -54,73 +54,19 @@ monarch_names = {
 	"Tukojirao #0" = 0
 	"Yashwantrao  #0" = 0
 }
-leader_names = {
-	"Aher"
-	"Bhat"
-	"Bhoit"
-	"Bhonsle"
-	"Chavan"
-	"Dabhad"
-	"Gaikwad"
-	"Gujar"
-	"Holkar"
-	"Jadhav"
-	"Jagtap"
-	"Kadam"
-	"Kate"
-	"Kaushal"
-	"Khursh"
-	"Krishnamma"
-	"Lolaksi"
-	"Malusare"
-	"Maruthi"
-	"Moit"
-	"Moray"
-	"Nagaraj"
-	"Narsala"
-	"Nikam"
-	"Nimbalk"
-	"Palkar"
-	"Pawar"
-	"Ramiah"
-	"Rane"
-	"Satavahana"
-	"Sawant"
-	"Shinde"
-	"Shirke"
-	"Yadava"
+leader_names = { 
+	Aher Bhat Bhoit Bhonsle Chavan Dabhad Gaikwad Gujar Holkar Jadhav
+	Jagtap Kadam Kate Kaushal Khursh Krishnamma Lolaksi Malusare Maruthi Moit
+	Moray Nagaraj Narsala Nikam Nimbalk Palkar Pawar Ramiah Rane Satavahana
+	Sawant Shinde Shirke Yadava 
 }
-ship_names = {
-	"Agni"
-	"Bhim"
-	"Brahma"
-	"Devi"
-	"Durga"
-	"Ganesh"
-	"Gayatri"
-	"Hanumaun"
-	"Indra"
-	"Jalsena"
-	"Kala Jahazi"
-	"Kali"
-	"Krishna"
-	"Kubera"
-	"Lakshmi"
-	"Lal Jahazi"
-	"Nausena"
-	"Nav ka Yudh"
-	"Nila Jahazi"
-	"Parvati"
-	"Radha"
-	"Ratri"
-	"Sagar"
-	"Sarasvati"
-	"Shiva"
-	"Sita"
-	"Soma"
-	"Surya"
-	"Varuna"
-	"Vayu"
-	"Vishnu"
-	"Yama"
+ship_names = { 
+	Agni Bhim Brahma Devi Durga Ganesh Gayatri Hanumaun Indra Jalsena
+	"Kala Jahazi" Kali Krishna Kubera Lakshmi "Lal Jahazi" Nausena "Nav ka Yudh" "Nila Jahazi" Parvati
+	Radha Ratri Sagar Sarasvati Shiva Sita Soma Surya Varuna Vayu
+	Vishnu Yama 
+}
+fleet_names = { 
+}
+army_names = { 
 }

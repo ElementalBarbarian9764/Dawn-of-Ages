@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 67 18 187 }
 revolutionary_colors = { 14 10 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Allenepeshensha #0" = 20
 	"Aramapingea #0" = 20
 	"Batticy #0" = 20
@@ -62,38 +62,15 @@ monarch_names = {
 	"Whkahpesewah #0" = 20
 	"Wissineeaw #0" = 20
 }
-leader_names = {
-	"Albiui"
-	"Amonokoa"
-	"Cahokia"
-	"Chepoussa"
-	"Chinkoa"
-	"Coiracoentanon"
-	"Espeminkia"
-	"Kaskaskia"
-	"Maroa"
-	"Matchinkoa"
-	"Michibousa"
-	"Michigamea"
-	"Moingwena"
-	"Negawichi"
-	"Peoria"
-	"Tamaroa"
-	"Tapouara"
+leader_names = { 
+	Albiui Amonokoa Cahokia Chepoussa Chinkoa Coiracoentanon Espeminkia Kaskaskia Maroa Matchinkoa
+	Michibousa Michigamea Moingwena Negawichi Peoria Tamaroa Tapouara 
 }
-ship_names = {
-	"Aamaawia"
-	"Aanteekwa"
-	"Alemwa"
-	"Eehsipana"
-	"Kineepikwa"
-	"Lenaswa"
-	"Mahkwa"
-	"Mahweewa"
-	"Miintikwa"
-	"Mikicia"
-	"Moohswa"
-	"Neekatikashia"
-	"Paapankamwa"
-	"Shikaakwa"
+ship_names = { 
+	Aamaawia Aanteekwa Alemwa Eehsipana Kineepikwa Lenaswa Mahkwa Mahweewa Miintikwa Mikicia
+	Moohswa Neekatikashia Paapankamwa Shikaakwa 
+}
+fleet_names = { 
+}
+army_names = { 
 }

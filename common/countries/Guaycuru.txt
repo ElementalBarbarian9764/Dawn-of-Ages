@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = southamericagfx
 color = { 245 10 80 }
 revolutionary_colors = { 5 16 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	offensive_ideas
 	administrative_ideas
 	quantity_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	inca_mountain_warfare
 	incan_axemen
 	incan_guerilla_warfare
@@ -26,7 +26,7 @@ historical_units = {
 	south_american_warfare
 	westernized_incan
 }
-monarch_names = {
+monarch_names = { 
 	"Amangy #0" = 10
 	"Amapytu #0" = 10
 	"Amaru #0" = 10
@@ -58,46 +58,16 @@ monarch_names = {
 	"Tuvicha #0" = 10
 	"Ygary #0" = 10
 }
-leader_names = {
-	"Bomboi"
-	"Caaigua"
-	"Calchagui"
-	"Caracara"
-	"Cario"
-	"Ciriguana"
-	"Curumai"
-	"Curupaiti"
-	"Itatine"
-	"Mbigua"
-	"Quiloazaz"
-	"Tape"
-	"Tarci"
-	"Timbu"
-	"Tucague"
+leader_names = { 
+	Bomboi Caaigua Calchagui Caracara Cario Ciriguana Curumai Curupaiti Itatine Mbigua
+	Quiloazaz Tape Tarci Timbu Tucague 
 }
-ship_names = {
-	"Abaangiu"
-	"Angatupry"
-	"Ao Ao"
-	"Jacy"
-	"Jaguar"
-	"Jasy Jatere"
-	"Jurupari"
-	"Kerana"
-	"Kurupi"
-	"Luison"
-	"Mala Vision"
-	"Marangatú"
-	"Mboi Tui"
-	"Monai"
-	"Pinon"
-	"Plata Yvyguy"
-	"Pombero"
-	"Pytajovai"
-	"Raini"
-	"Teju Jagua"
-	"Tume Arandu"
-	"Tupã"
-	"Yande"
-	"Yari"
+ship_names = { 
+	Abaangiu Angatupry "Ao Ao" Jacy Jaguar "Jasy Jatere" Jurupari Kerana Kurupi Luison
+	"Mala Vision" Marangatú "Mboi Tui" Monai Pinon "Plata Yvyguy" Pombero Pytajovai Raini "Teju Jagua"
+	"Tume Arandu" Tupã Yande Yari 
+}
+fleet_names = { 
+}
+army_names = { 
 }

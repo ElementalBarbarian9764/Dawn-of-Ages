@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 149 186 37 }
 revolutionary_colors = { 5 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adriaan #0" = 0
 	"Alexandre #2" = 5
 	"Andries #0" = 0
@@ -73,49 +73,16 @@ monarch_names = {
 	"Théoduin #1" = 5
 	"Érard #0" = 20
 }
-leader_names = {
-	"Aubry"
-	"Bastin"
-	"Bauduinet"
-	"Bitha"
-	"Bouchet"
-	"Chauchet"
-	"Cloet"
-	"Colson"
-	"Digneffe"
-	"Fabry"
-	"Gérard"
-	"Haeck"
-	"Hauzeur"
-	"Henkart"
-	"Josias"
-	"Lambermont"
-	"Nannan"
-	"Paulet"
-	"Philippens"
-	"Reul"
-	"Reynier"
-	"Vanhove"
-	"da Franquinet"
-	"de Donnea"
-	"de Finesse"
-	"de Haxhe"
-	"de Lacu"
-	"de Spirlet"
-	"la Vignette"
+leader_names = { 
+	Aubry Bastin Bauduinet Bitha Bouchet Chauchet Cloet Colson Digneffe Fabry
+	Gérard Haeck Hauzeur Henkart Josias Lambermont Nannan Paulet Philippens Reul
+	Reynier Vanhove "da Franquinet" "de Donnea" "de Finesse" "de Haxhe" "de Lacu" "de Spirlet" "la Vignette" 
 }
-ship_names = {
-	"l'Ans"
-	"la Meuse"
-	"la Place-du-Queer"
-	"le Luik"
-	"le Notger de Liège"
-	"le Saint-Barthélemy"
-	"le Saint-Hubert"
-	"le Saint-Jacques"
-	"le Saint-Lambert"
-	"le Saint-Martin"
-	"le Saint-Nicolas"
-	"le Sart-Tilman"
-	"le Seraing"
+ship_names = { 
+	l'Ans "la Meuse" "la Place-du-Queer" "le Luik" "le Notger de Liège" "le Saint-Barthélemy" "le Saint-Hubert" "le Saint-Jacques" "le Saint-Lambert" "le Saint-Martin"
+	"le Saint-Nicolas" "le Sart-Tilman" "le Seraing" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

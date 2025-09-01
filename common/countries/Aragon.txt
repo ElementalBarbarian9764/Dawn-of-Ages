@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 166 68 72 }
 revolutionary_colors = { 4 8 4 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	quantity_ideas
 	religious_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	offensive_ideas
 }
 historical_score = 400
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Alejandra #0" = -5
 	"Alfons #4" = 20
 	"Andreu #0" = 0
@@ -74,92 +74,22 @@ monarch_names = {
 	"Sanç #1" = 5
 	"Tomàs #0" = 0
 }
-leader_names = {
-	"Amic"
-	"Arbués"
-	"Balaguer"
-	"Barceló"
-	"Berguedà"
-	"Bielsa"
-	"Cajal"
-	"Colom"
-	"Domènec"
-	"Fernández de Hijar"
-	"Ferrer"
-	"Folc de Cardona"
-	"Franco"
-	"Galindo"
-	"Gil de Biedma"
-	"Gisbert"
-	"Loaisa"
-	"Martorell"
-	"Monteagudo"
-	"Muntaner"
-	"Oliva"
-	"Ordovás"
-	"Peña"
-	"Piquer"
-	"Pérez de Coloma"
-	"Ripoll"
-	"Sastre"
-	"Vallès"
-	"Veldrán"
-	"Vilamarí"
-	"Villarroya"
-	"d'Aragó"
-	"d'Empúries"
-	"d'Ixer"
-	"d'Ors"
-	"d'Urgell"
-	"d'Àustria"
-	"de Alagón"
-	"de Ayerbe"
-	"de Belchite"
-	"de Borja"
-	"de Cabrera"
-	"de Gotor"
-	"de Guimerà"
-	"de Gurrea"
-	"de Luna"
-	"de Montcada"
-	"de Requesens"
-	"de Ripperdá"
-	"de Zaporta"
-	"de la Riba"
+leader_names = { 
+	Amic Arbués Balaguer Barceló Berguedà Bielsa Cajal Colom Domènec "Fernández de Hijar"
+	Ferrer "Folc de Cardona" Franco Galindo "Gil de Biedma" Gisbert Loaisa Martorell Monteagudo Muntaner
+	Oliva Ordovás Peña Piquer "Pérez de Coloma" Ripoll Sastre Vallès Veldrán Vilamarí
+	Villarroya d'Aragó d'Empúries d'Ixer d'Ors d'Urgell d'Àustria "de Alagón" "de Ayerbe" "de Belchite"
+	"de Borja" "de Cabrera" "de Gotor" "de Guimerà" "de Gurrea" "de Luna" "de Montcada" "de Requesens" "de Ripperdá" "de Zaporta"
+	"de la Riba" 
 }
-ship_names = {
-	"Blanca Aurora"
-	"Falcó"
-	"Flama"
-	"La Bonaventura"
-	"La Garsa"
-	"La Gasela"
-	"La Reial"
-	"Lleona"
-	"Magnana"
-	"Sant Ambrós"
-	"Sant Antoni"
-	"Sant Bernat"
-	"Sant Climent"
-	"Sant Francesc"
-	"Sant Gabriel"
-	"Sant Jacob"
-	"Sant Joan Evangelista"
-	"Sant Jordi"
-	"Sant Miquel"
-	"Sant Pere de Roma"
-	"Sant Víctor"
-	"Santa Bàrbara"
-	"Santa Caterina"
-	"Santa Coloma"
-	"Santa Creu"
-	"Santa Eulàlia"
-	"Santa Magdalena"
-	"Santa Maria"
-	"Santa Ventura"
-	"Santa Ágata"
-	"Trinitat"
+ship_names = { 
+	"Blanca Aurora" Falcó Flama "La Bonaventura" "La Garsa" "La Gasela" "La Reial" Lleona Magnana "Sant Ambrós"
+	"Sant Antoni" "Sant Bernat" "Sant Climent" "Sant Francesc" "Sant Gabriel" "Sant Jacob" "Sant Joan Evangelista" "Sant Jordi" "Sant Miquel" "Sant Pere de Roma"
+	"Sant Víctor" "Santa Bàrbara" "Santa Caterina" "Santa Coloma" "Santa Creu" "Santa Eulàlia" "Santa Magdalena" "Santa Maria" "Santa Ventura" "Santa Ágata"
+	Trinitat 
 }
-army_names = {
-	"Terç de $PROVINCE$"
+army_names = { 
+	"Terç de $PROVINCE$" 
+}
+fleet_names = { 
 }

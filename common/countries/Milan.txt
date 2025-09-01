@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 166 108 146 }
 revolutionary_colors = { 9 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	innovativeness_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Achille #0" = 0
 	"Ascanio Maria #0" = 10
 	"Azzone #1" = 10
@@ -74,104 +74,23 @@ monarch_names = {
 	"Uberto #0" = 0
 	"Vittorio #0" = 0
 }
-leader_names = {
-	"Adelasio"
-	"Aldini"
-	"Alessandri"
-	"Arborio Mella"
-	"Barbiano Belgioioso"
-	"Bargnani"
-	"Bigliori di Lava"
-	"Birago"
-	"Borromeo"
-	"Brunetti"
-	"Caetani"
-	"Capitaneo"
-	"Caracciolo"
-	"Carafa"
-	"Containi"
-	"Franchi"
-	"Ghislieri"
-	"Gonzaga"
-	"Grimaldi di Busca"
-	"Lamberti"
-	"Luosi"
-	"Luserna Bigliori"
-	"Luserna della Torre"
-	"Mancini"
-	"Medici di Marignano"
-	"Melzi"
-	"Moscati"
-	"Novati"
-	"Odescalchi"
-	"Paleologi Montferrato"
-	"Paradisi"
-	"Pico"
-	"Ruga"
-	"Sabbati"
-	"Savoldi"
-	"Serbelloni"
-	"Sfondrati"
-	"Sforza"
-	"Sommariva"
-	"Sopransi"
-	"Spinola"
-	"Testi"
-	"Tizzone"
-	"Visconti"
-	"de Guzman"
-	"de Leiva"
-	"del Carreto"
-	"del Monte"
-	"della Scalla"
-	"di Campofregoso"
-	"di Cardé"
-	"di Saluzzo"
+leader_names = { 
+	Adelasio Aldini Alessandri "Arborio Mella" "Barbiano Belgioioso" Bargnani "Bigliori di Lava" Birago Borromeo Brunetti
+	Caetani Capitaneo Caracciolo Carafa Containi Franchi Ghislieri Gonzaga "Grimaldi di Busca" Lamberti
+	Luosi "Luserna Bigliori" "Luserna della Torre" Mancini "Medici di Marignano" Melzi Moscati Novati Odescalchi "Paleologi Montferrato"
+	Paradisi Pico Ruga Sabbati Savoldi Serbelloni Sfondrati Sforza Sommariva Sopransi
+	Spinola Testi Tizzone Visconti "de Guzman" "de Leiva" "del Carreto" "del Monte" "della Scalla" "di Campofregoso"
+	"di Cardé" "di Saluzzo" 
 }
-ship_names = {
-	"Alliata"
-	"Ansperto"
-	"Ariberto d'Intimiano"
-	"Azzone Visconti"
-	"Celentano"
-	"Como"
-	"Conte Angilberto"
-	"Corrado II"
-	"Cremona"
-	"Filippo Maria"
-	"Fiume Seveso"
-	"Fiumi Lambro"
-	"Fiumi l'Olona"
-	"Francesco Sforza"
-	"Gian Galeazzo Visconti"
-	"Lecco"
-	"Lodi"
-	"Lombardia"
-	"Pavia"
-	"Re Alboino"
-	"San Babila"
-	"San Bernardino alle Ossa"
-	"San Cristoforo sul Naviglio"
-	"San Giovanni in Conca"
-	"San Gottardo"
-	"San Lorenzo"
-	"San Marco"
-	"San Nazaro Maggiore"
-	"San Satiro"
-	"San Simpliciano"
-	"Sant'Agostino"
-	"Sant'Ambrogio"
-	"Sant'Eustorgio"
-	"Santa Maria dei Miracoli"
-	"Santo Stefano"
-	"Sondrio"
-	"Teodolinda"
-	"Terragni"
-	"Torriani"
-	"Valperto"
-	"Varese"
-	"Virgilio"
+ship_names = { 
+	Alliata Ansperto "Ariberto d'Intimiano" "Azzone Visconti" Celentano Como "Conte Angilberto" "Corrado II" Cremona "Filippo Maria"
+	"Fiume Seveso" "Fiumi Lambro" "Fiumi l'Olona" "Francesco Sforza" "Gian Galeazzo Visconti" Lecco Lodi Lombardia Pavia "Re Alboino"
+	"San Babila" "San Bernardino alle Ossa" "San Cristoforo sul Naviglio" "San Giovanni in Conca" "San Gottardo" "San Lorenzo" "San Marco" "San Nazaro Maggiore" "San Satiro" "San Simpliciano"
+	Sant'Agostino Sant'Ambrogio Sant'Eustorgio "Santa Maria dei Miracoli" "Santo Stefano" Sondrio Teodolinda Terragni Torriani Valperto
+	Varese Virgilio 
 }
-army_names = {
-	"Armata di $PROVINCE$"
+army_names = { 
+	"Armata di $PROVINCE$" 
+}
+fleet_names = { 
 }

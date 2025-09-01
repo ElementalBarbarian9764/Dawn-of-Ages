@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = southamericagfx
 color = { 250 155 65 }
 revolutionary_colors = { 13 0 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	administrative_ideas
 	quantity_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	inca_mountain_warfare
 	incan_axemen
 	incan_guerilla_warfare
@@ -26,7 +26,7 @@ historical_units = {
 	south_american_warfare
 	westernized_incan
 }
-monarch_names = {
+monarch_names = { 
 	"Aillavilu #0" = 30
 	"Ailén #0" = -1
 	"Ancamilla #0" = 10
@@ -53,27 +53,13 @@ monarch_names = {
 	"Yaima #0" = -1
 	"Ñanco #0" = 10
 }
-leader_names = {
-	"Abajino"
-	"Araucanía"
-	"Choll-Choll"
-	"Huilliche"
-	"Lafquenche"
-	"Lonko"
-	"Nguluche"
-	"Picunche"
-	"Promaucae"
-	"Toqui"
+leader_names = { 
+	Abajino Araucanía Choll-Choll Huilliche Lafquenche Lonko Nguluche Picunche Promaucae Toqui
 }
-ship_names = {
-	"Biobío"
-	"Caupolicán"
-	"Chonos"
-	"Curalaba"
-	"Loncoche"
-	"Marihueñu"
-	"Mataquito"
-	"Poya"
-	"Purén"
-	"Tucapel"
+ship_names = { 
+	Biobío Caupolicán Chonos Curalaba Loncoche Marihueñu Mataquito Poya Purén Tucapel
+}
+fleet_names = { 
+}
+army_names = { 
 }

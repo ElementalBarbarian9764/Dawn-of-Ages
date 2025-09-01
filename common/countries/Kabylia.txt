@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 60 140 70 }
 revolutionary_colors = { 10 8 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	expansion_ideas
 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_duel
@@ -21,7 +21,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"Abdallah #0" = 0
 	"Abdelaziz #0" = 10
 	"Abderrahmane #0" = 10
@@ -42,48 +42,16 @@ monarch_names = {
 	"Werdja #0" = -1
 	"Zahir #0" = 0
 }
-leader_names = {
-	"Abi Youcef"
-	"Ait Akerma"
-	"Ait Aouggacha"
-	"Ait Aïssi"
-	"Ait Djennad"
-	"Ait Douala"
-	"Ait Fraoussen"
-	"Ait Ghobri"
-	"Ait Idjer"
-	"Ait Iraten"
-	"Maatka"
+leader_names = { 
+	"Abi Youcef" "Ait Akerma" "Ait Aouggacha" "Ait Aïssi" "Ait Djennad" "Ait Douala" "Ait Fraoussen" "Ait Ghobri" "Ait Idjer" "Ait Iraten"
+	Maatka 
 }
-ship_names = {
-	"Akhir"
-	"Awwal"
-	"Ba'ith"
-	"Barr"
-	"Batin"
-	"Hamid"
-	"Haqq"
-	"Hayy"
-	"Majid"
-	"Matin"
-	"Mu'akhkhir"
-	"Mu'id"
-	"Mubdi"
-	"Muhsi"
-	"Muhyi"
-	"Mumit"
-	"Muqaddim"
-	"Muqtadir"
-	"Muta'al"
-	"Qadir"
-	"Qawiyy"
-	"Qayyum"
-	"Samad"
-	"Shahid"
-	"Wahid"
-	"Wajed"
-	"Wakil"
-	"Wali"
-	"Waliyy"
-	"Zahir"
+ship_names = { 
+	Akhir Awwal Ba'ith Barr Batin Hamid Haqq Hayy Majid Matin
+	Mu'akhkhir Mu'id Mubdi Muhsi Muhyi Mumit Muqaddim Muqtadir Muta'al Qadir
+	Qawiyy Qayyum Samad Shahid Wahid Wajed Wakil Wali Waliyy Zahir
+}
+fleet_names = { 
+}
+army_names = { 
 }

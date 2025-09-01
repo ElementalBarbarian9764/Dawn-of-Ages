@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 164 217 127 }
 revolutionary_colors = { 8 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adolf Friedrich #0" = 15
 	"Alexander #0" = 0
 	"Alfred #0" = 15
@@ -69,32 +69,15 @@ monarch_names = {
 	"Wilhelm #0" = 10
 	"Wilhelm August #0" = 10
 }
-leader_names = {
-	"Aller"
-	"Detmold"
-	"Hamelm"
-	"Hildesheim"
-	"Kapp"
-	"Minden"
-	"Oldenburg"
-	"Salzgitter"
-	"Werden"
-	"Wernigerode"
+leader_names = { 
+	Aller Detmold Hamelm Hildesheim Kapp Minden Oldenburg Salzgitter Werden Wernigerode
 }
-ship_names = {
-	"Burgdorf"
-	"Deister"
-	"Georg von Calenberg"
-	"Langenhagen"
-	"Lehrte"
-	"Leine"
-	"Sarstedt"
-	"Stadthagen"
-	"Süntel"
-	"Wedemark"
-	"Weser"
-	"Wunstorf"
+ship_names = { 
+	Burgdorf Deister "Georg von Calenberg" Langenhagen Lehrte Leine Sarstedt Stadthagen Süntel Wedemark
+	Weser Wunstorf 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }
