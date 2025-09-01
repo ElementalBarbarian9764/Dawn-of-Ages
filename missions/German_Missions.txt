@@ -1,0 +1,633 @@
+germany_political = {
+	slot = 1
+	generic = no
+	ai = yes
+	potential = {
+		tag = GER
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	the_grand_council = {
+		position = 1
+		icon = mission_noble_council
+		required_missions = { }
+		provinces_to_highlight = { }
+		trigger = {
+			army_size_percentage = 0.2
+			num_of_generals = 1
+		}
+		effect = {
+			set_in_empire = yes
+			set_emperor = yes
+			elector = yes
+			country_event = {id = grand_council.1}
+		}
+	}
+	fractured_power = {
+		icon = mission_impaled_soldiers
+		required_missions {
+			
+		}
+		position = 2
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			NOT = {
+				average_autonomy = 10
+			}
+		}
+		effect = {
+			add_dip_tech = 1
+		}
+	}
+	marcher_lords = {
+		icon = mission_have_two_subjects
+		required_missions {
+			fractured_power
+		}
+		position = 3
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			num_of_subjects = 3
+		}
+		effect = {
+			add_prestige = 50
+		}
+	}
+	##Mission End
+	##Mission Start
+	whispers_evil = {
+		icon = mission_teutonic_kinghts
+		required_missions {
+			marcher_lords
+		}
+		position = 4
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			##MISSIONTRIGGER
+		}
+		effect = {
+			##MISSIONEFFECT
+		}
+	}
+	##Mission End
+	##
+	
+}
+##BranchEnd 0
+##BranchStart 1
+germany_dip = {
+	slot = 2
+	generic = no
+	ai = yes
+	potential = {
+		tag = GER
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	secure_baltics = {
+		icon = mission_conquer_50_development
+		required_missions {
+			turmoil_realm
+		}
+		position = 2
+		provinces_to_highlight = {
+			region = baltic_region
+		}
+		trigger = {
+			baltic_region = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = hsa_maritime_hegemon_modifier
+				duration = -1
+			}
+		}
+	}
+
+	east_grass = {
+		icon = mission_manchu_warrior
+		required_missions {
+			secure_baltics
+		}
+		position = 3
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			cavalry_fraction = 0.4
+		}
+		effect = {
+			add_country_modifier = {
+				name = broke_the_rus
+				duration = -1
+			}
+		}
+	}
+
+	breadbasket = {
+		icon = mission_dominate_home_trade_node
+		required_missions {
+			east_grass
+		}
+		position = 4
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			current_income_balance = 20
+		}
+		effect = {
+			add_years_of_income = 5
+		}
+	}
+
+	##Mission Start
+	new_army = {
+		icon = mission_landskencht_soldier
+		required_missions {
+			whispers_evil breadbasket control_lumber
+		}
+		position = 5
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			##MISSIONTRIGGER
+		}
+		effect = {
+			##MISSIONEFFECT
+		}
+	}
+	##Mission End
+	##
+	
+}
+##BranchEnd 1
+
+germany_territorial = {
+	slot = 3
+	generic = no
+	ai = yes
+	potential = {
+		tag = GER
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+
+	turmoil_realm = {
+		icon = mission_steppe_warriors
+		required_missions {
+			
+		}
+		position = 1
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			average_unrest = -10
+			has_country_flag = held_grand_council.1
+		}
+		effect = {
+			add_adm_tech = 1
+			set_bankruptcy = GER
+		}
+	}
+
+	dominate_core = {
+		icon = mission_unite_home_region
+		required_missions {
+			turmoil_realm
+		}
+		position = 2
+		provinces_to_highlight = {
+			region = north_german_region
+		}
+		trigger = {
+			north_german_region = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = ger_kaiserreich
+				duration = -1
+			}
+		}
+	}
+	
+	to_rhine = {
+		icon = bavarian_netherlands
+		required_missions = { dominate_core }
+		position = 2
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					region = low_countries_region
+					NOT = { country_or_non_sovereign_subject_holds = ROOT }
+					NOT = {
+						ROOT = {
+							num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+								value = 15
+								region = low_countries_region
+							}
+						}
+					}
+				}
+				AND = {
+					province_id = 45
+					NOT = { owned_by = ROOT }
+				}
+			}
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 15
+				region = low_countries_region
+			}
+			45 = {
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "ger_crushed_dutch_independence"
+				duration = 7300
+			}
+			
+			set_country_flag = JHC_GER_lowlands_flag
+			
+			give_claims = { region = france_region }
+			
+			custom_tooltip = " "
+			
+			country_event_with_option_insight = {
+				id = flavor_ger.1
+				option_1 = "
+					custom_tooltip = GER_upgrade_every_cot_in_low_countries_to_level_2
+					
+					custom_tooltip = \" \"
+					
+					1269 = {
+						add_trade_modifier = {
+							who = ROOT
+							duration = -1
+							power = 50
+							key = GER_taking_over_channel
+						}
+					}
+				"
+				option_2 = "
+					45 = {
+						add_province_triggered_modifier = GER_staying_in_lubeck
+					}
+					
+					custom_tooltip = GER_requirements
+					
+					custom_tooltip = \" \"
+					
+					add_years_of_trade_income = {
+						years = 2
+						custom_tooltip = BYZ_add_2_years_of_trade_income
+					}
+				"
+			}
+		}
+
+	}
+
+	##Mission Start
+	control_lumber = {
+		icon = mission_colonial
+		required_missions {
+			to_rhine
+		}
+		position = 4
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			##MISSIONTRIGGER
+		}
+		effect = {
+			##MISSIONEFFECT
+		}
+	}
+	##Mission End
+	##
+	
+}
+##BranchEnd 2
+germany_religious = {
+	slot = 4
+	generic = no
+	ai = yes
+	potential = {
+		tag = GER
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	odinshelm = {
+		icon = mission_european_church
+		required_missions {
+			turmoil_realm
+		}
+		position = 2
+		provinces_to_highlight = {
+			is_capital_of = ROOT
+			NOT = {
+				OR = {
+					has_building = temple
+					has_building = cathedral
+				}
+			}
+		}
+		trigger = {
+			capital_scope = {
+				OR = {
+					has_building = temple
+					has_building = cathedral
+				}
+			}
+
+		}
+		effect = {
+			add_base_tax = 2
+		}
+	}
+
+	fifty_year_war = {
+		icon = mission_crusade_for_varna
+		required_missions {
+			odinshelm
+		}
+		position = 3
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			##MISSIONTRIGGER
+		}
+		effect = {
+			country_event = {id = fifty_year_war.1}
+		}
+	}
+
+	##Mission Start
+	end_turmoil = {
+		icon = mission_build_up_to_force_limit
+		required_missions {
+			fifty_year_war
+		}
+		position = 4
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			NOT = {
+				average_unrest = 10
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = hegemonic_ambition
+				duration = 7000
+			}
+		}
+	}
+	##Mission End
+	one_faith = {
+		icon = mission_hands_praying
+		required_missions {
+			end_turmoil
+		}
+		position = 5
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			religious_unity = 0.99
+		}
+		effect = {
+			add_country_modifier = {
+				name = bishop_elector_unity_in_faith
+				duration = -1
+			}
+		}
+	}
+}
+
+germany_control = {
+	slot = 5
+	generic = no
+	ai = yes
+	potential = {
+		tag = GER
+		NOT = { map_setup = map_setup_random }
+	}
+	has_country_shield = yes
+	
+	cent_control = {
+		icon = Blood_Iron
+		required_missions = {  }
+		position = 1
+		provinces_to_highlight = {
+			NOT = { owned_by = ROOT }
+			OR = {
+				region = south_german_region
+				region = north_german_region
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 50
+				OR = {
+					region = north_german_region
+					region = south_german_region
+				}
+			}
+		}
+		effect = {
+			give_claims = { region = low_countries_region }
+			give_claims = { region = poland_region }
+			give_claims = { area = west_prussia_area }
+			give_claims = { area = east_prussia_area }
+			give_claims = { area = denmark_area }
+			give_claims = { area = jutland_area }
+			
+			custom_tooltip = " "
+			
+			add_country_modifier = {
+				name = GER_blut_and_eisen
+				duration = 10950 
+			}
+			
+			define_advisor = {
+				type = statesman
+				skill = 3
+				culture = ROOT
+				religion = ROOT
+				cost_multiplier = 0.5 
+			}
+		}
+	}
+
+	great_host = {
+		icon = mission_assemble_an_army
+		required_missions {
+			cent_control
+		}
+		position = 2
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			army_size_percentage = 1
+		}
+		effect = {
+			add_mil_tech = 1
+		}
+	}
+
+	road_east = {
+		icon = invade_poland
+		required_missions = { great_host }
+		position = 3
+		provinces_to_highlight = {
+			OR = {
+				AND = {
+					region = poland_region
+					NOT = { country_or_non_sovereign_subject_holds = ROOT }
+					NOT = {
+						ROOT = {
+							num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+								value = 25
+								region = poland_region
+							}
+						}
+					}
+				}
+				AND = {
+					region = poland_region
+					has_terrain = farmlands
+					NOT = { country_or_non_sovereign_subject_holds = ROOT }
+					NOT = {
+						ROOT = {
+							num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+								value = 5
+								region = poland_region
+								has_terrain = farmlands
+							}
+						}
+					}
+				}
+				AND = {
+					province_id = 1841
+					NOT = { country_or_non_sovereign_subject_holds = ROOT }
+				}
+			}
+		}
+		trigger = {
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 25
+				region = poland_region
+			}
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				value = 5
+				region = poland_region
+				has_terrain = farmlands
+			}
+			1841 =  { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		effect = {
+			give_claims = { region = baltic_region }
+			give_claims = { region = scandinavia_region }
+			give_claims = { region = carpathia_region }
+			
+			custom_tooltip = " "
+			
+			if = {
+				limit = {
+					has_dlc = "Leviathan"
+				}
+				1841 = {
+					custom_tooltip = GER_upgrade_marienburg
+					
+					custom_tooltip = " "
+				}
+				hidden_effect = {
+					while = {
+						limit = {
+							1841 = {
+								NOT = {
+									has_great_project = {
+										type = malbork_castle 
+										tier = 2
+									}
+								}
+							}
+						}
+						1841 = {
+							add_great_project_tier = {
+								type = malbork_castle 
+								tier = 1
+							}
+						}
+					}
+				}
+			}
+			else = {
+				1841 = {
+					add_province_modifier = {
+						name = GER_marienburg_castle_seized
+						duration = -1
+					}
+				}
+			}
+			
+			country_event_with_option_insight = {
+				id = flavor_ger.4 
+				option_1 = "
+					flavor_ger_4_option_1_effect = yes
+				"
+				option_2 = "
+					add_accepted_culture_or_dip_power = { culture = polish value = 100 }
+		
+					custom_tooltip = \" \"
+					
+					custom_tooltip = GER_every_polish_province_loses_10_separatism
+				"
+			}
+		}
+
+	}
+
+	wealthy_crown = {
+		icon = mission_high_income
+		required_missions {
+			road_east
+		}
+		position = 4
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			trade_income_percentage = 0.33
+		}
+		effect = {
+			add_mercantilism = 15
+		}
+	}
+}

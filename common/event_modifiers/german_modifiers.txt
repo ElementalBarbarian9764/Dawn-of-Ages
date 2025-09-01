@@ -1,0 +1,11 @@
+grand_council_a_modifier = {
+	diplomatic_upkeep = 3
+	manpower_against_imperial_enemies = 0.1
+	liberty_desire = -10
+}
+grand_council_b_modifier = {
+	diplomatic_upkeep = -2
+	discipline = 0.05
+	liberty_desire = 25
+	global_unrest = 10
+}

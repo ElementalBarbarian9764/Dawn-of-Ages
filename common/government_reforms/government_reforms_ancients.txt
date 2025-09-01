@@ -1,0 +1,38 @@
+﻿great_roman_republic_government = {
+	icon = "roman_empire"
+	allow_normal_conversion = yes
+	nation_designer_trigger = {
+		primary_culture = roman
+	}
+	valid_for_nation_designer = yes
+	nation_designer_cost = 100
+	royal_marriage = yes
+	potential = {
+		tag = ROM
+	}
+	modifiers = {
+		administrative_efficiency = 0.05
+		culture_conversion_cost = -0.25
+		culture_conversion_time = -0.1
+		num_of_parliament_issues = 1
+		governing_capacity = 300
+		min_autonomy_in_territories = 0.3
+	}
+	government_abilities = {
+			pax_romana_mechanic
+	}
+	fixed_rank = 3
+	conditional = {
+		has_parliament = yes
+		custom_attributes = {
+			gain_rt_from_parliament = yes
+		}
+	}
+
+	custom_attributes = {
+		enables_plutocratic_idea_group = yes
+		enables_aristocratic_idea_group = no
+		enables_pronoias = yes
+	}
+	has_term_election = no
+}

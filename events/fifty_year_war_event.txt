@@ -1,0 +1,29 @@
+namespace = fifty_year_war
+country_event = {
+	id = fifty_year_war.1
+	title = fifty_year_war.1.t
+	desc = fifty_year_war.1.d
+	picture = WOUNDED_SOLDIERS_eventPicture
+	
+	trigger = { }
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+	option = {
+		name = fifty_year_war.1.a
+		trigger = {
+			NOT = { has_country_flag = custom_collapse.1 }
+		}
+		collapse_nation = yes
+		set_country_flag = custom_collapse.1
+		add_war_exhaustion = 8
+	}
+	option = {
+		name = fifty_year_war.1.b
+		trigger = {
+			has_country_flag = custom_collapse.1
+		}
+		add_war_exhaustion = 8
+	}
+}

@@ -1,0 +1,12 @@
+
+trajan_conquest_modifier = {
+	governing_capacity = 500
+	governing_cost = -0.1
+	culture_conversion_cost = -0.25
+	culture_conversion_time = -0.25
+}
+house_lucretii_modifier = {
+	reelection_cost = -1
+	free_policy = 1
+	republican_tradition = 1
+}

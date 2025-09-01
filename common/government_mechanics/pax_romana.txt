@@ -1,0 +1,62 @@
+pax_romana_mechanic = {
+	alert_icon_gfx = GFX_alerticons_government_mechanics
+	alert_icon_index = 10
+	available = {
+		tag = ROM
+	}
+
+	powers = {
+		pax_romana = {
+			max = 100
+			scaled_modifier = {
+				modifier = {
+					production_efficiency = 0.005
+					global_trade_power = 0.005
+					trade_goods_size = 0.02
+					monthly_pax_romana = -0.1
+				}
+			}
+		}
+	}
+	
+	interactions = {
+		boost_pax = {
+			gui = pax_romana_gov_mech
+			cost_type = pax_romana
+			center = no
+			trigger = {
+				dip_power = 50
+				not = {
+					has_government_power = {
+						mechanic_type = pax_romana_mechanic
+						power_type = pax_romana
+						value = 100
+					}
+				}
+			}
+			effect = { 
+				add_government_power = {
+					mechanic_type = pax_romana_mechanic
+					power_type = pax_romana
+					value = 10
+				}
+				add_dip_power = -50
+			}
+			cooldown_years = 0
+			ai_chance = {
+				factor = 0
+				modifier = {
+					factor = 10
+					not = {
+						has_government_power = {
+							mechanic_type = pax_romana_mechanic
+							power_type = pax_romana
+							value = 90
+						}
+					}
+					dip_power = 500
+				}
+			}
+		}
+	}
+}
