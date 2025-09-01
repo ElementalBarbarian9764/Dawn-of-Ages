@@ -1,0 +1,23 @@
+namespace = trajan_conquest
+country_event = {
+	id = trajan_conquest.1
+	title = trajan_conquest.1.t
+	desc = trajan_conquest.1.d
+	picture = SIEGE_eventPicture
+	
+	trigger = {
+		
+	}
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+	option = {
+		name = trajan_conquest.1.a
+		add_prestige = 5
+		add_country_modifier = {
+			name = trajan_conquest_modifier
+			duration = -1
+		}
+	}
+}

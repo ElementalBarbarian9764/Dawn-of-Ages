@@ -1,0 +1,412 @@
+rom_territory = {
+	slot = 1 
+	generic = no 
+	ai = yes
+	potential = {
+		tag = ROM
+	}
+	has_country_shield = yes
+
+	humble_the_ptolemics = {
+		position = 1
+		icon = mission_unite_home_region
+		required_missions = {  } #None
+		provinces_to_highlight = {
+			OR = {
+				area = cyrenaica_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			cyrenaica_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_mil_power = 50
+		}
+	}
+	roman_syria = {
+		position = 2
+		icon = mission_arabian_fort
+		required_missions = { humble_the_ptolemics }
+		provinces_to_highlight = {
+			OR = {
+				region = mashriq_region
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			mashriq_region = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			add_mil_power = 50
+		}
+	}
+	invasion_of_egypt = {
+		position = 3
+		icon = mission_egyptian_mamluk_soldier
+		required_missions = { roman_syria }
+		provinces_to_highlight = {
+			OR = {
+				region = egypt_region
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			army_size = Z08
+			legitimacy_equivalent = 95
+			custom_trigger_tooltip = {
+				tooltip = emp_gen_safety_at_home_and_abroad_trigger
+				all_neighbor_country = {
+					OR = {
+						alliance_with = ROOT
+						NOT = { army_size = ROOT }
+						NOT = { any_owned_province = { region = italy_region } }
+					}
+				}
+			}
+			all_rival_country = { NOT = { army_size = ROOT } }
+		}
+		effect = {
+			inherit = Z08
+			country_event = { id = trajan_conquest.1 }
+		}
+	}
+	secure_the_marches = {
+		position = 4
+		icon = mission_have_two_subjects
+		required_missions = {invasion_of_egypt}
+		provinces_to_highlight = { }
+		trigger = { 
+			num_of_subjects = 3
+		}
+		effect = {
+			add_mil_power = 50
+		}
+	}
+}
+
+rom_slot2 = {
+	slot = 2 
+	generic = no 
+	ai = yes
+	potential = {
+		tag = ROM
+	}
+	has_country_shield = yes
+	
+	##Mission Start
+	italia_united = {
+		icon = mission_early_game_buildings
+		required_missions {
+			
+		}
+		position = 1
+		provinces_to_highlight = {
+			region = italy_region
+		}
+		trigger = {
+			italy_region = {
+				type = all
+				is_state = yes
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = roman_italy
+				duration = -1
+			}
+		}
+	}
+	##Mission End
+	restore_bosporus = {
+		icon = mission_invade_island
+		required_missions {
+			italia_united
+		}
+		position = 2
+		provinces_to_highlight = {
+			AND = {
+				area = yedisan_area
+			}
+			NOT = { country_or_non_sovereign_subject_holds = ROOT }
+		}
+		trigger = {
+			AND = {
+				yedisan_area = {
+					type = all
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = ara_maritime_administration_modifier
+				duration = -1
+			}
+		}
+	}
+	##Mission Start
+	eastern_provinces = {
+		icon = mission_conquer_50_development
+		required_missions {
+			restore_bosporus
+		}
+		position = 3
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			NOT = {
+				average_unrest = 1
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = imperial_ambitions
+				duration = 365
+			}
+		}
+	}
+	##Mission End
+	##
+
+
+}
+rom_territory_2 = {
+	slot = 3 
+	generic = no 
+	ai = yes
+	potential = {
+		tag = ROM
+	}
+	has_country_shield = yes
+	
+	ante_bellum = {
+		position = 1
+		icon = mission_cossack_cavalry
+ 		required_missions = {  }
+		provinces_to_highlight = {
+		
+		}
+		trigger = {
+			army_size_percentage = 0.5
+			num_of_generals = 1
+		}
+		effect = {
+			add_mil_power = 50
+			cyrenaica_area = {
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	legions_rome = {
+		icon = mission_assemble_an_army
+		required_missions {
+			ante_bellum
+		}
+		position = 2
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			army_size_percentage = 1
+		}
+		effect = {
+			egypt_region = {
+				add_permanent_claim = ROOT
+			}
+			add_mil_tech = 1
+		}
+	}
+	crush_berbers = {
+		icon = mission_bedouins
+		required_missions {
+			legions_rome
+		}
+		position = 3
+		provinces_to_highlight = {
+			area = tunisia_area
+		}
+		trigger = {
+			tunisia_area = {
+				type = all
+				is_state = yes
+			}
+		}
+		effect = {
+			2457 = { change_culture = carthaginian }
+			2456 = { change_culture = carthaginian }
+			2472 = { change_culture = carthaginian }
+			4727 = { change_culture = carthaginian }
+			1875 = { change_culture = carthaginian }
+		}
+	}
+	mare_nostrum = {
+		icon = mission_build_up_to_force_limit
+		required_missions {
+			eastern_provinces crush_berbers roads_rome
+		}
+		position = 4
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			AND = {
+				stability = 3
+			}
+			AND = {
+				NOT = {
+					average_unrest = 2
+				}
+			}
+		}F
+		effect = {
+			add_country_modifier = {
+				name = rome_reborn
+				duration = -1
+			}
+		}
+	}
+
+
+
+}
+rom_slot_4 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = ROM
+	}
+	rome_temple = {
+		position = 2
+		icon = mission_european_church
+		required_missions = {
+			ante_bellum
+		}
+		provinces_to_highlight = {
+			is_capital_of = ROOT
+			NOT = {
+				OR = {
+					has_building = temple
+					has_building = cathedral
+				}
+			}
+		}
+		trigger = {
+			capital_scope = {
+				OR = {
+					has_building = temple
+					has_building = cathedral
+				}
+			}
+
+		}
+		effect = {
+			add_base_tax = 2
+		}
+	}
+	roads_rome = {
+		icon = mission_war_chest
+		required_missions {
+			rome_temple
+		}
+		position = 3
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			trade_income_percentage = 0.33
+		}
+		effect = {
+			add_mercantilism = 15
+		}
+	}
+}
+rom_slot_5 = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = ROM
+	}
+	
+	trajan_coup = {
+		position = 1
+		icon = mission_empire
+		required_missions = { }
+		
+		trigger = {
+			stability = 0
+		}
+		effect = {
+			clear_scripted_personalities = yes
+			add_ruler_personality = immortal_personality
+			add_ruler_personality = just_personality
+			add_ruler_personality = midas_touched_personality
+		}
+	}
+	reign_eternal = {
+		icon = mission_monarch_in_throne_room
+		required_missions {
+			trajan_coup
+		}
+		position = 2
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			crown_land_share = 33
+		}
+		effect = {
+			add_adm_tech = 1
+		}
+	}
+	lucretii_ending = {
+		icon = mission_noble_council
+		required_missions {
+			reign_eternal
+		}
+		position = 3
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			crown_land_share = 60
+		}
+		effect = {
+			add_country_modifier = {
+				name = house_lucretii_modifier
+				duration = -1
+			}
+		}
+	}
+	##Mission End
+	##Mission Start
+	silent_realm = {
+		icon = mission_pf_soldier
+		required_missions {
+			lucretii_ending
+		}
+		position = 4
+		provinces_to_highlight = {
+			##PROVINCESHIGHLIGHTCODE
+		}
+		trigger = {
+			crown_land_share = 90
+		}
+		effect = {
+			add_dip_tech = 1
+		}
+	}
+	##Mission End
+
+}

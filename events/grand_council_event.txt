@@ -1,0 +1,35 @@
+namespace = grand_council
+country_event = {
+	id = grand_council.1
+	title = grand_council.1.t
+	desc = grand_council.1.d
+	picture = COURT_eventPicture
+	
+	trigger = {
+		
+	}
+	
+	is_triggered_only = yes
+	fire_only_once = yes
+	
+	option = {
+		name = grand_council.1.a
+		collapse_nation = yes
+		set_country_flag = custom_collapse.1
+		set_country_flag = held_grand_council.1
+		add_country_modifier = {
+			name = grand_council_a_modifier
+			duration = -1
+		}
+	}
+	option = {
+		name = grand_council.1.b
+		set_country_flag = held_grand_council.1
+		add_stability = -3
+		add_war_exhaustion = 8
+		add_country_modifier = {
+			name = grand_council_b_modifier
+			duration = -1
+		}
+	}
+}
