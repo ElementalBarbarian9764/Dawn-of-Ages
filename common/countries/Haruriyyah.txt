@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 150 200 80 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_dragoon
@@ -14,7 +14,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"'Umar #0" = 10
 	"Ab'ul-Arab #0" = 10
 	"Abal #0" = -1
@@ -54,54 +54,17 @@ monarch_names = {
 	"Walida #0" = -1
 	"Ya'rub #0" = 10
 }
-leader_names = {
-	"Abbas"
-	"Bazzi"
-	"Issa"
-	"Jomaa"
-	"Khoury"
-	"Mourad"
-	"Moussa"
-	"Moustafa"
-	"Nasser"
-	"Sakr"
+leader_names = { 
+	Abbas Bazzi Issa Jomaa Khoury Mourad Moussa Moustafa Nasser Sakr
 }
-ship_names = {
-	"Al-Akhdar"
-	"Al-Batinah"
-	"Al-Gharbi"
-	"Al-Hadd"
-	"Al-Hajar"
-	"Al-Huqf"
-	"Al-Jabal"
-	"Al-Khaburah"
-	"As-Sib"
-	"Ash-Sharqi"
-	"Dank"
-	"Fins"
-	"Ibrä"
-	"Jabal ash-Shäm"
-	"Masirah"
-	"Maskin"
-	"Masqat"
-	"Matrah"
-	"Nizwä"
-	"Quraqqät"
-	"Ra's Abu Daud"
-	"Ra's Al-Hadd"
-	"Ramlat al Wahibah"
-	"Sarür"
-	"Shinas"
-	"Suhar"
-	"Sür"
-	"Tan'am"
-	"Tiwi"
-	"Tur at Masirah"
-	"Umm As-Samim"
-	"Wadi Andam"
-	"Wadi Aswad"
-	"Wadi al-Bahta"
+ship_names = { 
+	Al-Akhdar Al-Batinah Al-Gharbi Al-Hadd Al-Hajar Al-Huqf Al-Jabal Al-Khaburah As-Sib Ash-Sharqi
+	Dank Fins Ibrä "Jabal ash-Shäm" Masirah Maskin Masqat Matrah Nizwä Quraqqät
+	"Ra's Abu Daud" "Ra's Al-Hadd" "Ramlat al Wahibah" Sarür Shinas Suhar Sür Tan'am Tiwi "Tur at Masirah"
+	"Umm As-Samim" "Wadi Andam" "Wadi Aswad" "Wadi al-Bahta" 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+fleet_names = { 
 }

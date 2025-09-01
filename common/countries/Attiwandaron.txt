@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 110 167 103 }
 revolutionary_colors = { 0 1 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -22,7 +22,7 @@ historical_units = {
 	native_indian_mountain_warfare
 	native_indian_tribal_warfare
 }
-monarch_names = {
+monarch_names = { 
 	"Adario #0" = 20
 	"Ahatsistari #0" = 20
 	"Awmeyeeray #0" = 20
@@ -59,73 +59,18 @@ monarch_names = {
 	"Tschauendah #0" = 20
 	"Tuayaurontoyou #0" = 20
 }
-leader_names = {
-	"Ahiragenrega"
-	"Ahondihronon"
-	"Andachkhrob"
-	"Andiata"
-	"Angoutenc"
-	"Anioton"
-	"Anonatea"
-	"Antouaronon"
-	"Aondironon"
-	"Arendaonatia"
-	"Arente"
-	"Arontaen"
-	"Atiaonrek"
-	"Atiraguenrek"
-	"Atirhagenrat"
-	"Attiragenrega"
-	"Attiuoaisgon"
-	"Cahiague"
-	"Carhagouha"
-	"Carmaron"
-	"Chequamegon"
-	"Conchake"
-	"Contarea"
-	"Ekiodatsaan"
-	"Endarahy"
-	"Iahenhouton"
-	"Junqueindundeh"
-	"Junundat"
-	"Kakouagoga"
-	"Kandouche"
-	"Karenhassa"
-	"Kehesetoa"
-	"Khioetoa"
-	"Oeniro"
-	"Onentisati"
-	"Ossossane"
-	"Oukhahitoua"
-	"Scanonaerat"
-	"Skenchioe"
-	"Sunyendeand"
-	"Tarhetown"
-	"Teadeouita"
-	"Teanaustayae"
-	"Teandewiata"
-	"Teanhatenaron"
-	"Teotoguiaton"
-	"Tiedonderoga"
-	"Tonache"
-	"Tondakhra"
-	"Touaguainchain"
+leader_names = { 
+	Ahiragenrega Ahondihronon Andachkhrob Andiata Angoutenc Anioton Anonatea Antouaronon Aondironon Arendaonatia
+	Arente Arontaen Atiaonrek Atiraguenrek Atirhagenrat Attiragenrega Attiuoaisgon Cahiague Carhagouha Carmaron
+	Chequamegon Conchake Contarea Ekiodatsaan Endarahy Iahenhouton Junqueindundeh Junundat Kakouagoga Kandouche
+	Karenhassa Kehesetoa Khioetoa Oeniro Onentisati Ossossane Oukhahitoua Scanonaerat Skenchioe Sunyendeand
+	Tarhetown Teadeouita Teanaustayae Teandewiata Teanhatenaron Teotoguiaton Tiedonderoga Tonache Tondakhra Touaguainchain
 }
-ship_names = {
-	"Arendarhonon"
-	"Arendiwane"
-	"Ataronchronon"
-	"Attignawantan"
-	"Attigneenongnahac"
-	"Che'estaheh Saundustee"
-	"Hochelaga"
-	"Karegnondi"
-	"Losheka"
-	"Ossossane"
-	"Qusquasrundee"
-	"Simcoe"
-	"Tahontaenrat"
-	"Tuendawie"
-	"Wendake"
-	"onitariio"
+ship_names = { 
+	Arendarhonon Arendiwane Ataronchronon Attignawantan Attigneenongnahac "Che'estaheh Saundustee" Hochelaga Karegnondi Losheka Ossossane
+	Qusquasrundee Simcoe Tahontaenrat Tuendawie Wendake onitariio 
+}
+fleet_names = { 
+}
+army_names = { 
 }

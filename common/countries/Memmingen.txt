@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 210 37 57 }
 revolutionary_colors = { 8 1 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adelheid #0" = -1
 	"Albrecht #0" = 0
 	"Anton #0" = 0
@@ -59,42 +59,16 @@ monarch_names = {
 	"Ullman #0" = 0
 	"Willi #0" = 0
 }
-leader_names = {
-	"Gundelsheim"
-	"Imhoff"
-	"Lotzer"
-	"Schappeler"
-	"Schenck"
-	"Schulthaiss"
-	"Strigel"
-	"Vöhlin"
-	"Zangmeister"
-	"von Berg"
+leader_names = { 
+	Gundelsheim Imhoff Lotzer Schappeler Schenck Schulthaiss Strigel Vöhlin Zangmeister "von Berg"
 }
-ship_names = {
-	"Andechs"
-	"Augsburg"
-	"Burgau"
-	"Diessen"
-	"Friedberg"
-	"Graf von Andechs"
-	"Graf von Bogen"
-	"Graf von Diepolding"
-	"Graf von Sulzbach"
-	"Kempten"
-	"König Arnulf"
-	"Lindau"
-	"Memmingen"
-	"Mindel"
-	"Oettingen"
-	"Otto"
-	"St. Kilian"
-	"St. Sebaldus"
-	"Straubing"
-	"Tassilo III"
-	"Wittelsbach"
-	"Wolfstein"
+ship_names = { 
+	Andechs Augsburg Burgau Diessen Friedberg "Graf von Andechs" "Graf von Bogen" "Graf von Diepolding" "Graf von Sulzbach" Kempten
+	"König Arnulf" Lindau Memmingen Mindel Oettingen Otto "St. Kilian" "St. Sebaldus" Straubing "Tassilo III"
+	Wittelsbach Wolfstein 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

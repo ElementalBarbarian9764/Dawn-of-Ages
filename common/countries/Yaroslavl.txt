@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 131 141 142 }
 revolutionary_colors = { 8 1 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	druzhina_cavalry
 	eastern_carabinier
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Aatos #2" = 10
 	"Chindyapa #0" = -1
 	"Chinzhay #0" = -1
@@ -56,53 +56,16 @@ monarch_names = {
 	"Viryas #0" = 0
 	"Voitto #0" = 0
 }
-leader_names = {
-	"Alabyshe"
-	"Alenkin"
-	"Belsky"
-	"Deyev"
-	"Dulov"
-	"Golygin"
-	"Kubensky"
-	"Kurbsky"
-	"Mortkin"
-	"Mulozhsky"
-	"Okhlyabinin"
-	"Pnekov"
-	"Shchetinin"
-	"Siseev"
-	"Sitsky"
-	"Sontsov"
-	"Sudsky"
-	"Temnosiny"
-	"Troekurov"
-	"Ukhorsky"
-	"Ushaty"
-	"Velikogagin"
-	"Yukhotsky"
-	"Zaozersky"
-	"Zasekin"
-	"Zhirovy"
-	"Zubaty"
+leader_names = { 
+	Alabyshe Alenkin Belsky Deyev Dulov Golygin Kubensky Kurbsky Mortkin Mulozhsky
+	Okhlyabinin Pnekov Shchetinin Siseev Sitsky Sontsov Sudsky Temnosiny Troekurov Ukhorsky
+	Ushaty Velikogagin Yukhotsky Zaozersky Zasekin Zhirovy Zubaty 
 }
-ship_names = {
-	"Berendeyevo"
-	"Borisoglebsky"
-	"Borok"
-	"Danilov"
-	"Itolar"
-	"Karabikha"
-	"Kurba"
-	"Lyubim"
-	"Myshkin"
-	"Nekouz"
-	"Nekrasovskoye"
-	"Pesochnoye"
-	"Petrovskoye"
-	"Prechistoye"
-	"Rybinsk"
-	"Semibratovo"
-	"Tunoshna"
-	"Uglich"
-	"Varegove"
+ship_names = { 
+	Berendeyevo Borisoglebsky Borok Danilov Itolar Karabikha Kurba Lyubim Myshkin Nekouz
+	Nekrasovskoye Pesochnoye Petrovskoye Prechistoye Rybinsk Semibratovo Tunoshna Uglich Varegove 
+}
+fleet_names = { 
+}
+army_names = { 
 }

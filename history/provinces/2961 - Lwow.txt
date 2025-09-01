@@ -3,7 +3,7 @@ controller = GER
 capital = "Lwów"
 is_city = yes
 culture = scythian
-religion = norse_pagan_reformed
+religion = fyrnsidu
 trade_goods = dyes
 base_tax = 3
 base_production = 2
@@ -20,6 +20,6 @@ discovered_by = nomad_group
 discovered_by = ottoman
 discovered_by = sub_saharan
 discovered_by = western
-latent_trade_goods = {
-	coal
+latent_trade_goods = { 
+	coal 
 }

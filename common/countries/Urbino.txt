@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 61 152 180 }
 revolutionary_colors = { 13 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	economic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Aldo #0" = 0
 	"Alessandro #0" = 10
 	"Alfonso #0" = 0
@@ -69,81 +69,20 @@ monarch_names = {
 	"Teodosio #0" = 0
 	"Vittorio #0" = 0
 }
-leader_names = {
-	"Albani"
-	"Aldobrandini"
-	"Altieri"
-	"Barberini"
-	"Barbo"
-	"Boncompagni"
-	"Borghese"
-	"Borgia"
-	"Braschi"
-	"Carafa"
-	"Castagna"
-	"Cervini"
-	"Chiaramonti"
-	"Chigi"
-	"Colonna"
-	"Condulmeri"
-	"Conti"
-	"Corsini"
-	"Cybo"
-	"Doria-Landi"
-	"Doria-Pamphili"
-	"Gaetani dell'Aquila"
-	"Gangagnelli"
-	"Ghislieri"
-	"Gonzaga"
-	"Lambertini"
-	"Lante"
-	"Ludovisi"
-	"Melzi"
-	"Melzi de Rimini"
-	"Odescalchi"
-	"Orsini"
-	"Ottoboni"
-	"Pallavicino"
-	"Pamphili"
-	"Parentucelli"
-	"Peretti"
-	"Piccolomini"
-	"Pignatelli"
-	"Prignano"
-	"Rezzonico"
-	"Rospigliosi"
-	"Sfondrati"
-	"da Varano"
-	"de' Medici"
-	"del Monte"
-	"della Rovere"
-	"di Campofregoso"
-	"di Farnese"
-	"di Montefeltro"
+leader_names = { 
+	Albani Aldobrandini Altieri Barberini Barbo Boncompagni Borghese Borgia Braschi Carafa
+	Castagna Cervini Chiaramonti Chigi Colonna Condulmeri Conti Corsini Cybo Doria-Landi
+	Doria-Pamphili "Gaetani dell'Aquila" Gangagnelli Ghislieri Gonzaga Lambertini Lante Ludovisi Melzi "Melzi de Rimini"
+	Odescalchi Orsini Ottoboni Pallavicino Pamphili Parentucelli Peretti Piccolomini Pignatelli Prignano
+	Rezzonico Rospigliosi Sfondrati "da Varano" "de' Medici" "del Monte" "della Rovere" "di Campofregoso" "di Farnese" "di Montefeltro"
 }
-ship_names = {
-	"Acqualagna"
-	"Auditore"
-	"Colbordolo"
-	"Colonna"
-	"Federico"
-	"Fermignano"
-	"Fossombrone"
-	"Giordano Orsini"
-	"Giovanni Santi"
-	"Isola del Piano"
-	"Lunano"
-	"Mondaino"
-	"Montefeltro"
-	"Oddantonio"
-	"Orsini"
-	"Peglio"
-	"Piero della Francesca"
-	"San Crescentino"
-	"Sant'Angelo in Vado"
-	"Tavoleto"
-	"ghibellini"
+ship_names = { 
+	Acqualagna Auditore Colbordolo Colonna Federico Fermignano Fossombrone "Giordano Orsini" "Giovanni Santi" "Isola del Piano"
+	Lunano Mondaino Montefeltro Oddantonio Orsini Peglio "Piero della Francesca" "San Crescentino" "Sant'Angelo in Vado" Tavoleto
+	ghibellini 
 }
-army_names = {
-	"Armata di $PROVINCE$"
+army_names = { 
+	"Armata di $PROVINCE$" 
+}
+fleet_names = { 
 }

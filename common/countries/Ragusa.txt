@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 160 82 128 }
 revolutionary_colors = { 5 13 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	administrative_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -29,7 +29,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Adriano #0" = 0
 	"Alessandro #0" = 0
 	"Amedeo #0" = 0
@@ -74,38 +74,15 @@ monarch_names = {
 	"Vedrana #0" = -1
 	"Vittorio #0" = 10
 }
-leader_names = {
-	"Bona"
-	"Bosdari"
-	"Boshko"
-	"Caboga"
-	"Cerva"
-	"Ghetaldi"
-	"Giorgi"
-	"Gondola"
-	"Gozze"
-	"Gradic"
-	"Gundulic"
-	"Luccari"
-	"Pozza"
-	"Reesti"
-	"Saraca"
-	"Sorgo"
-	"Tudisi"
-	"Vucic"
-	"Zamagna"
-	"Zlataric"
+leader_names = { 
+	Bona Bosdari Boshko Caboga Cerva Ghetaldi Giorgi Gondola Gozze Gradic
+	Gundulic Luccari Pozza Reesti Saraca Sorgo Tudisi Vucic Zamagna Zlataric
 }
-ship_names = {
-	"Dubac"
-	"Gromaca"
-	"Kolocap"
-	"Komlac"
-	"Kupari"
-	"Mokosica"
-	"Orasac"
-	"Ragusa"
-	"Rozat"
-	"Trsteno"
-	"Zanton"
+ship_names = { 
+	Dubac Gromaca Kolocap Komlac Kupari Mokosica Orasac Ragusa Rozat Trsteno
+	Zanton 
+}
+fleet_names = { 
+}
+army_names = { 
 }

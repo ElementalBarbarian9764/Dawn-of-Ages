@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 177 207 205 }
 revolutionary_colors = { 10 0 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Bapu Gendun #0" = 0
 	"Chang-chub #1" = 1
 	"Dayan #0" = 20
@@ -72,32 +72,14 @@ monarch_names = {
 	"Tsultrim Gyatso #0" = 20
 	"Töndup Tseten #0" = 20
 }
-leader_names = {
-	"Gampo"
-	"Phuntsok"
-	"Sonam"
-	"Sregs"
-	"Srong"
-	"Tashi"
-	"Thekchen"
-	"Tsewang"
-	"Wangdak"
-	"Wangdue"
+leader_names = { 
+	Gampo Phuntsok Sonam Sregs Srong Tashi Thekchen Tsewang Wangdak Wangdue
 }
-ship_names = {
-	"Barkam"
-	"Dartsendo"
-	"Gartse"
-	"Gyantse"
-	"Lhasa"
-	"Lhotse"
-	"Makalu"
-	"Nagqu"
-	"Nedong"
-	"Nyingchi"
-	"Pelbar"
-	"Qamdo"
-	"Sakya"
-	"Shigatse"
-	"Tinggri"
+ship_names = { 
+	Barkam Dartsendo Gartse Gyantse Lhasa Lhotse Makalu Nagqu Nedong Nyingchi
+	Pelbar Qamdo Sakya Shigatse Tinggri 
+}
+fleet_names = { 
+}
+army_names = { 
 }

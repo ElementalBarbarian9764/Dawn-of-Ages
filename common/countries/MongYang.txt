@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 41 82 175 }
 revolutionary_colors = { 13 0 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	administrative_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Ai Wu Hsa #0" = 10
 	"Beza #0" = -1
 	"Bo-Me #0" = -1
@@ -76,80 +76,20 @@ monarch_names = {
 	"Thou Umma #0" = -1
 	"Yi Hkam Hka #0" = 10
 }
-leader_names = {
-	"Ava"
-	"Banyin"
-	"Bawnin"
-	"Bawzaing"
-	"Bhamo"
-	"Hopon"
-	"Kale"
-	"Kokang"
-	"Kyaingchaing"
-	"Kyaingkan"
-	"Kyaingtong"
-	"Kyaukku"
-	"Kyithi Bansan"
-	"Kyon"
-	"Lwee"
-	"Lwelong"
-	"Lwemaw"
-	"Lègya"
-	"Maingpyin"
-	"Maingseik"
-	"Maington"
-	"Manglon"
-	"Maukme"
-	"Maw"
-	"Mobye"
-	"Mogaung"
-	"Mohnyin"
-	"Momeik"
-	"Mong Pan"
-	"Monghsu"
-	"Mongleam"
-	"Monglin"
-	"Mongnawng"
-	"Mongtorm"
-	"Monè"
-	"Mönglong"
-	"Möngyawng"
-	"Nanke"
-	"Nankok"
-	"Nankon"
-	"Nantok"
-	"Nyaungshwe"
-	"Panglawng"
-	"Pangmi"
-	"Pindara"
-	"Poila"
-	"Sakoi"
-	"Samka"
-	"Tawngpeng"
-	"Thamaingkan"
-	"Thaton"
-	"Thaungdut"
-	"Theinni"
-	"Thibaw"
-	"Thigyit"
-	"Wynn Tho"
-	"Yatsauk"
-	"Yengan"
+leader_names = { 
+	Ava Banyin Bawnin Bawzaing Bhamo Hopon Kale Kokang Kyaingchaing Kyaingkan
+	Kyaingtong Kyaukku "Kyithi Bansan" Kyon Lwee Lwelong Lwemaw Lègya Maingpyin Maingseik
+	Maington Manglon Maukme Maw Mobye Mogaung Mohnyin Momeik "Mong Pan" Monghsu
+	Mongleam Monglin Mongnawng Mongtorm Monè Mönglong Möngyawng Nanke Nankok Nankon
+	Nantok Nyaungshwe Panglawng Pangmi Pindara Poila Sakoi Samka Tawngpeng Thamaingkan
+	Thaton Thaungdut Theinni Thibaw Thigyit "Wynn Tho" Yatsauk Yengan 
 }
-ship_names = {
-	"Hsim"
-	"Inle"
-	"Kengtong"
-	"Lui"
-	"Myitnge"
-	"Nam"
-	"Pilu"
-	"Saluen"
-	"Salween"
-	"Shweli"
-	"Tachileik"
-	"Taunggyi"
-	"Teng"
-	"Thanlwin"
+ship_names = { 
+	Hsim Inle Kengtong Lui Myitnge Nam Pilu Saluen Salween Shweli
+	Tachileik Taunggyi Teng Thanlwin 
 }
 special_unit_culture = south_east_asian_special
+fleet_names = { 
+}
+army_names = { 
+}

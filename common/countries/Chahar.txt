@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 140 163 128 }
 revolutionary_colors = { 8 5 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	religious_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	defensive_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Adai #0" = 20
 	"Agbarjin #0" = 20
 	"Altan #0" = 20
@@ -83,175 +83,29 @@ monarch_names = {
 	"Öljei #0" = 20
 	"Örüg #0" = 15
 }
-leader_names = {
-	"Aksagal"
-	"Alag-aduun"
-	"Asan"
-	"Asud"
-	"Avga"
-	"Baachuud"
-	"Baarin"
-	"Baatar"
-	"Baatud"
-	"Barchuul"
-	"Barga"
-	"Barnud"
-	"Basigid"
-	"Bayaud"
-	"Besud"
-	"Borjigin"
-	"Bulagachid"
-	"Burged"
-	"Buuchuud"
-	"Buurluud"
-	"Chinos"
-	"Chutsuut"
-	"Daar'tan"
-	"Daguur"
-	"Dalandaganad"
-	"Darhad"
-	"Durved"
-	"Echeed"
-	"Eljigin"
-	"Ezen"
-	"Gahan"
-	"Gal"
-	"Gerchuud"
-	"Gorlos"
-	"Gozuul"
-	"Guchid"
-	"Harnut"
-	"Hatagin"
-	"Ikh"
-	"Jalaid"
-	"Jalair"
-	"Jarangiinkhan"
-	"Jongoor"
-	"Khaakhar"
-	"Khalbagad"
-	"Khalkha"
-	"Khamnigan"
-	"Khandgai"
-	"Khangad"
-	"Khangin"
-	"Khar'd"
-	"Khar-zel"
-	"Kharchin"
-	"Khariad"
-	"Khasag"
-	"Khavchig"
-	"Khavkhchin"
-	"Khereed"
-	"Khiad"
-	"Khiitluud"
-	"Khitad"
-	"Khoid"
-	"Khorchin"
-	"Khorkhoi-nudten"
-	"Khoshuud"
-	"Khotogoid"
-	"Khoton"
-	"Khuitserleg"
-	"Khuluud"
-	"Khunguud"
-	"Khurlad"
-	"Khuuchid"
-	"Mangud"
-	"Mankhilag"
-	"Merged"
-	"Motoi"
-	"Myangan"
-	"Naiman"
-	"Nirun"
-	"Olkhonud"
-	"Onkhod"
-	"Onniud"
-	"Orovgod"
-	"Saljud"
-	"Sartuul"
-	"Sharnud"
-	"Soloon"
-	"Sood"
-	"Sunid"
-	"Taijiud"
-	"Talas"
-	"Tangud"
-	"Tatar"
-	"Tavnag"
-	"Tavuud"
-	"Tele"
-	"Togoruutan"
-	"Torguut"
-	"Tsagaan"
-	"Tsagaan-zel"
-	"Tsakhar"
-	"Tsookhor"
-	"Tsoor"
-	"Tsoros"
-	"Tugchin"
-	"Tumed"
-	"Tuuhai"
-	"Tuved"
-	"Ujeed"
-	"Ulanguud"
-	"Undgaa"
-	"Uneged"
-	"Urad"
-	"Uriankhan"
-	"Usun"
-	"Uuhan"
-	"Uuld"
-	"Uush"
-	"Uvashi"
-	"Uzuun"
-	"Yamaat"
-	"Yunsheebuu"
-	"Zaaruud"
-	"Zaisanguud"
-	"Zelme"
-	"Zurchid"
-	"Zuun-shuvuuchin"
+leader_names = { 
+	Aksagal Alag-aduun Asan Asud Avga Baachuud Baarin Baatar Baatud Barchuul
+	Barga Barnud Basigid Bayaud Besud Borjigin Bulagachid Burged Buuchuud Buurluud
+	Chinos Chutsuut Daar'tan Daguur Dalandaganad Darhad Durved Echeed Eljigin Ezen
+	Gahan Gal Gerchuud Gorlos Gozuul Guchid Harnut Hatagin Ikh Jalaid
+	Jalair Jarangiinkhan Jongoor Khaakhar Khalbagad Khalkha Khamnigan Khandgai Khangad Khangin
+	Khar'd Khar-zel Kharchin Khariad Khasag Khavchig Khavkhchin Khereed Khiad Khiitluud
+	Khitad Khoid Khorchin Khorkhoi-nudten Khoshuud Khotogoid Khoton Khuitserleg Khuluud Khunguud
+	Khurlad Khuuchid Mangud Mankhilag Merged Motoi Myangan Naiman Nirun Olkhonud
+	Onkhod Onniud Orovgod Saljud Sartuul Sharnud Soloon Sood Sunid Taijiud
+	Talas Tangud Tatar Tavnag Tavuud Tele Togoruutan Torguut Tsagaan Tsagaan-zel
+	Tsakhar Tsookhor Tsoor Tsoros Tugchin Tumed Tuuhai Tuved Ujeed Ulanguud
+	Undgaa Uneged Urad Uriankhan Usun Uuhan Uuld Uush Uvashi Uzuun
+	Yamaat Yunsheebuu Zaaruud Zaisanguud Zelme Zurchid Zuun-shuvuuchin 
 }
-ship_names = {
-	"Adai"
-	"Batu"
-	"Bo'orchu"
-	"Borokhula"
-	"Böke"
-	"Chagaan"
-	"Chilaun"
-	"Dharmapala"
-	"Dörben Külü'üd"
-	"Dörben Noyas"
-	"Elbeg"
-	"Ghengis Khan"
-	"Hohhot"
-	"Hülegü"
-	"Jebe"
-	"Jelme"
-	"Jinggim"
-	"Jöchi"
-	"Kamala"
-	"Karakorum"
-	"Khar Khiruge"
-	"Khubilai"
-	"Mugali"
-	"Möngke"
-	"Qubilai"
-	"Shikhikhutug"
-	"Sorqan Shira"
-	"Subutai"
-	"Tolui"
-	"Yelü Chucai"
-	"Yingchang"
-	"Ögödei"
-	"Örüg Temür"
+ship_names = { 
+	Adai Batu Bo'orchu Borokhula Böke Chagaan Chilaun Dharmapala "Dörben Külü'üd" "Dörben Noyas"
+	Elbeg "Ghengis Khan" Hohhot Hülegü Jebe Jelme Jinggim Jöchi Kamala Karakorum
+	"Khar Khiruge" Khubilai Mugali Möngke Qubilai Shikhikhutug "Sorqan Shira" Subutai Tolui "Yelü Chucai"
+	Yingchang Ögödei "Örüg Temür" 
 }
-army_names = {
-	"$PROVINCE$ Tumen"
-	"Buryat Tumen"
-	"Central Tumen"
-	"Kheshig"
-	"Left Wing Tumen"
-	"Right Wing Tumen"
+army_names = { 
+	"$PROVINCE$ Tumen" "Buryat Tumen" "Central Tumen" Kheshig "Left Wing Tumen" "Right Wing Tumen" 
+}
+fleet_names = { 
 }

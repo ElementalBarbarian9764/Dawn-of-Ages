@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 210 175 60 }
 revolutionary_colors = { 10 1 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_cavalry_archers
@@ -26,7 +26,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"Abdul-Aziz #0" = 20
 	"Abdul-Karim #0" = 20
 	"Abdul-Mumin #0" = 20
@@ -97,42 +97,15 @@ monarch_names = {
 	"Vali Muhammad #0" = 20
 	"Yadgar #0" = 20
 }
-leader_names = {
-	"Arighqan"
-	"Batulun"
-	"Batutai"
-	"Bayan Arslan"
-	"Bayarnai"
-	"Bokejin"
-	"Bora Tolui"
-	"Burilgiteni"
-	"Mongke Bayar"
-	"Mongke Cheren"
-	"Oyugun Nasan"
-	"Qadancher"
-	"Subegene"
-	"Suren Chinua"
-	"Tegusdai"
-	"Yekedei"
+leader_names = { 
+	Arighqan Batulun Batutai "Bayan Arslan" Bayarnai Bokejin "Bora Tolui" Burilgiteni "Mongke Bayar" "Mongke Cheren"
+	"Oyugun Nasan" Qadancher Subegene "Suren Chinua" Tegusdai Yekedei 
 }
-ship_names = {
-	"Abu Hasan Ali"
-	"Abu Mamun"
-	"Ahmed Sanjar"
-	"Ala Aziz"
-	"Ala Takish"
-	"Altun Yash"
-	"Amu Darya"
-	"Anush Tigin"
-	"Bukhara"
-	"Din Muhammad"
-	"Harun"
-	"Ismail Khandan"
-	"Jalal Mingburnu"
-	"Jaxartes"
-	"Khwarezm"
-	"Kunya"
-	"Syr Darya"
-	"Urganj"
-	"Yelu Dashi"
+ship_names = { 
+	"Abu Hasan Ali" "Abu Mamun" "Ahmed Sanjar" "Ala Aziz" "Ala Takish" "Altun Yash" "Amu Darya" "Anush Tigin" Bukhara "Din Muhammad"
+	Harun "Ismail Khandan" "Jalal Mingburnu" Jaxartes Khwarezm Kunya "Syr Darya" Urganj "Yelu Dashi" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

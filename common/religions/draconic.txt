@@ -1,4 +1,4 @@
-nature_religion = {
+draconic_religion+_group = {
 	defender_of_faith = no
 	can_form_personal_unions = no
 	
@@ -6,37 +6,52 @@ nature_religion = {
 	flag_emblem_index_range = { 20 28 }
 	
 	fae_draconic = {
-		icon = 0
+		icon = 1
 		color = { 21 161 0 }
 		country = {
-			
+			global_unrest = -1
+			advisor_cost = -0.15
+		}
+		country_as_secondary = {
+			global_unrest = -1
+			advisor_cost = -0.25
 		}
 		province = {
-		
+			local_defensiveness = 0.15
 		}
 		heretic = {}
 	}
 	
 	enlightened_draconic = {
-		icon = 0
+		icon = 1
 		color = { 21 161 0 }
 		country = {
-			
+			global_unrest = -1
+			advisor_cost = -0.15
+		}
+		country_as_secondary = {
+			global_unrest = -1
+			advisor_cost = -0.25
 		}
 		province = {
-		
+			local_defensiveness = 0.15
 		}
 		heretic = {}
 	}
 	
 	flying_serpent = {
-		icon = 0
+		icon = 1
 		color = { 21 161 0 }
 		country = {
-			
+			global_unrest = -1
+			advisor_cost = -0.15
+		}
+		country_as_secondary = {
+			global_unrest = -1
+			advisor_cost = -0.25
 		}
 		province = {
-		
+			local_defensiveness = 0.15
 		}
 		heretic = {}
 	}

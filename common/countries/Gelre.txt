@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 139 66 97 }
 revolutionary_colors = { 15 8 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adolf #0" = 15
 	"Alfons #0" = 0
 	"Amalia #0" = -1
@@ -73,78 +73,20 @@ monarch_names = {
 	"Wilfred #0" = 0
 	"Willem #3" = 20
 }
-leader_names = {
-	"Bachman"
-	"Bakker"
-	"Bentinck"
-	"Bosch"
-	"Bulterman"
-	"De Haas"
-	"De Waal"
-	"Derksen"
-	"Elgershuisen"
-	"Entink"
-	"Gelkom"
-	"Holst"
-	"Honekes"
-	"Hoornaert"
-	"Huethorst"
-	"Jansen"
-	"Kempermans"
-	"Kiperije"
-	"Kleinluking"
-	"Korthust"
-	"Kreijhoeft"
-	"Oldenhaven"
-	"Polkamp"
-	"Remmelink"
-	"Saelckink"
-	"Sluiter"
-	"Sweerts"
-	"Teerink"
-	"Ter Horst"
-	"Van Bentheim"
-	"Van Bommel"
-	"Van Bronckhorst"
-	"Van Gulik"
-	"Van Wassenberg"
-	"Van Zutfen"
-	"Van den Bergh"
-	"Vögelink"
-	"Wagevoord"
-	"Wassink"
-	"Wissink"
+leader_names = { 
+	Bachman Bakker Bentinck Bosch Bulterman "De Haas" "De Waal" Derksen Elgershuisen Entink
+	Gelkom Holst Honekes Hoornaert Huethorst Jansen Kempermans Kiperije Kleinluking Korthust
+	Kreijhoeft Oldenhaven Polkamp Remmelink Saelckink Sluiter Sweerts Teerink "Ter Horst" "Van Bentheim"
+	"Van Bommel" "Van Bronckhorst" "Van Gulik" "Van Wassenberg" "Van Zutfen" "Van den Bergh" Vögelink Wagevoord Wassink Wissink
 }
-ship_names = {
-	"Betuwe"
-	"Bommelerwaard"
-	"Bronckhorst"
-	"De Zwarte Hertog"
-	"Flipje"
-	"Gelderse Worst"
-	"Graaf Godschalk"
-	"Hertog Arnold"
-	"Hertog Eduard"
-	"Hertog Gerard"
-	"Hertog Reinoud"
-	"Hertogin Maria"
-	"Jonge Daniël"
-	"Lichtenvoorde"
-	"Maas en Waal"
-	"Twee Gebroeders"
-	"Veluwe"
-	"Wapen van Deventer"
-	"Wapen van Harderwijk"
-	"Wapen van Hattem"
-	"Wapen van Kampen"
-	"Wapen van Nijmegen"
-	"Wapen van Zutphen"
-	"Wapen van Zwolle"
-	"Wassenberg"
+ship_names = { 
+	Betuwe Bommelerwaard Bronckhorst "De Zwarte Hertog" Flipje "Gelderse Worst" "Graaf Godschalk" "Hertog Arnold" "Hertog Eduard" "Hertog Gerard"
+	"Hertog Reinoud" "Hertogin Maria" "Jonge Daniël" Lichtenvoorde "Maas en Waal" "Twee Gebroeders" Veluwe "Wapen van Deventer" "Wapen van Harderwijk" "Wapen van Hattem"
+	"Wapen van Kampen" "Wapen van Nijmegen" "Wapen van Zutphen" "Wapen van Zwolle" Wassenberg 
 }
-army_names = {
-	"Leger van $PROVINCE$"
+army_names = { 
+	"Leger van $PROVINCE$" 
 }
-fleet_names = {
-	"Vloot van $PROVINCE$"
+fleet_names = { 
+	"Vloot van $PROVINCE$" 
 }

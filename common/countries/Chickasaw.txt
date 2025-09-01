@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 160 80 16 }
 revolutionary_colors = { 13 2 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Ahfahmah #0" = 10
 	"Ahshacubbe #0" = 10
 	"Ahtakintubbe #0" = 10
@@ -84,91 +84,21 @@ monarch_names = {
 	"Wininapa #0" = 10
 	"Yummotubbe #0" = 10
 }
-leader_names = {
-	"Ackia"
-	"Alaoute"
-	"Amalahta"
-	"Apeony"
-	"Apilefaplimengo"
-	"Ashukhuma"
-	"Ayebisto"
-	"Chatelaw"
-	"Chesafaliah"
-	"Chinica"
-	"Chopoussa"
-	"Chucalissa"
-	"Chukafalaya"
-	"Chula"
-	"Coppertown"
-	"Couiloussa"
-	"Etoukouma"
-	"Falatchao"
-	"Gouytola"
-	"Hummalala"
-	"Hussinkoma"
-	"Hykehah"
-	"Latcha Hoa Run"
-	"Ogoula-Tchetoka"
-	"Onthaba-atchosa"
-	"Ooeasa"
-	"Oucahata"
-	"Oucthambolo"
-	"Outanquatle"
-	"Phalachehs"
-	"Pontotoc"
-	"Shatara"
-	"Shiokaya"
-	"Tanyachilca"
-	"Taposa"
-	"Teshatulla"
-	"Thanbolo"
-	"Tokshish"
-	"Tuckahaw"
-	"Tuskaroilloe"
-	"Tuskawillao"
-	"Yaneka"
+leader_names = { 
+	Ackia Alaoute Amalahta Apeony Apilefaplimengo Ashukhuma Ayebisto Chatelaw Chesafaliah Chinica
+	Chopoussa Chucalissa Chukafalaya Chula Coppertown Couiloussa Etoukouma Falatchao Gouytola Hummalala
+	Hussinkoma Hykehah "Latcha Hoa Run" Ogoula-Tchetoka Onthaba-atchosa Ooeasa Oucahata Oucthambolo Outanquatle Phalachehs
+	Pontotoc Shatara Shiokaya Tanyachilca Taposa Teshatulla Thanbolo Tokshish Tuckahaw Tuskaroilloe
+	Tuskawillao Yaneka 
 }
-ship_names = {
-	"Ackia"
-	"Alaoute"
-	"Amalahta"
-	"Apeony"
-	"Apilefaplimengo"
-	"Ashukhuma"
-	"Ayebisto"
-	"Chatelaw"
-	"Chesafaliah"
-	"Chinica"
-	"Chopoussa"
-	"Chucalissa"
-	"Chukafalaya"
-	"Chula"
-	"Coppertown"
-	"Couiloussa"
-	"Etoukouma"
-	"Falatchao"
-	"Gouytola"
-	"Hummalala"
-	"Hussinkoma"
-	"Hykehah"
-	"Latcha Hoa Run"
-	"Ogoula-Tchetoka"
-	"Onthaba-atchosa"
-	"Ooeasa"
-	"Oucahata"
-	"Oucthambolo"
-	"Outanquatle"
-	"Phalachehs"
-	"Pontotoc"
-	"Shatara"
-	"Shiokaya"
-	"Tanyachilca"
-	"Taposa"
-	"Teshatulla"
-	"Thanbolo"
-	"Tokshish"
-	"Tuckahaw"
-	"Tuskaroilloe"
-	"Tuskawillao"
-	"Yaneka"
+ship_names = { 
+	Ackia Alaoute Amalahta Apeony Apilefaplimengo Ashukhuma Ayebisto Chatelaw Chesafaliah Chinica
+	Chopoussa Chucalissa Chukafalaya Chula Coppertown Couiloussa Etoukouma Falatchao Gouytola Hummalala
+	Hussinkoma Hykehah "Latcha Hoa Run" Ogoula-Tchetoka Onthaba-atchosa Ooeasa Oucahata Oucthambolo Outanquatle Phalachehs
+	Pontotoc Shatara Shiokaya Tanyachilca Taposa Teshatulla Thanbolo Tokshish Tuckahaw Tuskaroilloe
+	Tuskawillao Yaneka 
+}
+fleet_names = { 
+}
+army_names = { 
 }

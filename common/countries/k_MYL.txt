@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 16 241 198 }
-monarch_names = {
+monarch_names = { 
 	"Abdirahman #0" = 0
 	"Adeer #0" = 0
 	"Alaso #0" = -1
@@ -24,4 +24,12 @@ monarch_names = {
 	"Umar #0" = 0
 	"Umardin #1" = 10
 	"Xalwo #0" = -1
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

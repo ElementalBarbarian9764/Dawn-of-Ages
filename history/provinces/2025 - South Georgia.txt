@@ -1,10 +1,11 @@
-owner = TRL
-controller = TRL
+owner = AMR
+controller = AMR
 capital = "South Georgia"
-culture = equine
-religion = tengri_pagan
+religion = flying_serpent
 trade_goods = gems
 base_tax = 3
 base_production = 3
 base_manpower = 3
-add_core = TRL
+add_core = AMR
+is_city = no
+culture = amarisa_dragon_culture

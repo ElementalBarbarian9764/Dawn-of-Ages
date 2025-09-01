@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 63 115 37 }
 revolutionary_colors = { 0 6 9 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	aristocracy_ideas
 }
-historical_units = {
+historical_units = { 
 	indian_archers
 	indian_arquebusier
 	indian_footsoldier
@@ -20,7 +20,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Dhir Narayan #0" = 20
 	"Gauradhvaj Pal #0" = 5
 	"Jayadhvaj Pal #0" = 20
@@ -33,50 +33,16 @@ monarch_names = {
 	"Sati Joymati #0" = -1
 	"Vikramadhvaj Pal #0" = 5
 }
-leader_names = {
-	"Chandra"
-	"Chaukkapha"
-	"Das"
-	"Deka"
-	"Kalita"
-	"Mahanta"
-	"Narayan"
-	"Nitipal"
-	"Prithu"
-	"Roy"
+leader_names = { 
+	Chandra Chaukkapha Das Deka Kalita Mahanta Narayan Nitipal Prithu Roy
 }
-ship_names = {
-	"Brahmaputra"
-	"Chingri Mach"
-	"Darrang"
-	"Devi"
-	"Dibang"
-	"Durga Ma"
-	"Ganga"
-	"Hilsa Mach"
-	"Ilish Mach"
-	"Kali Ma"
-	"Kali Meghana"
-	"Kali Nauk"
-	"Kamrup"
-	"Lakimpur"
-	"Lal Nauk"
-	"Loki Devi"
-	"Luhit"
-	"Machli"
-	"Manasa Devi"
-	"Manjuli"
-	"Meghna"
-	"Nil Nauk"
-	"Nil Sagor"
-	"Parvati Devi"
-	"Rui Mach"
-	"Sagorer Bahini"
-	"Saraswoti"
-	"Shakti"
-	"Shaktir Nauk"
-	"Shasti Ma"
-	"Sibsagar"
-	"Trishool"
-	"Uma Devi"
+ship_names = { 
+	Brahmaputra "Chingri Mach" Darrang Devi Dibang "Durga Ma" Ganga "Hilsa Mach" "Ilish Mach" "Kali Ma"
+	"Kali Meghana" "Kali Nauk" Kamrup Lakimpur "Lal Nauk" "Loki Devi" Luhit Machli "Manasa Devi" Manjuli
+	Meghna "Nil Nauk" "Nil Sagor" "Parvati Devi" "Rui Mach" "Sagorer Bahini" Saraswoti Shakti "Shaktir Nauk" "Shasti Ma"
+	Sibsagar Trishool "Uma Devi" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

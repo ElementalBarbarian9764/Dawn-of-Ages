@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 40 121 66 }
 revolutionary_colors = { 1 8 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	innovativeness_ideas
 	economic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	trade_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_elephant
@@ -27,7 +27,7 @@ historical_units = {
 	sikh_rifle
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd Allah #0" = 0
 	"Abdullah #0" = 10
 	"Ahmadi #0" = -1
@@ -74,44 +74,15 @@ monarch_names = {
 	"Yusuf #0" = 20
 	"Ziauddin #0" = 0
 }
-leader_names = {
-	"Ardastani"
-	"Astarabadi"
-	"Badakshi"
-	"Basri"
-	"Bhosle"
-	"Bukhari"
-	"Changezi"
-	"Gawan"
-	"Gaznavi"
-	"Gilani"
-	"Hasanabadi"
-	"Jurjani"
-	"Kabuli"
-	"Kirmani"
-	"Madhu"
-	"Quadari"
-	"Qummi"
-	"Sadhwani"
-	"Uzbek"
+leader_names = { 
+	Ardastani Astarabadi Badakshi Basri Bhosle Bukhari Changezi Gawan Gaznavi Gilani
+	Hasanabadi Jurjani Kabuli Kirmani Madhu Quadari Qummi Sadhwani Uzbek 
 }
-ship_names = {
-	"Alia"
-	"Fatimah"
-	"Godvari"
-	"Jalsena"
-	"Kala Jahazi"
-	"Khan"
-	"Lal Jahazi"
-	"Mahanadi"
-	"Nausena"
-	"Nav ka Yudh"
-	"Niknaz"
-	"Nila Jahazi"
-	"Niloufa"
-	"Sagar"
-	"Salima"
-	"Shameena"
-	"Suhalia"
-	"Yasmine"
+ship_names = { 
+	Alia Fatimah Godvari Jalsena "Kala Jahazi" Khan "Lal Jahazi" Mahanadi Nausena "Nav ka Yudh"
+	Niknaz "Nila Jahazi" Niloufa Sagar Salima Shameena Suhalia Yasmine 
+}
+fleet_names = { 
+}
+army_names = { 
 }

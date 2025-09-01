@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 112 112 220 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	economic_ideas
 	defensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	influence_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -27,7 +27,7 @@ historical_units = {
 	reformed_asian_musketeer
 	reformed_manchu_rifle
 }
-monarch_names = {
+monarch_names = { 
 	"Bangzuo #0" = 0
 	"Bao #0" = 0
 	"Bian #0" = 10
@@ -294,138 +294,25 @@ monarch_names = {
 	"Zugan #0" = 0
 	"Zuo #0" = 0
 }
-leader_names = {
-	"Bai"
-	"Bao"
-	"Cao"
-	"Chai"
-	"Chang"
-	"Chen"
-	"Cui"
-	"Dai"
-	"Deng"
-	"Ding"
-	"Dong"
-	"Dongfang"
-	"Du"
-	"Fang"
-	"Fei"
-	"Feng"
-	"Fu"
-	"Gao"
-	"Geng"
-	"Gu"
-	"Guo"
-	"Han"
-	"Hao"
-	"He"
-	"Hu"
-	"Hua"
-	"Huang"
-	"Huangfu"
-	"Jia"
-	"Jiang"
-	"Jiao"
-	"Jin"
-	"Kong"
-	"Lan"
-	"Li"
-	"Liao"
-	"Lin"
-	"Linghu"
-	"Liu"
-	"Lu"
-	"Luo"
-	"Ma"
-	"Mao"
-	"Mei"
-	"Meng"
-	"Mo"
-	"Niu"
-	"Ou'yang"
-	"Ouyang"
-	"Pan"
-	"Qi"
-	"Qian"
-	"Qin"
-	"Qiu"
-	"Ren"
-	"Ruan"
-	"Shang"
-	"Shen"
-	"Shi"
-	"Si"
-	"Sima"
-	"Su"
-	"Sun"
-	"Tan"
-	"Tang"
-	"Wang"
-	"Wu"
-	"Xia"
-	"Xiao"
-	"Xie"
-	"Xiong"
-	"Xu"
-	"Xue"
-	"Yan"
-	"Yang"
-	"Ye"
-	"Yu"
-	"Yuan"
-	"Yue"
-	"Zeng"
-	"Zhao"
-	"Zheng"
-	"Zhou"
-	"Zhu"
-	"Zu"
-	"Zuo"
+leader_names = { 
+	Bai Bao Cao Chai Chang Chen Cui Dai Deng Ding
+	Dong Dongfang Du Fang Fei Feng Fu Gao Geng Gu
+	Guo Han Hao He Hu Hua Huang Huangfu Jia Jiang
+	Jiao Jin Kong Lan Li Liao Lin Linghu Liu Lu
+	Luo Ma Mao Mei Meng Mo Niu Ou'yang Ouyang Pan
+	Qi Qian Qin Qiu Ren Ruan Shang Shen Shi Si
+	Sima Su Sun Tan Tang Wang Wu Xia Xiao Xie
+	Xiong Xu Xue Yan Yang Ye Yu Yuan Yue Zeng
+	Zhao Zheng Zhou Zhu Zu Zuo 
 }
-ship_names = {
-	"Anding"
-	"Baihu"
-	"Beidou"
-	"Beiji"
-	"Beiluoshimen"
-	"Fu'an"
-	"Fuding"
-	"Gouchen"
-	"Hongshi"
-	"Jinchang"
-	"Liaoning"
-	"Longhai"
-	"Nan'an"
-	"Qinglong"
-	"Qingyuan"
-	"Qizhenjiangjun"
-	"Rende"
-	"Ruichang"
-	"Santai"
-	"Sifu"
-	"Taizun"
-	"Tenshe"
-	"Tianji"
-	"Tianqiang"
-	"Tianshu"
-	"Tianzhu"
-	"Wenchang"
-	"Wu'an"
-	"Xianning"
-	"Xiaoyi"
-	"Xinghua"
-	"Xingping"
-	"Xingyi"
-	"Xining"
-	"Xuange"
-	"Xuanwu"
-	"Yanping"
-	"Yong'an"
-	"Yongji"
-	"Yongkang"
-	"Yujing"
-	"Zhaowu"
-	"Zhaoyuan"
-	"Zhuque"
-	"Zhushi"
+ship_names = { 
+	Anding Baihu Beidou Beiji Beiluoshimen Fu'an Fuding Gouchen Hongshi Jinchang
+	Liaoning Longhai Nan'an Qinglong Qingyuan Qizhenjiangjun Rende Ruichang Santai Sifu
+	Taizun Tenshe Tianji Tianqiang Tianshu Tianzhu Wenchang Wu'an Xianning Xiaoyi
+	Xinghua Xingping Xingyi Xining Xuange Xuanwu Yanping Yong'an Yongji Yongkang
+	Yujing Zhaowu Zhaoyuan Zhuque Zhushi 
+}
+fleet_names = { 
+}
+army_names = { 
 }

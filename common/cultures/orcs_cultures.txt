@@ -1,0 +1,8 @@
+orkish_culture_group = {
+    yellow_ork_culture  = {
+
+    }
+    blacken_ork_culture = {
+        
+    }
+}

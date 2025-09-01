@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 227 162 94 }
 revolutionary_colors = { 0 5 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Alit #0" = -1
 	"Amangkurat #0" = 30
 	"Aria Pangiri #0" = 10
@@ -70,34 +70,15 @@ monarch_names = {
 	"Wulan #0" = -1
 	"Xi Mo #0" = -1
 }
-leader_names = {
-	"Djajadiningrat"
-	"Djojopoespito"
-	"Ernalia"
-	"Karsumaatmaja"
-	"Mollema"
-	"Nasution"
-	"Nitisastro"
-	"Prawiranega"
-	"Purbacaraka"
-	"Subadio"
-	"Sumual"
+leader_names = { 
+	Djajadiningrat Djojopoespito Ernalia Karsumaatmaja Mollema Nasution Nitisastro Prawiranega Purbacaraka Subadio
+	Sumual 
 }
-ship_names = {
-	"Amgarawa"
-	"Boja"
-	"Cepu"
-	"Delanggu"
-	"Grobogan"
-	"Gunung Lawu"
-	"Gunung Merbabu"
-	"Ngawi"
-	"Purwodarli"
-	"Salatiga"
-	"Semarang"
-	"Sragen"
-	"Sukoharjo"
-	"Surakarta"
-	"Wonosari"
-	"Yogyakarta"
+ship_names = { 
+	Amgarawa Boja Cepu Delanggu Grobogan "Gunung Lawu" "Gunung Merbabu" Ngawi Purwodarli Salatiga
+	Semarang Sragen Sukoharjo Surakarta Wonosari Yogyakarta 
+}
+fleet_names = { 
+}
+army_names = { 
 }

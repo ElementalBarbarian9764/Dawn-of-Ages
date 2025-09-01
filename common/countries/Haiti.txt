@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 139 179 207 }
 revolutionary_colors = { 13 0 4 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	spy_ideas
 	trade_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	religious_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -30,7 +30,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Achille #0" = 0
 	"Albert #0" = 0
 	"Alexandre #0" = 0
@@ -72,38 +72,16 @@ monarch_names = {
 	"Vincent #0" = 0
 	"Édouard #0" = 0
 }
-leader_names = {
-	"Biassou"
-	"François"
-	"Le Tellier"
-	"d'Aulnay"
-	"d'Ornano"
-	"de Boissieu"
-	"de Bonnefoy"
-	"de Chambronne"
-	"de Champmartin"
-	"de Galard"
-	"de Marguerye"
-	"de Maurepas"
-	"de Pellefort"
-	"de Siorac"
-	"de Tréville"
-	"de Vibien"
-	"de Vigny"
-	"des Ecures"
-	"des Herbiers"
+leader_names = { 
+	Biassou François "Le Tellier" d'Aulnay d'Ornano "de Boissieu" "de Bonnefoy" "de Chambronne" "de Champmartin" "de Galard"
+	"de Marguerye" "de Maurepas" "de Pellefort" "de Siorac" "de Tréville" "de Vibien" "de Vigny" "des Ecures" "des Herbiers" 
 }
-ship_names = {
-	"l'Océan"
-	"la Belle Poule"
-	"la Provence"
-	"la Superbe"
-	"la Trombe"
-	"la Victoire"
-	"le Magnifique"
-	"le Neptune"
-	"le Robuste"
-	"le Sceptre"
-	"le Triton"
+ship_names = { 
+	l'Océan "la Belle Poule" "la Provence" "la Superbe" "la Trombe" "la Victoire" "le Magnifique" "le Neptune" "le Robuste" "le Sceptre"
+	"le Triton" 
 }
 colonial_parent = FRA
+fleet_names = { 
+}
+army_names = { 
+}

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 28 187 180 }
 revolutionary_colors = { 13 10 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Abishabis #0" = 20
 	"Elin #0" = -1
 	"Kamiokisihkwew #0" = 20
@@ -49,85 +49,19 @@ monarch_names = {
 	"Wenangasie #0" = 20
 	"Yesno #0" = 20
 }
-leader_names = {
-	"Attawapiskat"
-	"Bunibonibee"
-	"Chemawawin"
-	"Chisasibi"
-	"Iyiyiw"
-	"Kapawe'no"
-	"Kashechewan"
-	"Mamihkiyiniwak"
-	"Manto Sipi"
-	"Maskekowak"
-	"Mikisew"
-	"Misipawistik"
-	"Missanabie"
-	"Mistissini"
-	"Mosakahiken"
-	"Mosoni"
-	"Nehinawak"
-	"Nekaneet"
-	"Nemaska"
-	"Neskntaga"
-	"Nisichawayashik"
-	"O-pipon-na-piwin"
-	"Ochapowace"
-	"Opaskwayak"
-	"Ouje-Bougoumou"
-	"Peepeekisis"
-	"Pimicikamak"
-	"Sakawithiniwak"
-	"Sapotaweyak"
-	"Shamattawa"
-	"Tatskweyak"
-	"Taykwa"
-	"Wabasca"
-	"Waskaganish"
-	"Waswanipi"
-	"Weenusk"
-	"Wemindji"
-	"Whapmagoostui"
-	"Wuskwi"
+leader_names = { 
+	Attawapiskat Bunibonibee Chemawawin Chisasibi Iyiyiw Kapawe'no Kashechewan Mamihkiyiniwak "Manto Sipi" Maskekowak
+	Mikisew Misipawistik Missanabie Mistissini Mosakahiken Mosoni Nehinawak Nekaneet Nemaska Neskntaga
+	Nisichawayashik O-pipon-na-piwin Ochapowace Opaskwayak Ouje-Bougoumou Peepeekisis Pimicikamak Sakawithiniwak Sapotaweyak Shamattawa
+	Tatskweyak Taykwa Wabasca Waskaganish Waswanipi Weenusk Wemindji Whapmagoostui Wuskwi 
 }
-ship_names = {
-	"Attawapiskat"
-	"Bunibonibee"
-	"Chemawawin"
-	"Chisasibi"
-	"Iyiyiw"
-	"Kapawe'no"
-	"Kashechewan"
-	"Mamihkiyiniwak"
-	"Manto Sipi"
-	"Maskekowak"
-	"Mikisew"
-	"Misipawistik"
-	"Missanabie"
-	"Mistissini"
-	"Mosakahiken"
-	"Mosoni"
-	"Nehinawak"
-	"Nekaneet"
-	"Nemaska"
-	"Neskntaga"
-	"Nisichawayashik"
-	"O-pipon-na-piwin"
-	"Ochapowace"
-	"Opaskwayak"
-	"Ouje-Bougoumou"
-	"Peepeekisis"
-	"Pimicikamak"
-	"Sakawithiniwak"
-	"Sapotaweyak"
-	"Shamattawa"
-	"Tatskweyak"
-	"Taykwa"
-	"Wabasca"
-	"Waskaganish"
-	"Waswanipi"
-	"Weenusk"
-	"Wemindji"
-	"Whapmagoostui"
-	"Wuskwi"
+ship_names = { 
+	Attawapiskat Bunibonibee Chemawawin Chisasibi Iyiyiw Kapawe'no Kashechewan Mamihkiyiniwak "Manto Sipi" Maskekowak
+	Mikisew Misipawistik Missanabie Mistissini Mosakahiken Mosoni Nehinawak Nekaneet Nemaska Neskntaga
+	Nisichawayashik O-pipon-na-piwin Ochapowace Opaskwayak Ouje-Bougoumou Peepeekisis Pimicikamak Sakawithiniwak Sapotaweyak Shamattawa
+	Tatskweyak Taykwa Wabasca Waskaganish Waswanipi Weenusk Wemindji Whapmagoostui Wuskwi 
+}
+fleet_names = { 
+}
+army_names = { 
 }

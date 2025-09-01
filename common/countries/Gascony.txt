@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 32 144 204 }
 revolutionary_colors = { 5 8 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Armand #0" = 0
 	"Arnaud #0" = 0
 	"Aymeric #0" = 0
@@ -73,132 +73,24 @@ monarch_names = {
 	"Vivian #0" = 0
 	"Xavier #0" = 0
 }
-leader_names = {
-	"Aller"
-	"Detmold"
-	"Hamelm"
-	"Hildesheim"
-	"Kapp"
-	"Minden"
-	"Oldenburg"
-	"Salzgitter"
-	"Werden"
-	"Wernigerode"
+leader_names = { 
+	Aller Detmold Hamelm Hildesheim Kapp Minden Oldenburg Salzgitter Werden Wernigerode
 }
-ship_names = {
-	"Adour"
-	"Africain"
-	"Aigle"
-	"Aigle d'Or"
-	"Aimable Marthe"
-	"Aimable Nanon"
-	"Aimable Rose"
-	"Alexandre"
-	"Amitié"
-	"Amphitrite"
-	"Américain"
-	"Angélique"
-	"Arc en Ciel"
-	"Bayonnaise"
-	"Belle Poule"
-	"Bienfaisant"
-	"Biscayenne"
-	"Bizarre"
-	"Bonnes Amies"
-	"Bordelais"
-	"Brillant"
-	"Caroline"
-	"Castor"
-	"Catiche"
-	"Charente"
-	"Charmante Manon"
-	"Charmante Nancy"
-	"Charmante Rachel"
-	"Château de Bayonne"
-	"Chézine"
-	"Commerce de Bordeaux"
-	"Comte de Toulouse"
-	"Content"
-	"Deux Frères"
-	"Diamant"
-	"Diligente"
-	"Duc d'Aquitaine"
-	"Débonnaire"
-	"Dédaigneuse"
-	"Elisabeth"
-	"Entreprenante"
-	"Espérance"
-	"Extravagante"
-	"Favori"
-	"Fendant"
-	"Flamand"
-	"Gaillard"
-	"Galant"
-	"Godichon"
-	"Grand Coureur"
-	"Grand Sirius"
-	"Gros Ventre"
-	"Hercule"
-	"Hermine"
-	"Impérieuse"
-	"Indien"
-	"Intrépide"
-	"Jolie"
-	"Joseph"
-	"Labourt"
-	"Laurence"
-	"Licorne"
-	"Lion"
-	"Légère"
-	"Machault"
-	"Marchand"
-	"Mars"
-	"Mascarin"
-	"Maure"
-	"Mignon"
-	"Mégère"
-	"Mélampe"
-	"Neptune"
-	"Nouvelle Victoire"
-	"Oiseau"
-	"Opale"
-	"Phénix"
-	"Pollux"
-	"Pélican"
-	"Quatre Frères"
-	"Rameau"
-	"Reine Marie"
-	"Renommée"
-	"Rostan"
-	"Royal Daim"
-	"Saint Jacques"
-	"Saint Pierre"
-	"Sirène"
-	"Soleil Royal"
-	"Ste Anne de Bordeaux"
-	"Swinton"
-	"Tamponne"
-	"Toison d'Or"
-	"Tourterelle"
-	"Trinité"
-	"Triton"
-	"Utile"
-	"Valeur"
-	"Ville de Bayonne"
-	"Vénus"
+ship_names = { 
+	Adour Africain Aigle "Aigle d'Or" "Aimable Marthe" "Aimable Nanon" "Aimable Rose" Alexandre Amitié Amphitrite
+	Américain Angélique "Arc en Ciel" Bayonnaise "Belle Poule" Bienfaisant Biscayenne Bizarre "Bonnes Amies" Bordelais
+	Brillant Caroline Castor Catiche Charente "Charmante Manon" "Charmante Nancy" "Charmante Rachel" "Château de Bayonne" Chézine
+	"Commerce de Bordeaux" "Comte de Toulouse" Content "Deux Frères" Diamant Diligente "Duc d'Aquitaine" Débonnaire Dédaigneuse Elisabeth
+	Entreprenante Espérance Extravagante Favori Fendant Flamand Gaillard Galant Godichon "Grand Coureur"
+	"Grand Sirius" "Gros Ventre" Hercule Hermine Impérieuse Indien Intrépide Jolie Joseph Labourt
+	Laurence Licorne Lion Légère Machault Marchand Mars Mascarin Maure Mignon
+	Mégère Mélampe Neptune "Nouvelle Victoire" Oiseau Opale Phénix Pollux Pélican "Quatre Frères"
+	Rameau "Reine Marie" Renommée Rostan "Royal Daim" "Saint Jacques" "Saint Pierre" Sirène "Soleil Royal" "Ste Anne de Bordeaux"
+	Swinton Tamponne "Toison d'Or" Tourterelle Trinité Triton Utile Valeur "Ville de Bayonne" Vénus
 }
-army_names = {
-	"Armée d'Albret"
-	"Armée d'Aquitaine"
-	"Armée de $PROVINCE$"
-	"Armée de Castillon"
-	"Armée de l'Agenais"
-	"Armée de la Garonne"
-	"Armée du Bazadais"
-	"Armée du Blayais"
-	"Armée du Bordelais"
-	"Armée du Fronsadais"
-	"Armée du Libournais"
-	"Armée du Pays de Buch"
-	"Armée du Queyran"
+army_names = { 
+	"Armée d'Albret" "Armée d'Aquitaine" "Armée de $PROVINCE$" "Armée de Castillon" "Armée de l'Agenais" "Armée de la Garonne" "Armée du Bazadais" "Armée du Blayais" "Armée du Bordelais" "Armée du Fronsadais"
+	"Armée du Libournais" "Armée du Pays de Buch" "Armée du Queyran" 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = southamericagfx
 color = { 39 123 126 }
 revolutionary_colors = { 5 8 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	peruvian_guerilla_warfare
 	south_american_arquebusier
 	south_american_forest_warfare
@@ -23,7 +23,7 @@ historical_units = {
 	south_american_warfare
 	westernized_south_american
 }
-monarch_names = {
+monarch_names = { 
 	"Aiyotechapun #0" = 0
 	"Anco Coyuch #0" = 20
 	"Axomamma #0" = -1
@@ -79,32 +79,14 @@ monarch_names = {
 	"Yetuniamu #0" = 0
 	"Zergoetanu #0" = 0
 }
-leader_names = {
-	"Chilche"
-	"Guacricaur"
-	"Illa"
-	"Luyes"
-	"Maila"
-	"Maras"
-	"Nancempinco"
-	"Rimac"
-	"Tacaynamo"
-	"Tiso"
+leader_names = { 
+	Chilche Guacricaur Illa Luyes Maila Maras Nancempinco Rimac Tacaynamo Tiso
 }
-ship_names = {
-	"Apo Inti"
-	"Chan Chan"
-	"Chicama"
-	"Chimor"
-	"Chiqui Illapa"
-	"Huancaco"
-	"Mamacocha"
-	"Mamquilla"
-	"Moche"
-	"Pachakama"
-	"Sipan"
-	"Viracocha"
-	"Viru"
-	"Waca"
-	"Yakumama"
+ship_names = { 
+	"Apo Inti" "Chan Chan" Chicama Chimor "Chiqui Illapa" Huancaco Mamacocha Mamquilla Moche Pachakama
+	Sipan Viracocha Viru Waca Yakumama 
+}
+fleet_names = { 
+}
+army_names = { 
 }

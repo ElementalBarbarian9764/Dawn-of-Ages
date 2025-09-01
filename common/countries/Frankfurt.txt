@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 243 201 33 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adolf #0" = 0
 	"Adrian #0" = 0
 	"Albrecht #0" = 0
@@ -73,48 +73,17 @@ monarch_names = {
 	"Thomas #0" = 0
 	"Wenzel #0" = 0
 }
-leader_names = {
-	"Alfter"
-	"Allendorf"
-	"Assmann"
-	"Barth"
-	"Becker"
-	"Betz"
-	"Bopp"
-	"Bornschlegel"
-	"Dude"
-	"Dörrenbecher"
-	"Eins"
-	"Fust"
-	"Grob"
-	"Göhler"
-	"Haas"
-	"Heidelberger"
-	"Ickstadt"
-	"Lawall"
-	"Pittschaft"
-	"Schmitt"
-	"Schoeneberger"
-	"Storck"
-	"Volz"
+leader_names = { 
+	Alfter Allendorf Assmann Barth Becker Betz Bopp Bornschlegel Dude Dörrenbecher
+	Eins Fust Grob Göhler Haas Heidelberger Ickstadt Lawall Pittschaft Schmitt
+	Schoeneberger Storck Volz 
 }
-ship_names = {
-	"Hagenmünster"
-	"St. Alban"
-	"St. Aureus"
-	"St. Christoph"
-	"St. Emmeran"
-	"St. Georg"
-	"St. Ignaz"
-	"St. Johannes"
-	"St. Lambert"
-	"St. Maria"
-	"St. Nicomedes"
-	"St. Peter"
-	"St. Quintin"
-	"St. Theonest"
-	"Udenmünster"
+ship_names = { 
+	Hagenmünster "St. Alban" "St. Aureus" "St. Christoph" "St. Emmeran" "St. Georg" "St. Ignaz" "St. Johannes" "St. Lambert" "St. Maria"
+	"St. Nicomedes" "St. Peter" "St. Quintin" "St. Theonest" Udenmünster 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

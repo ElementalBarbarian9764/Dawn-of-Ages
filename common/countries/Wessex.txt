@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 230 26 23 }
 revolutionary_colors = { 5 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	exploration_ideas
 	defensive_ideas
 	expansion_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	trade_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Alfred #0" = 20
 	"Beorhtric #0" = 20
 	"Cearl #0" = 20
@@ -58,4 +58,12 @@ monarch_names = {
 	"Æthelheard #0" = 20
 	"Æthelred #0" = 20
 	"Æthelwulf #0" = 20
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

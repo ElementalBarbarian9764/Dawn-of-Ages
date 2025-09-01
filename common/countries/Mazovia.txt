@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 195 149 155 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	eastern_carabinier
 	eastern_knights
@@ -29,7 +29,7 @@ historical_units = {
 	russian_mass
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Albert #0" = 0
 	"Aleksy #0" = 0
 	"Anatola #0" = -1
@@ -74,31 +74,14 @@ monarch_names = {
 	"Ziemowit #6" = 10
 	"Zygfryd #0" = 0
 }
-leader_names = {
-	"Jagiellon"
-	"Kedzierzawy"
-	"Leszczynski"
-	"Lubomirski"
-	"Piast"
-	"Poniatowski"
-	"Premyslid"
-	"Radziwill"
-	"Sapieha"
-	"Wisniowiecki"
+leader_names = { 
+	Jagiellon Kedzierzawy Leszczynski Lubomirski Piast Poniatowski Premyslid Radziwill Sapieha Wisniowiecki
 }
-ship_names = {
-	"Biebrza"
-	"Bug"
-	"Bzura"
-	"Kolno"
-	"Liwiec"
-	"Lowicz"
-	"Mlawa"
-	"Narew"
-	"Pilica"
-	"Radomka"
-	"Warszawa"
-	"Wisla"
-	"Wizna"
-	"Wkra"
+ship_names = { 
+	Biebrza Bug Bzura Kolno Liwiec Lowicz Mlawa Narew Pilica Radomka
+	Warszawa Wisla Wizna Wkra 
+}
+fleet_names = { 
+}
+army_names = { 
 }

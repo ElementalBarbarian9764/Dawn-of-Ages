@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 0 46 59 }
 revolutionary_colors = { 2 8 2 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Alpatakhuma #0" = 10
 	"Apuckshunubbee #0" = 20
 	"Asetahuma #0" = 10
@@ -127,84 +127,19 @@ monarch_names = {
 	"Yoopahooma #0" = 20
 	"Yoostenochla #0" = 20
 }
-leader_names = {
-	"Abeca"
-	"Abissa"
-	"Achohchuba"
-	"Bissacha"
-	"Bokfalaya"
-	"Cabeahoola"
-	"Chanke"
-	"Chemifalaya"
-	"Chiskilikbacha"
-	"Chucafalaya"
-	"Haluwahiasha"
-	"Hankhaula"
-	"Holithaasha"
-	"Ibetapoklachitto"
-	"Imoklashaiskitini"
-	"Imoklashi"
-	"Itchechana"
-	"Itokchako"
-	"Iyanabe"
-	"Kafitalaia"
-	"Kashtasha"
-	"Kunshabolukta"
-	"Kunshak"
-	"Lukfakta"
-	"Neshobawenya"
-	"Nusiconchito"
-	"Ocatalaya"
-	"Octuechanacbe"
-	"Okacoopoly"
-	"Okalusa"
-	"Onitalemon"
-	"Osaktalaya"
-	"Osapachito"
-	"Otakchitotamaha"
-	"Ouiacha"
-	"Pante"
-	"Puscustakali"
-	"Saktitamaha"
-	"Seniasha"
-	"Shinukkaha"
-	"Shumotakali"
-	"Talepokta"
-	"Tamaha"
-	"Tinshinkla"
-	"Tombigbee"
-	"Usquelagana"
-	"Yackniachuchuma"
-	"Yazoo"
-	"Yowani"
+leader_names = { 
+	Abeca Abissa Achohchuba Bissacha Bokfalaya Cabeahoola Chanke Chemifalaya Chiskilikbacha Chucafalaya
+	Haluwahiasha Hankhaula Holithaasha Ibetapoklachitto Imoklashaiskitini Imoklashi Itchechana Itokchako Iyanabe Kafitalaia
+	Kashtasha Kunshabolukta Kunshak Lukfakta Neshobawenya Nusiconchito Ocatalaya Octuechanacbe Okacoopoly Okalusa
+	Onitalemon Osaktalaya Osapachito Otakchitotamaha Ouiacha Pante Puscustakali Saktitamaha Seniasha Shinukkaha
+	Shumotakali Talepokta Tamaha Tinshinkla Tombigbee Usquelagana Yackniachuchuma Yazoo Yowani 
 }
-ship_names = {
-	"Aba"
-	"Bald Eagle"
-	"Biskinik"
-	"Bohpoli"
-	"Chata"
-	"Chitokaka"
-	"Hashok Okwa Hui'ga"
-	"Hoklonote"
-	"Hushtahli"
-	"Impa shilup"
-	"Ishkitini"
-	"Ishtahullo-chito"
-	"Ishtanullo"
-	"Kashehotapalo"
-	"Kowi anuskasha"
-	"Mabila"
-	"Nalusa Falaya"
-	"Nalusa chito"
-	"Nanapesa"
-	"Nanih Waiya"
-	"Nanishta-hullo-chito"
-	"Ofunlo"
-	"Oka Nahullo"
-	"Okwa Naholo"
-	"Shilombish"
-	"Shilup"
-	"Shilup chitosh osh"
-	"Uba Pike"
+ship_names = { 
+	Aba "Bald Eagle" Biskinik Bohpoli Chata Chitokaka "Hashok Okwa Hui'ga" Hoklonote Hushtahli "Impa shilup"
+	Ishkitini Ishtahullo-chito Ishtanullo Kashehotapalo "Kowi anuskasha" Mabila "Nalusa Falaya" "Nalusa chito" Nanapesa "Nanih Waiya"
+	Nanishta-hullo-chito Ofunlo "Oka Nahullo" "Okwa Naholo" Shilombish Shilup "Shilup chitosh osh" "Uba Pike" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

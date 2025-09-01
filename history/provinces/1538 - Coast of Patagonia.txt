@@ -1,2 +1,2 @@
 discovered_by = INC
-discovered_by = TRL
+discovered_by = AMR

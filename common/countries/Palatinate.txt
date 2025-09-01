@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 57 151 142 }
 revolutionary_colors = { 1 8 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albrecht #0" = 10
 	"Alexander Siegmund #0" = 15
 	"Amalie #0" = -1
@@ -78,44 +78,16 @@ monarch_names = {
 	"Wilhelm #1" = 10
 	"Wolfgang Georg #0" = 10
 }
-leader_names = {
-	"Adenau"
-	"Ansembourg"
-	"Bensenraede"
-	"Blittersdorf"
-	"Cölln"
-	"Dammerscheidt"
-	"Elmpt"
-	"Falkenberg"
-	"Gruithausen"
-	"Hillensberg"
-	"Hohenfeld"
-	"Naxleden"
-	"Schaluyn"
-	"Zebnitsch"
-	"von Clausbruch"
-	"von Dieblich"
-	"von Gelnhausen"
-	"von Leyen"
-	"von Namedy"
-	"von Schöneck"
+leader_names = { 
+	Adenau Ansembourg Bensenraede Blittersdorf Cölln Dammerscheidt Elmpt Falkenberg Gruithausen Hillensberg
+	Hohenfeld Naxleden Schaluyn Zebnitsch "von Clausbruch" "von Dieblich" "von Gelnhausen" "von Leyen" "von Namedy" "von Schöneck"
 }
-ship_names = {
-	"Deidesheim"
-	"Elmstein"
-	"Hochspeyer"
-	"Kaiserslautern"
-	"Landstuhl"
-	"Neunkirchen"
-	"Neustadt"
-	"Rhodt"
-	"Winnweiler"
-	"Wolfstein"
+ship_names = { 
+	Deidesheim Elmstein Hochspeyer Kaiserslautern Landstuhl Neunkirchen Neustadt Rhodt Winnweiler Wolfstein
 }
-army_names = {
-	"Armee von $PROVINCE$"
-	"Kurfürstliche Garde"
+army_names = { 
+	"Armee von $PROVINCE$" "Kurfürstliche Garde" 
 }
-fleet_names = {
-	"Kurfürstliche Flotte"
+fleet_names = { 
+	"Kurfürstliche Flotte" 
 }

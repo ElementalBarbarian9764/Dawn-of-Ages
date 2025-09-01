@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 238 173 101 }
 revolutionary_colors = { 13 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Aazhawiggizhigokwe #0" = -10
 	"Aguagonabe #0" = 20
 	"Amickoneena #0" = 20
@@ -146,57 +146,17 @@ monarch_names = {
 	"Wepecumgegut #0" = 20
 	"owenisham #0" = 20
 }
-leader_names = {
-	"Achiligouan"
-	"Amicoures"
-	"Amikwa"
-	"Aousanik"
-	"Auwause"
-	"Bawating"
-	"Bungee"
-	"Chequamegon"
-	"Keweenaw"
-	"Kitchigami"
-	"Mackinac"
-	"Macomille"
-	"Malanas"
-	"Marameg"
-	"Missisage"
-	"Mouusagai"
-	"Mundua"
-	"Nikikouek"
-	"Noquet"
-	"Ouasouarini"
-	"Outchibou"
-	"Outchougai"
-	"Ouxeiacomingo"
-	"Saginaw"
-	"Saulteaux"
+leader_names = { 
+	Achiligouan Amicoures Amikwa Aousanik Auwause Bawating Bungee Chequamegon Keweenaw Kitchigami
+	Mackinac Macomille Malanas Marameg Missisage Mouusagai Mundua Nikikouek Noquet Ouasouarini
+	Outchibou Outchougai Ouxeiacomingo Saginaw Saulteaux 
 }
-ship_names = {
-	"Achiligouan"
-	"Amicoures"
-	"Amikwa"
-	"Aousanik"
-	"Auwause"
-	"Bawating"
-	"Bungee"
-	"Chequamegon"
-	"Keweenaw"
-	"Kitchigami"
-	"Mackinac"
-	"Macomille"
-	"Malanas"
-	"Marameg"
-	"Missisage"
-	"Mouusagai"
-	"Mundua"
-	"Nikikouek"
-	"Noquet"
-	"Ouasouarini"
-	"Outchibou"
-	"Outchougai"
-	"Ouxeiacomingo"
-	"Saginaw"
-	"Saulteaux"
+ship_names = { 
+	Achiligouan Amicoures Amikwa Aousanik Auwause Bawating Bungee Chequamegon Keweenaw Kitchigami
+	Mackinac Macomille Malanas Marameg Missisage Mouusagai Mundua Nikikouek Noquet Ouasouarini
+	Outchibou Outchougai Ouxeiacomingo Saginaw Saulteaux 
+}
+fleet_names = { 
+}
+army_names = { 
 }

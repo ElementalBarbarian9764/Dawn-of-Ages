@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 201 97 74 }
 revolutionary_colors = { 6 14 6 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -21,7 +21,7 @@ historical_units = {
 	eastern_bow
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Angkasa #0" = -1
 	"Anglurah Agung #0" = 20
 	"Dalem Bekung #0" = 20
@@ -42,38 +42,15 @@ monarch_names = {
 	"Watu Renggong #0" = 20
 	"Wikramawardhana #0" = 20
 }
-leader_names = {
-	"Agung"
-	"Budi"
-	"Hamengku"
-	"Harto"
-	"Karno"
-	"Kencono"
-	"Mas"
-	"Ratri"
-	"Slamet"
-	"Wani"
+leader_names = { 
+	Agung Budi Hamengku Harto Karno Kencono Mas Ratri Slamet Wani
 }
-ship_names = {
-	"Agong"
-	"Baris"
-	"Barong"
-	"Batukaru"
-	"Batur"
-	"Bratan"
-	"Catur"
-	"Kecak"
-	"Kelatakan"
-	"Legong"
-	"Lesong"
-	"Merbuk"
-	"Mesehe"
-	"Musi"
-	"Patas"
-	"Pendet"
-	"Pohen"
-	"Sanglang"
-	"Sangyang"
-	"Seraya"
-	"Topeng"
+ship_names = { 
+	Agong Baris Barong Batukaru Batur Bratan Catur Kecak Kelatakan Legong
+	Lesong Merbuk Mesehe Musi Patas Pendet Pohen Sanglang Sangyang Seraya
+	Topeng 
+}
+fleet_names = { 
+}
+army_names = { 
 }

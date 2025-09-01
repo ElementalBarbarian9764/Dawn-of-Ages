@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 185 215 255 }
 revolutionary_colors = { 0 13 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	plutocracy_ideas
 	trade_ideas
 	economic_ideas
@@ -14,7 +14,7 @@ historical_idea_groups = {
 }
 historical_score = 200
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	druzhina_cavalry
 	eastern_carabinier
@@ -32,7 +32,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Afanasiy #0" = 0
 	"Agafya #0" = -1
 	"Akim #0" = 0
@@ -76,240 +76,36 @@ monarch_names = {
 	"Yuliya #0" = -1
 	"Yuriy #1" = 20
 }
-leader_names = {
-	"Apraksin"
-	"Bagration"
-	"Barclay de Tolly"
-	"Bibikoff"
-	"Bodisco"
-	"Boruffsin"
-	"Golitzin"
-	"Kaibula"
-	"Kamenski"
-	"Kolzoff"
-	"Mensjikov"
-	"Mustislavski"
-	"Ostermann Tolstoy"
-	"Paletskij"
-	"Rajevski"
-	"Schuvalov"
-	"Sjeremetjev"
-	"Sjtjenjatvev"
-	"Tiesenhusen"
-	"Vasiljevitj"
-	"von Buxhoevden"
-	"von Knorring"
-	"von Lascy"
+leader_names = { 
+	Apraksin Bagration "Barclay de Tolly" Bibikoff Bodisco Boruffsin Golitzin Kaibula Kamenski Kolzoff
+	Mensjikov Mustislavski "Ostermann Tolstoy" Paletskij Rajevski Schuvalov Sjeremetjev Sjtjenjatvev Tiesenhusen Vasiljevitj
+	"von Buxhoevden" "von Knorring" "von Lascy" 
 }
-ship_names = {
-	"Aist"
-	"Amur"
-	"Apollo"
-	"Arkhipelag"
-	"Armont"
-	"Arondel"
-	"Astrakhan"
-	"Aziia"
-	"Azov"
-	"Blagodat"
-	"Blagopoluchie"
-	"Britanniia"
-	"Bulinbrok"
-	"Bystraia"
-	"Cherepakha"
-	"Chesma"
-	"Chestnaia"
-	"Degas"
-	"Dekrondelivde"
-	"Delfin"
-	"Delos"
-	"Derbent"
-	"Derpt"
-	"Devonshir"
-	"Diana"
-	"Dobraia"
-	"Donder"
-	"Drumkrakht"
-	"Dumkrat"
-	"Eingorn"
-	"Elena"
-	"Emgeiten"
-	"Emmanuil"
-	"Endrakht"
-	"Esperans"
-	"Etna"
-	"Evropa"
-	"Falk"
-	"Favoritka"
-	"Feniks"
-	"Flag"
-	"Fortuna"
-	"Fredrikhshtadt"
-	"Fridemaker"
-	"Fyodor"
-	"Gamburg"
-	"Gangut"
-	"Gektor"
-	"Gremiashchii"
-	"Grigorii"
-	"Grom"
-	"II"
-	"Iagudiil"
-	"Iamburg"
-	"Iaroslav"
-	"Iassy"
-	"Iezekiil"
-	"Ingermanland"
-	"Ioann"
-	"Iupiter"
-	"Kamen"
-	"Khobot"
-	"Khotin"
-	"Khvalnaia"
-	"Kit"
-	"Konstantin"
-	"Kopore"
-	"Korona"
-	"Kreiser"
-	"Krepost"
-	"Kronshlot"
-	"Kronshtadt"
-	"Kruis"
-	"Krym"
-	"Landsdou"
-	"Laskovaia"
-	"Lastka"
-	"Leferm"
-	"Legkii"
-	"Lesnoye"
-	"Lev"
-	"Liliia"
-	"Lizet"
-	"London"
-	"Luks"
-	"Marlburg"
-	"Merkurii"
-	"Miach"
-	"Milo"
-	"Minerva"
-	"Mittau"
-	"Modon"
-	"Molniia"
-	"Monbekend"
-	"Monplezir"
-	"Moreia"
-	"Moris"
-	"Moskva"
-	"Munker"
-	"Nadezhda"
-	"Naktsiia"
-	"Narva"
-	"Natalia"
-	"Nazaret"
-	"Nepobedimaia"
-	"Neptunus"
-	"Nishtadt"
-	"Novopavlovsk"
-	"Oksford"
-	"Olga"
-	"Olifant"
-	"Orfei"
-	"Oryol"
-	"Palyulos"
-	"Parizh"
-	"Paros"
-	"Patriklii"
-	"Perl"
-	"Pernov"
-	"Pervyi"
-	"Peterburg"
-	"Piotr"
-	"Plato"
-	"Pobeda"
-	"Pochtalon"
-	"Poltava"
-	"Poluks"
-	"Pomoshchnyi"
-	"Portsmut"
-	"Pospeshnyi"
-	"Prevoskhoditeinaia"
-	"Printsessa"
-	"Priyatelnaya"
-	"Prokhor"
-	"Provornyi"
-	"Rafail"
-	"Rak"
-	"Randolf"
-	"Razumnaia"
-	"Revel"
-	"Riga"
-	"Rossia"
-	"Rostislav"
-	"Roza"
-	"Rys"
-	"Salamandra"
-	"Samson"
-	"Saratov"
-	"Schastie"
-	"Schastlivyi"
-	"Selafail"
-	"Shkhelpol"
-	"Shlisselburg"
-	"Shpaga"
-	"Shtandart"
-	"Shval"
-	"Siiatelnaia"
-	"Sion"
-	"Sklonnaia"
-	"Skorpion"
-	"Snuk"
-	"Sobaka"
-	"Sokol"
-	"Starn"
-	"Stein"
-	"Straford"
-	"Strakh"
-	"Strela"
-	"Strus"
-	"Sulitsa"
-	"Sviatoslav"
-	"Svirepaia"
-	"Taganrog"
-	"Taimalar"
-	"Telemakus"
-	"Terpelivaia"
-	"Tino"
-	"Tver"
-	"Tvyordyi"
-	"Ubornaia"
-	"Uchtivaia"
-	"Uliss"
-	"Ulriksdal"
-	"Upovanie"
-	"Uriil"
-	"Vakhmeister"
-	"Varakhail"
-	"Vedraia"
-	"Venera"
-	"Venker"
-	"Venus"
-	"Vestovoi"
-	"Vesuvii"
-	"Viacheslav"
-	"Viktoriia"
-	"Vinkelgak"
-	"Voin"
-	"Voronez"
-	"Vsevolod"
-	"Vtoroi"
-	"Vyborg"
-	"Vydra"
-	"Yanos"
-	"Zabavnaia"
-	"Zadornaia"
-	"Zhemchug"
-	"Zhurzha"
-	"Zmeia"
-	"Zvezda"
+ship_names = { 
+	Aist Amur Apollo Arkhipelag Armont Arondel Astrakhan Aziia Azov Blagodat
+	Blagopoluchie Britanniia Bulinbrok Bystraia Cherepakha Chesma Chestnaia Degas Dekrondelivde Delfin
+	Delos Derbent Derpt Devonshir Diana Dobraia Donder Drumkrakht Dumkrat Eingorn
+	Elena Emgeiten Emmanuil Endrakht Esperans Etna Evropa Falk Favoritka Feniks
+	Flag Fortuna Fredrikhshtadt Fridemaker Fyodor Gamburg Gangut Gektor Gremiashchii Grigorii
+	Grom II Iagudiil Iamburg Iaroslav Iassy Iezekiil Ingermanland Ioann Iupiter
+	Kamen Khobot Khotin Khvalnaia Kit Konstantin Kopore Korona Kreiser Krepost
+	Kronshlot Kronshtadt Kruis Krym Landsdou Laskovaia Lastka Leferm Legkii Lesnoye
+	Lev Liliia Lizet London Luks Marlburg Merkurii Miach Milo Minerva
+	Mittau Modon Molniia Monbekend Monplezir Moreia Moris Moskva Munker Nadezhda
+	Naktsiia Narva Natalia Nazaret Nepobedimaia Neptunus Nishtadt Novopavlovsk Oksford Olga
+	Olifant Orfei Oryol Palyulos Parizh Paros Patriklii Perl Pernov Pervyi
+	Peterburg Piotr Plato Pobeda Pochtalon Poltava Poluks Pomoshchnyi Portsmut Pospeshnyi
+	Prevoskhoditeinaia Printsessa Priyatelnaya Prokhor Provornyi Rafail Rak Randolf Razumnaia Revel
+	Riga Rossia Rostislav Roza Rys Salamandra Samson Saratov Schastie Schastlivyi
+	Selafail Shkhelpol Shlisselburg Shpaga Shtandart Shval Siiatelnaia Sion Sklonnaia Skorpion
+	Snuk Sobaka Sokol Starn Stein Straford Strakh Strela Strus Sulitsa
+	Sviatoslav Svirepaia Taganrog Taimalar Telemakus Terpelivaia Tino Tver Tvyordyi Ubornaia
+	Uchtivaia Uliss Ulriksdal Upovanie Uriil Vakhmeister Varakhail Vedraia Venera Venker
+	Venus Vestovoi Vesuvii Viacheslav Viktoriia Vinkelgak Voin Voronez Vsevolod Vtoroi
+	Vyborg Vydra Yanos Zabavnaia Zadornaia Zhemchug Zhurzha Zmeia Zvezda 
 }
 colonial_parent = RUS
+fleet_names = { 
+}
+army_names = { 
+}

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 166 72 57 }
 revolutionary_colors = { 13 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -29,7 +29,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Aleksandar #0" = 10
 	"Alexa #0" = 15
 	"Bogdan #0" = 0
@@ -77,29 +77,14 @@ monarch_names = {
 	"Zdravko #0" = 0
 	"Zvonimir #0" = 0
 }
-leader_names = {
-	"Bojovic"
-	"Drascovic"
-	"Gingic"
-	"Hracovec"
-	"Jovanovic"
-	"Lazarevic"
-	"Marcovic"
-	"Obilic"
-	"Obrenovic"
-	"Pertrovic"
-	"Postek"
-	"Putnik"
+leader_names = { 
+	Bojovic Drascovic Gingic Hracovec Jovanovic Lazarevic Marcovic Obilic Obrenovic Pertrovic
+	Postek Putnik 
 }
-ship_names = {
-	"Bosnia"
-	"Duklja"
-	"Milutin"
-	"Pagania"
-	"Raska"
-	"Stefan Dusan"
-	"Stefan Nemanja"
-	"Stefan Prvovencani"
-	"Travunia"
-	"Zahumlje"
+ship_names = { 
+	Bosnia Duklja Milutin Pagania Raska "Stefan Dusan" "Stefan Nemanja" "Stefan Prvovencani" Travunia Zahumlje
+}
+fleet_names = { 
+}
+army_names = { 
 }

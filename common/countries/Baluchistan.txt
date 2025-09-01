@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 175 82 16 }
 revolutionary_colors = { 9 0 9 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quantity_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_dragoon
@@ -25,7 +25,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"Ahmad #0" = 30
 	"Ashraf Khanam #0" = -1
 	"Hasan #0" = 10
@@ -42,44 +42,15 @@ monarch_names = {
 	"Nur #0" = -1
 	"Samandar #0" = 10
 }
-leader_names = {
-	"Barakzay"
-	"Bozdar"
-	"Bugti"
-	"Ghilzai"
-	"Hooth"
-	"Jamot"
-	"Jatoi"
-	"Khokhar"
-	"Korai"
-	"Lashari"
-	"Lund"
-	"Mihrabanid"
-	"Mirrani"
-	"Nausherwani"
-	"Rind"
-	"Shar"
-	"Zikri"
+leader_names = { 
+	Barakzay Bozdar Bugti Ghilzai Hooth Jamot Jatoi Khokhar Korai Lashari
+	Lund Mihrabanid Mirrani Nausherwani Rind Shar Zikri 
 }
-ship_names = {
-	"Alia"
-	"Arusa"
-	"Dasht"
-	"Fatimah"
-	"Hormuz"
-	"Indus"
-	"Kech"
-	"Khan"
-	"Mashkaal"
-	"Nihing"
-	"Niknaz"
-	"Niloufa"
-	"Noor"
-	"Rakhshan"
-	"Salima"
-	"Shameena"
-	"Suhalia"
-	"Yasmine"
-	"Zahira"
-	"Zhab"
+ship_names = { 
+	Alia Arusa Dasht Fatimah Hormuz Indus Kech Khan Mashkaal Nihing
+	Niknaz Niloufa Noor Rakhshan Salima Shameena Suhalia Yasmine Zahira Zhab
+}
+fleet_names = { 
+}
+army_names = { 
 }

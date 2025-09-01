@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 16 113 155 }
 revolutionary_colors = { 5 5 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	eastern_carabinier
 	eastern_knights
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Adrian #0" = 0
 	"Afanasiy #0" = 0
 	"Agatha #0" = -1
@@ -86,44 +86,16 @@ monarch_names = {
 	"Vseslav #2" = 10
 	"Yaroslav #0" = 0
 }
-leader_names = {
-	"Aladyin"
-	"Beznosov"
-	"Bokeev"
-	"Borovsky"
-	"Burukhin"
-	"Dalmatov"
-	"Dursky"
-	"Galisky"
-	"Galitsky"
-	"Izyaslavsky"
-	"Kisleevsky"
-	"Korobyin"
-	"Mozhaisky"
-	"Satin"
-	"Shemyakin"
-	"Shukalovsky"
-	"Travin"
-	"Tsyplyatev"
-	"Uglisky"
-	"Vereisky"
-	"Vitebsky"
-	"Vnukov"
-	"Volotsky"
-	"Zabolotsky"
+leader_names = { 
+	Aladyin Beznosov Bokeev Borovsky Burukhin Dalmatov Dursky Galisky Galitsky Izyaslavsky
+	Kisleevsky Korobyin Mozhaisky Satin Shemyakin Shukalovsky Travin Tsyplyatev Uglisky Vereisky
+	Vitebsky Vnukov Volotsky Zabolotsky 
 }
-ship_names = {
-	"Bolotovo"
-	"Chudskoye"
-	"Izborsk"
-	"Kulikovo"
-	"Ostrov"
-	"Pechory"
-	"Polotsk"
-	"Porhov"
-	"Pskovskoye"
-	"Rakovor"
-	"Sebezh"
-	"Velikaya"
-	"Velikiye Luki"
+ship_names = { 
+	Bolotovo Chudskoye Izborsk Kulikovo Ostrov Pechory Polotsk Porhov Pskovskoye Rakovor
+	Sebezh Velikaya "Velikiye Luki" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 121 163 114 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	economic_ideas
 	defensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	religious_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Agostino #0" = 0
 	"Alberto #2" = 35
 	"Alboino #2" = 20
@@ -93,119 +93,24 @@ monarch_names = {
 	"Vincenzo #0" = 0
 	"Vittorio #0" = 0
 }
-leader_names = {
-	"Amigazzi"
-	"Avanzi"
-	"Badile"
-	"Barbieri"
-	"Baroni"
-	"Bassetti"
-	"Bellunello"
-	"Benaglio"
-	"Bernardi"
-	"Bonsignori"
-	"Buffetti"
-	"Cabianca"
-	"Caliari"
-	"Calvi"
-	"Calzetta"
-	"Canella"
-	"Canera"
-	"Canziani"
-	"Cappelletti"
-	"Caroto"
-	"Cavazzola"
-	"Ceroni"
-	"Cignaroli"
-	"Dall'Oca Bianca"
-	"Dalla Rosa"
-	"Dondoli"
-	"Dossi"
-	"Elenetti"
-	"Falcieri"
-	"Farina"
-	"Farinati"
-	"Ferrari"
-	"Flacco"
-	"Frisoni"
-	"Ghirlandini"
-	"Giarol"
-	"Giolfino"
-	"Lanceni"
-	"Lancerotti"
-	"Lancioni"
-	"Locatelli"
-	"Lorenzi"
-	"Maccari"
-	"Maderni"
-	"Marchesini"
-	"Marcola"
-	"Montemezzano"
-	"Morone"
-	"Nani"
-	"Noro"
-	"Ottini"
-	"Pachera"
-	"Pajetta"
-	"Panelli"
-	"Perini"
-	"Picenardi"
-	"Pozzo"
-	"Prunati"
-	"Riccio"
-	"Ridolfi"
-	"Robido"
-	"Rossetti"
-	"Ruggieri"
-	"Salis"
-	"Scaligeri"
-	"Semplice"
-	"Spada"
-	"Squarcione"
-	"Tarabotti"
-	"Torelli"
-	"Tumicelli"
-	"Turchi"
-	"Ugolini"
-	"Verla"
-	"Veronese"
-	"Vini"
-	"Voltolino"
-	"Zanconti"
-	"Zannoni"
-	"Zenatello"
-	"Zimengoli"
-	"da Conegliano"
-	"da Verona"
-	"da Zevio"
-	"dai Libri"
-	"del Moro"
+leader_names = { 
+	Amigazzi Avanzi Badile Barbieri Baroni Bassetti Bellunello Benaglio Bernardi Bonsignori
+	Buffetti Cabianca Caliari Calvi Calzetta Canella Canera Canziani Cappelletti Caroto
+	Cavazzola Ceroni Cignaroli "Dall'Oca Bianca" "Dalla Rosa" Dondoli Dossi Elenetti Falcieri Farina
+	Farinati Ferrari Flacco Frisoni Ghirlandini Giarol Giolfino Lanceni Lancerotti Lancioni
+	Locatelli Lorenzi Maccari Maderni Marchesini Marcola Montemezzano Morone Nani Noro
+	Ottini Pachera Pajetta Panelli Perini Picenardi Pozzo Prunati Riccio Ridolfi
+	Robido Rossetti Ruggieri Salis Scaligeri Semplice Spada Squarcione Tarabotti Torelli
+	Tumicelli Turchi Ugolini Verla Veronese Vini Voltolino Zanconti Zannoni Zenatello
+	Zimengoli "da Conegliano" "da Verona" "da Zevio" "dai Libri" "del Moro" 
 }
-ship_names = {
-	"Benvolio"
-	"Escalus"
-	"Giulietta Capuleti"
-	"Mercutio"
-	"Paris"
-	"Romeo Montecchi"
-	"San Babila"
-	"San Bernardino alle Ossa"
-	"San Cristoforo sul Naviglio"
-	"San Giovanni in Conca"
-	"San Gottardo"
-	"San Lorenzo"
-	"San Marco"
-	"San Nazaro Maggiore"
-	"San Satiro"
-	"San Simpliciano"
-	"Sant'Agostino"
-	"Sant'Ambrogio"
-	"Sant'Eustorgio"
-	"Santa Maria dei Miracoli"
-	"Santo Stefano"
-	"Sondrio"
-	"Tebaldo"
+ship_names = { 
+	Benvolio Escalus "Giulietta Capuleti" Mercutio Paris "Romeo Montecchi" "San Babila" "San Bernardino alle Ossa" "San Cristoforo sul Naviglio" "San Giovanni in Conca"
+	"San Gottardo" "San Lorenzo" "San Marco" "San Nazaro Maggiore" "San Satiro" "San Simpliciano" Sant'Agostino Sant'Ambrogio Sant'Eustorgio "Santa Maria dei Miracoli"
+	"Santo Stefano" Sondrio Tebaldo 
 }
-army_names = {
-	"Armata di $PROVINCE$"
+army_names = { 
+	"Armata di $PROVINCE$" 
+}
+fleet_names = { 
 }

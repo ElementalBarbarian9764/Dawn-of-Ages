@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 255 188 225 }
 revolutionary_colors = { 5 8 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	aristocracy_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_infantry
 	indian_arquebusier
 	indian_elephant
@@ -26,7 +26,7 @@ historical_units = {
 	south_indian_musketeer
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Aravindaksha #0" = 0
 	"Ayilyam #0" = 0
 	"Balarama #0" = 0
@@ -58,42 +58,16 @@ monarch_names = {
 	"Vira Kerala Varma #0" = 30
 	"Vira Rayira Varma #0" = 10
 }
-leader_names = {
-	"Kaimal"
-	"Kartha"
-	"Karthavu"
-	"Kesavadas"
-	"Kurup"
-	"Naduvazhi"
-	"Nambiar"
-	"Nedungadi"
-	"Thampi"
-	"Varma"
-	"Vellodi"
+leader_names = { 
+	Kaimal Kartha Karthavu Kesavadas Kurup Naduvazhi Nambiar Nedungadi Thampi Varma
+	Vellodi 
 }
-ship_names = {
-	"Amirtha"
-	"Amman"
-	"Arul"
-	"Chellam"
-	"Devi"
-	"Durga"
-	"Gayatri"
-	"Iniya"
-	"Kaveri"
-	"Lakshmi"
-	"Madhu"
-	"Meenakshi"
-	"Nalini"
-	"Palar"
-	"Parvati"
-	"Pennar"
-	"Ponnaiyar"
-	"Ponni"
-	"Radha"
-	"Ratri"
-	"Sarasvati"
-	"Sita"
-	"Tamarai"
-	"Vaigai"
+ship_names = { 
+	Amirtha Amman Arul Chellam Devi Durga Gayatri Iniya Kaveri Lakshmi
+	Madhu Meenakshi Nalini Palar Parvati Pennar Ponnaiyar Ponni Radha Ratri
+	Sarasvati Sita Tamarai Vaigai 
+}
+fleet_names = { 
+}
+army_names = { 
 }

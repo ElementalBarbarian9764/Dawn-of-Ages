@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 36 132 247 }
 revolutionary_colors = { 5 8 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Aleksandre #1" = 50
 	"Ana #0" = -1
 	"Archil #0" = 10
@@ -74,79 +74,19 @@ monarch_names = {
 	"Zegnak #0" = 0
 	"Zviad #0" = 0
 }
-leader_names = {
-	"Abashidze"
-	"Agiashvili"
-	"Anchabadze"
-	"Apakidze"
-	"Chichua"
-	"Chijavadze"
-	"Chikovani"
-	"Chkheidze"
-	"Dadeshkeliani"
-	"Dadiani"
-	"Gelovani"
-	"Gurieli"
-	"Iashvili"
-	"Lortkipanidze"
-	"Machavariani"
-	"Machutadze"
-	"Mikeladze"
-	"Mkheidze"
-	"Nakashidze"
-	"Nikoladze"
-	"Nizharadze"
-	"Shervashidze"
-	"Tsereteli"
-	"Tsulukidze"
+leader_names = { 
+	Abashidze Agiashvili Anchabadze Apakidze Chichua Chijavadze Chikovani Chkheidze Dadeshkeliani Dadiani
+	Gelovani Gurieli Iashvili Lortkipanidze Machavariani Machutadze Mikeladze Mkheidze Nakashidze Nikoladze
+	Nizharadze Shervashidze Tsereteli Tsulukidze 
 }
-ship_names = {
-	"Abkhazeti"
-	"Amirani"
-	"Anakopia"
-	"Apsaros"
-	"Argo"
-	"Armazi"
-	"Artaani"
-	"Ateni Sioni"
-	"Avtandil"
-	"Batomi"
-	"Bichvinta"
-	"Colchis"
-	"Davit Aghmashenebeli"
-	"Demetre Tavdadebuli"
-	"Didgori"
-	"Dioscurias"
-	"Dmanisi"
-	"Gelati"
-	"Giorgi V Brtskinvale"
-	"Jvari"
-	"Jvari Vazisa"
-	"Khornabuji"
-	"Kutaisi"
-	"Lasharisjvari"
-	"Mtkvari"
-	"Ninotsminda"
-	"Okros Satsmisi"
-	"Parnavaz"
-	"Petre Iberi"
-	"Phasis"
-	"Pityus"
-	"Racha"
-	"Rioni"
-	"Ruisi"
-	"Seti"
-	"Shota Rustaveli"
-	"Skhalta"
-	"Svaneti"
-	"Svetitskhoveli"
-	"Tamar"
-	"Tetri Giorgi"
-	"Tsminda Giorgi"
-	"Tsotne Dadiani"
-	"Uplistsikhe"
-	"Ushba"
-	"Vakhtang Gorgasali"
-	"Vardzia"
-	"Venakhi"
+ship_names = { 
+	Abkhazeti Amirani Anakopia Apsaros Argo Armazi Artaani "Ateni Sioni" Avtandil Batomi
+	Bichvinta Colchis "Davit Aghmashenebeli" "Demetre Tavdadebuli" Didgori Dioscurias Dmanisi Gelati "Giorgi V Brtskinvale" Jvari
+	"Jvari Vazisa" Khornabuji Kutaisi Lasharisjvari Mtkvari Ninotsminda "Okros Satsmisi" Parnavaz "Petre Iberi" Phasis
+	Pityus Racha Rioni Ruisi Seti "Shota Rustaveli" Skhalta Svaneti Svetitskhoveli Tamar
+	"Tetri Giorgi" "Tsminda Giorgi" "Tsotne Dadiani" Uplistsikhe Ushba "Vakhtang Gorgasali" Vardzia Venakhi 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -4,9 +4,9 @@ government_rank = 2
 technology_group = western
 religion = norse_pagan_reformed
 primary_culture = norwegian
-capital = 23
-409.6.30= {
-	monarch = {
+capital = 20
+409.6.30 = { 
+	monarch = { 
 		name = "Sumarliði"
 		dynasty = "Eyjing"
 		adm = 5
@@ -18,7 +18,7 @@ capital = 23
 	}
 	add_ruler_personality = strict_personality
 	add_ruler_personality = tactical_genius_personality
-	queen = {
+	queen = { 
 		name = "Astrid"
 		dynasty = "Gautske"
 		adm = 3
@@ -33,7 +33,7 @@ capital = 23
 	}
 	add_queen_personality = careful_personality
 	add_queen_personality = tolerant_personality
-	heir = {
+	heir = { 
 		name = "Styrbjörn"
 		monarch_name = "Styrbjörn"
 		dynasty = "Eyjing"
@@ -49,7 +49,7 @@ capital = 23
 	add_heir_personality = just_personality
 	add_heir_personality = strict_personality
 }
-409.6.30= {
+409.6.30 = { 
 	add_prestige = 53
 	add_treasury = 58
 }

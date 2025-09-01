@@ -1,0 +1,5 @@
+capital = 2857
+government_rank = 1
+religion = flying_serpent
+technology_group = high_american
+primary_culture = quetzalcoatl_dragon_culture

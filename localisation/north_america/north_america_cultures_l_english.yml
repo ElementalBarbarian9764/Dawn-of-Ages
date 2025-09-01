@@ -1,0 +1,28 @@
+﻿l_english:
+
+# Fae Cultures
+true_fae_culture: "Fae Cultures"
+
+north_american_fae: "Seelien Fae"
+north_american_fae_desc: "A temp to show the fae of the north."
+
+south_american_fae: "Unseelien Fae"
+south_american_fae_desc: "A temp to show the fae of the south."
+
+# Homeland Draconic cultures
+homeland_draconic_group: "American Dragons"
+
+fae_dragon_culture: "Fae Dragon"
+fae_dragon_culture_desc: "A temp to show the fae dragons"
+
+fae_draconic_culture: "Fae Dragonkin"
+fae_draconic_culture_desc: "A temp to show fae dragonkin."
+
+desert_draconic_culture: "Desert Dragonkin"
+desert_draconic_culture_desc: "A temp to show desert dragonkin."
+
+quetzalcoatl_dragon_culture: "Quetzalcoatl Dragons"
+quetzalcoatl_dragon_culture_desc: "A temp to show Quetzalcoatl Dragons."
+
+amarisa_dragon_culture: "Amarisa Dragons"
+amarisa_dragon_culture_desc: "A temp to show Amarisa Dragon."

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 204 150 21 }
-monarch_names = {
+monarch_names = { 
 	"Agimadus #1" = 10
 	"Algaster #1" = 10
 	"Arosinda #0" = 0
@@ -51,4 +51,12 @@ monarch_names = {
 	"Villisendo #0" = 0
 	"Vistravara #0" = -1
 	"Zamarius #0" = 0
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

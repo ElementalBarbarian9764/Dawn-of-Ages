@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 105 226 233 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	religious_ideas
 	trade_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	economic_ideas
 	defensive_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -24,7 +24,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Anguk #0" = -10
 	"Anyuk #0" = -10
 	"Atvuk #0" = 10
@@ -97,40 +97,15 @@ monarch_names = {
 	"Zarun #0" = 10
 	"Zuyuk #0" = -10
 }
-leader_names = {
-	"Adiul"
-	"Agna"
-	"Akhtamak"
-	"Aksik"
-	"Alvali"
-	"Burgumi"
-	"Dyaluncha"
-	"Eldan"
-	"Garpancha"
-	"Gudeikon"
-	"Gugdaul"
-	"Ka-cheda"
-	"Kepele"
-	"Khadiul"
-	"Kilim"
-	"Saltyk"
-	"Sebeda"
-	"Songolik"
-	"Tykulcha"
-	"Tymancha"
-	"Vadyo"
-	"Vankho"
-	"Vavlya"
+leader_names = { 
+	Adiul Agna Akhtamak Aksik Alvali Burgumi Dyaluncha Eldan Garpancha Gudeikon
+	Gugdaul Ka-cheda Kepele Khadiul Kilim Saltyk Sebeda Songolik Tykulcha Tymancha
+	Vadyo Vankho Vavlya 
 }
-ship_names = {
-	"Abai Geser"
-	"Aiduurai Mergen"
-	"Alamzhi Mergen"
-	"Bukhu Khaara"
-	"Dalkha"
-	"Erensei"
-	"Erlik"
-	"Khormust"
-	"Kurkyl"
-	"Uligery"
+ship_names = { 
+	"Abai Geser" "Aiduurai Mergen" "Alamzhi Mergen" "Bukhu Khaara" Dalkha Erensei Erlik Khormust Kurkyl Uligery
+}
+fleet_names = { 
+}
+army_names = { 
 }

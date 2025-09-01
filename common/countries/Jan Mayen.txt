@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 65 55 188 }
 revolutionary_colors = { 14 0 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	aristocracy_ideas
 	trade_ideas
 	defensive_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	maritime_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adam #0" = 5
 	"Adrián #0" = 5
 	"Alex #0" = 5
@@ -120,118 +120,23 @@ monarch_names = {
 	"Álvaro #0" = 5
 	"Èric #0" = 5
 }
-leader_names = {
-	"Andersson"
-	"Andreasson"
-	"Anward"
-	"Aytoun"
-	"Backlund"
-	"Ballantyne"
-	"Beaumont"
-	"Beliy"
-	"Bergqwist"
-	"Berni"
-	"Bjarnehed"
-	"Bjorn"
-	"Björk"
-	"Blomstfjellet"
-	"Borg"
-	"Capstick"
-	"Corominas"
-	"Drevendal"
-	"Edström"
-	"Eklund"
-	"Eriksson"
-	"Foxander"
-	"Fåhraeus"
-	"Gabryel"
-	"Garcia"
-	"Gidfors"
-	"Gladh"
-	"González"
-	"Grrr"
-	"Gyp"
-	"Hansson"
-	"Hesselborn"
-	"Holmgren"
-	"Horler"
-	"Höglund"
-	"Isaksson"
-	"Ivannikov"
-	"Izquierdo"
-	"Jakobsson"
-	"Jensen"
-	"Johannesson"
-	"Johansson"
-	"Khanagov"
-	"Kiby"
-	"King"
-	"Korhonen"
-	"Kowalcyzk"
-	"Kuiper"
-	"Kundak-Cowall"
-	"Lagerbäck"
-	"Lerström"
-	"Linares"
-	"Lind"
-	"Lohmander"
-	"Mannetje"
-	"Martins"
-	"Medved"
-	"Millen"
-	"Moltó"
-	"Nicholson"
-	"Norrevik"
-	"Olsson"
-	"Palmqvist"
-	"Pazos"
-	"Perez"
-	"Qoi"
-	"Rawrrorr"
-	"Rodriguez"
-	"Ropert"
-	"Rrrrr"
-	"Rönn"
-	"Salazar"
-	"Samelis"
-	"Santiago"
-	"Sanz"
-	"Sarell"
-	"Schießl"
-	"Sjöström"
-	"Skoglund"
-	"Sommerdahl"
-	"Strid"
-	"Styrbjorn"
-	"Tammpere"
-	"Thulin"
-	"Tiger"
-	"Toll"
-	"Tolman"
-	"Tronde"
-	"Trullenque"
-	"Vicent"
-	"Villberg"
-	"Virtanen"
-	"Wendel-Örtqvist"
-	"Woldon"
-	"Yildirim"
-	"Young"
-	"Zetterman"
-	"du Plessis"
-	"Åberg"
-	"Åslund"
+leader_names = { 
+	Andersson Andreasson Anward Aytoun Backlund Ballantyne Beaumont Beliy Bergqwist Berni
+	Bjarnehed Bjorn Björk Blomstfjellet Borg Capstick Corominas Drevendal Edström Eklund
+	Eriksson Foxander Fåhraeus Gabryel Garcia Gidfors Gladh González Grrr Gyp
+	Hansson Hesselborn Holmgren Horler Höglund Isaksson Ivannikov Izquierdo Jakobsson Jensen
+	Johannesson Johansson Khanagov Kiby King Korhonen Kowalcyzk Kuiper Kundak-Cowall Lagerbäck
+	Lerström Linares Lind Lohmander Mannetje Martins Medved Millen Moltó Nicholson
+	Norrevik Olsson Palmqvist Pazos Perez Qoi Rawrrorr Rodriguez Ropert Rrrrr
+	Rönn Salazar Samelis Santiago Sanz Sarell Schießl Sjöström Skoglund Sommerdahl
+	Strid Styrbjorn Tammpere Thulin Tiger Toll Tolman Tronde Trullenque Vicent
+	Villberg Virtanen Wendel-Örtqvist Woldon Yildirim Young Zetterman "du Plessis" Åberg Åslund
 }
-ship_names = {
-	"Björnligan"
-	"Björntanden"
-	"Björntassen"
-	"Fisken"
-	"Gamla Farmor"
-	"Isberget"
-	"Isflaket"
-	"Jan Mayen"
-	"Pingvinen"
-	"Store Skutt"
+ship_names = { 
+	Björnligan Björntanden Björntassen Fisken "Gamla Farmor" Isberget Isflaket "Jan Mayen" Pingvinen "Store Skutt"
 }
 right_to_bear_arms = yes
+fleet_names = { 
+}
+army_names = { 
+}

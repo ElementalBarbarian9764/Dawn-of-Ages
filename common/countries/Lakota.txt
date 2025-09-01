@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 19 27 81 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Belotonkatanga #0" = 10
 	"Etaseepa #0" = 10
 	"Hehaka Sapa #0" = 10
@@ -60,39 +60,15 @@ monarch_names = {
 	"Wannata #0" = 10
 	"Wasaota #0" = 10
 }
-leader_names = {
-	"Hunkpapha"
-	"Ihankthunwanna"
-	"Ihantkhunwan"
-	"Isanyathi"
-	"Itazipcho"
-	"Mdewakanthunwan"
-	"Mnikhowozu"
-	"Oglala"
-	"Oohenunpa"
-	"Sichangu"
-	"Sihasapa"
-	"Sisithunwan"
-	"Thithunwan"
-	"Wahpéhute"
-	"Wahpéthunwan"
-	"Wichiyena"
+leader_names = { 
+	Hunkpapha Ihankthunwanna Ihantkhunwan Isanyathi Itazipcho Mdewakanthunwan Mnikhowozu Oglala Oohenunpa Sichangu
+	Sihasapa Sisithunwan Thithunwan Wahpéhute Wahpéthunwan Wichiyena 
 }
-ship_names = {
-	"Hunkpapha"
-	"Ihankthunwanna"
-	"Ihantkhunwan"
-	"Isanyathi"
-	"Itazipcho"
-	"Mdewakanthunwan"
-	"Mnikhowozu"
-	"Oglala"
-	"Oohenunpa"
-	"Sichangu"
-	"Sihasapa"
-	"Sisithunwan"
-	"Thithunwan"
-	"Wahpéhute"
-	"Wahpéthunwan"
-	"Wichiyena"
+ship_names = { 
+	Hunkpapha Ihankthunwanna Ihantkhunwan Isanyathi Itazipcho Mdewakanthunwan Mnikhowozu Oglala Oohenunpa Sichangu
+	Sihasapa Sisithunwan Thithunwan Wahpéhute Wahpéthunwan Wichiyena 
+}
+fleet_names = { 
+}
+army_names = { 
 }

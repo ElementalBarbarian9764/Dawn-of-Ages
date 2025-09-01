@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 156 179 189 }
 revolutionary_colors = { 1 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	plutocracy_ideas
 	administrative_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	quality_ideas
 }
 historical_score = 1000
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adalbert #0" = 0
 	"Albrecht #0" = 0
 	"Alexander #0" = 0
@@ -74,142 +74,27 @@ monarch_names = {
 	"Wenzel #0" = 0
 	"Wilfried #0" = 0
 }
-leader_names = {
-	"Abendroth"
-	"Ackermann"
-	"Adler"
-	"Ahlers"
-	"Alpers"
-	"Alt"
-	"Amsinck"
-	"Baasch"
-	"Backer"
-	"Bagebuhr"
-	"Bastian"
-	"Billing"
-	"Boetefeur"
-	"Dabelstein"
-	"Dreyer"
-	"Eggers"
-	"Engel"
-	"Framhein"
-	"Gevert"
-	"Gossler"
-	"Grünewaldt"
-	"Hansen"
-	"Heinsohn"
-	"Henckell"
-	"Heuer"
-	"Horwege"
-	"Imbeck"
-	"Jarchow"
-	"Kehrhahn"
-	"Kellinghusen"
-	"Kindt"
-	"Lieb"
-	"Merck"
-	"Meyer"
-	"Muhl"
-	"Nanne"
-	"Olbers"
-	"Pape"
-	"Pollnau"
-	"Rosenbaum"
-	"Rosendahl"
-	"Schmerse"
-	"Schmidt"
-	"Schuberth"
-	"Schuemann"
-	"Soltau"
-	"Steetz"
-	"Thelemann"
-	"Tiedemann"
-	"Vick"
-	"Vilter"
-	"Vollmer"
-	"de Greve"
-	"von Düten"
-	"von Lengerke"
-	"von der Fechte"
+leader_names = { 
+	Abendroth Ackermann Adler Ahlers Alpers Alt Amsinck Baasch Backer Bagebuhr
+	Bastian Billing Boetefeur Dabelstein Dreyer Eggers Engel Framhein Gevert Gossler
+	Grünewaldt Hansen Heinsohn Henckell Heuer Horwege Imbeck Jarchow Kehrhahn Kellinghusen
+	Kindt Lieb Merck Meyer Muhl Nanne Olbers Pape Pollnau Rosenbaum
+	Rosendahl Schmerse Schmidt Schuberth Schuemann Soltau Steetz Thelemann Tiedemann Vick
+	Vilter Vollmer "de Greve" "von Düten" "von Lengerke" "von der Fechte" 
 }
-ship_names = {
-	"Adler von Lübeck"
-	"Admiralität von Hamburg"
-	"Afrikaner"
-	"Anna"
-	"Arche Noah"
-	"Bersteinfänger"
-	"Bracke"
-	"Brunte Kuh"
-	"Clementia"
-	"Colonia"
-	"Der Große Adler"
-	"Derffinger"
-	"Dorothea"
-	"Engel"
-	"Engel Gabriel"
-	"Feuerblase"
-	"Fliegender Hirsch"
-	"Fortuna"
-	"Friede"
-	"Fuchs"
-	"Füchslein"
-	"Gabriel"
-	"Gelber Löve"
-	"Goldener Löwe"
-	"Grafschaft Mark"
-	"Grüner Drache"
-	"Herzogtum Cleve"
-	"Hoffning"
-	"Jesus von Lübeck"
-	"Johannesburg"
-	"Jonge Tobias"
-	"Kurprinz"
-	"König David"
-	"Leopoldus Primus"
-	"Lisa von Lübeck"
-	"Lybischer Trotz"
-	"Lübscher Adler"
-	"Makarele"
-	"Maria Catharina"
-	"Meermann"
-	"Meerweib"
-	"Mercurius"
-	"Morian"
-	"Nordischer Löwe"
-	"Pax"
-	"Peter und Paul"
-	"Peter von Danzig"
-	"Pierelepomp"
-	"Prinz Ludwig"
-	"Prophet Daniel"
-	"Ritter Sankt Georg"
-	"Roland"
-	"Rommelpot"
-	"Rosenfelde"
-	"Roter Hirsch"
-	"Salamander"
-	"Sankt Laurens"
-	"Sankt Peter"
-	"Schwarzer Rabe"
-	"Seemoewe"
-	"Seeritter"
-	"Sieben Provinzien"
-	"Stad Emden"
-	"Syrig"
-	"Vogel Greif"
-	"Wapen von Bremen"
-	"Wapen von Hamburg"
-	"Wappen von Bremen"
-	"Wappen von Cleve"
-	"Wasserhund"
-	"Weißer Löwe"
-	"Wilhelmina Margaretta"
-	"Windhund"
-	"Wolkensäule"
-	"Zwei Brüder"
+ship_names = { 
+	"Adler von Lübeck" "Admiralität von Hamburg" Afrikaner Anna "Arche Noah" Bersteinfänger Bracke "Brunte Kuh" Clementia Colonia
+	"Der Große Adler" Derffinger Dorothea Engel "Engel Gabriel" Feuerblase "Fliegender Hirsch" Fortuna Friede Fuchs
+	Füchslein Gabriel "Gelber Löve" "Goldener Löwe" "Grafschaft Mark" "Grüner Drache" "Herzogtum Cleve" Hoffning "Jesus von Lübeck" Johannesburg
+	"Jonge Tobias" Kurprinz "König David" "Leopoldus Primus" "Lisa von Lübeck" "Lybischer Trotz" "Lübscher Adler" Makarele "Maria Catharina" Meermann
+	Meerweib Mercurius Morian "Nordischer Löwe" Pax "Peter und Paul" "Peter von Danzig" Pierelepomp "Prinz Ludwig" "Prophet Daniel"
+	"Ritter Sankt Georg" Roland Rommelpot Rosenfelde "Roter Hirsch" Salamander "Sankt Laurens" "Sankt Peter" "Schwarzer Rabe" Seemoewe
+	Seeritter "Sieben Provinzien" "Stad Emden" Syrig "Vogel Greif" "Wapen von Bremen" "Wapen von Hamburg" "Wappen von Bremen" "Wappen von Cleve" Wasserhund
+	"Weißer Löwe" "Wilhelmina Margaretta" Windhund Wolkensäule "Zwei Brüder" 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
 }
 preferred_religion = protestant
+fleet_names = { 
+}

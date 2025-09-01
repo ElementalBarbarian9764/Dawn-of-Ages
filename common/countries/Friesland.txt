@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 165 89 27 }
 revolutionary_colors = { 15 16 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albrecht #1" = 20
 	"Angelina #0" = -1
 	"Anne #0" = 0
@@ -73,80 +73,21 @@ monarch_names = {
 	"Willem Joris #0" = 15
 	"Willem Lodewijk #0" = 20
 }
-leader_names = {
-	"Banda"
-	"Barents"
-	"Bergsma"
-	"Bonga"
-	"De Vries"
-	"Donia"
-	"Dykstra"
-	"Eelsma"
-	"Elsinga"
-	"Friso"
-	"Galama"
-	"Gauma"
-	"Halbertsma"
-	"Japisk"
-	"Jongstra"
-	"Jousma"
-	"Kamminga"
-	"Kamstra"
-	"Kiestra"
-	"Kooistra"
-	"Martena"
-	"Riemersma"
-	"Ripperda"
-	"Roorda"
-	"Saakma"
-	"Sems"
-	"Stellingwerf"
-	"Stiensma"
-	"Stijl"
-	"Sytstra"
-	"Tjerkstra"
-	"Van Schellinkhout"
-	"Van Uylenburgh"
-	"Wynja"
+leader_names = { 
+	Banda Barents Bergsma Bonga "De Vries" Donia Dykstra Eelsma Elsinga Friso
+	Galama Gauma Halbertsma Japisk Jongstra Jousma Kamminga Kamstra Kiestra Kooistra
+	Martena Riemersma Ripperda Roorda Saakma Sems Stellingwerf Stiensma Stijl Sytstra
+	Tjerkstra "Van Schellinkhout" "Van Uylenburgh" Wynja 
 }
-ship_names = {
-	"Bernlef"
-	"Boalsert"
-	"Damwâld"
-	"De Swarte Heap"
-	"Dokkum"
-	"Drylts"
-	"Frede"
-	"Frijheid"
-	"Frisia Magna"
-	"Frjentsjer"
-	"Fryslân"
-	"Fryslân Boppe"
-	"Grut Fryslân"
-	"Grutte Pier"
-	"Harns"
-	"Heitelân"
-	"Hylpen"
-	"It Beaken"
-	"It Frouke"
-	"Kening Poppo"
-	"Kening Redbad"
-	"Kriich"
-	"Lauwers"
-	"Leaver dea as slaaf"
-	"Ljouwert"
-	"Pier Gerlofs Donia"
-	"Sleat"
-	"Snits"
-	"Starum"
-	"Sudersee"
-	"Thiadsvind"
-	"Wapen fan Fryslân"
-	"Warkum"
+ship_names = { 
+	Bernlef Boalsert Damwâld "De Swarte Heap" Dokkum Drylts Frede Frijheid "Frisia Magna" Frjentsjer
+	Fryslân "Fryslân Boppe" "Grut Fryslân" "Grutte Pier" Harns Heitelân Hylpen "It Beaken" "It Frouke" "Kening Poppo"
+	"Kening Redbad" Kriich Lauwers "Leaver dea as slaaf" Ljouwert "Pier Gerlofs Donia" Sleat Snits Starum Sudersee
+	Thiadsvind "Wapen fan Fryslân" Warkum 
 }
-army_names = {
-	"Leger van $PROVINCE$"
+army_names = { 
+	"Leger van $PROVINCE$" 
 }
-fleet_names = {
-	"Vloot van $PROVINCE$"
+fleet_names = { 
+	"Vloot van $PROVINCE$" 
 }

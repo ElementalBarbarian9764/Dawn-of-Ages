@@ -1,3 +1,4 @@
+# Mark from Destruction
 government = tribal
 add_government_reform = tribal_kingdom
 government_rank = 1

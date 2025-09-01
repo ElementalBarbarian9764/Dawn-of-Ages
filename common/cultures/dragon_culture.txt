@@ -1,0 +1,95 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+# Dragon and Dragon Adjacent Species
+homeland_draconic_group = {
+    #Graphics form the culture
+    graphical_culture = westerngfx
+    # Fae Dragon Culture
+	fae_dragon_culture = {
+		primary = PYT
+		male_names = {
+			Fafner Fafnir Apopis Colchidei Bantu Khozen Morzas Xemcel Nils 
+		}
+		female_names = {
+			"Faelrae Garthammus"
+		}
+		dynasty_names = {
+			"Kytrapan" "Vorcasymath" "Carrafyrt" "Noighyd"  "Grautarrein" "of the Sun" "of the Skies" "of the Moon" "Rainbowscale" "of the Waters" "Goldscale" "Rabat" "Caltabellotta" "Cefal�"
+		}
+	}
+    # Draconic Fae of the Forest
+    fae_draconic_culture = {
+        primary = PYT
+        male_names = {
+			Fafner Fafnir Apopis Colchidei Bantu Khozen Morzas Xemcel Nils 
+		}
+		female_names = {
+			"Faelrae Garthammus"
+		}
+		dynasty_names = {
+			"Kytrapan" "Vorcasymath" "Carrafyrt" "Noighyd"  "Grautarrein" "of the Sun" "of the Skies" "of the Moon" "Rainbowscale" "of the Waters" "Goldscale" "Rabat" "Caltabellotta" "Cefal�"
+		}
+    }
+    # Desert Draconic People
+    desert_draconic_culture = {
+        male_names = {
+			Fafner Fafnir Apopis Colchidei Bantu Khozen Morzas Xemcel Nils 
+		}
+		female_names = {
+			"Faelrae Garthammus"
+		}
+		dynasty_names = {
+			"Kytrapan" "Vorcasymath" "Carrafyrt" "Noighyd"  "Grautarrein" "of the Sun" "of the Skies" "of the Moon" "Rainbowscale" "of the Waters" "Goldscale" "Rabat" "Caltabellotta" "Cefal�"
+		}
+    }
+    # Aztect looking Dragons (Green, Purple/Blue)
+	quetzalcoatl_dragon_culture = {
+		primary = QUZ
+		male_names = {
+			Fafner Fafnir Apopis Colchidei Bantu Khozen Morzas Xemcel Nils 
+		}
+		female_names = {
+			"Faelrae Garthammus"
+		}
+		dynasty_names = {
+			"Kytrapan" "Vorcasymath" "Carrafyrt" "Noighyd"  "Grautarrein" "of the Sun" "of the Skies" "of the Moon" "Rainbowscale" "of the Waters" "Goldscale" "Rabat" "Caltabellotta" "Cefal�"
+		}
+	}
+	# Incan looking Dragons (Orange/skyblue)
+	amarisa_dragon_culture = {
+		primary = AMR
+		male_names = {
+			Fafner Fafnir Apopis Colchidei Bantu Khozen Morzas Xemcel Nils 
+		}
+		female_names = {
+			"Faelrae Garthammus"
+		}
+		dynasty_names = {
+			"Kytrapan" "Vorcasymath" "Carrafyrt" "Noighyd"  "Grautarrein" "of the Sun" "of the Skies" "of the Moon" "Rainbowscale" "of the Waters" "Goldscale" "Rabat" "Caltabellotta" "Cefal�"
+		}
+	}
+}
+eurasia_draconic_group = {
+    #Graphics form the culture
+    graphical_culture = westerngfx
+    # Chinese Dragons
+    loong_dragon_culture = {
+		primary = PYT
+		male_names = {
+			Ryujin
+		}
+		female_names = {
+			"Fi Lendicol"
+		}
+		dynasty_names = {
+			"of the Sun" "of the Skies" "of the Moon" "Rainbowscale" "of the Waters" "Goldscale" 
+		}
+	}
+}

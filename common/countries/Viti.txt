@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = polynesiangfx
 color = { 130 180 215 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	indigenous_ideas
 	economic_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	defensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	pacific_arquebusier
 	pacific_cavalry
 	pacific_dragoon
@@ -24,7 +24,7 @@ historical_units = {
 	pacific_spearman
 	pacific_swarm_cav
 }
-monarch_names = {
+monarch_names = { 
 	"Adi #0" = 1
 	"Aisake #0" = 1
 	"Akeneta #0" = -1
@@ -118,145 +118,25 @@ monarch_names = {
 	"Wije #0" = 1
 	"Yasi #0" = 1
 }
-leader_names = {
-	"Adi"
-	"Aisake"
-	"Aminiasi"
-	"Apenisa"
-	"Apisalome"
-	"Berenado"
-	"Cakobau"
-	"Caucau"
-	"Emori"
-	"Epeli"
-	"Epenisa"
-	"Esekia"
-	"Ilikimi"
-	"Ilisoni"
-	"Iloilo"
-	"Iloilovatu"
-	"Isikeli"
-	"Isimeli"
-	"Jesoni"
-	"Jo"
-	"Joeli"
-	"Jone"
-	"Jope"
-	"Josateki"
-	"Josefa"
-	"Josevata"
-	"Jovesa"
-	"Kai"
-	"Kamisese"
-	"Karavadi"
-	"Kelemedi"
-	"Kevenei"
-	"Lala"
-	"Lasarusa"
-	"Lemeki"
-	"Levani"
-	"Leveni"
-	"Ma'afu"
-	"Maciu"
-	"Manasa"
-	"Mara"
-	"Marau"
-	"Marika"
-	"Naulivou"
-	"Ovini"
-	"Penaia"
-	"Peniamini"
-	"Petero"
-	"Poasa"
-	"Sakeasi"
-	"Sakiusa"
-	"Samisoni"
-	"Savenaca"
-	"Seru"
-	"Sione"
-	"Sirilo"
-	"Sitiveni"
-	"Solomone"
-	"Tamiela"
-	"Tanna"
-	"Timi"
-	"Timoci"
-	"Tomasi"
-	"Tui"
-	"Voreqe"
-	"Waisake"
-	"Waisale"
-	"Wije"
-	"Yasi"
+leader_names = { 
+	Adi Aisake Aminiasi Apenisa Apisalome Berenado Cakobau Caucau Emori Epeli
+	Epenisa Esekia Ilikimi Ilisoni Iloilo Iloilovatu Isikeli Isimeli Jesoni Jo
+	Joeli Jone Jope Josateki Josefa Josevata Jovesa Kai Kamisese Karavadi
+	Kelemedi Kevenei Lala Lasarusa Lemeki Levani Leveni Ma'afu Maciu Manasa
+	Mara Marau Marika Naulivou Ovini Penaia Peniamini Petero Poasa Sakeasi
+	Sakiusa Samisoni Savenaca Seru Sione Sirilo Sitiveni Solomone Tamiela Tanna
+	Timi Timoci Tomasi Tui Voreqe Waisake Waisale Wije Yasi 
 }
-ship_names = {
-	"Adi"
-	"Aisake"
-	"Aminiasi"
-	"Apenisa"
-	"Apisalome"
-	"Berenado"
-	"Cakobau"
-	"Caucau"
-	"Emori"
-	"Epeli"
-	"Epenisa"
-	"Esekia"
-	"Ilikimi"
-	"Ilisoni"
-	"Iloilo"
-	"Iloilovatu"
-	"Isikeli"
-	"Isimeli"
-	"Jesoni"
-	"Jo"
-	"Joeli"
-	"Jone"
-	"Jope"
-	"Josateki"
-	"Josefa"
-	"Josevata"
-	"Jovesa"
-	"Kai"
-	"Kamisese"
-	"Karavadi"
-	"Kelemedi"
-	"Kevenei"
-	"Lala"
-	"Lasarusa"
-	"Lemeki"
-	"Levani"
-	"Leveni"
-	"Ma'afu"
-	"Maciu"
-	"Manasa"
-	"Mara"
-	"Marau"
-	"Marika"
-	"Naulivou"
-	"Ovini"
-	"Penaia"
-	"Peniamini"
-	"Petero"
-	"Poasa"
-	"Sakeasi"
-	"Sakiusa"
-	"Samisoni"
-	"Savenaca"
-	"Seru"
-	"Sione"
-	"Sirilo"
-	"Sitiveni"
-	"Solomone"
-	"Tamiela"
-	"Tanna"
-	"Timi"
-	"Timoci"
-	"Tomasi"
-	"Tui"
-	"Voreqe"
-	"Waisake"
-	"Waisale"
-	"Wije"
-	"Yasi"
+ship_names = { 
+	Adi Aisake Aminiasi Apenisa Apisalome Berenado Cakobau Caucau Emori Epeli
+	Epenisa Esekia Ilikimi Ilisoni Iloilo Iloilovatu Isikeli Isimeli Jesoni Jo
+	Joeli Jone Jope Josateki Josefa Josevata Jovesa Kai Kamisese Karavadi
+	Kelemedi Kevenei Lala Lasarusa Lemeki Levani Leveni Ma'afu Maciu Manasa
+	Mara Marau Marika Naulivou Ovini Penaia Peniamini Petero Poasa Sakeasi
+	Sakiusa Samisoni Savenaca Seru Sione Sirilo Sitiveni Solomone Tamiela Tanna
+	Timi Timoci Tomasi Tui Voreqe Waisake Waisale Wije Yasi 
+}
+fleet_names = { 
+}
+army_names = { 
 }

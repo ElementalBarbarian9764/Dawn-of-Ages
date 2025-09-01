@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 43 60 117 }
 revolutionary_colors = { 15 16 15 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	aristocracy_ideas
 	trade_ideas
 	defensive_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	maritime_ideas
 }
 historical_score = 25
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Anders #0" = 0
 	"Ansgard #0" = 0
 	"Ari #0" = 0
@@ -77,36 +77,15 @@ monarch_names = {
 	"Torhild #0" = 0
 	"Ögmundur #0" = 10
 }
-leader_names = {
-	"Amundsen"
-	"Arason"
-	"Arnesson"
-	"Bjelke"
-	"Bolt"
-	"Egilsson"
-	"Eriksson"
-	"Haraldsson"
-	"Larsson"
-	"Leifsson"
-	"Magnusson"
-	"Nansen"
-	"Nikulásson"
-	"Norheim"
-	"Olavsson"
-	"Pálsson"
-	"Sverresson"
-	"Torgeirsson"
+leader_names = { 
+	Amundsen Arason Arnesson Bjelke Bolt Egilsson Eriksson Haraldsson Larsson Leifsson
+	Magnusson Nansen Nikulásson Norheim Olavsson Pálsson Sverresson Torgeirsson 
 }
-ship_names = {
-	"Drangajökull"
-	"Eiríksjökull"
-	"Eyjafjallajökull"
-	"Hofsjökull"
-	"Langjökull"
-	"Snæfellsjökull"
-	"Tindfjallajökull"
-	"Torfajökull"
-	"Tungnafellsjökull"
-	"Vattnajökul"
+ship_names = { 
+	Drangajökull Eiríksjökull Eyjafjallajökull Hofsjökull Langjökull Snæfellsjökull Tindfjallajökull Torfajökull Tungnafellsjökull Vattnajökul
 }
 preferred_religion = protestant
+fleet_names = { 
+}
+army_names = { 
+}

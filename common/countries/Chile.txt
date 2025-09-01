@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 236 159 89 }
 revolutionary_colors = { 13 0 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	administrative_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adrián #0" = 0
 	"Agustín #0" = 20
 	"Alfonso #0" = 0
@@ -68,69 +68,19 @@ monarch_names = {
 	"Urbano #0" = 0
 	"Víctor #0" = 0
 }
-leader_names = {
-	"Argomedo"
-	"Balmaceda"
-	"Barros"
-	"Bello"
-	"Bilbao"
-	"Blanco"
-	"Borgoño"
-	"Bulnes"
-	"Carrera"
-	"Cochrane"
-	"Echevarría"
-	"Egaña"
-	"Errázuriz"
-	"Freire"
-	"Henríquez"
-	"Herrera"
-	"Infante"
-	"Lastarria"
-	"Mackenna"
-	"Martínez de Aldunate"
-	"Martínez de Rozas"
-	"Marín"
-	"Montt"
-	"Márquez de la Plata"
-	"O'Higgins"
-	"Ovalle"
-	"Pinto"
-	"Portales"
-	"Prieto"
-	"Pérez"
-	"Rengifo"
-	"Rodríguez"
-	"Rosales"
-	"Sarmiento"
-	"Soler"
-	"Tocornal"
-	"Varas"
-	"Vidaurre"
-	"Zañartu"
-	"Zenteno"
-	"de Carrera"
-	"de Irisarri"
-	"de Lasta"
-	"de San Martín"
-	"de Toro"
-	"de Villegas"
-	"de la Cruz"
-	"de la Lastra"
-	"de la Reina"
-	"Álvarez"
+leader_names = { 
+	Argomedo Balmaceda Barros Bello Bilbao Blanco Borgoño Bulnes Carrera Cochrane
+	Echevarría Egaña Errázuriz Freire Henríquez Herrera Infante Lastarria Mackenna "Martínez de Aldunate"
+	"Martínez de Rozas" Marín Montt "Márquez de la Plata" O'Higgins Ovalle Pinto Portales Prieto Pérez
+	Rengifo Rodríguez Rosales Sarmiento Soler Tocornal Varas Vidaurre Zañartu Zenteno
+	"de Carrera" "de Irisarri" "de Lasta" "de San Martín" "de Toro" "de Villegas" "de la Cruz" "de la Lastra" "de la Reina" Álvarez
 }
-ship_names = {
-	"Abtao"
-	"Blanco Encalada"
-	"Chacubuco"
-	"Esmeralda"
-	"Huascar"
-	"Latorre"
-	"Orella"
-	"Riquelme"
-	"Serrano"
-	"Valparaiso"
-	"Virgilio Uribe"
+ship_names = { 
+	Abtao "Blanco Encalada" Chacubuco Esmeralda Huascar Latorre Orella Riquelme Serrano Valparaiso
+	"Virgilio Uribe" 
 }
 colonial_parent = SPA
+fleet_names = { 
+}
+army_names = { 
+}

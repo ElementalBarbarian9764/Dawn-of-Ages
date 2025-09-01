@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 4 162 77 }
 revolutionary_colors = { 0 6 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Aubauway #0" = 20
 	"Augooshaway #0" = 20
 	"Eppesanse #0" = 20
@@ -48,93 +48,21 @@ monarch_names = {
 	"Wehunsegah #0" = -1
 	"Wewiskia #0" = 20
 }
-leader_names = {
-	"Aegakotcheising"
-	"Agushawas"
-	"Anamiewatigong"
-	"Apontigoumy"
-	"Bkwjwanong"
-	"Cheboygan"
-	"Chequamegon"
-	"Ekanetoton"
-	"Kaienatroene"
-	"Keinouche"
-	"Keweenaw"
-	"Kiskakon"
-	"Machonee"
-	"Manistee"
-	"Manitoulin"
-	"Manitowaning"
-	"Maskasinik"
-	"Menawzbetaunaung"
-	"Meshkemau"
-	"Michilimackinac"
-	"Mitchigami"
-	"Muskegan"
-	"Nassawaketon"
-	"Nikikouek"
-	"Niscak"
-	"Obidgewong"
-	"Ogontz"
-	"Ontontagen"
-	"Oquanoxa"
-	"Ouacheskkesouen"
-	"Outaouakamigou"
-	"Sagnitaouigama"
-	"Shabawywyagun"
-	"Shehsegwaning"
-	"Shenguiandah"
-	"Sinago"
-	"Tawa"
-	"Tondagonie"
-	"Tushquegan"
-	"Waganakisi"
-	"Waugau"
-	"Wequetonsing"
-	"Wikwemikong"
+leader_names = { 
+	Aegakotcheising Agushawas Anamiewatigong Apontigoumy Bkwjwanong Cheboygan Chequamegon Ekanetoton Kaienatroene Keinouche
+	Keweenaw Kiskakon Machonee Manistee Manitoulin Manitowaning Maskasinik Menawzbetaunaung Meshkemau Michilimackinac
+	Mitchigami Muskegan Nassawaketon Nikikouek Niscak Obidgewong Ogontz Ontontagen Oquanoxa Ouacheskkesouen
+	Outaouakamigou Sagnitaouigama Shabawywyagun Shehsegwaning Shenguiandah Sinago Tawa Tondagonie Tushquegan Waganakisi
+	Waugau Wequetonsing Wikwemikong 
 }
-ship_names = {
-	"Aegakotcheising"
-	"Agushawas"
-	"Anamiewatigong"
-	"Apontigoumy"
-	"Bkwjwanong"
-	"Cheboygan"
-	"Chequamegon"
-	"Ekanetoton"
-	"Kaienatroene"
-	"Keinouche"
-	"Keweenaw"
-	"Kiskakon"
-	"Machonee"
-	"Manistee"
-	"Manitoulin"
-	"Manitowaning"
-	"Maskasinik"
-	"Menawzbetaunaung"
-	"Meshkemau"
-	"Michilimackinac"
-	"Mitchigami"
-	"Muskegan"
-	"Nassawaketon"
-	"Nikikouek"
-	"Niscak"
-	"Obidgewong"
-	"Ogontz"
-	"Ontontagen"
-	"Oquanoxa"
-	"Ouacheskkesouen"
-	"Outaouakamigou"
-	"Sagnitaouigama"
-	"Shabawywyagun"
-	"Shehsegwaning"
-	"Shenguiandah"
-	"Sinago"
-	"Tawa"
-	"Tondagonie"
-	"Tushquegan"
-	"Waganakisi"
-	"Waugau"
-	"Wequetonsing"
-	"Wikwemikong"
+ship_names = { 
+	Aegakotcheising Agushawas Anamiewatigong Apontigoumy Bkwjwanong Cheboygan Chequamegon Ekanetoton Kaienatroene Keinouche
+	Keweenaw Kiskakon Machonee Manistee Manitoulin Manitowaning Maskasinik Menawzbetaunaung Meshkemau Michilimackinac
+	Mitchigami Muskegan Nassawaketon Nikikouek Niscak Obidgewong Ogontz Ontontagen Oquanoxa Ouacheskkesouen
+	Outaouakamigou Sagnitaouigama Shabawywyagun Shehsegwaning Shenguiandah Sinago Tawa Tondagonie Tushquegan Waganakisi
+	Waugau Wequetonsing Wikwemikong 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 126 180 154 }
 revolutionary_colors = { 5 8 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Ahway Eskay #0" = 0
 	"Ashkii Diyin #0" = 10
 	"Atsidi Sani #0" = 0
@@ -44,67 +44,18 @@ monarch_names = {
 	"Toh Yah #0" = 0
 	"Tohayea #0" = -1
 }
-leader_names = {
-	"Ashinuii"
-	"Biih Bitoodnii"
-	"Bit'anhi"
-	"Deeshchii'nii"
-	"Dibelzhini"
-	"Dzaaneez Lani"
-	"Dzilt'aadi"
-	"Haltsooi"
-	"Hashk'aa Hadzohi"
-	"Hasht L'ishnii"
-	"Honaghaahnii"
-	"Hooghan Lani"
-	"Jaa'yaaloolii"
-	"K'aahanaanii"
-	"Keha'atiinii"
-	"Keha'atiintii"
-	"Kin Ichii'nii"
-	"Kiyaa'aanii"
-	"Ma'ii Deeshgiizhinii"
-	"Naaket L'ahi"
-	"Naashaashi"
-	"Naaste'ezheh"
-	"Nashashi"
-	"Nihoobaanii"
-	"T'ÿschebaanii"
-	"Ta'neeszahnii"
-	"Tabaaha"
-	"Tachii'nii"
-	"Tl'aaschi'I"
-	"Tl'izi Lani"
-	"Tl'ogi"
-	"To Baazhni'azhi"
-	"To'ahani"
-	"To'aheedliinii"
-	"Todich'ii'nii"
-	"Todik'ozhi"
-	"Totshnii"
-	"Ts'ah Yisk'idnii"
-	"Tse Deeshgizhnii"
-	"Tseikeehee"
-	"Tsenabahituii"
-	"Tsenjikini"
-	"Tsi'naajinii"
-	"Tsin Sikaadnii"
+leader_names = { 
+	Ashinuii "Biih Bitoodnii" Bit'anhi Deeshchii'nii Dibelzhini "Dzaaneez Lani" Dzilt'aadi Haltsooi "Hashk'aa Hadzohi" "Hasht L'ishnii"
+	Honaghaahnii "Hooghan Lani" Jaa'yaaloolii K'aahanaanii Keha'atiinii Keha'atiintii "Kin Ichii'nii" Kiyaa'aanii "Ma'ii Deeshgiizhinii" "Naaket L'ahi"
+	Naashaashi Naaste'ezheh Nashashi Nihoobaanii T'ÿschebaanii Ta'neeszahnii Tabaaha Tachii'nii Tl'aaschi'I "Tl'izi Lani"
+	Tl'ogi "To Baazhni'azhi" To'ahani To'aheedliinii Todich'ii'nii Todik'ozhi Totshnii "Ts'ah Yisk'idnii" "Tse Deeshgizhnii" Tseikeehee
+	Tsenabahituii Tsenjikini Tsi'naajinii "Tsin Sikaadnii" 
 }
-ship_names = {
-	"Atsa"
-	"Ayani"
-	"Biih"
-	"Dahsani"
-	"Gaagii"
-	"Golizhii"
-	"Ma'ittsoh"
-	"Nashdoitsoh"
-	"Ne'eshjaa"
-	"Shash"
-	"Tabaah"
-	"Ti'iish"
-	"Tii"
-	"Tsis'na"
-	"Tééchaa'i"
-	"ma'ii"
+ship_names = { 
+	Atsa Ayani Biih Dahsani Gaagii Golizhii Ma'ittsoh Nashdoitsoh Ne'eshjaa Shash
+	Tabaah Ti'iish Tii Tsis'na Tééchaa'i ma'ii 
+}
+fleet_names = { 
+}
+army_names = { 
 }

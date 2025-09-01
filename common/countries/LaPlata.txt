@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 101 102 163 }
 revolutionary_colors = { 14 0 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -13,7 +13,7 @@ historical_idea_groups = {
 	quality_ideas
 }
 random_nation_chance = 0
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adrián #0" = 0
 	"Alfonso #0" = 0
 	"Antonio #0" = 15
@@ -71,68 +71,18 @@ monarch_names = {
 	"Vicente #0" = 0
 	"Víctor #0" = 0
 }
-leader_names = {
-	"Alberti"
-	"Artigas"
-	"Azcuenaga"
-	"Balcarce"
-	"Bazán"
-	"Belgrano"
-	"Brown"
-	"Bustos"
-	"Cabral"
-	"Castro"
-	"Chiclana"
-	"Costa"
-	"Derqui"
-	"Dorrego"
-	"González"
-	"Goyeneche"
-	"Guazurary"
-	"Heredia"
-	"Jonte"
-	"Kaunitz de Holmberg"
-	"Larrea"
-	"López"
-	"Mansilla"
-	"Matheu"
-	"Monteagudo"
-	"Moreno"
-	"Paso"
-	"Paz"
-	"Peña"
-	"Planes"
-	"Posadas"
-	"Pérez"
-	"Ramírez"
-	"Riglos"
-	"Robinson"
-	"Rodríguez"
-	"Rondeau"
-	"Saavedra"
-	"Sarratea"
-	"Sáenz"
-	"Urquiza"
-	"Warnes"
-	"de Alvear"
-	"de Güemes"
-	"de Laprida"
-	"de Pueyrredón"
-	"de Rosas"
-	"de San Martín"
-	"de las Heras"
-	"Álvarez"
+leader_names = { 
+	Alberti Artigas Azcuenaga Balcarce Bazán Belgrano Brown Bustos Cabral Castro
+	Chiclana Costa Derqui Dorrego González Goyeneche Guazurary Heredia Jonte "Kaunitz de Holmberg"
+	Larrea López Mansilla Matheu Monteagudo Moreno Paso Paz Peña Planes
+	Posadas Pérez Ramírez Riglos Robinson Rodríguez Rondeau Saavedra Sarratea Sáenz
+	Urquiza Warnes "de Alvear" "de Güemes" "de Laprida" "de Pueyrredón" "de Rosas" "de San Martín" "de las Heras" Álvarez
 }
-ship_names = {
-	"Buenos Aries"
-	"Diego Armando Maradona"
-	"El Plata"
-	"General Belgrano"
-	"Independencia"
-	"Libertad"
-	"Los Andes"
-	"Moreno"
-	"Patagonia"
-	"Rivalda"
+ship_names = { 
+	"Buenos Aries" "Diego Armando Maradona" "El Plata" "General Belgrano" Independencia Libertad "Los Andes" Moreno Patagonia Rivalda
 }
 colonial_parent = SPA
+fleet_names = { 
+}
+army_names = { 
+}

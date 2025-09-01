@@ -1,15 +1,14 @@
-owner = CNK
-controller = CNK
+owner = PYT
+controller = PYT
 capital = "Chinook"
 is_city = yes
-culture = chinook
-religion = totemism
+culture = fae_draconic_culture
+religion = fae_draconic
 trade_goods = fur
 base_tax = 6
 base_production = 7
 base_manpower = 6
 extra_cost = 10
-add_core = CNK
 discovered_by = andean
 discovered_by = high_american
 discovered_by = mesoamerican
@@ -18,11 +17,12 @@ discovered_by = south_american
 native_size = 10
 native_ferocity = 1
 native_hostileness = 6
-add_permanent_province_modifier = {
+add_permanent_province_modifier = { 
 	name = columbia_estuary_modifier
 	duration = -1
 }
-add_permanent_province_modifier = {
+add_permanent_province_modifier = { 
 	name = columbia_estuary_modifier
 	duration = -1
 }
+add_core = PYT

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 18 139 228 }
 revolutionary_colors = { 0 10 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -22,7 +22,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Chawooklymico #0" = 20
 	"Chinnabie #0" = 20
 	"Coosadeshopoy #0" = 20
@@ -56,31 +56,14 @@ monarch_names = {
 	"Tuskenaah #0" = 20
 	"Yahatatastenake #0" = 20
 }
-leader_names = {
-	"Chebona"
-	"Chitto"
-	"Hasse Ola"
-	"Hopoethe"
-	"Hothlepoya"
-	"Lumhe Chati"
-	"Menewa"
-	"Osceola"
-	"Talof Harjo"
-	"Yaholo"
+leader_names = { 
+	Chebona Chitto "Hasse Ola" Hopoethe Hothlepoya "Lumhe Chati" Menewa Osceola "Talof Harjo" Yaholo
 }
-ship_names = {
-	"Ayo-rakko"
-	"Catë Ayo"
-	"Catë lvmhe"
-	"Esaugetuh Emissee"
-	"Est-akwvnayv"
-	"Hisagita-imisi"
-	"Ibofanga"
-	"Lvstë Nokosë"
-	"Nunne Chaha"
-	"Okhvtkë Lvmhe"
-	"Okhvtkë Nokosë"
-	"Okhvtkë Yvhv"
-	"Sint Holo"
-	"tvpvsvnv"
+ship_names = { 
+	Ayo-rakko "Catë Ayo" "Catë lvmhe" "Esaugetuh Emissee" Est-akwvnayv Hisagita-imisi Ibofanga "Lvstë Nokosë" "Nunne Chaha" "Okhvtkë Lvmhe"
+	"Okhvtkë Nokosë" "Okhvtkë Yvhv" "Sint Holo" tvpvsvnv 
+}
+fleet_names = { 
+}
+army_names = { 
 }

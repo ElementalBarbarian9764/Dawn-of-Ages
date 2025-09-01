@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 16 156 27 }
 revolutionary_colors = { 1 0 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	religious_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	defensive_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Abatai #0" = 5
 	"Adali #0" = 0
 	"Ahadan #0" = 0
@@ -341,258 +341,38 @@ monarch_names = {
 	"Yuwamboo #0" = 0
 	"Zhuangjing #0" = -5
 }
-leader_names = {
-	"Aha gioro"
-	"Aisin"
-	"Akjan"
-	"Amura"
-	"Asuri"
-	"Ayan gioro"
-	"Baige"
-	"Bari"
-	"Bayara"
-	"Bayot"
-	"Be"
-	"Besu"
-	"Besut"
-	"Bira"
-	"Biru"
-	"Boheri"
-	"Bohori"
-	"Borjigin"
-	"Borjik"
-	"Botis"
-	"Bugirgen"
-	"Buhi"
-	"Bulca"
-	"Busa"
-	"Busai"
-	"Buyaci"
-	"Cakcin"
-	"Carala"
-	"Cemgun"
-	"Cui"
-	"Cygiya"
-	"Dagiya"
-	"Daigiya"
-	"Dedure"
-	"Donggo"
-	"Dorgun"
-	"Dukta"
-	"Duktari"
-	"Dunggiya"
-	"Elge"
-	"Ertut"
-	"Esuri"
-	"Fiya"
-	"Foimo"
-	"Fuca"
-	"Fujuri"
-	"Gejile"
-	"Gerungioro"
-	"Gijile"
-	"Gin"
-	"Giorca"
-	"Giorcan"
-	"Gioro"
-	"Gioro Hala"
-	"Gioroi"
-	"Giranggi Warka"
-	"Giri"
-	"Gocir"
-	"Gorben"
-	"Gorlo"
-	"Gour"
-	"Guwalca"
-	"Guwalgiya"
-	"Guwanggiyara"
-	"Han"
-	"Hasara"
-	"Heseri"
-	"Hinggiya"
-	"Hinggiyan"
-	"Hitara"
-	"Hoggo"
-	"Hoiho"
-	"Huilo"
-	"Huk Sahari"
-	"Hulhu"
-	"Hunggiri"
-	"Hunggo"
-	"Hunggoco"
-	"Hunglo"
-	"Hurha"
-	"Hurhasu"
-	"Hushari"
-	"Huya"
-	"Ilara"
-	"Iokuri"
-	"Iork Ule"
-	"Ira"
-	"Irgen Baturu"
-	"Irgen Gioro"
-	"Itari"
-	"Ituma"
-	"Jakuta"
-	"Jalari"
-	"Jangci"
-	"Janggiya"
-	"Jaruca"
-	"Jash Uri"
-	"Jathe"
-	"Jebe"
-	"Jerde"
-	"Jinggeri"
-	"Jodomu"
-	"Joogiya"
-	"Jot"
-	"Juge"
-	"Jugiya"
-	"Julgen"
-	"Juru"
-	"Jusu"
-	"Kardasu"
-	"Karla"
-	"Kerde"
-	"Ki"
-	"Kocili"
-	"Kubulu"
-	"Kuyala"
-	"Laibu"
-	"Lak Ule"
-	"Ledi"
-	"Lei"
-	"Ligiya"
-	"Lubui"
-	"Lumburi"
-	"Magiya"
-	"Manja"
-	"Meng"
-	"Menggoro"
-	"Menu"
-	"Monggo"
-	"Monggori"
-	"Monggoro"
-	"Morci"
-	"Mu"
-	"Muljire"
-	"Murca"
-	"Murcan"
-	"Muyan"
-	"Nahata"
-	"Namdolu"
-	"Namduru"
-	"Nara"
-	"Nata"
-	"Naya"
-	"Nikiri"
-	"Nimaca"
-	"Nimaha"
-	"Ningguta"
-	"Niohuru"
-	"Niowanggiya"
-	"Nisa"
-	"Noyan"
-	"Oji"
-	"Omoto"
-	"Saca"
-	"Sadara"
-	"Sahajiri"
-	"Saimire"
-	"Sakca"
-	"Sakda"
-	"Sakdaholo"
-	"Samara"
-	"Samargi"
-	"Sanggiya"
-	"Sartu"
-	"Seheri"
-	"Semira"
-	"Sigiya"
-	"Sikda"
-	"Sikteli"
-	"Sikteri"
-	"Sioheri"
-	"Sirin gioro"
-	"Sitara"
-	"Socara"
-	"Socor"
-	"Sogiya"
-	"Sorgi"
-	"Sorgiya"
-	"Sugiya"
-	"Suigiya"
-	"Sumuru"
-	"Sunggiya"
-	"Surtu"
-	"Suru"
-	"Taicuru"
-	"Tajagiorca"
-	"Tatara"
-	"Tokoro"
-	"Tolote"
-	"Tomo"
-	"Tomu"
-	"Tooli"
-	"Tsanggiya"
-	"Tuktan"
-	"Tumen"
-	"Tunggi"
-	"Tunggiya"
-	"Tuseri"
-	"Ujaku"
-	"Ujala"
-	"Uksun"
-	"Ukuri"
-	"Ulingga"
-	"Ulu"
-	"Uncehen"
-	"Undu"
-	"Unggiot"
-	"Unggirgin"
-	"Untahe"
-	"Unuhucin"
-	"Urda"
-	"Urguca"
-	"Urgucan"
-	"Use"
-	"Usila"
-	"Usin"
-	"Usu"
-	"Usujan"
-	"Uya"
-	"Wali"
-	"Wanggiya"
-	"Wangjab"
-	"Wase"
-	"Wei"
-	"Weigute"
-	"Weikutu"
-	"Were"
-	"Yanggiya"
-	"Yanja"
-	"Yanji"
-	"Yasu"
-	"Yeher"
-	"Yonoto"
-	"Yukuri"
-	"Yunde"
-	"Yur"
+leader_names = { 
+	"Aha gioro" Aisin Akjan Amura Asuri "Ayan gioro" Baige Bari Bayara Bayot
+	Be Besu Besut Bira Biru Boheri Bohori Borjigin Borjik Botis
+	Bugirgen Buhi Bulca Busa Busai Buyaci Cakcin Carala Cemgun Cui
+	Cygiya Dagiya Daigiya Dedure Donggo Dorgun Dukta Duktari Dunggiya Elge
+	Ertut Esuri Fiya Foimo Fuca Fujuri Gejile Gerungioro Gijile Gin
+	Giorca Giorcan Gioro "Gioro Hala" Gioroi "Giranggi Warka" Giri Gocir Gorben Gorlo
+	Gour Guwalca Guwalgiya Guwanggiyara Han Hasara Heseri Hinggiya Hinggiyan Hitara
+	Hoggo Hoiho Huilo "Huk Sahari" Hulhu Hunggiri Hunggo Hunggoco Hunglo Hurha
+	Hurhasu Hushari Huya Ilara Iokuri "Iork Ule" Ira "Irgen Baturu" "Irgen Gioro" Itari
+	Ituma Jakuta Jalari Jangci Janggiya Jaruca "Jash Uri" Jathe Jebe Jerde
+	Jinggeri Jodomu Joogiya Jot Juge Jugiya Julgen Juru Jusu Kardasu
+	Karla Kerde Ki Kocili Kubulu Kuyala Laibu "Lak Ule" Ledi Lei
+	Ligiya Lubui Lumburi Magiya Manja Meng Menggoro Menu Monggo Monggori
+	Monggoro Morci Mu Muljire Murca Murcan Muyan Nahata Namdolu Namduru
+	Nara Nata Naya Nikiri Nimaca Nimaha Ningguta Niohuru Niowanggiya Nisa
+	Noyan Oji Omoto Saca Sadara Sahajiri Saimire Sakca Sakda Sakdaholo
+	Samara Samargi Sanggiya Sartu Seheri Semira Sigiya Sikda Sikteli Sikteri
+	Sioheri "Sirin gioro" Sitara Socara Socor Sogiya Sorgi Sorgiya Sugiya Suigiya
+	Sumuru Sunggiya Surtu Suru Taicuru Tajagiorca Tatara Tokoro Tolote Tomo
+	Tomu Tooli Tsanggiya Tuktan Tumen Tunggi Tunggiya Tuseri Ujaku Ujala
+	Uksun Ukuri Ulingga Ulu Uncehen Undu Unggiot Unggirgin Untahe Unuhucin
+	Urda Urguca Urgucan Use Usila Usin Usu Usujan Uya Wali
+	Wanggiya Wangjab Wase Wei Weigute Weikutu Were Yanggiya Yanja Yanji
+	Yasu Yeher Yonoto Yukuri Yunde Yur 
 }
-ship_names = {
-	"Donggo"
-	"Fuca"
-	"Heseri"
-	"Hun"
-	"Huye"
-	"Ilan"
-	"Jecen"
-	"Jurgen"
-	"Jusheri"
-	"Neyen"
-	"Niohuru"
-	"Wanggiya"
+ship_names = { 
+	Donggo Fuca Heseri Hun Huye Ilan Jecen Jurgen Jusheri Neyen
+	Niohuru Wanggiya 
 }
-army_names = {
-	"$PROVINCE$ Jalan"
+army_names = { 
+	"$PROVINCE$ Jalan" 
+}
+fleet_names = { 
 }

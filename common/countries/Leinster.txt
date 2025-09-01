@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 48 164 51 }
 revolutionary_colors = { 9 8 9 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	aristocracy_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	offensive_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	british_hussar
 	british_redcoat
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
 }
-monarch_names = {
+monarch_names = { 
 	"Art #1" = 40
 	"Cadwgwan #0" = 0
 	"Caoimhín #0" = 0
@@ -73,59 +73,17 @@ monarch_names = {
 	"Uinseann #0" = 0
 	"Ádhamh #0" = 0
 }
-leader_names = {
-	"Caomhanach"
-	"Conchobhair"
-	"Mac Amhalghaidh"
-	"Mac Cochláin"
-	"Mac Coibheanaigh"
-	"Mac Conshnámha"
-	"Mac Fhlannchaidh"
-	"Mac Fionbhair"
-	"Mac Giolla Phadraig"
-	"Mac Raghnaill"
-	"Mac Tighearnáin"
-	"Mac an tSionnaigh"
-	"Mag Eochagáin"
-	"Ó Braoin"
-	"Ó Cairbre"
-	"Ó Caoindealbháin"
-	"Ó Catharnaigh"
-	"Ó Ceallaigh"
-	"Ó Cearbhaill"
-	"Ó Ciardha"
-	"Ó Comhraidhe"
-	"Ó Congalaig"
-	"Ó Cosraigh"
-	"Ó Diubhgeannáin"
-	"Ó Doinn"
-	"Ó Donnchadha"
-	"Ó Dubhghaill"
-	"Ó Dubhuidhe"
-	"Ó Faolain"
-	"Ó Fhearghaill"
-	"Ó Finntighearn"
-	"Ó Fionnaláin"
-	"Ó Lorcáin"
-	"Ó Maolmhuaidh"
-	"Ó Ruairc"
-	"Ó Seaghdha"
-	"Ó Seanáin"
-	"Ó Tuathail"
-	"Ó hAimheirgin"
-	"Ó hAonghusa"
+leader_names = { 
+	Caomhanach Conchobhair "Mac Amhalghaidh" "Mac Cochláin" "Mac Coibheanaigh" "Mac Conshnámha" "Mac Fhlannchaidh" "Mac Fionbhair" "Mac Giolla Phadraig" "Mac Raghnaill"
+	"Mac Tighearnáin" "Mac an tSionnaigh" "Mag Eochagáin" "Ó Braoin" "Ó Cairbre" "Ó Caoindealbháin" "Ó Catharnaigh" "Ó Ceallaigh" "Ó Cearbhaill" "Ó Ciardha"
+	"Ó Comhraidhe" "Ó Congalaig" "Ó Cosraigh" "Ó Diubhgeannáin" "Ó Doinn" "Ó Donnchadha" "Ó Dubhghaill" "Ó Dubhuidhe" "Ó Faolain" "Ó Fhearghaill"
+	"Ó Finntighearn" "Ó Fionnaláin" "Ó Lorcáin" "Ó Maolmhuaidh" "Ó Ruairc" "Ó Seaghdha" "Ó Seanáin" "Ó Tuathail" "Ó hAimheirgin" "Ó hAonghusa"
 }
-ship_names = {
-	"Carlow"
-	"Dublin"
-	"Kildare"
-	"Kilkenny"
-	"Laios"
-	"Longford"
-	"Louth"
-	"Meath"
-	"Offaly"
-	"Westmeath"
-	"Wexford"
-	"Wicklow"
+ship_names = { 
+	Carlow Dublin Kildare Kilkenny Laios Longford Louth Meath Offaly Westmeath
+	Wexford Wicklow 
+}
+fleet_names = { 
+}
+army_names = { 
 }

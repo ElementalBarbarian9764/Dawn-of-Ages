@@ -1,0 +1,498 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+# Forming from Insular Celtic from Imperator Rome
+celtic_culture_group = {
+    graphical_culture = westerngfx
+	
+    albionic = {
+		primary = e_ICE
+        dynasty_names = {
+            # Welsh dynastic names (Base Game)
+            berffraw Dinefwr Mathrafal Gwynedd Tudor Kernew "of Cornwall" Glyndwr "Ternyllwg"
+            "Morgannwg" "Caradoc" "Mostyn" "Gorfynydd" Denbigh "Gwynn" "Gwarthaf" "Môn" "Penfro"
+		    "Aberteifi" "Gethin" "Gruffudd" "Carmarthen" "Mynyw" "Anwyl of Tywyn" "Fane"
+		    "of Bristol" "Evans" "Owen" "Lloyd" 
+        }
+        male_names = {
+            # Welsh male names (Base Game)
+            Owain Dafydd Gruffydd Llewelyn Rhodri Maredudd Cynan Cadwaladr Iago Idwal Maelgwyn 
+            Einion Iorwerth Trahaearn Aeron Aled Aneirin Arvel Berwyn Brynmor Cadfael Cadoc 
+            Cadwgawn Celyn Cledwyn Colwyn Dai Dilwyn Emyr Gawain Glynn Gwyn Heddwyn Heilyn Hywel 
+            Rhian Tristan Tudor Urien Vaughan Adda Adgar Edgar Adran Adrian Aeddan Alan Aldwr 
+            Aldroenus Algwyn Alisander Alexander Alured Alfred Alwyn Anarawd Andreas Andrew 
+            Aneurin Anlaff Olaf Anllech Annwn Antoninus Argad Arcadius Arod Arthen Artemius 
+            Arthfael Arthfoddw Arthbodus Arthwr Arthur Arthws Arthwys Artorius Asa Asaph Awst August Bangar Bedwyr Beli Berthgwyn Berhtwine Berthwallt Berthoald Bleddyn Bledrig 
+		    Bleiddud Branwaladr Bride Briog Brochfael Brogmaglus Brwt Brutus Brwyn Brychan Brân Bran Cadell 
+		    Cadeyrn Cadfael Cadfan Cadog Cadw Cadwal Cadwaladr Cadwallon Cadwared Cadwared Cadwgan Cadwr 
+		    Cadwr Cai Gaius Caid Cain Caradog Caradog Casnar Caswallon Cawdaf Cedig Caedicius Cedwyn Ceneu 
+		    Ceredig Caratacus Clydog Louis Coel Corentin Cuhelyn Custennin Constantine Cwlfyn Culmin Cwrig 
+		    Cyriacus Cydifor Cydrych Cynan Conan Cynddelw Cyndyddan Cynddylan Cyndeyrn Kentigern Cynfael 
+		    Cynfarch Cynfawr Cynfeddw Cynfelyn Cynfran Cynfyn Cyngar Cyngen Cynwallon Cynwared Cynwrig 
+		    Cynwyd Cynyr Cysteint Constans Dafydd Deheuwant Deiniol Daniel Dewi David Dogfael Drystan 
+		    Tristan Dumnagual Dwyfan Damian Dyfnarth Donyarth Dyfnwal Donald Dyfnwallon Dynod Donatus Dywel 
+		    Edern Eternus Ednyfed Ednywain Edryd Ailred Edwyn Edwin Edylfred Aethelfred Einion Elfin Alwin 
+		    Elidyr Elis Elisedd Elud Elystan Alstan Emrys Ambrosius Enfidaig Erb Urban Erclwf Heracles Eudaf 
+		    Octavius Ewyas Ffernfael Ffilip Philip Ffriog Friog Ffwdwr Fragan Ffransis Fransis Fychan Fyrsil 
+		    Gamon Garmon German Geraint Gerontius Gerallt Gerald Glwyddien Glywys Claudius Godwyn Godwin 
+		    Goronwy Gronw Gruffydd Ruffinus Grygor Gregory Guret Gwalchmai Gavin Gwen Gwenwynwyn Gwerstan 
+		    Werestan Gwerthefyr Vortimer Gwerthern Vortigern Gwydol Vitalis Gwydolin Vitalinus Gwyn Finn 
+		    Gwidyr Gwilym William Gwrfawr Gwrfoddw Gwrgant Fergus Gwrgeneu Gwrgi Gwriad Viriathius Harri 
+		    Henry Herewallt Hereweald Huw Hugh Hywel Iago Jacob Ivor Idnerth Idwal Idwallon Iestyn Justin 
+		    Ieuan John Ifor Ivar Io Ioan Iolo Iorwerth Ithel Lles Lucius Llew Leon Llyr Llywarch Llywelyn 
+		    Macsen Maximos Madog Matad Mael Maelcwn Malcolm Maelgwn Melgwn Maenyrch March Marcus Maredudd 
+		    Murdoch Math Matthew Mawgan Meilyr Meirchion Marcianus Meiriadog Meriadoc Meirion Marianus 
+		    Merfyn Meurig Maurice Mihangel Michael Morfarch Morgan Morien Morgen Morydd Mwyn Mungo Myrddin 
+		    Martin Neithon Nathan Nowy Nynniaw Oswallt Oswald Owain Eugene Oucydd Eochaid Padern Padrig 
+		    Pandoff Pasgen Pascentius Padarn Paternus Pawl Paul Pedr Peter Peredyr Publig Pyr 
+		    Rheinallt Reginald Rhicert Richard Rhigeneu Ricenus Rhirid Rhiwal Riwal Rhiwallon Rhobert Robert 
+		    Rhodri Rhufon Roman Rhun Rucenus Rhydderch Roderick Rhydog Rhys Riaged Riacet Richwin Sandde 
+		    Sanctus Sawyl Samuel Seferus Severin Seisyll Cecil Selyf Solomon Senyllt Serigi Sergius Sieffre 
+		    Godfrey Sion Sior George Siwauna Steffen Stephen Stinian Justinanius Sulien Julian Taliesin 
+		    Telesinus Tegonwy Tegwyd Tadg Teilo Teithfalch Teudebur Tewdos Theodosius Tewdrig Theodoric 
+		    Tewdwr Theodore Tomos Thomas Trahaearn Tudur Tudwal Tuathal Tudwallon Tydy Tyfoedd Tysilio Urien 
+		    Urbgenius Uthyr Victor Ynyr Honorius Ysfael Llewelyn Maelgwyn Aeron Aled Aneirin Arvel Berwyn 
+		    Brynmor Cadoc Cadwgawn Celyn Cledwyn Colwyn Dai Dilwyn Emyr Gawain Glynn Heddwyn Heilyn Rhian 
+		    Tudor Vaughan
+        }
+        female_names = {
+            # Welsh female names (Base Game)
+            Elain 
+		    Addiena Aelwyd Aeronwen Aeronwy Afrella Abrelda Alys Alice Angharad Annes Anna Annest Annwyl 
+		    Anowed Arddyn Arianrhod Blodwen Bronwen Catrin Catherine Ceindrych Cagintria Ceridwen Cerie 
+		    Cerys Cicely Cecilia Clarisant Creirwy Cristin Christina Danhadlwen Delyth Denis Denise Dwynwen 
+		    Dwywai Dyddgu Efa Eva Effros Euphrasia Efrddyl Efyrddyl Aurelia Eiliwedd Elaine Elen Helen Eleri 
+		    Hilaria Elinion Elinor Eleanor Ellyn Enid Essyllt Hersilia Euronwy Ffelis Ffion Fflur Flora 
+		    Ffraid Brigit Glynys Gwen Gwenasedd Gwenfrewi Winifred Gwenhwyfach Gwenhwyfar Gwenllian Gwenwyn 
+		    Gwerfyl Gwladys Claudia Haer Hawys Hawise Heledd Hellawes Heulwen Hunydd Hywela Ilud Isabel 
+		    Elizabeth Llear Clara Llecci Lleigy Lleuca Lucia Lowry Mabyn Maches Madrun Matrona Maelrys Mair 
+		    Maria Mali Mallt Marared Marchell Marcella Margred Margaret Marwenna Mawd Matilda Melisant 
+		    Melisende Morganna Morien Murron Myfanwy Nest Nesta Agnes Newlyna Neulenna Non Nonna Olwen 
+		    Onbrawst Owena Eugenia Prawst Ragnell Ragnhild Rhiaindrech Rioantdrec Rhiainfelt Regina Rhiannon 
+		    Rhonwen Sannant Sara Sarah Senena Sibyl Sibylla Sioned Siwan Siân Joan Susanna Susana Tangwystl 
+		    Tancostyla Tegla Thecla Ysbail Ystradwel
+        }
+	}
+    eriu = {
+		primary = IRE
+
+        # all names are from irish
+		dynasty_names = { 
+			"O'Donnell" "O'Neill" "O'Connor" "O'Brien" MacLochlainn MacMurrough MacWilliam
+			MacNamara "O'Reilly"  "FitzGerald" Kelly
+			# CKII
+			"Meic Bráenáin" "MacMorrough Kavanagh" "Dál gCais" "Ua Fáeláin" "Shannon"
+			"FitzPatrick" "O Ruairc" "O'More" "O' Conchobair" "MacDermot" "O' Cellaigh"
+			"Mac Sweeney" "O'Doherty" "Burke" "O' Cathail" "O'Clery" "Mac Egan" "O' Fergail"
+			"O'Flaherty" "O' Gallchobhair" "Cotter" "O' Faoláin" "MacIntyre" "O'Queely"
+			"Corcu Loígde"
+		}
+		male_names = {
+			Turlough Donal Muireadhach Conchobhar Feidlimidh Cathaoir Muchadh Áed Fonnchadh Brian Criomhthann Art Cathal 
+			Gearóid Muiris Tadhg Seán Niall Einrí Conn Eoghan Aonghus Comhghall Maeleachlain Diarmaid Flann Aerdghal 
+			Bearach Caoímhin Donnabhain Eíhmhín Fearghal Iarfhlaith Lorccán Mathúin Naomhán Oisín Pádraig Ríagáin 
+			Somhairle
+			Aaron Aaron Abbán Abner Abner Abél Abel Adomnán Áed Hugh Áedgen Áeducán Áedán Hugh Áengus 
+			Affiath Ailbe Ailbrend Ailbrenn Ailchú Aildobur Ailgel Áilgenán Ailgus Ailill Ailpín Alwin 
+			Ainbchellach Áindle Ainftech Enfidaig Ainmere Airechtach Airfhindán Airfhindán Airfhinnán 
+			Airleid Airmedach Amalgaid Amlaíb Olaf Anfudán Anlón Anmchaid Ánrothán Ardgal Ardgar Art 
+			Arthur Angus
+			Artbran Artgal Artgus Artucán Artúr Arthur Assiucc Augaire Augustín Augustine Aurthuile 
+			Báethgalach Báethíne Báetán Béoáed Barrfhind Beccán Berrach Bhátair Walter Blathmacc Bran 
+			Brandub Brangen Bressal Brian Brian Briccéne Briccíne Broccán Bruatur Bruide Bride Brénaind 
+			Brénainn Bróen Búaidbéo Caicher Cailech Cailte Cairbre Carbrey Cairell Caisséne Caissín 
+			Canann Canannán Carlus Charles Cathal Cathalán Cathassach Cathbad Cathmáel Cathmál Cathnio 
+			Cathub Causantín Constantine Caílte Caínchomrac Caíndelbán Ceithernach Cellach Cellachán 
+			Cennétig Kentigern Cenn-Fáelad Cennlachán Cerball Cernach Cernachán Cian Ciarán Cilléne 
+			Cináed Kenneth Clemens Clement Cobthach Coirpre Colcu Colmán Nicholas Columb Nicholas Comgán 
+			Conaing Conall Conall Conallán Conamail Conán Conan Conchenn Conchobar Condla Condla Congal 
+			Congalach Congus Conlang Conmac Conmacc Conmáel Conmál Conn Conn Connla Conrí Constans 
+			Constantius Constantín Constantine Corbb Corbán Corccán Corcrán Cormac Coscrach Coílboth 
+			Crimthann Crundmáel Crundmáel Cruinnmáel Crundmáel Críchán Crónán Cuilén Cuindles Cuircthe 
+			Cummascach Cáemán Cóelbad Cóelub Cóemán Cú-Allaid Cú-Bretan Cú-Caech Cú-Cen Cú-Cen-Máthair 
+			Cú-Cúaráin Cú-Gamna Cú-Roí Cúanu Cúldub Cúán Cúánán Dabíd David Daigre Dalbach Dallán Daniél 
+			Daniel Dathal Dathgus Demmán Diarmait Dermid Doedgus Domangart Domnall Donald Donn Donnchad 
+			Duncan Donncuan Duncan Donndubán Donngal Donnucán Duncan Doélgus Drost Drust Dub-dá-Lethe 
+			Dubcenn Dubgenn Dubh Duff Dubhghall Dugald Dubhglais Douglas Dubthach Dubáed Dubán Duiblesc 
+			Duibne Dunáed Dálach Dícuill Díglach Dímmae Dímmasach Dímmán Dínertach Dúnacán Dúnadach 
+			Duncan Dúngal Dúngalach Dúnlang Éamonn Edmund Echmarcach Échtgal Échtgus Echthigern Echuid 
+			Éicnech Éicnechán Eláir Énna Énri Henry Éochad Eochaid Eochaid Eochu Eochucán Éogan Eugene 
+			Eric Ercaid Ercáed Ercán Éremón Érennach Ernán Eterscél Eógan Eugene Eóganán Eugene Fachtna 
+			Fairchellach Fallaman Farannán Faílbe Fearghus Fergus Fechtnach Fedach Fearchar Farquhar 
+			Fedelmid Feirgil Felic Fer-Fugaill Feradach Feradach Ferdomnach Fergal Fergus Fergus 
+			Fianchú Findbarr Fingen Finguine Finn Finn Finnacán Finnbarr Finnchú Finnlagh Findlay 
+			Finnsnechtae Fintan Flaithbertach Flaithem Flaithemán Flaithgus Flaithrí Flann Flannacán 
+			Flannchad Flannán Fogartach Folachtach Forannán Forbassach Fothad Fothud Fuacarta Fubthad 
+			Fuirechtach Fursu Fáelcar Fáelchad Fáelchú Fáeldobur Fáelgus Fáelán Fáelbe Fíachnae Fíadchú 
+			Fíngin Fínsnechta Fócarta Gabrán Garalt Garbith Gilla-Íosa Gilla-Brígte Gilbert Gilla-Coluim 
+			Gilla-Comgáin Gilla-Críst Gilchrist Gilla-na-Náem Gilla-Pátraic Gilpatrick Gilla-Ruad Gilroy 
+			Glaisiuc Glaschu Glún-Iairn Gofraid Godfrey Gormacán Gormgus Gormán Guaire Gáethán Gáethíne 
+			Gósacht Iacob Jacob Iarlaithe Imchad Indrechtach Ioseph Joseph Íomhar Ivar Labraid Lachtnae 
+			Lachtnán Lachtnéne Laidcenn Laidgenn Laidíne Laisrén Lennán Lennon Lethlobur Liam William 
+			Lochlann Loingsech Lonán Lorcán Lugh Leon Lugaid Lugáed Láegaire Lóchéne Lóchíne Lóeguire 
+			Mac-Laisre Mainchíne Maine Manchán Martan Mathgamain Matudán Minchán Mo-Chonna Mo-Lua 
+			Móenach Máel-Anfaid Liber Fiachnae Erc Dúnchad Cillíne Caissíne Bran
+			Morand Morann Mugrón Muirchertach Muirecán Muiredach Murdoch Muirgius Murchad Murchú 
+			Máel-Bresail Máel-Brígte Máel-Cein Máel-Cianáin Máel-Ciaráin Máel-Coluim Malcolm Máel-Corgis 
+			Máel-Dubh Maldoven Máel-Dúin Máel-Fothartaig Máel-Fábaill Máel-Íosa Malise Máel-Máedóc 
+			Máel-Martain Máel-Mórda Máel-Muire Malmure Máel-Míchíl Máel-Petair Máel-Pátraic Máel-Ruanaid 
+			Máel-Sechnaill Máel-Tólai Máelán Máenach Máthair Múadán Nadarchu Nannid Natfraech Natfraich 
+			Natsluaig Nechtan Nathan Niall Nigel Niallgus Niallán Nuadu Odrán Óengus Angus Óenucán 
+			Oissíne Olcán Ólchobar Onchú Orthanach Oscar Oscar Pátraic Patrick Petair Peter Pilib Pól 
+			Paul Proinsias Francis Rechtabra Riacán Riaguil Robartach Rogallach Rogellach Ruah Roy 
+			Roderick Ruarcc Rumann Ráthach Rígán Ríán Ródán Rónchú Rónán Ronan Rúadacán Rúadán Scandal 
+			Scandlán Scellán Scolaige Séaghdha Shaw Séafra Godfrey Séamas Jacob Seán John Sechnassach 
+			Selbach Senchán Seoán John Sinach Siothrún Godfrey Slébíne Snedgus Sogan Somhairle Somerled 
+			Suibne Sweeny Sáerbrethach Sárán Séigíne Sétna Sétnae Tadg Tadg Taithlech Talorc Talore 
+			Talorcán Temnén Tigernach Tigernán Tipraite Tomaltach Tomás Thomas Torccán Trenchad Trengus 
+			Tressach Tuathalán Tuireann Taran Tálán Tóla Túathal Tuathal Ualgarg Ualan Valentin Ualtar 
+			Walter Úamnachán Uargal Uargalach Uargus Uilliam William Ultán Ruaidrí Philip Oisséne
+		}
+		female_names = {
+			Saraid Órfhlaith Fedelma
+			Ablach Áedammair Affraic Euphemia Aíbinn Aibilín Eva Aileann Áine Agnes Anlaith Aróc Aíbinn 
+			Barrdub Ben-Laigen Ben-Míde Ben-Muman Ben-Ulad Brigit Brigit Bé-Fáil Bébinn Cacht 
+			Caillech-Fhinnéin Cainnech Caisséne Caitilín Catherine Caíntigern Caírech Cathán Catríona 
+			Catherine Cellach Ciar Cnes Coblaith Cobflaith Cobflaith Cobflaith Conchenn Condál Crínóch 
+			Crístina Christina Cumman Deirdre Der-bForgaill Devorguilla Derbáil Derborgaill Devorguilla 
+			Der-Ilei Derilla Der-Lugdach Dianaim Doriend Dub-Dil Dub-Essa Dub-Lemna Dubchoblaig Dubgilla 
+			Dúinsech Dúnlaith Echrad Éibhleann Eilionora Eleanor Eithne Eithne Ellbríg Emer Emer Étaín 
+			Eva Euginia Eugenia Faílenn Fedelm Finneacht Finnguala Finnguala Flann Forbflaith Fíne Garb 
+			Gelgéis Gerróc Gnathnad Gormflaith Gormflaith Gormlaith Gormflaith Gráinne Imag Íte Lann 
+			Lasairfíona Lathir Lerben Lerthan Lígach Lucia Lucia Martha Martha Mauda Matilda Muadhnait 
+			Muirenn Murron Muirgel Muriel Muirne Morna Máel-Mide Máel-Muire Malmure Máire Maria Máiread 
+			Máirgred Margaret Mór Mor Mór-Muman Nárbflaith Nuala Finnguala Órlaith Órnat Róis Ros Sadb 
+			Samthann Scáthach Sébdann Selblaith Seonaid Joan Sinech Siobán Joan Sisuile Sláíne Slaine 
+			Sorcha Suaibsech Sáerlaith Sétach Síthmaith Tailefhlaith Tailltiu Temair Tuathflaith Tómnat 
+			Uallach Uasal Úna Una Mona Éua
+		}
+	}
+}
+
+germanic = {
+	graphical_culture = westerngfx
+
+	male_names = { Gunther Rolf }
+
+	female_names = {
+		Adele Adelgunde Adelheid Adolfine Agatha Agnes Alexandra Alice Alina Aline Alma Alwina Alwine Amalia Amalie Amanda 
+		Amelie Andrea Angela Angelika Angelina Anika Anita Anja Anke Ann-Katrin Anna Anne Annegret Anneli Annelie Anneliese 
+		Annemarie Anni Annika Annina Anny Antje Antonia Astrid Augusta Auguste Barbara Bärbel Beate Beatrice Beatrix 
+		Bernadette Berta Bertha Bettina Bianca Bianka Birgit Brigitte Britta Brunhild Brünhild Brunhilde Brünhilde Cäcilia 
+		Cäcilie Caren Carina Carla Carmen Carolin Caroline Catarina Catharina Cathrin Catrin Cecilia Cecilie Celina Celine 
+		Charlotte Chiara Christa Christel Christiane Christina Christine Clara Claudia Constanze Cordula Corina Corinna 
+		Cornelia Dagmar Daniela Denise Desirée Désirée Diana Dietlind Dietlinde Dora Doris Dorothea Edda Edith Elena 
+		Eleonora Eleonore Elfriede Elisa Elisabeth Elise Elke Ella Ellen Elli Elly Elma Elsa Elsbeth Else Elvira Emelie 
+		Emely Emilia Emilie Emily Emma Emmeline Emmi Emmy Erdmute Erica Erika Erna Ester Esther Eugenie Eva Evelyn 
+		Fabienne Fanny Felicia Felicitas Felizia Felizitas Finja Finnja Fiona Flora Florentina Florentine Franziska Frauke 
+		Freya Frida Fridegunde Frieda Friedegund Friedegunde Friederike Gabriela Gabriele Genoveva Gerda Gerlind Gerlinde 
+		Gertraud Gertrud Gertrudis Gesine Gina Gisela Grete Gretel Grethe Gudrun Gunda Gundula Hanna Hannah Hanne Hannelore 
+		Hedwig Heide Heidemarie Heidi Heike Helena Helene Helga Helge Hella Helmina Helmine Henny Hermina Hermine Herta 
+		Hertha Hilda Hilde Hildegard Hulda Ida Ilse Ines Inga Inge Ingeborg Ingeburg Ingrid Irene Irina Iris Irma Irmela 
+		Irmelin Irmgard Isabel Isabell Isabella Isabelle Isolde Ivonne Jacqueline Jana Janina Janine Jaqueline Jasmin 
+		Jennifer Jessica Johanna Johanne Josefine Josephine Judith Jule Julia Juliane Jutta Kai Karen Karin Karina Karla 
+		Karolin Karoline Katarina Käte Katharina Käthe Kathrin Katja Katrin Kerstin Kim Kirsten Klara Konstanze Kristin 
+		Kristina Kunigunde Lara Larissa Laura Lea Lena Leni Leoni Leonie Leonore Liane Liesel Lieselotte Lili Lilli Lilly 
+		Lina Linda Lisa Liselotte Lore Lotte Louisa Louise Lucia Lucie Luisa Luise Lulu Luna Luzia Luzie Lydia Madeleine 
+		Madleen Madlen Madlene Magda Magdalena Magdalene Maike Maja Manuela Mareike Marga Margareta Margarete Margaretha 
+		Margarethe Margit Margot Margret Margrit Maria Marianne Marie Marie-Theres Marie-Therese Marina Marion Marleen 
+		Marlen Marlene Marlies Marlis Marta Martha Martina Mathilde Maya Mechthild Meike Melanie Melina Melissa 
+		Merle Meta Mia Michaela Michelle Minna Miriam Mirjam Mona Monica Monika Nadia Nadin Nadine Nadja Natali Natalie 
+		Natascha Nathalie Neele Nele Nicola Nicole Nina Noemi Nora Oda Olga Olivia Ottilie Patricia Patrizia Paula Paulina 
+		Pauline Petra Pia Rachel Rafaela Raffaela Rahel Ramona Raphaela Rebecca Rebekka Regina Renate Ricarda Rita Rolanda 
+		Ronja Rosa Rose Rosemarie Roswitha Ruth Sabina Sabine Sabrina Samantha Sandra Sara Sarah Saskia Selina Seraphina 
+		Seraphine Sibylle Sieglind Sieglinde Siglind Siglinde Sigrid Silke Silvia Simone Sina Sissi Sofia Sofie Sonja Sophia 
+		Sophie Stefanie Stella Stephanie Susanna Svenja Swenja Sybille Sylvia Tabea Tamara Tanja Tatjana Teresa Thekla 
+		Theres Theresa Therese Theresia Thirza Tina Tirza Traute Trude Ulrike Ursel Ursula Uta Ute Valentina Valerie Vanessa 
+		Vera Verena Verona Veronika Victoria Viktoria Walburg Walburga Waldtraud Waldtraut Walpurga Walpurgis Waltraud 
+		Waltraut Wanja Wibke Wiebke Wilhelmina Wilhelmine Wilma Xenia Yasmin Yvonne Zäzilia Zäzilie Zoe
+	}
+
+	dynasty_names = {
+		"von Oldenburg" "von Mecklenburg" "von Hohenzollern" "von Habsburg"
+		"von Zweibrücken" "von Wittelsbach" "von Holstein" "von Hesse-Kassel" "von Holstein-Gottorp"
+		"von Pfalz-Neumarkt" "von Braunschweig-Lüneburg" "von Hannover" "von Wettin"
+		# CKII
+		"von Rügen" "von Diepholz" "von Silesia-Glogau" "von Bibra" "von Bodeck" 
+		"Boeselager" "Jaworski" "Brauchitsch" "von Bülow" 
+		"von Calw" "von Cham" "von Steutzlingen" "von Wetterau" "von Julichgau" 
+		"von Helffenstein" "von Venis" "von Kyburg" "von Arbon" "von Urach" "von Cilli" "von Utlede" 
+		"von Katzenelnbogen" "von Altena" "von der Marck" "von Hessen" "von Arnsberg" "von Bucheck" 
+		"Walter" "Grelle" "von Dolen" "von Liebnitz" "von Virneberg"
+		"Rübsamen" "von Bardewik" "Vorrade" "Warendorp" "Lüneburg" "Wittenborg" "von Klingenberg" 
+		"von Parchim" "von Kärnten" "von Rügen" "von Neuenburg" "von Werle" "von Mecklemburg" 
+		"von Wittenberg" "von Brandenburg" "von Glogau" "von Rendsburg" "von Pommern" 
+		"von Slesvig" "von Plain" "von Formbach" "von Wasserburg" 
+		"von Lengenfeld" "von Eberstein" "von Heinsberg" "von Weimar"
+		"von Andechs" "von Sulzbach" "von Kleve" "von Versfleth" "von Wickerode" 
+		"von Winzenburg" "von Thüringen" "von Bogen" "von Meissen" "von Genf" 
+		"von Arstein" "von Veldenz" "von Landsberg" "von Franken" "von Babenberg" "von Berg" "von Hohenstauf" 
+		"von Saarbrucken" "von Puteledorg" "von Henneberg" "von Stade" "von Sommerchenberg" 
+		"von Kirchberg" "von Württemberg" "von Tübingen" "von Raabs" 
+		"von Heimbach" "von Nörvenich" "von Jülich" "von Metz" "von Limburg" 
+		"von Eppstein" "von Luxemburg" "von Hornes" "von Sachsen" 
+		"von Beilstein" "von Eppenstein" "von Lusatia" "Orlamunde"
+		"von Hohenstaufen" "von Otakar" "Weimar" "von Tirol"
+		"von Haldensleben" "von Schweinfurt" "von Stad" "von Rheinfelden" 
+		"von Ringelheim" "de Luxembourg" "Hainaut" "von Lenzburg" "Prochaska" 
+		"von Boulogne" "von Nordheim" "von Egisheim" "Asperger" "Hunfriding" 
+		"Witte" "von Hagen" "von Mölln" "Runese" Pleskow 
+		"von Supplingenburg" "von Plotzkau" "von Katlenburg" "von Goslar"
+		"von Wunstorf" "von Goltern" "von Wölpe" "von Nellenburg" "von Arnstein" "von Holte"
+		"von Wippra" "von der Mark" "von Diest" "von Rietberg" "von Löningen" "von Corvey" 
+		"von Steinfurt" "von Tecklenburg" "von Rüssel" "von Waldeck" "von Ravensberg" "von Weyhe" "von Hoya" 
+		"von Dachau" "von Bassenheim" "von Kerpen" "von Tunna" "von Salza" "von Malberg" "von Hohenlohe" 
+		"von Wüllersleben" "von Osterna" "von Sangershausen" "von Heldrungen" 
+		"von Orseln" "von Nauen" "Suerbeer" "von Lunen" 
+		"von Vechta" "Pernstein" "von Schwerin" "von Dorpat" "von Haseldorf" "von Vyshusen" "von Dolen" 
+		"von Friesack" "von Hildesheim" "von Lechsgmünd" "von Komburg" 
+		"von Stahleck" "von Ziegenhain" "von Dinslaken" "von Lambach" "von Pluyvoise" 
+		"von Scharfenberg" "von Leistenberg" "von Schwarzburg" "von Badewide" "von Wassel" 
+		"von Dassel" "von Greyerz" "von Grenchen" "von Abensberg" "von Grünberg" 
+		"von Lichtenberg" "von Hachberg" "von Wartenberg" "von Wolfach" "von Gudensberg"
+		"von Gerhausen" "von Signau" "von Groitzsch" "von Frickingen" "von Sigmaringen" "von Regensburg" 
+		"von Lurngau" "von Leibrechtskirchen" "von Meran" "von Treven" "Gross" "Gualch" "Beck"
+		"zu Schwaben" "von Attems" "von Schweipünt" "von Saffenberg" "von Nörvenich" "von Querfurt" 
+		"von Mansfeld" "von Kärnten" "von Eschenloch" "von Naumburg" "von Schrapelnau" 
+		"von Magdeburg" "von Hardegg" "von Arneburg" "von Seeburg" "von Veldenz" "von Schmidtburg" 
+		"von Bamberg" "von Kyrburg" "von Baumberg" "von Stolzenberg" "von Altenbaumberg" "von Tyrol" 
+		"von Ortenburg" "von Wangen" "von Frontenhausen" "von Andechs" "von Eurasburg" "von Geroldseck" 
+		"von Bocksberg" "von Vinstingen" "von Schoenecken" "von Daun" "von Leiningen" 
+		"von Hohenfels" "von Hunolstein" "von Blankenheim" "von Salm" "von Falkenstein" "von Sponheim" 
+		"von Brunshorn" "von Stein" "von Bikkenbach" "von Heinsberg" "van Valkenburg" "von Sayn" 
+		"von Veringen" "von Gruningen" "von Eselsberg" "von Muhlhausen" "von Pfirt" 
+		"von Lövenstein" "von Landau" "von Tschudi" "von Glarus" "von Chalôns" "von Ratzeburg" 
+		"von Schlawe" "von Schwelz" "von Liebschau" "von der Lippe" "von Schauenburg" "von Rostock" 
+		"von Gustrow" "von Rendsburg" "von Segeberg" "von Neuhaus" "von Friedenthal" "von Rosenberg" 
+		"von Waldenstein" "von Altenburg" "von Pernstein" "von Monheim" "von Urslingen" 
+		"von Assel" "von Osnabrück" "von Münster" "von Kleve" "von Jülich" 
+		"von Andernach" "von Göttingen"
+		"von Pfalz" "von Baden" "von Nordgau" "von Metz" "von Sundgau" "von Bern" 
+		"von Schwyz" "von Neuchatel" "von Aargau" "von Breisgau" "von Fürstenberg"
+		"von Württemberg" "von Franken" "von Thüringen" "von Weimar" "von Celle" 
+		"von Amsberg" "von Wolgast" "von Altmark" "von Anhalt" 
+		"von Plauen" "von Ansbach" "von Kempten" "von Arnim" "von Trent" 
+		"von Innsbruck" "von Lausitz" "von Stettin" 
+		"von Abensberg"  "von Berlichingen" "von Beetzen" 
+		"Sieghardinger" "von Walbeck"
+		#Prussian
+		"von Knorring" "von Creytzen" Sack "von Taube" "Wöhrmann"
+		#Rheinlaender
+		"von Keller" "von der Mark" "von Wittelsbach" "von Baden" "Rotberg"
+		#Hessian
+		"von Frankenstein" "von Taube" "von Uffeln" "von Hessen" "von Boyneburg"
+		#Hannoveran
+		"von Schack" "von Fabrice" "von Hardenberg" "von Welf" "von Schauenburg" "von Holstein-Gottorp" "Askanier" "von Oldenburg"
+	}
+
+	prussian = {
+		primary = PRU
+		male_names = {
+			Albrecht Friedrich August Emil Ferdinand Karl Ludwig Karl Wilhelm Adolf Alfred Anton Benedikt 
+			Benjamin Denis Diederick Eckbert Erwin Florian Franz Gebhard Gottfried Hartmann Heinrich Helmut 
+			Horst Joachim Kaspar Kurt Leo Ludwig Lukas Manfred Michael Nikolaus Oskar Otto Philipp Reiner Rudolf 
+			Rupprecht Siegfried Siegmund Thomas Urs Viktor Werner Alvydas Arelis Auctune Bajoras Beidras Budo Dagonis 
+			Ekkelis Galindas Galindo Gauronas Gerdautas Glande Golding Jauguttis Karatas Klukis Kugis Milzas Nomedas 
+			Prusas Sergonis Ulinniks Ulitis
+		}
+		female_names = {
+			Raphaela Sabine Vera Betten Dagas Gelennis Gerkus Grasus Gulbis Mila Milyuns Weslikan Ziedas
+		}
+	}
+	baltic_german = {
+		primary = RIG
+		male_names = {
+			Albrecht Friedrich August Emil Ferdinand Karl Ludwig Karl Wilhelm Adolf Alfred Anton Benedikt 
+			Benjamin Denis Diederick Eckbert Erwin Florian Franz Gebhard Gottfried Hartmann Heinrich Helmut 
+			Horst Joachim Kaspar Kurt Leo Ludwig Lukas Manfred Michael Nikolaus Oskar Otto Philipp Reiner Rudolf 
+			Rupprecht Siegfried Siegmund Thomas Urs Viktor Werner Alvydas Arelis Auctune Bajoras Beidras Budo Dagonis 
+			Ekkelis Galindas Galindo Gauronas Gerdautas Glande Golding Jauguttis Karatas Klukis Kugis Milzas Nomedas 
+			Prusas Sergonis Ulinniks Ulitis Jens Johann Engelbert Fromhold Johannes Henning Silvester Dietrich
+		}
+		female_names = {
+			Raphaela Sabine Vera Betten Dagas Gelennis Gerkus Grasus Gulbis Mila Milyuns Weslikan Ziedas Gertrud Ida
+		}
+	}
+	saxon = {
+		primary = SAX
+		male_names = {
+			Friedrich Albrecht Christian Heinrich Rudolf August Ernst Georg Moritz Alexander Anton Hektor 
+			Johann Karl Clemens Wenzel Franz Xaver Joachim Joseph Magnus Maximilian Severinus Wolfgang 
+			Andreas Bruno Burkhard Günther HermannLukas Micharl Reimund Ulrich Wilfried Wolfram Konrad Edwin Marcus Osmund Peter Ralph Reginald Sigehelm Wulfhelm Wulfhere Alfred
+			Alwin Adémar Alwin Adolf Albert Albrecht Arnold Baltasar
+			Benedict Bernd Bernard Bernhard Bertold Bertram Bertrand Burchard 
+			Claus Nicholas Cobbo Cord Dietmar Diederik Ekkehard Ekbert Engelbert Engelhard 
+			Erik Albert Ewald Frederick Gerard Gebhard Giselmar Gottschalk Günther Hans 
+			Heideke Herbert Hermann Hinrik Jacob Jaspar Caspar Jochim Joakim Johann Kersten 
+			Christian Laurentz Lambert Liawizo Liemar Liudger Otto Ludolf Ludwig
+			Louis Mathias Matthew Meinwerk Merten Martin Michael Norbert Ordulf 
+			Peter Philip Renard Reinmar Roger Rudolf Ralph Sigbert Sigisbert
+			Sigfrid Siegfried Sigward Sigurd Simon Steffen Thomas Waldemar
+			Werner Victor Werneke Weybrecht Wichbert Wichmann Wigebert Wolter Walter Wulff Ulf
+		}
+		female_names = { 
+			Amalia Bianka Eleonora
+			Agatha Balthild
+			Christina Cuthburg 
+			Cynehild Cyneswith Cynethryth Eadburg Edith 
+			Gunhilda Gunhild Helga Judith
+			Maud Matilda Sigri 
+			Wulfhild
+			Addila Adela Adelheid Alof Agnes Anna Athela Beatrix Beatrice Bertha Bertha 
+			Bertrada Bia Beatrice Bisina Bithild Brigida Brigid Elisabeth 
+			Elisabeth Enda Gertrud Gisela
+			Hedwig Heilwig Helene Hildegard Ida Emma Irmgard 
+			Judith Katharina
+			Margarete Mathilde Matilda Mechthild Reginlint 
+			Richardis Ricarda Rodelinda Sophia Sophia Suanhilde Swanahild Wienke 
+			Wiltrud Wulfhild Ulfhild
+		}
+		dynasty_names = {
+			"von Schwarzburg" "von Schönburg" "von Schlotheim" "von Salza" "von Kospoth"
+			"von Knuth" "von Wettin" "Askanier" "von Hohenzollern" "von Erffa" "von Bodungen" "von Eckersberg" "von Brandenstein" "von Pappenheim" "von Wiehe"
+			"von Westernhagen" "von Jena" "von Trützschler" "von Plessen" "von Haugwitz" "von Kanitz" "von Falkenhayn" "von Thüna"
+			"von Thüringen" "von Nostitz" "von Bieberstein" "von Meerheimb" "von Freiberg" "von Neitschütz" "von Minckwitz" "von Arnswaldt" "von Auerswald" "aus dem Winckel"
+			"von Beichlingen" "von Bendeleben" "von Beneckendorff"  "von Berbisdorf" "von Bissingen" "von Bock" "von Bomsdorff" "von Bose" "von Breitenbach"
+			"von Breitenbuch" "von Brühl" "von Bünau" "von Hoym" "Holtzendorff" "von Hohenthal" "von Heynitz" "von Hessler" "von Helldorff" "von Harling" "von Görschen" "von Glaubitz"
+			"von Gfug" "von Gersdorff" "von Germar" "von Fritsch" "von Friesen" "von Flanss" "von Etzdorff" "von Erdmannsdorff" "von Einsiedel" "von Dyhrn" "von Dieskau" "von Creytzen" "von Carlowitz" "von Maltitz" "von Mansfeld" "von Miltitz" "von Mücheln" "von Pflugk" "von Pölnitz" "von Ponickau" "von Rackel"
+			"von Raumer" "von Rechenberg" "von Rex" "Sack" "von Scheidingen" "von Schleinitzstrasse" "von Schönberg" "Senfft von Pilsach" "von Stolberg" "von Kannewurf" "Karras" "von Keller" "von Kirchbach" "von Sternberg" "von Leisnig"
+			"von Liebenau" "von Loeben" "von Logau" "von Lüttichau" "von Taube" "von Tettau" Vitzthum "von Wolffersdorff" Wöhrmann "von Werthern" "von Wackerbarth" "von Bredow" "von Brandt"
+		}
+	}
+	swiss = {
+		primary = SWI
+		male_names = {
+			Friedrich Otto Heinrich Werner Ferdinand Karl Alfred Benedikt Christoph Dietrich Engelbert 
+			Florian Gerhard Immanuel Johan Leonhard Markus Nikolaus Paul Ruprecht Stefan Thomas Ulrich 
+			Vinzenz André Charles Didier Emmanuel Frédéric Gérard Henri Jules Matthieu Nicolas Pascal 
+			Vincent Claudio Edmondo Leonardo Timoteo
+		}
+		female_names = {
+			Angela Marlene Hanna Anastasia Christina Adelina Adriana Afina Alexandra Alexia Ana Anna Arina 
+		}
+	}
+	bavarian = {
+		primary = BAV
+		male_names = {
+			Albrecht Wilhelm Johann Ernst Maximilian Emanuel Siegmund Ludwig Anton Christoph Ferdinand  
+			Leopold Philipp Theodor Adalbert Alois Johann Clemens August Friedrich Johann Theodor Joseph  
+			Luitpold Otto Philipp Moritz Wolfgang Engelbert Gottfried Hieronymus Ignatz Markus Meinhard 
+			Raphael Karl Kajetan Clemens
+		}
+		female_names = {
+			Hiltraud Friede Juliane
+		}
+		dynasty_names = {
+			"von Pappenheim" "von Westernhagen" "von Henneberg" "von Flemming"
+			"von Arnim" "von Baudissin" "zu Eulenburg" "von Etzdorff" "von Keller" "von Hohenzollern" "von Wittelsbach"
+			"von Württemberg" "von Aham"  "von Arco" "von Armansperg" "von Bibra" "von Chlingensperg" "von Closen" "von Degenberg" "von Durkheim" "Echter" "von Fraunberg"
+			"von Freundsberg" "Fugger" "Gabelkofen" "von Gaisberg" "von Gebsattel" "von Gravenreuth"
+			"Griespek von Griespach" "von Trockau" "von Grumbach" "von Guttenberg" "von Gumppenberg"
+			"von Grumbach" "von Hackledt" "von Haslang" "Hofer von Lobenstein" "von Holnstein"
+			"von Knöringen" "von Laiming" "von Leublfing" "von Quirnheim" "Notthafft" "von Ortenburg"
+			"von Parsberg" "Pfäffinger" "von Pienzenau" "von Pudewels" "von Raumer" "von Rehlinger"
+			"von Reitzenstein" "von Rohr"
+			"Rotenhan" "Rüdt von Collenberg" "von Waldow" "von Wartenberg" "von Sandizell" "von Sinzendorf" "von der Tann" "von Tattenbach"
+			"von Thuengen" "von Thürheim" "von Thurn und Taxis" "von Toerring"
+			"von Koenigsegg"
+		}
+	}
+	low_landers = {
+		primary = NED
+		male_names = {
+			Adriaen Albrecht Albert Alwin Ambroos Antoon Arnold Arnold Arnulf Arnulf Balderik Barend 
+			Barnaerd Bernard Bartolomeus Bartolomeus
+			Bavo Bertold Boudewijn Baldwin Claes Nicholas Claeuwaert Daevit David Damaes Diederick 
+			Thierry Dirk Thierry Douwe Eduard Edward Egmund Ekbert
+			Emmo Engelbrecht Filips Philip Floris Folbert Frans Francis Frederik Frederick Gerard Gerolt 
+			Gerulf
+			Gerrit Gijsbrecht Giselbert Gilbert Godfried Godfrey Godschalk Gozewijn Guij Guy Gwijde 
+			Gwijde Hendrik Henry Herman Herman Hubert
+			Hugo Hugh Ijsbrand Ijsbrecht Jacco Jacob Jan John Karel Charles Koenraad Konrad
+			Kristof Christopher Lambert Lambert Lodewijk Louis Ludewijn Lutbert Luthard Maertijn Martin
+			Marquart Niclaes Nicholas
+			Olivier Oliver Otto Otto Otwin Onno Pieter Peter Reinaerd Reinoud Reinhold Reginar Robrecht
+			Robert Robert Robert Rodulf 
+			Roelof Roland Rutger Sebastiaen Sebastian Sicco Simon Steven Stephen Steyn Sten Theodolf
+			Waelram Walter Walter
+			Wicher Willem William Wolfard Hendrik Maurits
+			Adriaan Andries Antonius Gaspar Isaac Johan Laurens Paul Abraham Barthout Christiaan
+			Christoffel Constantijn Cornelis Daniel Eise Gabriel Gerben Hans Jeroen Joost Nicolaas 
+			Roeland Rogier Thomas Vincent Zacharias
+		}
+		female_names = {
+			Ada Adela Adelheid Adelaide Aechte Agaete Aleid Alijse Alice Aliken Anna Annelies
+			Badeloge Bava Beatrijs Beatrice Benedicta
+			Blanca Blanche Blanceflore Cecily Cecilia Cille Clara Clementia 
+			Ellijnore Eleanor Emma Ermingarde Ermengarde Fenne
+			Filippa Philippa Frida Gheertrude Gertrude Gerda Godila Haduwijn Helena Helen Herlinda 
+			Hilligonda Ide Ida Imagina Irene Isabelle Iudith
+			Jacoba Jaccobijn Jasminne Johanna Joan Jolanda Juliana Jutte Kathrijne 
+			Katrien Catherine Liedwin Lisebet Elisabeth Machtelt Margareta Margaret
+			Maria Mathilde Matilda Oda Odelt Olinde Onna Pieternelle Petronilla Reynilde Sanne 
+			Sigerda Sophie Sophia Swanhildis Thetburga Tiburge Waltrud
+			Wila Wendelmoet Wenna Willemine Yonefij Yvonne Zoete Margaretha Rosanne Tamara
+		}
+		dynasty_names = {
+			"van Oranje" Nassau "van Wassenberg" "van Henegouwen" "de Friesland"
+			"van Haspinga" "van Limburg" "van Lotharingen"  "von der Mark"
+			"van Leuven" "van Brabant" "van Egmont" "de Reginar" "van Jülich-Hengebach"
+			# CKII
+			"van Loon" "von Geldern" "van Sulzbach" "von Salm"
+			"van Bergh" "van Heinsberg" "van de Veluwe" "De Graeff"
+			"van Brederode" "van Breda" "van Heemskerk" "van Glymes" "van Grimberghe"
+			"van Renesse" "van Wassenaer" "van Bronckhorst"
+			"van Keppel" "Van Voorst tot Voorst" "van Wisch" "van Kamerijk" "Cirksena"
+			"van Diest" "van Montfoort"
+			# Frisian
+			"van Serooskerken"
+		}
+	}
+	bohemian = {
+		male_names = {
+			# BOHEMIAN 
+			Albert Albert Albrecht Albert Ales Alexander Arnost Ernest Bavor Bedrich Frederick Benes 
+			Bocek Bohuslav Boguslaw Boleslav Boleslav Bores Borijov Borijov Bretislav Bretislaus Budivoj 
+			Castolov Cenek Vincent Chval Ctirad Diepold
+			Detrich Thierry Drslav Gerhard Hanus John Havel Gallus Heralt Herman Herman Hrabis Hynek Henry 
+			John Jaromír Jaromir Jaroslav Jaroslav Jesek Jindrich Henry Jirík George Karel Charles Kojata 
+			Konrád Konrad Kuník Litold
+			Markvart Matous Matthew Mikulás Nicholas Milic Mojmír Ojír Oldrich Ulrich Ondrej Andrew Ota 
+			Otakar Pelhrim Petr Peter Premysl Premysl Prokop Procopius Rajmund Raymond Rostislav Sezima 
+			Slavomír Smil Sobieslav Sobeslaus Spytihnev Strachkvas Svatobor Svatopluk Svatopluk Tobiás 
+			Václav Slavibor Otto Jan Benedict
+			Vaclav Viktorín Vítek Guy Vanek Vilém William Vladimír Vladimir Vladislav Vladislav Vojtech 
+			Vratislav Vratislav Vsebor Vsebor Závis Zbynek Zbynek Zdík Zdirad Zikmund Sigmund Albert
+		}
+		female_names = {
+			# BOHEMIAN 
+			Adléta Anezka Anna Anna Barbora Bedriska Blazena Bohuslava Boleslava Bozena Bozislava 
+			Dobromila Dobroslava Domaslava Dorota Dorothy Bretislava
+			Doubravka Drahomíra Drahoslava Eliska Eufemie Euphemia Gertruda Gertrude Guta Hedvika Helena 
+			Jana Jaroslava Jitka Johanka Judita Judith Justina Katerina Catherine
+			Klára Clara Konstancie Constance Kristyna Christina Kunhuta Libuse Ludmila Marie Maria Markéta 
+			Mlada Olga Perchta Pribyslava Richeza Skonka Stanislava Svatava Helen
+ 			Vilemína Viola Yolanda Vladislava Vojslava Zdislava Zdenka Zofie Sophia
+		}
+		dynasty_names = {
+			Gryf Piast Jagiellon Wisniowiecki Sobieski Leszczynski 
+			Poniatowski Radziwill Zamoyski Potocki Lubomirski 
+			Premyslovci Podebrad 
+			# CKII
+			"Jankovský z Vlašimi" Chotek Lichnowsky
+			"Kounic" "Vítkovec" "Zerotín" "Czernín" "von Harrach"
+		}
+	}
+	jutland = {
+		primary = GER
+	}
+	berliners {
+		primary = GER
+	}
+}

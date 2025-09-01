@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 197 200 229 }
-monarch_names = {
+monarch_names = { 
 	"Ayden #1" = 10
 	"Catrin #0" = -1
 	"Cwlfyn #0" = 0
@@ -40,4 +40,12 @@ monarch_names = {
 	"Susanna #1" = -1
 	"Tegwyd #1" = 10
 	"Teudebur #0" = 0
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

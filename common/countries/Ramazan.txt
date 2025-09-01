@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 130 0 0 }
 revolutionary_colors = { 0 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	diplomatic_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	influence_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_skirmisher
 	eastern_uhlan
@@ -31,7 +31,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	ottoman_yaya
 }
-monarch_names = {
+monarch_names = { 
 	"Abdulrahman #0" = 0
 	"Ahmed #1" = 20
 	"Alaaddin #0" = 0
@@ -73,213 +73,34 @@ monarch_names = {
 	"Zeynep #0" = -1
 	"Ömer #0" = 10
 }
-leader_names = {
-	"Alemdar"
-	"Amasyali"
-	"Ayas"
-	"Bali"
-	"Barbaros"
-	"Bayram"
-	"Cerrah"
-	"Cezzar"
-	"Civan"
-	"Damad"
-	"Defterdar"
-	"Dervis"
-	"Gazi"
-	"Gedik"
-	"Gümülcineli"
-	"Gürcü"
-	"Hadim"
-	"Hekimoglu"
-	"Hersekli"
-	"Ishak"
-	"Izzed"
-	"Kanijeli"
-	"Kara"
-	"Karamanli"
-	"Kavalali"
-	"Kaymak"
-	"Kemal"
-	"Kemankes"
-	"Koca"
-	"Köprülü"
-	"Köse"
-	"Küçük"
-	"Lala"
-	"Lefkeli"
-	"Malkoç"
-	"Müezzinzade"
-	"Nevsehirli"
-	"Nisanci"
-	"Oflu"
-	"Ohrili"
-	"Oruç"
-	"Osmancikli"
-	"Pargali"
-	"Pehlivan"
-	"Piri"
-	"Piyale"
-	"Rumi"
-	"Salih"
-	"Sari"
-	"Semiz"
-	"Serdar"
-	"Silahdar"
-	"Sokullu"
-	"Tarhuncu"
-	"Tayyar"
-	"Topal"
-	"Turgut"
-	"Uluç"
-	"Veli"
-	"Yemisçi"
-	"Çandarli"
-	"Çelebi"
-	"Çerkes"
-	"Çuhadar"
+leader_names = { 
+	Alemdar Amasyali Ayas Bali Barbaros Bayram Cerrah Cezzar Civan Damad
+	Defterdar Dervis Gazi Gedik Gümülcineli Gürcü Hadim Hekimoglu Hersekli Ishak
+	Izzed Kanijeli Kara Karamanli Kavalali Kaymak Kemal Kemankes Koca Köprülü
+	Köse Küçük Lala Lefkeli Malkoç Müezzinzade Nevsehirli Nisanci Oflu Ohrili
+	Oruç Osmancikli Pargali Pehlivan Piri Piyale Rumi Salih Sari Semiz
+	Serdar Silahdar Sokullu Tarhuncu Tayyar Topal Turgut Uluç Veli Yemisçi
+	Çandarli Çelebi Çerkes Çuhadar 
 }
-ship_names = {
-	"Adakli"
-	"Adana"
-	"Agaçli"
-	"Ahirli"
-	"Ahlat"
-	"Akhisar"
-	"Akka"
-	"Akseki"
-	"Akyaka"
-	"Alanya"
-	"Alparslan"
-	"Amasra"
-	"Arifiye"
-	"Asmali"
-	"Atakum"
-	"Ayvacik"
-	"Ayvalik"
-	"Aziziye"
-	"Balya"
-	"Baykan"
-	"Belen"
-	"Bereket"
-	"Biga"
-	"Bigadiç"
-	"Bolvadin"
-	"Boyabat"
-	"Bozüyük"
-	"Bucak"
-	"Ceyhan"
-	"Darica"
-	"Dicle"
-	"Dinar"
-	"Dodurga"
-	"Edremit"
-	"Ejder"
-	"Elmali"
-	"Emet"
-	"Enez"
-	"Erdemli"
-	"Eregli"
-	"Ergani"
-	"Ermenek"
-	"Erzin"
-	"Ezine"
-	"Fatsa"
-	"Feke"
-	"Findikli"
-	"Finike"
-	"Firat"
-	"Galata"
-	"Gelibolu"
-	"Gemlik"
-	"Gerede"
-	"Göce"
-	"Gönen"
-	"Görele"
-	"Göynük"
-	"Güdül"
-	"Gürsu"
-	"Hamidiye"
-	"Hassa"
-	"Havran"
-	"Havsa"
-	"Havza"
-	"Haymana"
-	"Heybetnüma"
-	"Honaz"
-	"Hüdavendigar"
-	"Ihsaniye"
-	"Incehisar"
-	"Inegöl"
-	"Ipsala"
-	"Iskilip"
-	"Kadirli"
-	"Kahta"
-	"Kalecik"
-	"Kandira"
-	"Kavak"
-	"Kazan"
-	"Kelkit"
-	"Kepez"
-	"Konstantiniyye"
-	"Korgun"
-	"Korkuteli"
-	"Kozan"
-	"Kozlu"
-	"Kumluca"
-	"Kusadasi"
-	"Kuyucak"
-	"Kuzlum"
-	"Ladik"
-	"Lapseki"
-	"Laçin"
-	"Lice"
-	"Mahabet"
-	"Malazgirt"
-	"Manavgat"
-	"Manyas"
-	"Mecidiye"
-	"Meriç"
-	"Mersin"
-	"Mesudiye"
-	"Misis"
-	"Muradiye"
-	"Nallihan"
-	"Nazilli"
-	"Nilüfer"
-	"Nizip"
-	"Osmaniye"
-	"Polatli"
-	"Resadiye"
-	"Safranbolu"
-	"Saka"
-	"Sandikli"
-	"Seben"
-	"Serik"
-	"Seyhan"
-	"Sis"
-	"Sivrihisar"
-	"Solhan"
-	"Sultandagi"
-	"Sultanhisar"
-	"Sögüt"
-	"Söke"
-	"Sürmene"
-	"Tarsus"
-	"Tavas"
-	"Tayyar"
-	"Terme"
-	"Timsah"
-	"Vakfikebir"
-	"Yatagan"
-	"Yunus"
-	"Zuhaf"
-	"Çivril"
-	"Ünye"
+ship_names = { 
+	Adakli Adana Agaçli Ahirli Ahlat Akhisar Akka Akseki Akyaka Alanya
+	Alparslan Amasra Arifiye Asmali Atakum Ayvacik Ayvalik Aziziye Balya Baykan
+	Belen Bereket Biga Bigadiç Bolvadin Boyabat Bozüyük Bucak Ceyhan Darica
+	Dicle Dinar Dodurga Edremit Ejder Elmali Emet Enez Erdemli Eregli
+	Ergani Ermenek Erzin Ezine Fatsa Feke Findikli Finike Firat Galata
+	Gelibolu Gemlik Gerede Göce Gönen Görele Göynük Güdül Gürsu Hamidiye
+	Hassa Havran Havsa Havza Haymana Heybetnüma Honaz Hüdavendigar Ihsaniye Incehisar
+	Inegöl Ipsala Iskilip Kadirli Kahta Kalecik Kandira Kavak Kazan Kelkit
+	Kepez Konstantiniyye Korgun Korkuteli Kozan Kozlu Kumluca Kusadasi Kuyucak Kuzlum
+	Ladik Lapseki Laçin Lice Mahabet Malazgirt Manavgat Manyas Mecidiye Meriç
+	Mersin Mesudiye Misis Muradiye Nallihan Nazilli Nilüfer Nizip Osmaniye Polatli
+	Resadiye Safranbolu Saka Sandikli Seben Serik Seyhan Sis Sivrihisar Solhan
+	Sultandagi Sultanhisar Sögüt Söke Sürmene Tarsus Tavas Tayyar Terme Timsah
+	Vakfikebir Yatagan Yunus Zuhaf Çivril Ünye 
 }
-army_names = {
-	"$PROVINCE$ Ordusu"
+army_names = { 
+	"$PROVINCE$ Ordusu" 
 }
-fleet_names = {
-	"$PROVINCE$ Donanmasî"
+fleet_names = { 
+	"$PROVINCE$ Donanmasî" 
 }

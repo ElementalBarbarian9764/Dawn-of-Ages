@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 36 109 194 }
 revolutionary_colors = { 9 5 9 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	humanist_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	indian_arquebusier
 	indian_elephant
@@ -25,7 +25,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Abu Nasr #0" = 0
 	"Ahmad #0" = 0
 	"Ala-ud-Din Firuz #2" = 20
@@ -71,69 +71,18 @@ monarch_names = {
 	"Sulayman #0" = 5
 	"Yusuf #0" = 0
 }
-leader_names = {
-	"Azad"
-	"Bose"
-	"Chodhury"
-	"Das"
-	"Debshikdar"
-	"Ganesha"
-	"Ganguly"
-	"Ghosh"
-	"Karani"
-	"Khan"
-	"Majumdar"
-	"Mukerjhee"
-	"Pal"
-	"Roy"
-	"Saraswoti"
-	"Sarkar"
-	"Sen"
-	"Shahi"
-	"Shaikh"
-	"Suri"
-	"Thakur"
-	"Waddedar"
-	"Zamindar"
-	"ad-Daula"
+leader_names = { 
+	Azad Bose Chodhury Das Debshikdar Ganesha Ganguly Ghosh Karani Khan
+	Majumdar Mukerjhee Pal Roy Saraswoti Sarkar Sen Shahi Shaikh Suri
+	Thakur Waddedar Zamindar ad-Daula 
 }
-ship_names = {
-	"Abu Bakr"
-	"Ali Khan"
-	"Bhagirathi"
-	"Brahmaputra"
-	"Chingri Mach"
-	"Chittagong"
-	"Durbar"
-	"Durdasha"
-	"Fatima"
-	"Ganga"
-	"Hilsa Mach"
-	"Hooghly"
-	"Ilish Mach"
-	"Jalangi"
-	"Jasmine"
-	"Kali Meghana"
-	"Kali Nauk"
-	"Kolkata"
-	"Lal Nauk"
-	"Machli"
-	"Malda"
-	"Meghna"
-	"Mongla"
-	"Murshidabad"
-	"Nauk-i-Islam"
-	"Nawaber Nauk"
-	"Nil Nauk"
-	"Nil Sagor"
-	"Osman"
-	"Padma"
-	"Rui Mach"
-	"Sagorer Bahini"
-	"Shaheed"
-	"Sheikher Nauk"
-	"Sonar Bangladesh"
-	"Sunderboner Bahini"
-	"Sunderboner Nauk"
-	"Tasleema"
+ship_names = { 
+	"Abu Bakr" "Ali Khan" Bhagirathi Brahmaputra "Chingri Mach" Chittagong Durbar Durdasha Fatima Ganga
+	"Hilsa Mach" Hooghly "Ilish Mach" Jalangi Jasmine "Kali Meghana" "Kali Nauk" Kolkata "Lal Nauk" Machli
+	Malda Meghna Mongla Murshidabad Nauk-i-Islam "Nawaber Nauk" "Nil Nauk" "Nil Sagor" Osman Padma
+	"Rui Mach" "Sagorer Bahini" Shaheed "Sheikher Nauk" "Sonar Bangladesh" "Sunderboner Bahini" "Sunderboner Nauk" Tasleema 
+}
+fleet_names = { 
+}
+army_names = { 
 }

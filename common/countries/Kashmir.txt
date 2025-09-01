@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 63 150 30 }
 revolutionary_colors = { 4 0 4 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	indian_arquebusier
 	indian_elephant
@@ -26,7 +26,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Ali #0" = 0
 	"Ali Shah #0" = 10
 	"Fath Shah #0" = 10
@@ -66,59 +66,17 @@ monarch_names = {
 	"Zayn al-'Abidin #0" = 10
 	"Zorawar #0" = 0
 }
-leader_names = {
-	"Afridi"
-	"Bahadur"
-	"Bakhsh"
-	"Bhangalia"
-	"Bhatta"
-	"Chandral"
-	"Das"
-	"Dev"
-	"Gahunia"
-	"Gami"
-	"Hamadani"
-	"Jamwal"
-	"Jivan"
-	"Kashmiri"
-	"Katoch"
-	"Kisthwaria"
-	"Kralawari"
-	"Lal"
-	"Makhdum"
-	"Malik"
-	"Mehsud"
-	"Mir"
-	"Naga"
-	"Pahore"
-	"Pakhral"
-	"Parmanand"
-	"Pundir"
-	"Rai"
-	"Shergill"
-	"Singh"
-	"Sodhi"
-	"Sohal"
+leader_names = { 
+	Afridi Bahadur Bakhsh Bhangalia Bhatta Chandral Das Dev Gahunia Gami
+	Hamadani Jamwal Jivan Kashmiri Katoch Kisthwaria Kralawari Lal Makhdum Malik
+	Mehsud Mir Naga Pahore Pakhral Parmanand Pundir Rai Shergill Singh
+	Sodhi Sohal 
 }
-ship_names = {
-	"Alia"
-	"Alisha"
-	"Aziza"
-	"Beas"
-	"Chenab"
-	"Fatimah"
-	"Guru"
-	"Indus"
-	"Jalsena"
-	"Jhelum"
-	"Khan"
-	"Nausena"
-	"Nav ka Yudh"
-	"Niknaz"
-	"Niloufa"
-	"Ravi"
-	"Sagar"
-	"Sutlej"
-	"Yasmine"
-	"Zahira"
+ship_names = { 
+	Alia Alisha Aziza Beas Chenab Fatimah Guru Indus Jalsena Jhelum
+	Khan Nausena "Nav ka Yudh" Niknaz Niloufa Ravi Sagar Sutlej Yasmine Zahira
+}
+fleet_names = { 
+}
+army_names = { 
 }

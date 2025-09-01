@@ -1,0 +1,22 @@
+﻿l_english:
+
+# Celtic Cultures
+celtic_culture_group: "Celtic Decendence"
+
+# Albionic
+albionic: "Albionic"
+albionic_desc: "The main culture of what we would call the British island."
+
+# Eriu
+eriu: "Eriu"
+eriu_desc: "The main culture on what we would call Ireland."
+
+# Germanic Cultures
+
+# Bohemian
+bohemian: "Bohemian"
+bohemian_desc: "A temp to represent czeh and slovian cultures"
+
+# Low Landers
+low_landers: "Low Landers"
+low_landersd_desc: "A temp to represent the lowlands"

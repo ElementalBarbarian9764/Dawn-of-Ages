@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 174 151 145 }
 revolutionary_colors = { 8 5 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	inca_mountain_warfare
 	incan_axemen
 	incan_guerilla_warfare
@@ -26,7 +26,7 @@ historical_units = {
 	south_american_warfare
 	westernized_incan
 }
-monarch_names = {
+monarch_names = { 
 	"Abayubá  #0" = 10
 	"Cambyaé #0" = -1
 	"Itanú, #0" = 0
@@ -41,27 +41,13 @@ monarch_names = {
 	"Yrupé, #0" = 0
 	"Zapicán  #0" = 10
 }
-leader_names = {
-	"Bohané"
-	"Guenoa"
-	"Gununusa"
-	"Igualdad"
-	"Mataojo"
-	"Minuan"
-	"Puyucahua"
-	"Sira"
-	"Sénaqué"
-	"Yaró"
+leader_names = { 
+	Bohané Guenoa Gununusa Igualdad Mataojo Minuan Puyucahua Sira Sénaqué Yaró
 }
-ship_names = {
-	"Bohané"
-	"Carace"
-	"Guar"
-	"Gununusa"
-	"Hue"
-	"Ibad"
-	"Ixou"
-	"Minuan"
-	"Samayoi"
-	"Yaró"
+ship_names = { 
+	Bohané Carace Guar Gununusa Hue Ibad Ixou Minuan Samayoi Yaró
+}
+fleet_names = { 
+}
+army_names = { 
 }

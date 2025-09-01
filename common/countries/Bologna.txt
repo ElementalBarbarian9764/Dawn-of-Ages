@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 236 95 0 }
 revolutionary_colors = { 6 5 6 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Agostino #0" = 0
 	"Alberico #0" = 0
 	"Alessandro #0" = 15
@@ -94,162 +94,28 @@ monarch_names = {
 	"Vincenzo #0" = 0
 	"Vittorio #0" = 0
 }
-leader_names = {
-	"Acquisti"
-	"Albergati"
-	"Aldrovandi"
-	"Alemani"
-	"Algardi"
-	"Angelelli"
-	"Ariosti"
-	"Attndolo"
-	"Bevilacqua"
-	"Bianchini"
-	"Bonasone"
-	"Boncompagni"
-	"Bovio"
-	"Budrioli"
-	"Buroni"
-	"Caccialupi"
-	"Campeggio"
-	"Caprara"
-	"Carracci"
-	"Casali"
-	"Chiodarolo"
-	"Coriolano"
-	"Cuniberti"
-	"Davia"
-	"Dotti"
-	"Facchinetti"
-	"Fancelli"
-	"Fantuzzi"
-	"Felicini"
-	"Fibbia"
-	"Fioravanti"
-	"Fontana"
-	"Foscherari"
-	"Gessi"
-	"Ghisilardi"
-	"Ghisilieri"
-	"Gozzadini"
-	"Grassi"
-	"Grati"
-	"Griffoni"
-	"Guastavillani"
-	"Guidotti"
-	"Hercolani"
-	"Isolani"
-	"Lambertini"
-	"Lelli"
-	"Lombardi"
-	"Ludivisi"
-	"Lupari"
-	"Magnani"
-	"Malvasia"
-	"Malvezzi"
-	"Manfredi"
-	"Marescalchi"
-	"Marescotti"
-	"Marsigli"
-	"Montecalvi"
-	"Ordelaffi"
-	"Orsi"
-	"Pallavincio"
-	"Paltroni"
-	"Pasi"
-	"Pepoli"
-	"Petraccini"
-	"Piatesi"
-	"Pizzardi"
-	"Poeti"
-	"Primaticcio"
-	"Purghi"
-	"Ranuzzi"
-	"Ratta"
-	"Riario"
-	"Ringhieri"
-	"Rossi"
-	"Ruini"
-	"Salaroli"
-	"Salimbeni"
-	"Sampieri"
-	"Sandri"
-	"Sanuti"
-	"Savioli"
-	"Scappi"
-	"Seccadenari"
-	"Spada"
-	"Tanari"
-	"Vitali"
-	"Vizzani"
-	"Volta"
-	"Zambeccari"
-	"Zovenzoni"
-	"da Calboli"
-	"da Legnano"
-	"da Liezaris"
-	"da Marzano"
-	"da Montone"
-	"dal Lino"
-	"de Berardi"
-	"de' Bianchi"
-	"de' Buoi"
-	"de' Ravignani"
-	"dei Mardoli"
-	"di Cagli"
-	"di Viadagola"
+leader_names = { 
+	Acquisti Albergati Aldrovandi Alemani Algardi Angelelli Ariosti Attndolo Bevilacqua Bianchini
+	Bonasone Boncompagni Bovio Budrioli Buroni Caccialupi Campeggio Caprara Carracci Casali
+	Chiodarolo Coriolano Cuniberti Davia Dotti Facchinetti Fancelli Fantuzzi Felicini Fibbia
+	Fioravanti Fontana Foscherari Gessi Ghisilardi Ghisilieri Gozzadini Grassi Grati Griffoni
+	Guastavillani Guidotti Hercolani Isolani Lambertini Lelli Lombardi Ludivisi Lupari Magnani
+	Malvasia Malvezzi Manfredi Marescalchi Marescotti Marsigli Montecalvi Ordelaffi Orsi Pallavincio
+	Paltroni Pasi Pepoli Petraccini Piatesi Pizzardi Poeti Primaticcio Purghi Ranuzzi
+	Ratta Riario Ringhieri Rossi Ruini Salaroli Salimbeni Sampieri Sandri Sanuti
+	Savioli Scappi Seccadenari Spada Tanari Vitali Vizzani Volta Zambeccari Zovenzoni
+	"da Calboli" "da Legnano" "da Liezaris" "da Marzano" "da Montone" "dal Lino" "de Berardi" "de' Bianchi" "de' Buoi" "de' Ravignani"
+	"dei Mardoli" "di Cagli" "di Viadagola" 
 }
-ship_names = {
-	"Accursi"
-	"Agresti"
-	"Alberici"
-	"Altabella"
-	"Arengo"
-	"Aristotele"
-	"Asinelli"
-	"Bartolo"
-	"Bertolotti-Clarissimi"
-	"Bononia"
-	"Bulgarus"
-	"Carrari"
-	"Catalani"
-	"Conoscenti"
-	"Coronata"
-	"Emilia"
-	"Felsina"
-	"Gallo di San Pietro"
-	"Galluzi"
-	"Garisenda"
-	"Ghisilieri"
-	"Giacomuzzo"
-	"Giovanna"
-	"Guidozagni"
-	"Irnerius"
-	"Lambertini"
-	"Lapi"
-	"Lucia"
-	"Marchesana"
-	"Marsobilia"
-	"Martino Gosia"
-	"Onestina"
-	"Orsola"
-	"Oseletti"
-	"Piella"
-	"Ravegnana"
-	"San Bononio"
-	"San Petronio"
-	"San Vitale"
-	"Sant'Agricola"
-	"Santa Gerusalemme"
-	"Santo Giardino"
-	"Santo Stefano"
-	"Scappi"
-	"Tonduzzo"
-	"Toschi"
-	"Ugo di Porta Ravegnana"
-	"Uguzzoni"
-	"Veronica"
+ship_names = { 
+	Accursi Agresti Alberici Altabella Arengo Aristotele Asinelli Bartolo Bertolotti-Clarissimi Bononia
+	Bulgarus Carrari Catalani Conoscenti Coronata Emilia Felsina "Gallo di San Pietro" Galluzi Garisenda
+	Ghisilieri Giacomuzzo Giovanna Guidozagni Irnerius Lambertini Lapi Lucia Marchesana Marsobilia
+	"Martino Gosia" Onestina Orsola Oseletti Piella Ravegnana "San Bononio" "San Petronio" "San Vitale" Sant'Agricola
+	"Santa Gerusalemme" "Santo Giardino" "Santo Stefano" Scappi Tonduzzo Toschi "Ugo di Porta Ravegnana" Uguzzoni Veronica 
 }
-army_names = {
-	"Armata di $PROVINCE$"
+army_names = { 
+	"Armata di $PROVINCE$" 
+}
+fleet_names = { 
 }

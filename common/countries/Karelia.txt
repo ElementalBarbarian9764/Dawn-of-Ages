@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 244 38 38 }
 revolutionary_colors = { 5 14 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Irter #0" = 5
 	"Karuvald #0" = 5
 	"Mohkku #0" = 20
@@ -48,27 +48,13 @@ monarch_names = {
 	"Varaka #0" = 0
 	"Vidyava #0" = -1
 }
-leader_names = {
-	"Azegid"
-	"Gachegid"
-	"Irtegid"
-	"Lunegid"
-	"Moshegid"
-	"Rategid"
-	"Syktyvkar"
-	"Yugra"
-	"Zhebegid"
-	"Zhunegid"
+leader_names = { 
+	Azegid Gachegid Irtegid Lunegid Moshegid Rategid Syktyvkar Yugra Zhebegid Zhunegid
 }
-ship_names = {
-	"Noroava"
-	"Olota"
-	"Ordava"
-	"Pemka"
-	"Poshayka"
-	"Tekay"
-	"Tetyava"
-	"Tundya"
-	"Unzhutka"
-	"Yalgava"
+ship_names = { 
+	Noroava Olota Ordava Pemka Poshayka Tekay Tetyava Tundya Unzhutka Yalgava
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 203 164 103 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	expansion_ideas
 	trade_ideas
 	plutocracy_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	quantity_ideas
 	administrative_ideas
 }
-monarch_names = {
+monarch_names = { 
 	"Curiatao #0" = 10
 	"Cusi #0" = 10
 	"Guacra #0" = 10
@@ -28,34 +28,15 @@ monarch_names = {
 	"Tiso #0" = 10
 	"Zope #0" = 10
 }
-leader_names = {
-	"Gasana"
-	"Iawi"
-	"Illa"
-	"Maila"
-	"Pacon"
-	"Quizo"
-	"Tanqui"
-	"Taraque"
-	"Tari"
-	"Toto"
-	"Tywan"
-	"Wyoh"
+leader_names = { 
+	Gasana Iawi Illa Maila Pacon Quizo Tanqui Taraque Tari Toto
+	Tywan Wyoh 
 }
-ship_names = {
-	"Adero"
-	"Ayan"
-	"Gahiji"
-	"Gasana"
-	"Gukunda"
-	"Kemba"
-	"Kigeri"
-	"Kilolo"
-	"Mahdi"
-	"Mani"
-	"Mutara"
-	"Nalungo"
-	"Sanga"
-	"Yamro"
-	"Yuhi"
+ship_names = { 
+	Adero Ayan Gahiji Gasana Gukunda Kemba Kigeri Kilolo Mahdi Mani
+	Mutara Nalungo Sanga Yamro Yuhi 
+}
+fleet_names = { 
+}
+army_names = { 
 }

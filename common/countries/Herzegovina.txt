@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 72 113 160 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	spy_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	economic_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -28,7 +28,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Aleksandar #0" = 0
 	"Andrija #0" = 0
 	"Antonije #0" = 0
@@ -71,40 +71,15 @@ monarch_names = {
 	"Zoran #0" = 0
 	"Zvonomir #0" = 0
 }
-leader_names = {
-	"Babonic"
-	"Balsic"
-	"Branivojevic"
-	"Dragisic"
-	"Gradascevic"
-	"Hrvatinic"
-	"Isakovic"
-	"Kosaca"
-	"Kotromanic"
-	"Nelipic"
-	"Pavlovic"
-	"Radinovic"
-	"Sankovic"
-	"Santic"
-	"Sokolovic"
-	"Subic"
-	"Tvrtkovic"
-	"Vukasin"
-	"Vukcic"
-	"Vukovic"
+leader_names = { 
+	Babonic Balsic Branivojevic Dragisic Gradascevic Hrvatinic Isakovic Kosaca Kotromanic Nelipic
+	Pavlovic Radinovic Sankovic Santic Sokolovic Subic Tvrtkovic Vukasin Vukcic Vukovic
 }
-ship_names = {
-	"Bileca"
-	"Blagaj"
-	"Bosna"
-	"Drijeva"
-	"Herceg Novi"
-	"Onogost"
-	"Rastislav"
-	"Soko"
-	"Ston"
-	"Sveti Sava"
-	"Tjentiste"
-	"Travunia"
-	"Zachlumia"
+ship_names = { 
+	Bileca Blagaj Bosna Drijeva "Herceg Novi" Onogost Rastislav Soko Ston "Sveti Sava"
+	Tjentiste Travunia Zachlumia 
+}
+fleet_names = { 
+}
+army_names = { 
 }

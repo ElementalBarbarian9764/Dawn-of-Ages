@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 181 204 20 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -14,7 +14,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Abdul-Karim #0" = 40
 	"Abdul-Latif #0" = 20
 	"Abdul-Rahman #0" = 40
@@ -80,142 +80,26 @@ monarch_names = {
 	"Yamghurchi #0" = 20
 	"Zartosht #0" = 50
 }
-leader_names = {
-	"Bayangge"
-	"Boke Temur"
-	"Bora Chinua"
-	"Chinuagene"
-	"Delger Bayar"
-	"Hormazd"
-	"Koke Burilgi"
-	"Maziar"
-	"Nasange"
-	"Qutlugh Vachir"
-	"Qutughqan"
-	"Shapur"
-	"Shria Gan"
-	"Suren Chinua"
-	"Surenchar"
-	"Temur-chi"
-	"Toluilun"
-	"Vandad"
-	"Zartosht"
+leader_names = { 
+	Bayangge "Boke Temur" "Bora Chinua" Chinuagene "Delger Bayar" Hormazd "Koke Burilgi" Maziar Nasange "Qutlugh Vachir"
+	Qutughqan Shapur "Shria Gan" "Suren Chinua" Surenchar Temur-chi Toluilun Vandad Zartosht 
 }
-ship_names = {
-	"Abathur"
-	"Adamn Kasia"
-	"Aesma Daeva"
-	"Agas"
-	"Ahaka"
-	"Ahriman"
-	"Ahura"
-	"Ahura Mazda"
-	"Ahurani"
-	"Airyaman"
-	"Aka Manah"
-	"Aladdin"
-	"Allatum"
-	"Amashaspan"
-	"Ameratat"
-	"Amesha Spentas"
-	"Anahita"
-	"Angra Mainyu"
-	"Anjuman"
-	"Apam-natat"
-	"Apaosa"
-	"Aredvi"
-	"Arishtat"
-	"Armaiti"
-	"Arsaces"
-	"Asha vahista"
-	"Asman"
-	"Asto Vidatu"
-	"Astvat-Ereta"
-	"Atar"
-	"Azi Dahaka"
-	"Baga"
-	"Bahram"
-	"Burijas"
-	"Bushyasta"
-	"Buyasta"
-	"Camros"
-	"Daena"
-	"Daevas"
-	"Dahhak"
-	"Dena"
-	"Dev"
-	"Diwe"
-	"Drug"
-	"Drvaspa"
-	"Frashegird"
-	"Fravashis"
-	"Gandarewa"
-	"Gao-kerena"
-	"Gayomard"
-	"Gayomart"
-	"Geus-Tasan"
-	"Geus-Urvan"
-	"Haoma"
-	"Haurvatat"
-	"Humay"
-	"Hvar"
-	"Hvarekhshaeta"
-	"Indar"
-	"Indra"
-	"Izha"
-	"Jamshid"
-	"Jeh"
-	"Karshipta"
-	"Kavi"
-	"Khara"
-	"Khshathra vairya"
-	"Kundrav"
-	"Mah"
-	"Mahre"
-	"Mahrianag"
-	"Manu"
-	"Manuchihir"
-	"Mao"
-	"Mashyane"
-	"Mashye"
-	"Menog"
-	"Mithra"
-	"Nairyosangha"
-	"Nanghaithya"
-	"Neriosang"
-	"Ormazd"
-	"Peris"
-	"Peshdadians"
-	"Rapithwin"
-	"Rashnu"
-	"Rustam"
-	"Saurva"
-	"Simurgh"
-	"Spenta Mainyu"
-	"Sraosa"
-	"Srosh"
-	"Tawrich"
-	"Thunaupa"
-	"Tistrya"
-	"Tushnamatay"
-	"Vanant"
-	"Vata"
-	"Verethragna"
-	"Vohu Manah"
-	"Vouruskasha"
-	"Yam"
-	"Yasht"
-	"Yazata"
-	"Yezidi"
-	"Yima"
-	"Zal"
-	"Zam"
-	"Zam-Armatay"
-	"Zarathustra"
-	"Zarich"
-	"Zend-Avesta"
-	"Zurvan"
+ship_names = { 
+	Abathur "Adamn Kasia" "Aesma Daeva" Agas Ahaka Ahriman Ahura "Ahura Mazda" Ahurani Airyaman
+	"Aka Manah" Aladdin Allatum Amashaspan Ameratat "Amesha Spentas" Anahita "Angra Mainyu" Anjuman Apam-natat
+	Apaosa Aredvi Arishtat Armaiti Arsaces "Asha vahista" Asman "Asto Vidatu" Astvat-Ereta Atar
+	"Azi Dahaka" Baga Bahram Burijas Bushyasta Buyasta Camros Daena Daevas Dahhak
+	Dena Dev Diwe Drug Drvaspa Frashegird Fravashis Gandarewa Gao-kerena Gayomard
+	Gayomart Geus-Tasan Geus-Urvan Haoma Haurvatat Humay Hvar Hvarekhshaeta Indar Indra
+	Izha Jamshid Jeh Karshipta Kavi Khara "Khshathra vairya" Kundrav Mah Mahre
+	Mahrianag Manu Manuchihir Mao Mashyane Mashye Menog Mithra Nairyosangha Nanghaithya
+	Neriosang Ormazd Peris Peshdadians Rapithwin Rashnu Rustam Saurva Simurgh "Spenta Mainyu"
+	Sraosa Srosh Tawrich Thunaupa Tistrya Tushnamatay Vanant Vata Verethragna "Vohu Manah"
+	Vouruskasha Yam Yasht Yazata Yezidi Yima Zal Zam Zam-Armatay Zarathustra
+	Zarich Zend-Avesta Zurvan 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+fleet_names = { 
 }

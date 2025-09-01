@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 146 134 57 }
 revolutionary_colors = { 8 5 9 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	expansion_ideas
 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_cavalry_charge
@@ -21,7 +21,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-'Aziz #0" = 20
 	"'Abd al-Mu'min #0" = 20
 	"'Alî #0" = 40
@@ -69,36 +69,14 @@ monarch_names = {
 	"Yûsuf #0" = 10
 	"Zkariyâ' #1" = 20
 }
-leader_names = {
-	"Adhoum"
-	"Akimi"
-	"Badra"
-	"Bassir"
-	"Dali"
-	"Hakimi"
-	"Naybet"
-	"Saber"
-	"Sassi"
-	"Taher"
+leader_names = { 
+	Adhoum Akimi Badra Bassir Dali Hakimi Naybet Saber Sassi Taher
 }
-ship_names = {
-	"Alim"
-	"Aziz"
-	"Bari"
-	"Fattah"
-	"Ghaffar"
-	"Jabbar"
-	"Khaliq"
-	"Malik"
-	"Mu'min"
-	"Muhaymin"
-	"Musawwir"
-	"Mutakabbir"
-	"Qahhar"
-	"Quddus"
-	"Rahim"
-	"Rahman"
-	"Razzaq"
-	"Salam"
-	"Wahhab"
+ship_names = { 
+	Alim Aziz Bari Fattah Ghaffar Jabbar Khaliq Malik Mu'min Muhaymin
+	Musawwir Mutakabbir Qahhar Quddus Rahim Rahman Razzaq Salam Wahhab 
+}
+fleet_names = { 
+}
+army_names = { 
 }

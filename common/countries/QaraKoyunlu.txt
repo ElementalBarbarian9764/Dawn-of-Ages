@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 54 117 136 }
 revolutionary_colors = { 14 1 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	religious_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	humanist_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Aisha #0" = -1
 	"Ak #0" = -1
 	"Fatima #0" = -1
@@ -39,30 +39,14 @@ monarch_names = {
 	"Qara Yûsuf #0" = 30
 	"Sultanim #0" = -1
 }
-leader_names = {
-	"Bairam"
-	"Hasan"
-	"Jahan"
-	"Khwaja"
-	"Muhammad"
-	"Muzaffar"
-	"Nasr"
-	"Nyuan"
-	"Turmush"
-	"Yûsuf"
+leader_names = { 
+	Bairam Hasan Jahan Khwaja Muhammad Muzaffar Nasr Nyuan Turmush Yûsuf
 }
-ship_names = {
-	"Agdam"
-	"Bazard'uz'u"
-	"Bälän Safar"
-	"Herat"
-	"Iskander Yusuf"
-	"K'urdamir"
-	"Kura"
-	"Qara Muhammad"
-	"Qara Yusuf"
-	"Qareh Sü"
-	"Sevan"
-	"Sumgait"
-	"Udzary"
+ship_names = { 
+	Agdam Bazard'uz'u "Bälän Safar" Herat "Iskander Yusuf" K'urdamir Kura "Qara Muhammad" "Qara Yusuf" "Qareh Sü"
+	Sevan Sumgait Udzary 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 73 152 76 }
 revolutionary_colors = { 10 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	trade_ideas
 	economic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Achille #0" = 0
 	"Alberto #0" = 0
 	"Antonio #0" = 0
@@ -75,122 +75,24 @@ monarch_names = {
 	"Vincenzo #0" = 0
 	"Violante #0" = -1
 }
-leader_names = {
-	"Asmondo"
-	"Barbiano Belgioioso"
-	"Carafa"
-	"Castagna"
-	"Cattaneo"
-	"Ciaja"
-	"Cialdini"
-	"Colonna"
-	"Coppola"
-	"Corleone"
-	"Crescimanno"
-	"Damiani"
-	"Farini"
-	"Felice"
-	"Filangieri"
-	"Gaetani dell'Aquila"
-	"Gonzaga"
-	"La Masa"
-	"Lamoral"
-	"Mazzini"
-	"Orsini"
-	"Paruta"
-	"Pignatelli"
-	"Pilo"
-	"Platamonte"
-	"Riso"
-	"Rizzi"
-	"Ruffo"
-	"Ruggiero"
-	"Sanseverino"
-	"Santapace"
-	"Serra"
-	"Settimo"
-	"Sfondrati"
-	"Speciale"
-	"Spinola"
-	"Tanucci"
-	"Tassoni"
-	"Trivulcio"
-	"Ventimiglia"
-	"Zannoni"
-	"d'Agnesi"
-	"d'Austria"
-	"d'Este"
-	"de Gattinara"
-	"de Martino"
-	"de Podio"
-	"de' Medici"
-	"di Aragona"
-	"di Borbone"
-	"di Gesualdo"
-	"di Marzano"
+leader_names = { 
+	Asmondo "Barbiano Belgioioso" Carafa Castagna Cattaneo Ciaja Cialdini Colonna Coppola Corleone
+	Crescimanno Damiani Farini Felice Filangieri "Gaetani dell'Aquila" Gonzaga "La Masa" Lamoral Mazzini
+	Orsini Paruta Pignatelli Pilo Platamonte Riso Rizzi Ruffo Ruggiero Sanseverino
+	Santapace Serra Settimo Sfondrati Speciale Spinola Tanucci Tassoni Trivulcio Ventimiglia
+	Zannoni d'Agnesi d'Austria d'Este "de Gattinara" "de Martino" "de Podio" "de' Medici" "di Aragona" "di Borbone"
+	"di Gesualdo" "di Marzano" 
 }
-ship_names = {
-	"Agatobles"
-	"Altavilla"
-	"Apollo"
-	"Archimede"
-	"Audaze"
-	"Borbone"
-	"Calabria"
-	"Capitana"
-	"Diana"
-	"Disttrutore"
-	"Drago"
-	"Ercole"
-	"Etna"
-	"Federigo Barbarossa"
-	"Folgorante"
-	"Fulminante"
-	"Generoso"
-	"Guiscardo"
-	"Hohenstaufen"
-	"Idra"
-	"Invencibile"
-	"Jupiter"
-	"L'Aretusa"
-	"Maria Inmacolata"
-	"Marte"
-	"Mercurio"
-	"Messaggero"
-	"Minerva"
-	"Napoli"
-	"Navigante"
-	"Nettuno"
-	"Palinuro"
-	"Partenope"
-	"Pegaso"
-	"Peloro"
-	"Plutone"
-	"Puglia"
-	"Purissima Concezione"
-	"Re Carlo"
-	"Re Federigo"
-	"Re Ferrante"
-	"Regina dei Mari"
-	"S.Francesco d'Assisi"
-	"Saetta"
-	"San Antonio"
-	"San Carlo"
-	"San Ferdinando"
-	"San Vito"
-	"Sannita"
-	"Sant'Agata"
-	"Sant'Agatone"
-	"Santa Amalia"
-	"Santa Helena"
-	"Santa Lucia"
-	"Santa Wenfrida"
-	"Sibilla"
-	"Sicilia"
-	"Sirena"
-	"Tancredi"
-	"Veloce"
+ship_names = { 
+	Agatobles Altavilla Apollo Archimede Audaze Borbone Calabria Capitana Diana Disttrutore
+	Drago Ercole Etna "Federigo Barbarossa" Folgorante Fulminante Generoso Guiscardo Hohenstaufen Idra
+	Invencibile Jupiter L'Aretusa "Maria Inmacolata" Marte Mercurio Messaggero Minerva Napoli Navigante
+	Nettuno Palinuro Partenope Pegaso Peloro Plutone Puglia "Purissima Concezione" "Re Carlo" "Re Federigo"
+	"Re Ferrante" "Regina dei Mari" "S.Francesco d'Assisi" Saetta "San Antonio" "San Carlo" "San Ferdinando" "San Vito" Sannita Sant'Agata
+	Sant'Agatone "Santa Amalia" "Santa Helena" "Santa Lucia" "Santa Wenfrida" Sibilla Sicilia Sirena Tancredi Veloce
 }
-army_names = {
-	"Armata di $PROVINCE$"
+army_names = { 
+	"Armata di $PROVINCE$" 
+}
+fleet_names = { 
 }

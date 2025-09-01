@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 197 92 106 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	diplomatic_ideas
 	humanist_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	aristocracy_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	eastern_carabinier
 	eastern_knights
@@ -29,7 +29,7 @@ historical_units = {
 	russian_mass
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Albert #0" = 0
 	"Aleksander #0" = 20
 	"Aleksy #0" = 0
@@ -77,192 +77,31 @@ monarch_names = {
 	"Zygfryd #0" = 0
 	"Zygmunt #0" = 20
 }
-leader_names = {
-	"Arciszewski"
-	"Benyowski"
-	"Bidzinski"
-	"Bielinski"
-	"Boner"
-	"Branicki"
-	"Brzostowski"
-	"Buczacki"
-	"Butler"
-	"Cetner"
-	"Chlewicki"
-	"Chodecki"
-	"Chometowski"
-	"Czapski"
-	"Czarniecki"
-	"Czarnkowski"
-	"Dambski"
-	"Denhoff"
-	"Drzewicki"
-	"Dunin"
-	"Dzialynski"
-	"Dzieduszycki"
-	"Firlej"
-	"Fredro"
-	"Gembicki"
-	"Gosiewski"
-	"Grabowski"
-	"Grodzicki"
-	"Grudzinski"
-	"Grzymultowski"
-	"Gurowski"
-	"Górka"
-	"Herburt"
-	"Houwaldt"
-	"Hylzen"
-	"Jablonowski"
-	"Jaroslawski"
-	"Jazlowiecki"
-	"Jordan"
-	"Judycki"
-	"Kalinowski"
-	"Kamieniecki"
-	"Karnkowski"
-	"Kazanowski"
-	"Kmita"
-	"Komorowski"
-	"Koniecpolski"
-	"Korycki"
-	"Krasicki"
-	"Krasinski"
-	"Kurozwecki"
-	"Kwilecki"
-	"Lacki"
-	"Lanckoronski"
-	"Latalski"
-	"Leszczynski"
-	"Ligeza"
-	"Lipski"
-	"Lisowski"
-	"Lubomirski"
-	"Lubranski"
-	"Malachowski"
-	"Malski"
-	"Matczynski"
-	"Melsztynski"
-	"Mielecki"
-	"Mielzynski"
-	"Mlodziejowski"
-	"Mniszech"
-	"Morsztyn"
-	"Mycielski"
-	"Nalecz"
-	"Niesiolowski"
-	"Odrowaz"
-	"Olesnicki"
-	"Opacki"
-	"Oporowski"
-	"Ossolinski"
-	"Ostroróg"
-	"Ostrowski"
-	"Ozarowski"
-	"Paniewski"
-	"Piaseczynski"
-	"Pilecki"
-	"Pociej"
-	"Poniatowski"
-	"Poninski"
-	"Potocki"
-	"Prazmowski"
-	"Przebendowski"
-	"Przyjemski"
-	"Pulaski"
-	"Raczynski"
-	"Radziejowski"
-	"Rej"
-	"Rytwianski"
-	"Rzewuski"
-	"Scibor"
-	"Siemienowicz"
-	"Sieniawski"
-	"Sierakowski"
-	"Skarbek"
-	"Sobieski"
-	"Soltyk"
-	"Stadnicki"
-	"Sulkowski"
-	"Szafraniec"
-	"Szembek"
-	"Szydlowiecki"
-	"Tarlo"
-	"Tarnowski"
-	"Teczynski"
-	"Tomicki"
-	"Tyzenhaus"
-	"Uchanski"
-	"Walewski"
-	"Weyher"
-	"Wielopolski"
-	"Wierzbowski"
-	"Wodzicki"
-	"Wolski"
-	"Wyhowski"
-	"Zacwilchowski"
-	"Zaluski"
-	"Zamoyski"
-	"Zborowski"
-	"Zebrzydowski"
+leader_names = { 
+	Arciszewski Benyowski Bidzinski Bielinski Boner Branicki Brzostowski Buczacki Butler Cetner
+	Chlewicki Chodecki Chometowski Czapski Czarniecki Czarnkowski Dambski Denhoff Drzewicki Dunin
+	Dzialynski Dzieduszycki Firlej Fredro Gembicki Gosiewski Grabowski Grodzicki Grudzinski Grzymultowski
+	Gurowski Górka Herburt Houwaldt Hylzen Jablonowski Jaroslawski Jazlowiecki Jordan Judycki
+	Kalinowski Kamieniecki Karnkowski Kazanowski Kmita Komorowski Koniecpolski Korycki Krasicki Krasinski
+	Kurozwecki Kwilecki Lacki Lanckoronski Latalski Leszczynski Ligeza Lipski Lisowski Lubomirski
+	Lubranski Malachowski Malski Matczynski Melsztynski Mielecki Mielzynski Mlodziejowski Mniszech Morsztyn
+	Mycielski Nalecz Niesiolowski Odrowaz Olesnicki Opacki Oporowski Ossolinski Ostroróg Ostrowski
+	Ozarowski Paniewski Piaseczynski Pilecki Pociej Poniatowski Poninski Potocki Prazmowski Przebendowski
+	Przyjemski Pulaski Raczynski Radziejowski Rej Rytwianski Rzewuski Scibor Siemienowicz Sieniawski
+	Sierakowski Skarbek Sobieski Soltyk Stadnicki Sulkowski Szafraniec Szembek Szydlowiecki Tarlo
+	Tarnowski Teczynski Tomicki Tyzenhaus Uchanski Walewski Weyher Wielopolski Wierzbowski Wodzicki
+	Wolski Wyhowski Zacwilchowski Zaluski Zamoyski Zborowski Zebrzydowski 
 }
-ship_names = {
-	"Arka Noego"
-	"Belzkie"
-	"Bialy Lew"
-	"Bialy Orzel"
-	"Braclawskie"
-	"Brzesko-Kujawskie"
-	"Burza"
-	"Charitas"
-	"Chelminskie"
-	"Czarny Kruk"
-	"Czarny Orzel"
-	"Czernichowskie"
-	"Fortuna"
-	"Gnieznienskie"
-	"Gryf"
-	"Gwiazda"
-	"Inowroclawskie"
-	"Kaliskie"
-	"Kijowskie"
-	"Krakowskie"
-	"Kraków"
-	"Król Dawid"
-	"Latajacy Jelen"
-	"Leczyckie"
-	"Lubelskie"
-	"Lublin"
-	"Lwów"
-	"Malborskie"
-	"Maly Bialy Orzel"
-	"Mazowieckie"
-	"Niewrazliwy"
-	"Nowy Czarny Orzel"
-	"Panna Wodna"
-	"Plockie"
-	"Plomien"
-	"Podlaskie"
-	"Podolskie"
-	"Poznanskie"
-	"Prorok Samuel"
-	"Rawskie"
-	"Ruskie"
-	"Rycerz Swiety Jerzy"
-	"Sandomierskie"
-	"Sieradzkie"
-	"Strzelec"
-	"Suwerenny"
-	"Swiety Kazimierz"
-	"Swiety Piotr"
-	"Warminskie"
-	"Warszawa"
-	"Wielkie Slonce"
-	"Wodnik"
-	"Wolynskie"
-	"Zwyciestwo"
-	"Zólty Lew"
+ship_names = { 
+	"Arka Noego" Belzkie "Bialy Lew" "Bialy Orzel" Braclawskie Brzesko-Kujawskie Burza Charitas Chelminskie "Czarny Kruk"
+	"Czarny Orzel" Czernichowskie Fortuna Gnieznienskie Gryf Gwiazda Inowroclawskie Kaliskie Kijowskie Krakowskie
+	Kraków "Król Dawid" "Latajacy Jelen" Leczyckie Lubelskie Lublin Lwów Malborskie "Maly Bialy Orzel" Mazowieckie
+	Niewrazliwy "Nowy Czarny Orzel" "Panna Wodna" Plockie Plomien Podlaskie Podolskie Poznanskie "Prorok Samuel" Rawskie
+	Ruskie "Rycerz Swiety Jerzy" Sandomierskie Sieradzkie Strzelec Suwerenny "Swiety Kazimierz" "Swiety Piotr" Warminskie Warszawa
+	"Wielkie Slonce" Wodnik Wolynskie Zwyciestwo "Zólty Lew" 
 }
-army_names = {
-	"Armia z $PROVINCE$"
+army_names = { 
+	"Armia z $PROVINCE$" 
+}
+fleet_names = { 
 }

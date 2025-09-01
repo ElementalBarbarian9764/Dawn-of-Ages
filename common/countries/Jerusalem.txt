@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 211 230 211 }
 revolutionary_colors = { 13 0 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	french_caracolle
 	french_dragoon
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Amalric #2" = 30
 	"Baldwin #5" = 60
 	"Conrad #3" = 10
@@ -42,64 +42,17 @@ monarch_names = {
 	"Melisende #1" = -5
 	"Sibylla #1" = -5
 }
-leader_names = {
-	"Arenberg"
-	"Bragadin"
-	"Crispo"
-	"Doria"
-	"Douglas"
-	"Duncan"
-	"Fadrigue"
-	"Hagedorn"
-	"Le Tellier"
-	"Lusignans"
-	"Maxwell"
-	"Melissinos"
-	"Minucci"
-	"Paleologi Montferrato"
-	"Pallavicini"
-	"Paradisi"
-	"Petrucci"
-	"Pico"
-	"Pignatelli"
-	"Plethon"
-	"Rendis"
-	"Saraceno"
-	"Sauerzapff"
-	"Schrüder"
-	"Selkirk"
-	"Stichsenstein"
-	"Sulerzycki"
-	"Tocco"
-	"dalla Rosa"
-	"de La Barthe"
-	"de La Ferrandie"
-	"de La Galissonière"
-	"de La Mothe"
-	"de La Motte d'Airan"
-	"de La Porte"
-	"de Lhéry"
-	"de Luynes"
-	"della Rovere"
-	"di Paesana"
+leader_names = { 
+	Arenberg Bragadin Crispo Doria Douglas Duncan Fadrigue Hagedorn "Le Tellier" Lusignans
+	Maxwell Melissinos Minucci "Paleologi Montferrato" Pallavicini Paradisi Petrucci Pico Pignatelli Plethon
+	Rendis Saraceno Sauerzapff Schrüder Selkirk Stichsenstein Sulerzycki Tocco "dalla Rosa" "de La Barthe"
+	"de La Ferrandie" "de La Galissonière" "de La Mothe" "de La Motte d'Airan" "de La Porte" "de Lhéry" "de Luynes" "della Rovere" "di Paesana" 
 }
-ship_names = {
-	"Absolution"
-	"Avenger"
-	"Baldwin's Gate"
-	"Crusader"
-	"God Will Know His Own"
-	"Guardian"
-	"Hammer of God"
-	"Paladin"
-	"Pilgrim"
-	"Purifier"
-	"The Cleansing"
-	"The Faithful"
-	"The Grail"
-	"The Holy Cross"
-	"The Rapture"
-	"The Scourge"
-	"True Believer"
-	"Vindicator"
+ship_names = { 
+	Absolution Avenger "Baldwin's Gate" Crusader "God Will Know His Own" Guardian "Hammer of God" Paladin Pilgrim Purifier
+	"The Cleansing" "The Faithful" "The Grail" "The Holy Cross" "The Rapture" "The Scourge" "True Believer" Vindicator 
+}
+fleet_names = { 
+}
+army_names = { 
 }

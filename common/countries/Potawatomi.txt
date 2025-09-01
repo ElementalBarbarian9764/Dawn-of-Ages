@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 60 184 120 }
 revolutionary_colors = { 13 5 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Bendegakewa #0" = 20
 	"Chacapma #0" = 20
 	"Chawcawbeme #0" = 20
@@ -81,127 +81,23 @@ monarch_names = {
 	"Wistea #0" = 20
 	"Wogaw #0" = 20
 }
-leader_names = {
-	"Abercronk"
-	"Ashkum"
-	"Assiminehkon"
-	"Aubbeenaubbee"
-	"Bawbee"
-	"Cheenauge"
-	"Chekase"
-	"Chekawkose"
-	"Chichipe"
-	"Comoza"
-	"Kinkash"
-	"Koassun"
-	"Kukwonago"
-	"Machebenashshewish"
-	"Macousin"
-	"Magachua"
-	"Mamotway"
-	"Manitowoc"
-	"Maquanago"
-	"Massac"
-	"Matchkee"
-	"Maukekose"
-	"Mechingan"
-	"Menominee"
-	"Menoquet"
-	"Mesheketeno"
-	"Mesquawbuck"
-	"Metea"
-	"Mickkesawbee"
-	"Minemaung"
-	"Mitchigami"
-	"Moran"
-	"Mosheketeno"
-	"Mota"
-	"Muskwawasepeotan"
-	"Nayonsay"
-	"Nottawaseppi"
-	"Oconomowoc"
-	"Outipe"
-	"Pierrish"
-	"Pokagon"
-	"Sawmehnaug"
-	"Secawgo"
-	"Seginsavin"
-	"Shaytee"
-	"Shobonier"
-	"Tassinong"
-	"Tippecanoe"
-	"Toisa"
-	"Tondagaie"
-	"Tonguish"
-	"Topenebee"
-	"Waisusuck"
-	"Wanatah"
-	"Waubekeetschuk"
-	"Waukesha"
-	"Wimego"
-	"Winamac"
-	"Wonongoseak"
-	"chippoy"
+leader_names = { 
+	Abercronk Ashkum Assiminehkon Aubbeenaubbee Bawbee Cheenauge Chekase Chekawkose Chichipe Comoza
+	Kinkash Koassun Kukwonago Machebenashshewish Macousin Magachua Mamotway Manitowoc Maquanago Massac
+	Matchkee Maukekose Mechingan Menominee Menoquet Mesheketeno Mesquawbuck Metea Mickkesawbee Minemaung
+	Mitchigami Moran Mosheketeno Mota Muskwawasepeotan Nayonsay Nottawaseppi Oconomowoc Outipe Pierrish
+	Pokagon Sawmehnaug Secawgo Seginsavin Shaytee Shobonier Tassinong Tippecanoe Toisa Tondagaie
+	Tonguish Topenebee Waisusuck Wanatah Waubekeetschuk Waukesha Wimego Winamac Wonongoseak chippoy
 }
-ship_names = {
-	"Abercronk"
-	"Ashkum"
-	"Assiminehkon"
-	"Aubbeenaubbee"
-	"Bawbee"
-	"Cheenauge"
-	"Chekase"
-	"Chekawkose"
-	"Chichipe"
-	"Comoza"
-	"Kinkash"
-	"Koassun"
-	"Kukwonago"
-	"Machebenashshewish"
-	"Macousin"
-	"Magachua"
-	"Mamotway"
-	"Manitowoc"
-	"Maquanago"
-	"Massac"
-	"Matchkee"
-	"Maukekose"
-	"Mechingan"
-	"Menominee"
-	"Menoquet"
-	"Mesheketeno"
-	"Mesquawbuck"
-	"Metea"
-	"Mickkesawbee"
-	"Minemaung"
-	"Mitchigami"
-	"Moran"
-	"Mosheketeno"
-	"Mota"
-	"Muskwawasepeotan"
-	"Nayonsay"
-	"Nottawaseppi"
-	"Oconomowoc"
-	"Outipe"
-	"Pierrish"
-	"Pokagon"
-	"Sawmehnaug"
-	"Secawgo"
-	"Seginsavin"
-	"Shaytee"
-	"Shobonier"
-	"Tassinong"
-	"Tippecanoe"
-	"Toisa"
-	"Tondagaie"
-	"Tonguish"
-	"Topenebee"
-	"Waisusuck"
-	"Wanatah"
-	"Waubekeetschuk"
-	"Waukesha"
-	"Wimego"
-	"Winamac"
-	"Wonongoseak"
-	"chippoy"
+ship_names = { 
+	Abercronk Ashkum Assiminehkon Aubbeenaubbee Bawbee Cheenauge Chekase Chekawkose Chichipe Comoza
+	Kinkash Koassun Kukwonago Machebenashshewish Macousin Magachua Mamotway Manitowoc Maquanago Massac
+	Matchkee Maukekose Mechingan Menominee Menoquet Mesheketeno Mesquawbuck Metea Mickkesawbee Minemaung
+	Mitchigami Moran Mosheketeno Mota Muskwawasepeotan Nayonsay Nottawaseppi Oconomowoc Outipe Pierrish
+	Pokagon Sawmehnaug Secawgo Seginsavin Shaytee Shobonier Tassinong Tippecanoe Toisa Tondagaie
+	Tonguish Topenebee Waisusuck Wanatah Waubekeetschuk Waukesha Wimego Winamac Wonongoseak chippoy
+}
+fleet_names = { 
+}
+army_names = { 
 }

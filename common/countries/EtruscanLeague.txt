@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 60 60 255 }
 revolutionary_colors = { 16 0 16 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
 	trade_ideas
@@ -11,4 +11,14 @@ historical_idea_groups = {
 	economic_ideas
 	innovativeness_ideas
 	diplomatic_ideas
+}
+monarch_names = { 
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

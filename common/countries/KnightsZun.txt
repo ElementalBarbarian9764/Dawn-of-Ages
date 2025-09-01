@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 230 255 0 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	durrani_dragoon
@@ -16,7 +16,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"Ahmad #0" = 30
 	"Aisha #0" = -1
 	"Ak #0" = -1
@@ -44,40 +44,16 @@ monarch_names = {
 	"Zannah #0" = -1
 	"Zartash #0" = 20
 }
-leader_names = {
-	"Ahmad"
-	"Akhund"
-	"Amin"
-	"Anoushiravan"
-	"Ghazi"
-	"Hotaki"
-	"Isfandiyar"
-	"Karmal"
-	"Musa"
-	"Najibullah"
-	"Parwaiz"
-	"Qadir"
-	"Rahman"
-	"Shahpur"
-	"Taraki"
-	"Zakariya"
-	"Zartash"
+leader_names = { 
+	Ahmad Akhund Amin Anoushiravan Ghazi Hotaki Isfandiyar Karmal Musa Najibullah
+	Parwaiz Qadir Rahman Shahpur Taraki Zakariya Zartash 
 }
-ship_names = {
-	"Arghandab"
-	"Balkh"
-	"Dasht"
-	"Farah"
-	"Harirud"
-	"Harut"
-	"Hingol"
-	"Kabol"
-	"Kech"
-	"Khash"
-	"Kowkcheh"
-	"Murghab"
-	"Zhob"
+ship_names = { 
+	Arghandab Balkh Dasht Farah Harirud Harut Hingol Kabol Kech Khash
+	Kowkcheh Murghab Zhob 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 187 206 247 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -30,7 +30,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Anne #0" = -1
 	"Armand #0" = 0
 	"Arnaud #0" = 0
@@ -78,117 +78,22 @@ monarch_names = {
 	"Vicentz #0" = 0
 	"Vives #0" = 0
 }
-leader_names = {
-	"Barry de Puyol"
-	"Chastenet de Puységur"
-	"d'Artagnan"
-	"d'Astarac"
-	"d'Avensac"
-	"d'Avezan"
-	"d'Esclignac"
-	"d'Esparbez"
-	"de Batz"
-	"de Broque"
-	"de Burosse"
-	"de Calbiac"
-	"de Cambairac"
-	"de Castanet"
-	"de Castelbajac"
-	"de Catellan"
-	"de Cheveny"
-	"de Corneillan"
-	"de Faudoas"
-	"de Forcade"
-	"de Galard de Brassac"
-	"de Gestas"
-	"de Goth"
-	"de Grossoles"
-	"de L'Isle-Jourdain"
-	"de La Barthe"
-	"de La Briffe"
-	"de Lacaze"
-	"de Lasseran"
-	"de Lavardac"
-	"de Lizarey"
-	"de Lomagne"
-	"de Loupiac"
-	"de Luppé"
-	"de Mauléon"
-	"de Maupas"
-	"de Montcorneil"
-	"de Montluc"
-	"de Montpezat"
-	"de Montégut"
-	"de Nogaret"
-	"de Pardaillan"
-	"de Roquelaure"
-	"de Salles"
-	"de Sensacq"
-	"de Solages"
-	"de Sérignac"
-	"de Voisins"
-	"de la Tour-Maubourg"
-	"du Cos de La Hitte"
+leader_names = { 
+	"Barry de Puyol" "Chastenet de Puységur" d'Artagnan d'Astarac d'Avensac d'Avezan d'Esclignac d'Esparbez "de Batz" "de Broque"
+	"de Burosse" "de Calbiac" "de Cambairac" "de Castanet" "de Castelbajac" "de Catellan" "de Cheveny" "de Corneillan" "de Faudoas" "de Forcade"
+	"de Galard de Brassac" "de Gestas" "de Goth" "de Grossoles" "de L'Isle-Jourdain" "de La Barthe" "de La Briffe" "de Lacaze" "de Lasseran" "de Lavardac"
+	"de Lizarey" "de Lomagne" "de Loupiac" "de Luppé" "de Mauléon" "de Maupas" "de Montcorneil" "de Montluc" "de Montpezat" "de Montégut"
+	"de Nogaret" "de Pardaillan" "de Roquelaure" "de Salles" "de Sensacq" "de Solages" "de Sérignac" "de Voisins" "de la Tour-Maubourg" "du Cos de La Hitte"
 }
-ship_names = {
-	"l'Aignan"
-	"l'Auch"
-	"l'Auterive"
-	"l'Eauze"
-	"la Sainte-Christie"
-	"la Sainte-Radegonde"
-	"le Brugnens"
-	"le Casteljaloux"
-	"le Castera-Verduran"
-	"le Castillon-Massas"
-	"le Condom"
-	"le Couloume-Mondebat"
-	"le Duran"
-	"le Fleurance"
-	"le Grailly"
-	"le Hagetmau"
-	"le Jegun"
-	"le La Testère"
-	"le Lalanne"
-	"le Larroumiouac"
-	"le Lasserade"
-	"le Lasseube-Propre"
-	"le Laurensan"
-	"le Lavardens"
-	"le Lectoure"
-	"le Lupiac"
-	"le Massin"
-	"le Miramont-Latour"
-	"le Mirande"
-	"le Mirepoix"
-	"le Montaut-les-Créneaux"
-	"le Montesquiou"
-	"le Montestruc"
-	"le Nogaro"
-	"le Pauilhac"
-	"le Peyrusse-Massas"
-	"le Preignan"
-	"le Rambert"
-	"le Roquefort"
-	"le Roquelaure"
-	"le Saint-Aunix-Langros"
-	"le Saint-Clar"
-	"le Saint-Griède"
-	"le Saint-Lary"
-	"le Saint-Puy"
-	"le Saint-Sever"
-	"le Tournecoupe"
-	"le Tudelle"
-	"le Vic-Fézensac"
-	"leEsparebent"
+ship_names = { 
+	l'Aignan l'Auch l'Auterive l'Eauze "la Sainte-Christie" "la Sainte-Radegonde" "le Brugnens" "le Casteljaloux" "le Castera-Verduran" "le Castillon-Massas"
+	"le Condom" "le Couloume-Mondebat" "le Duran" "le Fleurance" "le Grailly" "le Hagetmau" "le Jegun" "le La Testère" "le Lalanne" "le Larroumiouac"
+	"le Lasserade" "le Lasseube-Propre" "le Laurensan" "le Lavardens" "le Lectoure" "le Lupiac" "le Massin" "le Miramont-Latour" "le Mirande" "le Mirepoix"
+	"le Montaut-les-Créneaux" "le Montesquiou" "le Montestruc" "le Nogaro" "le Pauilhac" "le Peyrusse-Massas" "le Preignan" "le Rambert" "le Roquefort" "le Roquelaure"
+	"le Saint-Aunix-Langros" "le Saint-Clar" "le Saint-Griède" "le Saint-Lary" "le Saint-Puy" "le Saint-Sever" "le Tournecoupe" "le Tudelle" "le Vic-Fézensac" leEsparebent
 }
-army_names = {
-	"Armée d'Armagnac"
-	"Armée de $PROVINCE$"
-	"Armée de Gascogne"
-	"Armée de Lomagne"
-	"Armée de l'Astarac"
-	"Armée du Condomois"
-	"Armée du Fézensaguet"
-	"Armée du Gimois"
+army_names = { 
+	"Armée d'Armagnac" "Armée de $PROVINCE$" "Armée de Gascogne" "Armée de Lomagne" "Armée de l'Astarac" "Armée du Condomois" "Armée du Fézensaguet" "Armée du Gimois" 
+}
+fleet_names = { 
 }

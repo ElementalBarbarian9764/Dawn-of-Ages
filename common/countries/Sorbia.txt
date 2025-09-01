@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 67 80 128 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	economic_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	quality_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Albert #0" = 0
 	"Aleksander #0" = 0
 	"Andel #0" = 0
@@ -71,41 +71,16 @@ monarch_names = {
 	"Wilhelm #0" = 0
 	"Wladislaw #1" = 5
 }
-leader_names = {
-	"Abeln"
-	"Greve"
-	"Gronau"
-	"Heintzel"
-	"Hergesell"
-	"Hoppe"
-	"Jauernik"
-	"Kahl"
-	"Liegnitz"
-	"Schwarz"
-	"Sterner"
-	"Tilch"
-	"Wiehle"
+leader_names = { 
+	Abeln Greve Gronau Heintzel Hergesell Hoppe Jauernik Kahl Liegnitz Schwarz
+	Sterner Tilch Wiehle 
 }
-ship_names = {
-	"Bautzen"
-	"Breslau"
-	"Cosel-Beuthen"
-	"Cottbus"
-	"Falkenberg"
-	"Glogau"
-	"Guben"
-	"Görlitz"
-	"Liegnitz-Brieg"
-	"Luckau"
-	"Münsterberg"
-	"Neisse-Ottmachau"
-	"Oels"
-	"Oppeln"
-	"Ratibor"
-	"Sagan"
-	"Schweidnitz-Jauer"
-	"Spremberg"
-	"Steinau"
-	"Teschen"
-	"Zossen"
+ship_names = { 
+	Bautzen Breslau Cosel-Beuthen Cottbus Falkenberg Glogau Guben Görlitz Liegnitz-Brieg Luckau
+	Münsterberg Neisse-Ottmachau Oels Oppeln Ratibor Sagan Schweidnitz-Jauer Spremberg Steinau Teschen
+	Zossen 
+}
+fleet_names = { 
+}
+army_names = { 
 }

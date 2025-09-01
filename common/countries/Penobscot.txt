@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 1 90 168 }
 revolutionary_colors = { 8 13 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Abinnaway #0" = 20
 	"Addeawando #0" = 20
 	"Azonis #0" = -1
@@ -58,51 +58,17 @@ monarch_names = {
 	"Wenemoet #0" = 20
 	"Whonumbamet #0" = 20
 }
-leader_names = {
-	"Alessikantekw"
-	"Amaseconti"
-	"Amoskeay"
-	"Apikwahki"
-	"Cocheco"
-	"Cowasuck"
-	"Kinipekw"
-	"Koasek"
-	"Masipskwoik"
-	"Nashua"
-	"Odanak"
-	"Ossipee"
-	"Panawahpskek"
-	"Pemigewasset"
-	"Pennacook"
-	"Pequaket"
-	"Piscataqua"
-	"Rocameca"
-	"Souhegan"
-	"Wawinak"
-	"Winnibisauga"
-	"Wôlinak"
+leader_names = { 
+	Alessikantekw Amaseconti Amoskeay Apikwahki Cocheco Cowasuck Kinipekw Koasek Masipskwoik Nashua
+	Odanak Ossipee Panawahpskek Pemigewasset Pennacook Pequaket Piscataqua Rocameca Souhegan Wawinak
+	Winnibisauga Wôlinak 
 }
-ship_names = {
-	"Abenaki"
-	"Ahaso"
-	"Alemos"
-	"Awasos"
-	"Azeban"
-	"Beziko"
-	"Bezo"
-	"Doleba"
-	"Gokokhoko"
-	"Kogw"
-	"Maliseet"
-	"Mategwas"
-	"Megeso"
-	"Mi'kmaq"
-	"Molsem"
-	"Passamaquoddy"
-	"Penobscot"
-	"Skog"
-	"Wawilomwa"
-	"Woboz"
-	"Wobtegwa"
-	"Wokwses"
+ship_names = { 
+	Abenaki Ahaso Alemos Awasos Azeban Beziko Bezo Doleba Gokokhoko Kogw
+	Maliseet Mategwas Megeso Mi'kmaq Molsem Passamaquoddy Penobscot Skog Wawilomwa Woboz
+	Wobtegwa Wokwses 
+}
+fleet_names = { 
+}
+army_names = { 
 }

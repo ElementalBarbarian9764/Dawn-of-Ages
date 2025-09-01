@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 64 0 62 }
-monarch_names = {
+monarch_names = { 
 	"Ardumanish #3" = 10
 	"Ariyabrdhna #1" = 10
 	"Arshaka #1" = 10
@@ -45,4 +45,12 @@ monarch_names = {
 	"Vispa-Thaurvo-Ashtray #0" = -1
 	"Xshathrita #0" = 0
 	"Zairichi #0" = -1
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

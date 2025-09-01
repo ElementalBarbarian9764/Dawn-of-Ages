@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 114 154 143 }
 revolutionary_colors = { 14 0 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adriano #0" = 0
 	"Alessandro #0" = 0
 	"Alfredo #0" = 0
@@ -69,77 +69,19 @@ monarch_names = {
 	"Umberto #0" = 0
 	"Vicenzo #0" = 0
 }
-leader_names = {
-	"Allori"
-	"Barberini"
-	"Bartolini"
-	"Benciveni"
-	"Bizzelli"
-	"Boncompagni"
-	"Botta-Adorno"
-	"Buontalenti"
-	"Buti"
-	"Butteri"
-	"Cercignani"
-	"Chiastavelli"
-	"Chigi"
-	"Corsini"
-	"Cybo-Malaspina"
-	"Gori"
-	"Grimaldi"
-	"Grimaldi di Busca"
-	"Lanzi"
-	"Lessi"
-	"Ludovisi"
-	"Malaspina"
-	"Mancinetti"
-	"Nasini"
-	"Orsini"
-	"Piccolomini"
-	"Pico"
-	"Pierallini"
-	"Pieroni"
-	"Piombante"
-	"Pontelli"
-	"Rivani"
-	"Rospigliosi"
-	"Savaranola"
-	"Soderini"
-	"Tempesta"
-	"Terreni"
-	"Tonelli"
-	"Traballesi"
-	"Ulivelli"
-	"Vasari"
-	"Zucchi"
-	"d'Appiani d'Aragona"
-	"d'Asburgo"
-	"de' Medici"
-	"degli Albizzi"
-	"del Moro"
-	"del Rosso"
-	"di Campofregoso"
-	"di Farnese"
+leader_names = { 
+	Allori Barberini Bartolini Benciveni Bizzelli Boncompagni Botta-Adorno Buontalenti Buti Butteri
+	Cercignani Chiastavelli Chigi Corsini Cybo-Malaspina Gori Grimaldi "Grimaldi di Busca" Lanzi Lessi
+	Ludovisi Malaspina Mancinetti Nasini Orsini Piccolomini Pico Pierallini Pieroni Piombante
+	Pontelli Rivani Rospigliosi Savaranola Soderini Tempesta Terreni Tonelli Traballesi Ulivelli
+	Vasari Zucchi "d'Appiani d'Aragona" d'Asburgo "de' Medici" "degli Albizzi" "del Moro" "del Rosso" "di Campofregoso" "di Farnese"
 }
-ship_names = {
-	"Arezzo"
-	"Bisenzio"
-	"Corso Donati"
-	"Dino Compagni"
-	"Firenze"
-	"Francesco Petrarca"
-	"Giotto"
-	"Impruneta"
-	"Medici"
-	"Mugnone"
-	"Orsanmichele"
-	"Pistoia"
-	"Prato"
-	"Ripoli"
-	"San Lorenzo"
-	"Santa Trinita"
-	"Sesto Fiorentino"
+ship_names = { 
+	Arezzo Bisenzio "Corso Donati" "Dino Compagni" Firenze "Francesco Petrarca" Giotto Impruneta Medici Mugnone
+	Orsanmichele Pistoia Prato Ripoli "San Lorenzo" "Santa Trinita" "Sesto Fiorentino" 
 }
-army_names = {
-	"Armata de $PROVINCE$"
+army_names = { 
+	"Armata de $PROVINCE$" 
+}
+fleet_names = { 
 }

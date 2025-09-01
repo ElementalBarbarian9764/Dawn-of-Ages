@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 39 108 140 }
 revolutionary_colors = { 5 14 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -29,7 +29,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Adrijana #0" = -1
 	"Aleksandar #0" = 0
 	"Antonije #0" = 0
@@ -74,37 +74,14 @@ monarch_names = {
 	"Zdravko #0" = 0
 	"Zvonimir #0" = 0
 }
-leader_names = {
-	"Balsic"
-	"Baulica"
-	"Berici"
-	"Bivolici"
-	"Boljevic"
-	"Buca"
-	"Crnojevic"
-	"Drago"
-	"Grblji"
-	"Komanin"
-	"Kornecanin"
-	"Kosaca"
-	"Lukovici"
-	"Martinovitci"
-	"Njegos"
-	"Pastrovici"
-	"Petrovici"
-	"Radari"
-	"Srdjici"
-	"Sundecic"
+leader_names = { 
+	Balsic Baulica Berici Bivolici Boljevic Buca Crnojevic Drago Grblji Komanin
+	Kornecanin Kosaca Lukovici Martinovitci Njegos Pastrovici Petrovici Radari Srdjici Sundecic
 }
-ship_names = {
-	"Balsa I"
-	"Cetinje"
-	"Crna Gora"
-	"Duklja"
-	"Jadransko more"
-	"Jovan Vladimir"
-	"Mihajlo I"
-	"Podgorica"
-	"Vojislavljevic"
-	"Zeta"
+ship_names = { 
+	"Balsa I" Cetinje "Crna Gora" Duklja "Jadransko more" "Jovan Vladimir" "Mihajlo I" Podgorica Vojislavljevic Zeta
+}
+fleet_names = { 
+}
+army_names = { 
 }

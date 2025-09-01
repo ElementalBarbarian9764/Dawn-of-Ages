@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 55 108 158 }
 revolutionary_colors = { 4 0 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	african_abyssinian_cavalry
 	african_abyssinian_light_cavalry
 	african_clubmen
@@ -25,7 +25,7 @@ historical_units = {
 	bantu_tribal_warfare
 	westernized_bantu
 }
-monarch_names = {
+monarch_names = { 
 	"Bakari #0" = 20
 	"Baongo #0" = 0
 	"Barama N'Golo #0" = 20
@@ -71,28 +71,14 @@ monarch_names = {
 	"Yadega #0" = 0
 	"Yolomfaogoma #0" = 0
 }
-leader_names = {
-	"Chichuana"
-	"Cossa"
-	"Machel"
-	"Machungo"
-	"Mbazia"
-	"Mondlane"
-	"Mutola"
-	"Sanyang"
-	"Sarea"
-	"Vashko"
+leader_names = { 
+	Chichuana Cossa Machel Machungo Mbazia Mondlane Mutola Sanyang Sarea Vashko
 }
-ship_names = {
-	"Debo"
-	"Heinyaho"
-	"Jeneema"
-	"Korondugu"
-	"Kotya"
-	"Pondori"
-	"Sorko"
-	"Sorogama"
-	"Tigermaxo"
-	"Tiéma ciéwe"
-	"Tiéyaho"
+ship_names = { 
+	Debo Heinyaho Jeneema Korondugu Kotya Pondori Sorko Sorogama Tigermaxo "Tiéma ciéwe"
+	Tiéyaho 
+}
+fleet_names = { 
+}
+army_names = { 
 }

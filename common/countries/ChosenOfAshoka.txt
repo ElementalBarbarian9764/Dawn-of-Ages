@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 205 100 0 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	indian_arquebusier
 	indian_elephant
@@ -14,7 +14,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"'Azim-ash Sha'n #0" = 1
 	"A'zam Shâh #0" = 1
 	"Abd Allah #0" = 1
@@ -153,130 +153,25 @@ monarch_names = {
 	"Vyasaraya #0" = 1
 	"Yethiraja #0" = 1
 }
-leader_names = {
-	"Afghani"
-	"Alupa"
-	"Ambar"
-	"Ameerun"
-	"Ardastani"
-	"Astarabadi"
-	"Badakhshi"
-	"Beg"
-	"Bhutto"
-	"Bukhari"
-	"Changezi"
-	"Chughtai"
-	"Ghuri"
-	"Gilani"
-	"Gopana"
-	"Govindaraya"
-	"Hamadani"
-	"Hasanabadi"
-	"Heuna"
-	"Hussaini"
-	"Jahan"
-	"Jurjani"
-	"Kabuli"
-	"Kamaluddin"
-	"Kamma"
-	"Kampana"
-	"Karbali"
-	"Keladi"
-	"Khan"
-	"Kirmani"
-	"Kurd"
-	"Latif"
-	"Mangu"
-	"Mazandarani"
-	"Mirza"
-	"Musharif"
-	"Nagar"
-	"Narasa"
-	"Nasseruddin"
-	"Nayak"
-	"Nayaka"
-	"Nayudu"
-	"Nazirun"
-	"Paruchuri"
-	"Qadir"
-	"Qummi"
-	"Ra'ana"
-	"Radhidun"
-	"Reddy"
-	"Rumi"
-	"Safsikhan"
-	"Saluva"
-	"Shahabuddin"
-	"Sharif"
-	"Simnani"
-	"Sinan"
-	"Singh"
-	"Sistani"
-	"Timma"
-	"Timmarasa"
-	"Tiruvadi"
-	"Tuluva"
-	"Ummattur"
-	"Uzbek"
-	"Vasireddy"
-	"Velama"
-	"Wazirun"
-	"Zahiruddin"
+leader_names = { 
+	Afghani Alupa Ambar Ameerun Ardastani Astarabadi Badakhshi Beg Bhutto Bukhari
+	Changezi Chughtai Ghuri Gilani Gopana Govindaraya Hamadani Hasanabadi Heuna Hussaini
+	Jahan Jurjani Kabuli Kamaluddin Kamma Kampana Karbali Keladi Khan Kirmani
+	Kurd Latif Mangu Mazandarani Mirza Musharif Nagar Narasa Nasseruddin Nayak
+	Nayaka Nayudu Nazirun Paruchuri Qadir Qummi Ra'ana Radhidun Reddy Rumi
+	Safsikhan Saluva Shahabuddin Sharif Simnani Sinan Singh Sistani Timma Timmarasa
+	Tiruvadi Tuluva Ummattur Uzbek Vasireddy Velama Wazirun Zahiruddin 
 }
-ship_names = {
-	"Alia"
-	"Amirtha"
-	"Amman"
-	"Arul"
-	"Aurangabad"
-	"Bharatapuza"
-	"Bhavani"
-	"Bhima"
-	"Chellam"
-	"Devi"
-	"Devki"
-	"Durga"
-	"Fatimah"
-	"Gayatri"
-	"Godavari"
-	"Godvari"
-	"Gulbargah"
-	"Iniya"
-	"Jalsena"
-	"Kabani"
-	"Kala Jahazi"
-	"Kaveri"
-	"Khan"
-	"Krishna"
-	"Lakshmi"
-	"Lal Jahazi"
-	"Madhu"
-	"Meenakshi"
-	"Nalini"
-	"Nausena"
-	"Nav ka Yudh"
-	"Niknaz"
-	"Nila Jahazi"
-	"Niloufa"
-	"Noor"
-	"Pambar"
-	"Parvati"
-	"Periyar"
-	"Ponni"
-	"Radha"
-	"Ratri"
-	"Sagar"
-	"Salima"
-	"Sarasvati"
-	"Shameena"
-	"Sita"
-	"Spiti"
-	"Suhalia"
-	"Tamarai"
-	"Tungabhadra"
-	"Yamuna"
-	"Yasmine"
+ship_names = { 
+	Alia Amirtha Amman Arul Aurangabad Bharatapuza Bhavani Bhima Chellam Devi
+	Devki Durga Fatimah Gayatri Godavari Godvari Gulbargah Iniya Jalsena Kabani
+	"Kala Jahazi" Kaveri Khan Krishna Lakshmi "Lal Jahazi" Madhu Meenakshi Nalini Nausena
+	"Nav ka Yudh" Niknaz "Nila Jahazi" Niloufa Noor Pambar Parvati Periyar Ponni Radha
+	Ratri Sagar Salima Sarasvati Shameena Sita Spiti Suhalia Tamarai Tungabhadra
+	Yamuna Yasmine 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 42 107 17 }
 revolutionary_colors = { 15 2 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	maritime_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	humanist_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Anzarouk #0" = 0
 	"Atsymtchouk #0" = 20
 	"Baachik #0" = 0
@@ -72,36 +72,15 @@ monarch_names = {
 	"Verzacht #0" = 40
 	"Zuliyzhan #0" = -1
 }
-leader_names = {
-	"Abzakh"
-	"Adamiy"
-	"Beslenei"
-	"Cöbein"
-	"Guaye"
-	"Hatuqwai"
-	"Khegaik"
-	"Khetuk"
-	"Mamkhegh"
-	"Mokhosh"
-	"Natukhai"
-	"Okhlov"
-	"Shapsug"
-	"Tazryt"
-	"Temirgoy"
-	"Ubykh"
-	"Zhaney"
+leader_names = { 
+	Abzakh Adamiy Beslenei Cöbein Guaye Hatuqwai Khegaik Khetuk Mamkhegh Mokhosh
+	Natukhai Okhlov Shapsug Tazryt Temirgoy Ubykh Zhaney 
 }
-ship_names = {
-	"Adyghe"
-	"Anapa"
-	"Beslenei"
-	"Cöbein"
-	"Kabardia"
-	"Mamkhegh"
-	"Nalchik"
-	"Natukhay"
-	"Ossetia"
-	"Petrezok"
-	"Tuapse"
-	"Zichia"
+ship_names = { 
+	Adyghe Anapa Beslenei Cöbein Kabardia Mamkhegh Nalchik Natukhay Ossetia Petrezok
+	Tuapse Zichia 
+}
+fleet_names = { 
+}
+army_names = { 
 }

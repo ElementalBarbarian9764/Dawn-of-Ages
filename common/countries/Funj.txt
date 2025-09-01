@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 84 80 152 }
 revolutionary_colors = { 13 14 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	adal_guerilla_warfare
 	adal_gunpowder_warfare
 	african_abyssinian_cavalry
@@ -25,7 +25,7 @@ historical_units = {
 	bantu_tribal_warfare
 	westernized_adal
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-Qâdir #0" = 40
 	"'Abd al-Rahman #0" = 0
 	"'Amâra #0" = 40
@@ -70,28 +70,14 @@ monarch_names = {
 	"Ya'qub #0" = 0
 	"Yusuf #0" = 0
 }
-leader_names = {
-	"Abboud"
-	"Fung"
-	"Garang"
-	"Kayra"
-	"Keira"
-	"Kelueljang"
-	"Lugor"
-	"Nuer"
-	"Shol"
-	"Taha"
+leader_names = { 
+	Abboud Fung Garang Kayra Keira Kelueljang Lugor Nuer Shol Taha
 }
-ship_names = {
-	"Amenirdis"
-	"Amon"
-	"Apedemak"
-	"Arensnuphis"
-	"Bes"
-	"Dedwen"
-	"Khnum"
-	"Mandulis"
-	"Mut"
-	"Taweret"
-	"Tefnut"
+ship_names = { 
+	Amenirdis Amon Apedemak Arensnuphis Bes Dedwen Khnum Mandulis Mut Taweret
+	Tefnut 
+}
+fleet_names = { 
+}
+army_names = { 
 }

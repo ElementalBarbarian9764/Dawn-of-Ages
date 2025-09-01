@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 133 43 27 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	defensive_ideas
 	exploration_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	trade_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	british_hussar
 	british_redcoat
 	british_square
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_infantry
 	western_medieval_knights
 }
-monarch_names = {
+monarch_names = { 
 	"Absolon #0" = 0
 	"Ailpein #0" = 0
 	"Beitiris #0" = -1
@@ -89,225 +89,35 @@ monarch_names = {
 	"Tormod #0" = 0
 	"Uilleam #0" = 0
 }
-leader_names = {
-	"Airchart"
-	"Ambarsan"
-	"Anrias"
-	"Aonghais"
-	"Arascain"
-	"Banach"
-	"Beitean"
-	"Blacathathir"
-	"Blar"
-	"Braigheach"
-	"Brun"
-	"Buiseid"
-	"Caimbeulach"
-	"Calder"
-	"Camshron"
-	"Canowan"
-	"Cearr"
-	"Ceiteach"
-	"Ciogach"
-	"Cochran"
-	"Colquhoun"
-	"Comyn"
-	"Crobán"
-	"Dalais"
-	"Deoir"
-	"Druimeanach"
-	"Dughallach"
-	"Dunchad"
-	"Fearghasdan"
-	"Fearsithe"
-	"Fingon"
-	"Flimean"
-	"Folais"
-	"Forsaidh"
-	"Frisealach"
-	"Galbraith"
-	"Geadais"
-	"Gilios"
-	"Giobsan"
-	"Glas"
-	"Gobha"
-	"Grannd"
-	"Greumach"
-	"Guaire"
-	"Guinne"
-	"Gutraidh"
-	"Haig"
-	"Kincaid"
-	"Kinloch"
-	"Kinnaird"
-	"Kinnear"
-	"Kinninmont"
-	"Labhruinn"
-	"Lamont"
-	"Lathurna"
-	"Liobhunn"
-	"Loganach"
-	"Lutair"
-	"Mac-an-toisich"
-	"MacAlasdair"
-	"MacAoidh"
-	"MacAonghais"
-	"MacBeathain"
-	"MacCailein"
-	"MacCoinnich"
-	"MacCruimein"
-	"MacDhomhnaill"
-	"MacDhonnachaidh"
-	"MacDhughaill"
-	"MacDubhghaill"
-	"MacEanruig"
-	"MacEoghainn"
-	"MacEomhair"
-	"MacFhearghuis"
-	"MacGhille Eoin"
-	"MacGilleEathain"
-	"MacGriogair"
-	"MacIntyre"
-	"MacLachlainn"
-	"MacLeoid"
-	"MacMhathain"
-	"MacNab"
-	"MacNeachdainn"
-	"MacPharlain"
-	"MacRaild"
-	"MacTamhais"
-	"Mair"
-	"Marr"
-	"Mcinnearach"
-	"MhicNeacail"
-	"Mhuirich"
-	"Moffat"
-	"Muir"
-	"Munro"
-	"Napier"
-	"Narann"
-	"Niocalsan"
-	"Norval"
-	"O'Duine"
-	"Og"
-	"Ogilvy"
-	"Oliphant"
-	"Paorach"
-	"Parvus"
-	"Patullo"
-	"Peucag"
-	"Pitblado"
-	"Pitcairn"
-	"Pollok"
-	"Preas"
-	"Rait"
-	"Rathais"
-	"Rattray"
-	"Revan"
-	"Roid"
-	"Ros"
-	"Salmond"
-	"Scotach"
-	"Sgian"
-	"Sgot"
-	"Singlear"
-	"Siosalach"
-	"Smios"
-	"Stiubhard"
-	"Strathaen"
-	"Sutherlarach"
-	"Talmhach"
-	"Tod"
-	"Tuairnear"
-	"Tulach"
-	"Uallas"
-	"Udny"
-	"Urchardan"
-	"de Charteris"
-	"de Moravia"
+leader_names = { 
+	Airchart Ambarsan Anrias Aonghais Arascain Banach Beitean Blacathathir Blar Braigheach
+	Brun Buiseid Caimbeulach Calder Camshron Canowan Cearr Ceiteach Ciogach Cochran
+	Colquhoun Comyn Crobán Dalais Deoir Druimeanach Dughallach Dunchad Fearghasdan Fearsithe
+	Fingon Flimean Folais Forsaidh Frisealach Galbraith Geadais Gilios Giobsan Glas
+	Gobha Grannd Greumach Guaire Guinne Gutraidh Haig Kincaid Kinloch Kinnaird
+	Kinnear Kinninmont Labhruinn Lamont Lathurna Liobhunn Loganach Lutair Mac-an-toisich MacAlasdair
+	MacAoidh MacAonghais MacBeathain MacCailein MacCoinnich MacCruimein MacDhomhnaill MacDhonnachaidh MacDhughaill MacDubhghaill
+	MacEanruig MacEoghainn MacEomhair MacFhearghuis "MacGhille Eoin" MacGilleEathain MacGriogair MacIntyre MacLachlainn MacLeoid
+	MacMhathain MacNab MacNeachdainn MacPharlain MacRaild MacTamhais Mair Marr Mcinnearach MhicNeacail
+	Mhuirich Moffat Muir Munro Napier Narann Niocalsan Norval O'Duine Og
+	Ogilvy Oliphant Paorach Parvus Patullo Peucag Pitblado Pitcairn Pollok Preas
+	Rait Rathais Rattray Revan Roid Ros Salmond Scotach Sgian Sgot
+	Singlear Siosalach Smios Stiubhard Strathaen Sutherlarach Talmhach Tod Tuairnear Tulach
+	Uallas Udny Urchardan "de Charteris" "de Moravia" 
 }
-ship_names = {
-	"Abraruadh"
-	"Abscissa Virescit"
-	"Accendit Cantu"
-	"Alba"
-	"Amo Probos"
-	"Andreas de Atholia"
-	"Aonaibh Ri Chéile"
-	"Asainte"
-	"Audaciter"
-	"Avance"
-	"Baideanach"
-	"Baile Inneraora"
-	"Berowald"
-	"Buaidh No Bas"
-	"Cair Chaladain"
-	"Caisteal Dhuni"
-	"Caledonia"
-	"Calum Cille"
-	"Clar Innes"
-	"Clut"
-	"Confido"
-	"Consilio Non Petu"
-	"Cruachan"
-	"Dalriada"
-	"De Bonnaire"
-	"Deoradh"
-	"Deus Juvat"
-	"Diriget Deus"
-	"Domhnall mac Raghnaill"
-	"Dominus Fecit"
-	"Donnchadh Reamhar"
-	"Donnchadh na-Adh"
-	"Dun Bheagain"
-	"Earra-Ghaidheal"
-	"Fergus Mor"
-	"Feros Ferio"
-	"Fide Et Opera"
-	"Findanus"
-	"Fraoch Eilean"
-	"Freskin"
-	"Fuimus"
-	"Ghift Dhe Agus An Righ"
-	"Gleann Eagas"
-	"Hoc Securior"
-	"Hugh de Paduinan"
-	"Iagan"
-	"Innse Gall"
-	"Invictus Maneo"
-	"Johannes Del Crag"
-	"Lannraig"
-	"Loch Abar"
-	"Loch Laomainn"
-	"Loch Moigh"
-	"Lochiel"
-	"Loyal Au Mort"
-	"Macbeatha"
-	"Marte Suo Tutus"
-	"Merito"
-	"Muriel"
-	"Ne Obliviscaris"
-	"Nectan"
-	"Niseag"
-	"Paratus Sum"
-	"Petit Alta"
-	"Petrus de Haga"
-	"Preseverando"
-	"Qui Conducit"
-	"Raibeart Bruis"
-	"Reviresco"
-	"Salus Per Christum"
-	"Scitis"
-	"Serva Jugum"
-	"Somairle"
-	"Sruighlea"
-	"Tavis"
-	"Toom Tabard"
-	"Tout Jour Prest"
-	"Tulach Ard"
-	"Uilleam Uallas"
-	"Vincit Veritas"
-	"Virtutis Gloria Merces"
-	"Vive Ut Vivas"
+ship_names = { 
+	Abraruadh "Abscissa Virescit" "Accendit Cantu" Alba "Amo Probos" "Andreas de Atholia" "Aonaibh Ri Chéile" Asainte Audaciter Avance
+	Baideanach "Baile Inneraora" Berowald "Buaidh No Bas" "Cair Chaladain" "Caisteal Dhuni" Caledonia "Calum Cille" "Clar Innes" Clut
+	Confido "Consilio Non Petu" Cruachan Dalriada "De Bonnaire" Deoradh "Deus Juvat" "Diriget Deus" "Domhnall mac Raghnaill" "Dominus Fecit"
+	"Donnchadh Reamhar" "Donnchadh na-Adh" "Dun Bheagain" Earra-Ghaidheal "Fergus Mor" "Feros Ferio" "Fide Et Opera" Findanus "Fraoch Eilean" Freskin
+	Fuimus "Ghift Dhe Agus An Righ" "Gleann Eagas" "Hoc Securior" "Hugh de Paduinan" Iagan "Innse Gall" "Invictus Maneo" "Johannes Del Crag" Lannraig
+	"Loch Abar" "Loch Laomainn" "Loch Moigh" Lochiel "Loyal Au Mort" Macbeatha "Marte Suo Tutus" Merito Muriel "Ne Obliviscaris"
+	Nectan Niseag "Paratus Sum" "Petit Alta" "Petrus de Haga" Preseverando "Qui Conducit" "Raibeart Bruis" Reviresco "Salus Per Christum"
+	Scitis "Serva Jugum" Somairle Sruighlea Tavis "Toom Tabard" "Tout Jour Prest" "Tulach Ard" "Uilleam Uallas" "Vincit Veritas"
+	"Virtutis Gloria Merces" "Vive Ut Vivas" 
 }
 preferred_religion = reformed
+fleet_names = { 
+}
+army_names = { 
+}

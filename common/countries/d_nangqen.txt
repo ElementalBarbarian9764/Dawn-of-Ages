@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 44 152 132 }
-monarch_names = {
+monarch_names = { 
 	"Aguo #1" = 10
 	"Changyun #1" = 10
 	"Chun #0" = 0
@@ -24,4 +24,12 @@ monarch_names = {
 	"Yuanhao #0" = 0
 	"Zhibuwu #0" = 0
 	"Zongjiao #2" = 10
+}
+leader_names = { 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

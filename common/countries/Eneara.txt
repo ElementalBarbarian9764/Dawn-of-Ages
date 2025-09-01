@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 213 190 38 }
 revolutionary_colors = { 9 6 9 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	african_abyssinian_cavalry
 	african_abyssinian_light_cavalry
 	african_dragoon
@@ -26,7 +26,7 @@ historical_units = {
 	ethiopian_mountain_warfare
 	westernized_ethiopian
 }
-monarch_names = {
+monarch_names = { 
 	"'Endreyâs #1" = 0
 	"Aba Magal #0" = -1
 	"Abaya #0" = 0
@@ -76,38 +76,15 @@ monarch_names = {
 	"Yeshaq #1" = 0
 	"Zikole #0" = 0
 }
-leader_names = {
-	"Benesho"
-	"Bosho"
-	"Chara"
-	"CharaGera"
-	"Eneara"
-	"Gofa"
-	"Gomma"
-	"Gonga"
-	"Hinaro"
-	"Hio"
-	"Konta"
-	"Kullo"
-	"Maji"
-	"Masongo"
-	"Mato"
-	"Minje"
-	"Nao"
-	"She"
-	"Shewo"
-	"Uba"
+leader_names = { 
+	Benesho Bosho Chara CharaGera Eneara Gofa Gomma Gonga Hinaro Hio
+	Konta Kullo Maji Masongo Mato Minje Nao She Shewo Uba
 }
-ship_names = {
-	"Kedus Harbe"
-	"Lalibela"
-	"Mara Takla"
-	"Na'akueto La'ab"
-	"Seyum"
-	"Shewa"
-	"Tatadum"
-	"Tigray"
-	"Yekuno Amlak"
-	"Yetbarak"
-	"Yodit"
+ship_names = { 
+	"Kedus Harbe" Lalibela "Mara Takla" "Na'akueto La'ab" Seyum Shewa Tatadum Tigray "Yekuno Amlak" Yetbarak
+	Yodit 
+}
+fleet_names = { 
+}
+army_names = { 
 }

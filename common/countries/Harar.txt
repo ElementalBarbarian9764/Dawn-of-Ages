@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 175 75 15 }
 revolutionary_colors = { 5 14 10 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quantity_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	adal_guerilla_warfare
 	adal_gunpowder_warfare
 	african_abyssinian_cavalry
@@ -25,7 +25,7 @@ historical_units = {
 	bantu_tribal_warfare
 	westernized_adal
 }
-monarch_names = {
+monarch_names = { 
 	"'Ali #0" = 40
 	"'Uthman #0" = 20
 	"Abd al-Karim #0" = 0
@@ -72,33 +72,14 @@ monarch_names = {
 	"Yahya #0" = 0
 	"Yusuf #0" = 20
 }
-leader_names = {
-	"Abdelrashid"
-	"Barré"
-	"Bol"
-	"Deng"
-	"Lemn"
-	"Leta"
-	"Semer"
-	"Teka"
-	"Tsige"
-	"Yagoub"
+leader_names = { 
+	Abdelrashid Barré Bol Deng Lemn Leta Semer Teka Tsige Yagoub
 }
-ship_names = {
-	"Asayita"
-	"Aura"
-	"Awash"
-	"Berahle"
-	"Chifra"
-	"Dallol"
-	"Dubti"
-	"Dulecha"
-	"Elidar"
-	"Ewa"
-	"Gewane"
-	"Koneba"
-	"Mille"
-	"Semera"
-	"Simurobi"
-	"Yalo"
+ship_names = { 
+	Asayita Aura Awash Berahle Chifra Dallol Dubti Dulecha Elidar Ewa
+	Gewane Koneba Mille Semera Simurobi Yalo 
+}
+fleet_names = { 
+}
+army_names = { 
 }

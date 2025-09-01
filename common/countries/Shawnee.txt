@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 212 105 118 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Auonashechla #0" = 20
 	"Aweecony #0" = 20
 	"Chiachska #0" = 20
@@ -81,70 +81,18 @@ monarch_names = {
 	"Wynepuechisika #0" = 20
 	"Wynepuehsika #0" = 20
 }
-leader_names = {
-	"Akepee"
-	"Alawaymotakah"
-	"Aqueloma"
-	"Auglaize"
-	"Calaka"
-	"Chalaakaatha"
-	"Chillicothe"
-	"Conedogwinit"
-	"Hathawekela"
-	"Hawkawepitathy"
-	"Hisoskok"
-	"Kagoughsage"
-	"Kickapougowi"
-	"Kiscopocoke"
-	"Kispoko"
-	"Kispokotha"
-	"Kithlipecanuk"
-	"Koshachkink"
-	"Maguck"
-	"Maykujay"
-	"Mekoce"
-	"Mequachake"
-	"Oawikila"
-	"Ochipway"
-	"Okowellos"
-	"Opeatako"
-	"Oshawahnah"
-	"Paheto"
-	"Paxtang"
-	"Paytokothe"
-	"Peixtan"
-	"Pekowi"
-	"Piqua"
-	"Sawanugi"
-	"Sawauwone"
-	"Sawcunk"
-	"Saweeto"
-	"Sewickley"
-	"Shamokin"
-	"Sonnioto"
-	"Spitotha"
-	"Sylacauga"
-	"Thaawikila"
-	"Thawegila"
-	"Tippecanoe"
-	"Wabapusito"
-	"Wagunetee"
-	"Wakatawicks"
-	"Wakatomica"
-	"Wapakoneta"
+leader_names = { 
+	Akepee Alawaymotakah Aqueloma Auglaize Calaka Chalaakaatha Chillicothe Conedogwinit Hathawekela Hawkawepitathy
+	Hisoskok Kagoughsage Kickapougowi Kiscopocoke Kispoko Kispokotha Kithlipecanuk Koshachkink Maguck Maykujay
+	Mekoce Mequachake Oawikila Ochipway Okowellos Opeatako Oshawahnah Paheto Paxtang Paytokothe
+	Peixtan Pekowi Piqua Sawanugi Sawauwone Sawcunk Saweeto Sewickley Shamokin Sonnioto
+	Spitotha Sylacauga Thaawikila Thawegila Tippecanoe Wabapusito Wagunetee Wakatawicks Wakatomica Wapakoneta
 }
-ship_names = {
-	"Cheketecaca"
-	"Chillicothe"
-	"Hathawekela"
-	"Kispokotha"
-	"Mequachake"
-	"Mshkwaawi Peshikthe"
-	"Mshkwaawi Sepe"
-	"Papapanawe Meshewa"
-	"Pekuwe"
-	"Unemake Meshewa"
-	"Wa'kanakya Conee"
-	"Wiipekwa Weshe"
-	"weewa'kanakithita"
+ship_names = { 
+	Cheketecaca Chillicothe Hathawekela Kispokotha Mequachake "Mshkwaawi Peshikthe" "Mshkwaawi Sepe" "Papapanawe Meshewa" Pekuwe "Unemake Meshewa"
+	"Wa'kanakya Conee" "Wiipekwa Weshe" weewa'kanakithita 
+}
+fleet_names = { 
+}
+army_names = { 
 }

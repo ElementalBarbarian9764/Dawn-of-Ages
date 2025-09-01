@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 252 209 22 }
 revolutionary_colors = { 5 8 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Dovyat #0" = 10
 	"Frode #0" = 5
 	"Inga #0" = -1
@@ -47,27 +47,13 @@ monarch_names = {
 	"Vetseke #0" = 0
 	"Yudki #0" = 0
 }
-leader_names = {
-	"Guoládat"
-	"Gájka"
-	"Kaise"
-	"Magga"
-	"Nuoráne"
-	"Nylogid"
-	"Saiva"
-	"Syktyvkar"
-	"Ubmeje"
-	"Yugra"
+leader_names = { 
+	Guoládat Gájka Kaise Magga Nuoráne Nylogid Saiva Syktyvkar Ubmeje Yugra
 }
-ship_names = {
-	"Akka"
-	"Beaivi"
-	"Bieggolmai"
-	"Haldi"
-	"Laib Olmai"
-	"Lieaibolmmai"
-	"Raedieahkka"
-	"Ruohtta"
-	"Stallo"
-	"Tjaetsieålmaj"
+ship_names = { 
+	Akka Beaivi Bieggolmai Haldi "Laib Olmai" Lieaibolmmai Raedieahkka Ruohtta Stallo Tjaetsieålmaj
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -1,0 +1,17 @@
+government = republic
+add_government_reform = civic_republicanism_government
+government_rank = 3
+technology_group = high_american
+religion = unseelie_religion
+primary_culture = south_american_fae
+capital = 2934
+unit_type = high_american
+409.1.1 = { 
+	monarch = { 
+		name = "Native Council"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

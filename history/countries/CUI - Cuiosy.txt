@@ -1,0 +1,17 @@
+government = tribal
+add_government_reform = tribal_despotism
+government_rank = 1
+technology_group = high_american
+religion = flying_serpent
+primary_culture = amarisa_dragon_culture
+capital = 2845
+unit_type = high_american
+409.1.1 = { 
+	monarch = { 
+		name = "Native Council"
+		adm = 3
+		dip = 3
+		mil = 3
+		regent = yes
+	}
+}

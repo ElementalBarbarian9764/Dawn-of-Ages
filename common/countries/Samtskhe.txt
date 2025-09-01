@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 22 157 57 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	religious_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -29,7 +29,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Aghbugha #1" = 30
 	"Ana #0" = -1
 	"Baadur #0" = 10
@@ -59,60 +59,17 @@ monarch_names = {
 	"Zaza #0" = 0
 	"Zviad #0" = 0
 }
-leader_names = {
-	"Amilakhori"
-	"Avilishvili"
-	"Diasamidze"
-	"Gaganidze"
-	"Gogibashvili"
-	"Gogorishvili"
-	"Khildirbegashvili"
-	"Kobulisdze"
-	"Kopasdze"
-	"Palavandishvili"
-	"Panaskerteli"
-	"Shalikashvili"
-	"Sologashvili"
-	"Sumbatishvili"
-	"Tavdgiridze"
-	"Tukhareli"
+leader_names = { 
+	Amilakhori Avilishvili Diasamidze Gaganidze Gogibashvili Gogorishvili Khildirbegashvili Kobulisdze Kopasdze Palavandishvili
+	Panaskerteli Shalikashvili Sologashvili Sumbatishvili Tavdgiridze Tukhareli 
 }
-ship_names = {
-	"Aghbugha"
-	"Amirani"
-	"Anakopia"
-	"Apsaros"
-	"Argo"
-	"Armazi"
-	"Artaani"
-	"Avtandil"
-	"Beka"
-	"Beshken"
-	"Bichvinta"
-	"Colchis"
-	"Davit Aghmashenebeli"
-	"Demetre Tavdadebuli"
-	"Didgori"
-	"Dioscurias"
-	"Jvari"
-	"Jvari Vazisa"
-	"Khornabuji"
-	"Lasharisjvari"
-	"Ninotsminda"
-	"Okros Satsmisi"
-	"Parnavaz"
-	"Petre Iberi"
-	"Phasis"
-	"Pityus"
-	"Sargis"
-	"Shota Rustaveli"
-	"Svetitskhoveli"
-	"Tamar"
-	"Tetri Giorgi"
-	"Tsminda Giorgi"
-	"Tsotne Dadiani"
-	"Uplistsikhe"
-	"Vakhtang Gorgasali"
-	"Vardzia"
-	"Venakhi"
+ship_names = { 
+	Aghbugha Amirani Anakopia Apsaros Argo Armazi Artaani Avtandil Beka Beshken
+	Bichvinta Colchis "Davit Aghmashenebeli" "Demetre Tavdadebuli" Didgori Dioscurias Jvari "Jvari Vazisa" Khornabuji Lasharisjvari
+	Ninotsminda "Okros Satsmisi" Parnavaz "Petre Iberi" Phasis Pityus Sargis "Shota Rustaveli" Svetitskhoveli Tamar
+	"Tetri Giorgi" "Tsminda Giorgi" "Tsotne Dadiani" Uplistsikhe "Vakhtang Gorgasali" Vardzia Venakhi 
+}
+fleet_names = { 
+}
+army_names = { 
 }

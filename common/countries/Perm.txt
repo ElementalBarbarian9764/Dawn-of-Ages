@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = inuitgfx
 color = { 236 159 90 }
 revolutionary_colors = { 5 0 15 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quantity_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	eastern_carabinier
 	eastern_knights
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Alik #0" = 0
 	"Atyamas #1" = 10
 	"Chechama #0" = -1
@@ -59,60 +59,17 @@ monarch_names = {
 	"Vishtaspa #0" = 0
 	"Yirkap #0" = 0
 }
-leader_names = {
-	"Burmatov"
-	"Cheskidov"
-	"Dozmorov"
-	"Ichetkin"
-	"Kachesov"
-	"Kanev"
-	"Kochev"
-	"Koinov"
-	"Kolegov"
-	"Kudymov"
-	"Kychanov"
-	"Kykin"
-	"Kynev"
-	"Kynkurogov"
-	"Kyrnyshev"
-	"Kyrov"
-	"Kysov"
-	"Lyurov"
-	"Michkin"
-	"Moshev"
-	"Oshev"
-	"Oshkokov"
-	"Porsin"
-	"Purtov"
-	"Rakin"
-	"Rochev"
-	"Ruchev"
-	"Syuzev"
-	"Vilesov"
-	"Volegov"
-	"Yusev"
-	"Zerov"
-	"Zyrianov"
+leader_names = { 
+	Burmatov Cheskidov Dozmorov Ichetkin Kachesov Kanev Kochev Koinov Kolegov Kudymov
+	Kychanov Kykin Kynev Kynkurogov Kyrnyshev Kyrov Kysov Lyurov Michkin Moshev
+	Oshev Oshkokov Porsin Purtov Rakin Rochev Ruchev Syuzev Vilesov Volegov
+	Yusev Zerov Zyrianov 
 }
-ship_names = {
-	"Baseg"
-	"Cherdyn"
-	"Iskor"
-	"Kama"
-	"Koleg"
-	"Kolva"
-	"Kudym-Osha"
-	"Pelym"
-	"Pokcha"
-	"Rateg"
-	"Shudeg"
-	"Sysola"
-	"Uros"
-	"Uzheg"
-	"Vilgort"
-	"Vishera"
-	"Voleg"
-	"Vychegda"
-	"Yazva"
-	"Yus"
+ship_names = { 
+	Baseg Cherdyn Iskor Kama Koleg Kolva Kudym-Osha Pelym Pokcha Rateg
+	Shudeg Sysola Uros Uzheg Vilgort Vishera Voleg Vychegda Yazva Yus
+}
+fleet_names = { 
+}
+army_names = { 
 }

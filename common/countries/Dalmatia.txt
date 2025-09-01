@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 46 128 188 }
 revolutionary_colors = { 12 15 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	plutocracy_ideas
 	humanist_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Agostino #0" = 0
 	"Alfredo #0" = 0
 	"Almosh #0" = 20
@@ -96,113 +96,23 @@ monarch_names = {
 	"Vjenceslav #0" = 5
 	"Vladislav #0" = 5
 }
-leader_names = {
-	"Alapic"
-	"Alvise"
-	"Babonic"
-	"Barbarigo"
-	"Bardolino"
-	"Barilla"
-	"Bassano"
-	"Bembo"
-	"Blagaj"
-	"Casanova"
-	"Cassandro"
-	"Cesnegic"
-	"Chiogga"
-	"Commachio"
-	"Contarini"
-	"Cornaro"
-	"Crnkovic"
-	"Dolfin"
-	"Donato"
-	"Drashkovic"
-	"Emo"
-	"Erizzo"
-	"Ermelli"
-	"Flangini"
-	"Foscarini"
-	"Foscolo"
-	"Frankapan"
-	"Garda"
-	"Giustinani"
-	"Gorjanski"
-	"Grimani"
-	"Gritti"
-	"Horvat"
-	"Hrvatinic"
-	"Ilocki"
-	"Jelacic"
-	"Kacic"
-	"Kaniski"
-	"Keglevic"
-	"Knezevic"
-	"Krbavski"
-	"Kruzic"
-	"Kurjakovic"
-	"Labia"
-	"Lackovic"
-	"Lando"
-	"Lomellini"
-	"Loredan"
-	"Magno"
-	"Marcello"
-	"Memmo"
-	"Mestre"
-	"Mihalovic"
-	"Moceningo"
-	"Modigliano"
-	"Molin"
-	"Moro"
-	"Morosini"
-	"Nelipcic"
-	"Ozegovic"
-	"Pejacevic"
-	"Pesaro"
-	"Pezzini"
-	"Pisani"
-	"Polani"
-	"Pordenone"
-	"Priuli"
-	"Quirini"
-	"Radic"
-	"Riva"
-	"Rovereto"
-	"Rovigo"
-	"Rukavina"
-	"Ruzzini"
-	"San Paulo"
-	"Schio"
-	"Subic"
-	"Sugaina"
-	"Talovac"
-	"Toscani"
-	"Trevisano"
-	"Valieri"
-	"Veniero"
-	"Vittorio"
-	"Vrancic"
-	"Zeno"
-	"Zrinski"
-	"Zustiniani"
-	"d'Alviano"
-	"de Blazio"
+leader_names = { 
+	Alapic Alvise Babonic Barbarigo Bardolino Barilla Bassano Bembo Blagaj Casanova
+	Cassandro Cesnegic Chiogga Commachio Contarini Cornaro Crnkovic Dolfin Donato Drashkovic
+	Emo Erizzo Ermelli Flangini Foscarini Foscolo Frankapan Garda Giustinani Gorjanski
+	Grimani Gritti Horvat Hrvatinic Ilocki Jelacic Kacic Kaniski Keglevic Knezevic
+	Krbavski Kruzic Kurjakovic Labia Lackovic Lando Lomellini Loredan Magno Marcello
+	Memmo Mestre Mihalovic Moceningo Modigliano Molin Moro Morosini Nelipcic Ozegovic
+	Pejacevic Pesaro Pezzini Pisani Polani Pordenone Priuli Quirini Radic Riva
+	Rovereto Rovigo Rukavina Ruzzini "San Paulo" Schio Subic Sugaina Talovac Toscani
+	Trevisano Valieri Veniero Vittorio Vrancic Zeno Zrinski Zustiniani d'Alviano "de Blazio"
 }
-ship_names = {
-	"Cres"
-	"Dugi Otok"
-	"Goli"
-	"Krl"
-	"Pag"
-	"Plavnik"
-	"Susak"
-	"Sveti Grgur"
-	"Tijat"
-	"Unije"
-	"Vele Srankane"
-	"Zlarin"
-	"Zmajan"
+ship_names = { 
+	Cres "Dugi Otok" Goli Krl Pag Plavnik Susak "Sveti Grgur" Tijat Unije
+	"Vele Srankane" Zlarin Zmajan 
 }
-army_names = {
-	"Vojska $PROVINCE$"
+army_names = { 
+	"Vojska $PROVINCE$" 
+}
+fleet_names = { 
 }

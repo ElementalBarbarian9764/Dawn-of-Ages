@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 116 107 140 }
 revolutionary_colors = { 0 10 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	eastern_carabinier
 	eastern_knights
 	eastern_medieval_infantry
@@ -29,7 +29,7 @@ historical_units = {
 	ottoman_toprakli_hit_and_run
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Aleksandar #1" = 15
 	"Andon #0" = 0
 	"Andrei #0" = 0
@@ -74,31 +74,14 @@ monarch_names = {
 	"Vladimir #0" = 0
 	"Zhivko #0" = 0
 }
-leader_names = {
-	"Balina"
-	"Djordjic"
-	"Dobrovski"
-	"Frujin"
-	"Karposh"
-	"Konstantin"
-	"Marinov"
-	"Peyachevich"
-	"Radic"
-	"Rali"
-	"Shishman"
-	"Sorkochovich"
-	"Strahil"
-	"Stratimirovich"
+leader_names = { 
+	Balina Djordjic Dobrovski Frujin Karposh Konstantin Marinov Peyachevich Radic Rali
+	Shishman Sorkochovich Strahil Stratimirovich 
 }
-ship_names = {
-	"Alhtpolo"
-	"Kiten"
-	"Kraymorie"
-	"Lozenets"
-	"Promorsko"
-	"Rezovo"
-	"Sarafovo"
-	"Sinemorets"
-	"Sozopol"
-	"Varara"
+ship_names = { 
+	Alhtpolo Kiten Kraymorie Lozenets Promorsko Rezovo Sarafovo Sinemorets Sozopol Varara
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 135 104 85 }
 revolutionary_colors = { 9 0 9 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	diplomatic_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	indian_arquebusier
 	indian_elephant
@@ -26,7 +26,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd Allah Khan Talpur #0" = 20
 	"'Abd an-Nabi Khan #0" = 20
 	"Abdullah #0" = 0
@@ -68,63 +68,18 @@ monarch_names = {
 	"Tughluq #0" = 20
 	"Yar Muhammad Khan #0" = 20
 }
-leader_names = {
-	"Arghun"
-	"Bahadur"
-	"Begada"
-	"Bhatia"
-	"Bhil"
-	"Bhutto"
-	"Changezi"
-	"Chudasama"
-	"Desai"
-	"Farooqi"
-	"Ghazi"
-	"Golani"
-	"Jinnah"
-	"Kalhora"
-	"Khokhar"
-	"Khorasani"
-	"Malik"
-	"Mirza"
-	"Munshi"
-	"Naru"
-	"Pahore"
-	"Parikh"
-	"Patel"
-	"Patidar"
-	"Rushi"
-	"Samma"
-	"Shah"
-	"Sindhi"
-	"Singh"
-	"Solanki"
-	"Soomrah"
-	"Sultan"
-	"Tarkhan"
-	"Tomara"
-	"Zamindar"
+leader_names = { 
+	Arghun Bahadur Begada Bhatia Bhil Bhutto Changezi Chudasama Desai Farooqi
+	Ghazi Golani Jinnah Kalhora Khokhar Khorasani Malik Mirza Munshi Naru
+	Pahore Parikh Patel Patidar Rushi Samma Shah Sindhi Singh Solanki
+	Soomrah Sultan Tarkhan Tomara Zamindar 
 }
-ship_names = {
-	"Alia"
-	"Arusa"
-	"Baran"
-	"Fatimah"
-	"Haleji"
-	"Indus"
-	"Kalri"
-	"Khan"
-	"Malir"
-	"Manchhar"
-	"Mol"
-	"Niknaz"
-	"Niloufa"
-	"Noor"
-	"Salima"
-	"Sari"
-	"Shameena"
-	"Suhalia"
-	"Suk"
-	"Yasmine"
-	"Zahira"
+ship_names = { 
+	Alia Arusa Baran Fatimah Haleji Indus Kalri Khan Malir Manchhar
+	Mol Niknaz Niloufa Noor Salima Sari Shameena Suhalia Suk Yasmine
+	Zahira 
+}
+fleet_names = { 
+}
+army_names = { 
 }

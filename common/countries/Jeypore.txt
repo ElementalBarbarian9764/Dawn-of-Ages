@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 237 174 221 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	offensive_ideas
 	quantity_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	economic_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	indian_archers
 	indian_arquebusier
 	indian_footsoldier
@@ -19,7 +19,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Abhai Singh #0" = 10
 	"Ajit Singh #0" = 10
 	"Balbhadra #0" = 10
@@ -41,48 +41,16 @@ monarch_names = {
 	"Surendra #0" = 0
 	"Veerbhadra #0" = 10
 }
-leader_names = {
-	"Bhanja"
-	"Deb"
-	"Deo"
-	"Gangabansi"
-	"Ghumsur"
-	"Janamuni"
-	"Mahapatra"
-	"Mangraj"
-	"Narendra"
-	"Pal"
-	"Parmar"
-	"Patnaik"
-	"Pusapati"
-	"Rawat"
-	"Samant"
-	"Singh"
-	"Vidyadhar"
+leader_names = { 
+	Bhanja Deb Deo Gangabansi Ghumsur Janamuni Mahapatra Mangraj Narendra Pal
+	Parmar Patnaik Pusapati Rawat Samant Singh Vidyadhar 
 }
-ship_names = {
-	"Baitarani"
-	"Balasore"
-	"Balugaon"
-	"Behrampur"
-	"Bhubeneswar"
-	"Brahmani"
-	"Chandipur"
-	"Chilka"
-	"Cuttack"
-	"Durga"
-	"Gopalpur"
-	"Jagannath"
-	"Juggernaut"
-	"Kalijai"
-	"Konark"
-	"Lakshmi"
-	"Mahanadi"
-	"Nalabana"
-	"Paradeep"
-	"Parvati"
-	"Puri"
-	"Radha"
-	"Sarasvati"
-	"Satapada"
+ship_names = { 
+	Baitarani Balasore Balugaon Behrampur Bhubeneswar Brahmani Chandipur Chilka Cuttack Durga
+	Gopalpur Jagannath Juggernaut Kalijai Konark Lakshmi Mahanadi Nalabana Paradeep Parvati
+	Puri Radha Sarasvati Satapada 
+}
+fleet_names = { 
+}
+army_names = { 
 }

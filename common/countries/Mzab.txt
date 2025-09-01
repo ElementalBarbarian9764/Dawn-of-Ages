@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 185 172 208 }
 revolutionary_colors = { 6 9 6 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	ali_bey_reformed_infantry
 	mamluk_archer
 	mamluk_duel
@@ -21,7 +21,7 @@ historical_units = {
 	muslim_dragoon
 	muslim_mass_infantry
 }
-monarch_names = {
+monarch_names = { 
 	"Abd al-Aziz #0" = 10
 	"Abdallah #0" = 0
 	"Abdesslam #0" = 0
@@ -42,53 +42,16 @@ monarch_names = {
 	"Yahya #0" = 10
 	"Zahir #0" = 0
 }
-leader_names = {
-	"Atfayyish"
-	"Beni Isguen"
-	"Beni Mthar"
-	"Lemliki"
-	"Mzabi"
-	"Tabghurin"
-	"al-Afdali"
-	"al-Malshuti"
-	"al-Mus'abi"
-	"bin Yakhlaf"
+leader_names = { 
+	Atfayyish "Beni Isguen" "Beni Mthar" Lemliki Mzabi Tabghurin al-Afdali al-Malshuti al-Mus'abi "bin Yakhlaf"
 }
-ship_names = {
-	"Akhir"
-	"Awwal"
-	"Ba'ith"
-	"Barr"
-	"Batin"
-	"Beni Isguen"
-	"Beriane"
-	"Bou Noura"
-	"El-Ateuf"
-	"Ghardaia"
-	"Hamid"
-	"Haqq"
-	"Hayy"
-	"Majid"
-	"Matin"
-	"Melika"
-	"Mu'akhkhir"
-	"Mu'id"
-	"Mubdi"
-	"Muhsi"
-	"Muhyi"
-	"Mumit"
-	"Muqaddim"
-	"Muqtadir"
-	"Muta'al"
-	"Qadir"
-	"Qawiyy"
-	"Qayyum"
-	"Samad"
-	"Shahid"
-	"Wahid"
-	"Wajed"
-	"Wakil"
-	"Wali"
-	"Waliyy"
-	"Zahir"
+ship_names = { 
+	Akhir Awwal Ba'ith Barr Batin "Beni Isguen" Beriane "Bou Noura" El-Ateuf Ghardaia
+	Hamid Haqq Hayy Majid Matin Melika Mu'akhkhir Mu'id Mubdi Muhsi
+	Muhyi Mumit Muqaddim Muqtadir Muta'al Qadir Qawiyy Qayyum Samad Shahid
+	Wahid Wajed Wakil Wali Waliyy Zahir 
+}
+fleet_names = { 
+}
+army_names = { 
 }

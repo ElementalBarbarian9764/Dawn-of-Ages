@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 227 221 77 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	druzhina_cavalry
 	eastern_carabinier
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Akim #0" = 0
 	"Alyona #0" = -1
 	"Anastas #0" = 0
@@ -81,37 +81,15 @@ monarch_names = {
 	"Yevgeniy #0" = 0
 	"Zinoviy #0" = 0
 }
-leader_names = {
-	"Andomsky"
-	"Beloselsky"
-	"Chernyatinsky"
-	"Dorogobushsky"
-	"Dyabrinsky"
-	"Kargolomsky"
-	"Kashinsky"
-	"Kemsky"
-	"Kholmsky"
-	"Mikulinsky"
-	"Sheleshpansky"
-	"Sugorsky"
-	"Telyatevsky"
-	"Ukhtomsky"
-	"Vadbolsky"
+leader_names = { 
+	Andomsky Beloselsky Chernyatinsky Dorogobushsky Dyabrinsky Kargolomsky Kashinsky Kemsky Kholmsky Mikulinsky
+	Sheleshpansky Sugorsky Telyatevsky Ukhtomsky Vadbolsky 
 }
-ship_names = {
-	"Brosno"
-	"Dmitry"
-	"Kashin"
-	"Kholmsky"
-	"Mikhail"
-	"Rzev"
-	"Startsa"
-	"Toropets"
-	"Torzhok"
-	"Tvertsa"
-	"Valdai"
-	"Volga"
-	"Vyshniy Voloche"
-	"Yaroslavich"
-	"Zubtsov"
+ship_names = { 
+	Brosno Dmitry Kashin Kholmsky Mikhail Rzev Startsa Toropets Torzhok Tvertsa
+	Valdai Volga "Vyshniy Voloche" Yaroslavich Zubtsov 
+}
+fleet_names = { 
+}
+army_names = { 
 }

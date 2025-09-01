@@ -1,0 +1,34 @@
+# Do not change tags in here without changing every other reference to them.
+# If adding new groups or cultures, make sure they are unique.
+#
+# Union tags do not suffer from the 'same_culture_group' tax penalty.
+# Primary tags are the first choice for rebel factions seeking cultural independence.
+#
+# graphical_culture = westerngfx
+# second_graphical_culture = muslimgfx (fallback if the first does not exist)
+
+true_fae_culture = {
+    #Graphics form the culture
+    graphical_culture = northamericagfx
+	# North 
+    north_american_fae = {
+		primary = FAR
+	}
+    south_american_fae = {
+		primary = FAR
+	}
+	# Names from Fantasy Generator
+	male_names = {
+		Midnight Cosmo Strombo Zephyr Finch Briar Rhunardian Citron Nova Almond Sunbeam Ash Foxglove
+	}
+	female_names = {
+		Nastur Lynne Savannah Olive Lucia Solara Erissa Alexia Feu Percula Azalea Tourmaline Tamara
+	}
+	dynasty_names = {
+		Snowfog Goldenstone Shimmerlily Neverwhisper Pollenfoot Mistyforest Plumcloud Foxfluff Blackflight
+	}
+}
+
+elvish_culture = {
+    
+}

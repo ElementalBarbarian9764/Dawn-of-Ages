@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = inuitgfx
 color = { 146 134 77 }
 revolutionary_colors = { 0 8 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	druzhina_cavalry
 	eastern_carabinier
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Bhoo-Chand #0" = 0
 	"Dobrinya #0" = 0
 	"Ilme #0" = -1
@@ -48,47 +48,16 @@ monarch_names = {
 	"Tylmache #0" = 0
 	"Utyayka #0" = -1
 }
-leader_names = {
-	"Barabshin"
-	"Brukathy"
-	"Danilov"
-	"Dmitriev"
-	"Dobrynsky"
-	"Glazaty"
-	"Gorbaty"
-	"Gubastov"
-	"Ivanov"
-	"Kirdyapin"
-	"Muromsky"
-	"Nizhegorodsky"
-	"Nogtew"
-	"Pronsky"
-	"Rozhestvensky"
-	"Sapogov"
-	"Shuisky"
-	"Skopin"
-	"Tolbuzin"
-	"Travin"
-	"Vsevolozhsky"
-	"Yeropkin"
+leader_names = { 
+	Barabshin Brukathy Danilov Dmitriev Dobrynsky Glazaty Gorbaty Gubastov Ivanov Kirdyapin
+	Muromsky Nizhegorodsky Nogtew Pronsky Rozhestvensky Sapogov Shuisky Skopin Tolbuzin Travin
+	Vsevolozhsky Yeropkin 
 }
-ship_names = {
-	"Kadorn"
-	"Kasimov"
-	"Lolotcha"
-	"Mikhailov"
-	"Moksha"
-	"Murom"
-	"Novornichurinsk"
-	"Oka"
-	"Pereslavl"
-	"Pronsk"
-	"Pronya"
-	"Ryazansky"
-	"Sasovo"
-	"Shatsk"
-	"Skopin"
-	"Staraya Ryazan"
-	"Tsna"
-	"Y. Sviatoslavich"
+ship_names = { 
+	Kadorn Kasimov Lolotcha Mikhailov Moksha Murom Novornichurinsk Oka Pereslavl Pronsk
+	Pronya Ryazansky Sasovo Shatsk Skopin "Staraya Ryazan" Tsna "Y. Sviatoslavich" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

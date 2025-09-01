@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 187 127 34 }
 revolutionary_colors = { 8 5 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Bolsas #0" = 20
 	"Catiti #0" = 20
 	"Galisteo #0" = 20
@@ -35,39 +35,15 @@ monarch_names = {
 	"Wanna #0" = -1
 	"Xenome #0" = 20
 }
-leader_names = {
-	"Acoma"
-	"Cochiti"
-	"Hopi"
-	"Isleta"
-	"Jemez"
-	"Laguna"
-	"Nambe"
-	"Ohkay Owingeh"
-	"Picuris"
-	"Piru"
-	"Pojoaque"
-	"Sandia"
-	"Taos"
-	"Tesuque"
-	"Zia"
-	"Zuni"
+leader_names = { 
+	Acoma Cochiti Hopi Isleta Jemez Laguna Nambe "Ohkay Owingeh" Picuris Piru
+	Pojoaque Sandia Taos Tesuque Zia Zuni 
 }
-ship_names = {
-	"Acoma"
-	"Cochiti"
-	"Hopi"
-	"Isleta"
-	"Jemez"
-	"Laguna"
-	"Nambe"
-	"Ohkay Owingeh"
-	"Picuris"
-	"Piru"
-	"Pojoaque"
-	"Sandia"
-	"Taos"
-	"Tesuque"
-	"Zia"
-	"Zuni"
+ship_names = { 
+	Acoma Cochiti Hopi Isleta Jemez Laguna Nambe "Ohkay Owingeh" Picuris Piru
+	Pojoaque Sandia Taos Tesuque Zia Zuni 
+}
+fleet_names = { 
+}
+army_names = { 
 }

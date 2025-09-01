@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 193 180 66 }
 revolutionary_colors = { 8 1 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	maya_forest_warfare
 	maya_guerilla_warfare
 	maya_gunpowder_warfare
@@ -20,7 +20,7 @@ historical_units = {
 	mesoamerican_spearmen
 	westernized_mayan
 }
-monarch_names = {
+monarch_names = { 
 	"Azelene #0" = -1
 	"Bartira #0" = -1
 	"Caracara #0" = 10
@@ -31,29 +31,14 @@ monarch_names = {
 	"Potira #0" = -1
 	"Raoni #0" = 10
 }
-leader_names = {
-	"Aimoré"
-	"Futikrak"
-	"Gueren"
-	"Gutucrac"
-	"Ituêto"
-	"Krekmún"
-	"Mekmek"
-	"Minhagiran"
-	"Naknyanúk"
-	"Nakrehê"
-	"Prajé"
-	"Takrukrak"
+leader_names = { 
+	Aimoré Futikrak Gueren Gutucrac Ituêto Krekmún Mekmek Minhagiran Naknyanúk Nakrehê
+	Prajé Takrukrak 
 }
-ship_names = {
-	"Azelene"
-	"Futikrak"
-	"Guatá"
-	"Gueren"
-	"Mekmek"
-	"Minhagiran"
-	"Naknyanúk"
-	"Prajé"
-	"Takrukrak"
-	"Waitaká"
+ship_names = { 
+	Azelene Futikrak Guatá Gueren Mekmek Minhagiran Naknyanúk Prajé Takrukrak Waitaká
+}
+fleet_names = { 
+}
+army_names = { 
 }

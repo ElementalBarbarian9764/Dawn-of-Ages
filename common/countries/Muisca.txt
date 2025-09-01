@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = southamericagfx
 color = { 162 182 64 }
 revolutionary_colors = { 10 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	inca_mountain_warfare
 	incan_axemen
 	incan_guerilla_warfare
@@ -26,7 +26,7 @@ historical_units = {
 	south_american_warfare
 	westernized_incan
 }
-monarch_names = {
+monarch_names = { 
 	"Ah Can #0" = 0
 	"Aquimin #0" = 0
 	"Aquiminzaque #0" = 10
@@ -48,66 +48,18 @@ monarch_names = {
 	"Tutazúa #0" = 0
 	"Uzathama #0" = 0
 }
-leader_names = {
-	"Aguazuque"
-	"Busbanzá"
-	"Cerinza"
-	"Charalá"
-	"Chipatá"
-	"Duitama"
-	"Huachuri"
-	"Huaman"
-	"Huascar"
-	"Huaypalcon"
-	"Iraca"
-	"Kankuamo"
-	"Onzaga"
-	"Paipa"
-	"Saboyá"
-	"Soacha"
-	"Tenza"
-	"Tibana"
-	"Tibirita"
-	"Toca"
-	"Tunduma"
-	"Zipacon"
+leader_names = { 
+	Aguazuque Busbanzá Cerinza Charalá Chipatá Duitama Huachuri Huaman Huascar Huaypalcon
+	Iraca Kankuamo Onzaga Paipa Saboyá Soacha Tenza Tibana Tibirita Toca
+	Tunduma Zipacon 
 }
-ship_names = {
-	"Apo"
-	"Apocatequil"
-	"Ataguchu"
-	"Ayar Anca"
-	"Ayar Cachi"
-	"Ayar Uchu"
-	"Catequil"
-	"Cavillace"
-	"Chasca"
-	"Chasca Coyllur"
-	"Coniraya"
-	"Copacati"
-	"Cusco"
-	"Ekkeko"
-	"Hanan Pacha"
-	"Illapa"
-	"Inti"
-	"Kon"
-	"Mama Allpa"
-	"Mama Coca"
-	"Mama Cura"
-	"Mama Huaco"
-	"Mama Ocllo"
-	"Mama Pacha"
-	"Mama Quilla"
-	"Mama Raua"
-	"Mama Zara"
-	"Manco Capac"
-	"Pacha Camac"
-	"Pachacuti"
-	"Pariacaca"
-	"Paricia"
-	"Supay"
-	"Titicaca"
-	"Uku Pacha"
-	"Urcaguary"
-	"Viracocha"
+ship_names = { 
+	Apo Apocatequil Ataguchu "Ayar Anca" "Ayar Cachi" "Ayar Uchu" Catequil Cavillace Chasca "Chasca Coyllur"
+	Coniraya Copacati Cusco Ekkeko "Hanan Pacha" Illapa Inti Kon "Mama Allpa" "Mama Coca"
+	"Mama Cura" "Mama Huaco" "Mama Ocllo" "Mama Pacha" "Mama Quilla" "Mama Raua" "Mama Zara" "Manco Capac" "Pacha Camac" Pachacuti
+	Pariacaca Paricia Supay Titicaca "Uku Pacha" Urcaguary Viracocha 
+}
+fleet_names = { 
+}
+army_names = { 
 }

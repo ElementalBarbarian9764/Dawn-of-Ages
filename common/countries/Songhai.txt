@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 62 175 151 }
 revolutionary_colors = { 0 1 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	african_dragoon
 	african_hill_warfare
 	african_hussar
@@ -25,7 +25,7 @@ historical_units = {
 	songhai_tribal_warfare
 	westernized_niger_kongolese
 }
-monarch_names = {
+monarch_names = { 
 	"Adama #0" = -1
 	"Alkamiisa #1" = -1
 	"Amita #0" = -1
@@ -53,30 +53,14 @@ monarch_names = {
 	"Tunka-Menin #1" = 10
 	"Yama #0" = 0
 }
-leader_names = {
-	"Amadou"
-	"Compaore"
-	"Diallo"
-	"Diarra"
-	"Keita"
-	"Lamizana"
-	"Modibo"
-	"Ouedraogo"
-	"Toure"
-	"Zerbo"
+leader_names = { 
+	Amadou Compaore Diallo Diarra Keita Lamizana Modibo Ouedraogo Toure Zerbo
 }
-ship_names = {
-	"Akoi"
-	"Alayaman"
-	"Ali-Fay"
-	"Biyo-Kumoy"
-	"Biyu"
-	"Kinkin"
-	"Ku"
-	"Kukuray"
-	"Nintasanay"
-	"Takoi"
-	"Yama-Karaway"
-	"Za Kuroy"
-	"Zakoi"
+ship_names = { 
+	Akoi Alayaman Ali-Fay Biyo-Kumoy Biyu Kinkin Ku Kukuray Nintasanay Takoi
+	Yama-Karaway "Za Kuroy" Zakoi 
+}
+fleet_names = { 
+}
+army_names = { 
 }

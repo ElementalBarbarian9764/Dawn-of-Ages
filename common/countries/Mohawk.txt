@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 244 151 42 }
 revolutionary_colors = { 2 0 2 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	american_western_franchise_warfare
 	iroquois_rifle_scout
 	native_indian_archer
@@ -21,7 +21,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Achiout #0" = 20
 	"Alliquippa #0" = -1
 	"Anachout #0" = 20
@@ -129,75 +129,18 @@ monarch_names = {
 	"Twenniyana #0" = 20
 	"Tyonajanegen #0" = -1
 }
-leader_names = {
-	"Ahaouet"
-	"Awegen"
-	"Cahunghage"
-	"Canajoharie"
-	"Canastigaone"
-	"Canienga"
-	"Canowaroghere"
-	"Caughnawaga"
-	"Dayoitgao"
-	"Deonundagae"
-	"Deseroken"
-	"Deyodeshot"
-	"Deyohnegano"
-	"Deyonongdadagana"
-	"Gadoquat"
-	"Gandasetaigon"
-	"Gannentaha"
-	"Ganogeh"
-	"Gayagaanhe"
-	"Gewauga"
-	"Goiogouen"
-	"Gweugwehono"
-	"Hostayuntwa"
-	"Kanadaseagea"
-	"Kanagaro"
-	"Kanatakowa"
-	"Kawauka"
-	"Kente"
-	"Kowogoconnughariegugharie"
-	"Neodakheat"
-	"Nowadaga"
-	"Nundawaono"
-	"Onayotekaono"
-	"Onekagoncka"
-	"Onoalagona"
-	"Oquaga"
-	"Oriska"
-	"Osquake"
-	"Ossewingo"
-	"Saratoga"
-	"Schaunactada"
-	"Schoharie"
-	"Skannayutenate"
-	"Teatontaloga"
-	"Tegasoke"
-	"Teseroken"
-	"Tetosweken"
-	"Tewanondadon"
-	"Tionnontoguen"
-	"Yoroonwago"
+leader_names = { 
+	Ahaouet Awegen Cahunghage Canajoharie Canastigaone Canienga Canowaroghere Caughnawaga Dayoitgao Deonundagae
+	Deseroken Deyodeshot Deyohnegano Deyonongdadagana Gadoquat Gandasetaigon Gannentaha Ganogeh Gayagaanhe Gewauga
+	Goiogouen Gweugwehono Hostayuntwa Kanadaseagea Kanagaro Kanatakowa Kawauka Kente Kowogoconnughariegugharie Neodakheat
+	Nowadaga Nundawaono Onayotekaono Onekagoncka Onoalagona Oquaga Oriska Osquake Ossewingo Saratoga
+	Schaunactada Schoharie Skannayutenate Teatontaloga Tegasoke Teseroken Tetosweken Tewanondadon Tionnontoguen Yoroonwago
 }
-ship_names = {
-	"Adekagagwaa"
-	"Ataensic"
-	"Atahensic"
-	"Gah-oh"
-	"Gaol"
-	"Gendenwitha"
-	"Gohone"
-	"Ha Wen Neyu"
-	"Hahgwehdaetgan"
-	"Hahgwehdiyu"
-	"Jogah"
-	"Losheka"
-	"Oki"
-	"Onatha"
-	"Sosondowah"
-	"Tarhuhyiawahku"
-	"Ya-o-gah"
-	"Yosheka"
+ship_names = { 
+	Adekagagwaa Ataensic Atahensic Gah-oh Gaol Gendenwitha Gohone "Ha Wen Neyu" Hahgwehdaetgan Hahgwehdiyu
+	Jogah Losheka Oki Onatha Sosondowah Tarhuhyiawahku Ya-o-gah Yosheka 
+}
+fleet_names = { 
+}
+army_names = { 
 }

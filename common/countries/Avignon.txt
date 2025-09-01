@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 205 178 107 }
 revolutionary_colors = { 0 1 16 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	trade_ideas
 	religious_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	anglofrench_line
 	dutch_maurician
 	french_bluecoat
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Aimée #0" = 0
 	"Albert #0" = 0
 	"Alexandre #0" = 0
@@ -74,118 +74,22 @@ monarch_names = {
 	"Éloïse #0" = -1
 	"Étienne #0" = 0
 }
-leader_names = {
-	"Balbani"
-	"Grimaldi"
-	"Imperiali"
-	"Juliani"
-	"Odde de Bonniot"
-	"Pelletier de Gigondas"
-	"Raimond de Mormoiron"
-	"Raousset"
-	"Tonduti"
-	"d'Agoult"
-	"d'Allemand"
-	"d'Ancézune"
-	"d'Artaud"
-	"d'Astouaud"
-	"d'Orange"
-	"d'Orléans de la Motte"
-	"d'Urban"
-	"de Baldoni"
-	"de Berton de Balbes"
-	"de Brancas"
-	"de Caritat de Condorcet"
-	"de Cavaillon"
-	"de Cheisolme"
-	"de Crillon"
-	"de Farges"
-	"de Fontfroide"
-	"de Fortia"
-	"de Galléan"
-	"de Grignan"
-	"de Joannis"
-	"de Libertat"
-	"de Lopès"
-	"de Lévis"
-	"de Malespine"
-	"de Marseille-Vintimille"
-	"de Mistral de Mondragon"
-	"de Montauban"
-	"de Montmorency"
-	"de Novarin"
-	"de Panisse"
-	"de Pascalis"
-	"de Péruzzi"
-	"de Raffélis"
-	"de Saluces"
-	"de Vassadel"
-	"de Villeneuve"
-	"des Alrics"
-	"des Balbs"
-	"des Isnards"
-	"des Seguins"
+leader_names = { 
+	Balbani Grimaldi Imperiali Juliani "Odde de Bonniot" "Pelletier de Gigondas" "Raimond de Mormoiron" Raousset Tonduti d'Agoult
+	d'Allemand d'Ancézune d'Artaud d'Astouaud d'Orange "d'Orléans de la Motte" d'Urban "de Baldoni" "de Berton de Balbes" "de Brancas"
+	"de Caritat de Condorcet" "de Cavaillon" "de Cheisolme" "de Crillon" "de Farges" "de Fontfroide" "de Fortia" "de Galléan" "de Grignan" "de Joannis"
+	"de Libertat" "de Lopès" "de Lévis" "de Malespine" "de Marseille-Vintimille" "de Mistral de Mondragon" "de Montauban" "de Montmorency" "de Novarin" "de Panisse"
+	"de Pascalis" "de Péruzzi" "de Raffélis" "de Saluces" "de Vassadel" "de Villeneuve" "des Alrics" "des Balbs" "des Isnards" "des Seguins"
 }
-ship_names = {
-	"Notre Dame"
-	"Saint Andiol"
-	"Saint André"
-	"Saint Antonin"
-	"Saint Auban"
-	"Saint Aubert"
-	"Saint Cannat"
-	"Saint Claude"
-	"Saint Cyr"
-	"Saint Edh"
-	"Saint Etienne"
-	"Saint Gabriel"
-	"Saint Genis"
-	"Saint Geniès"
-	"Saint Hyppolyte"
-	"Saint Jean"
-	"Saint Jérôme"
-	"Saint Laurent"
-	"Saint Maime"
-	"Saint Marc"
-	"Saint Marcel"
-	"Saint Marcellin"
-	"Saint Martin"
-	"Saint Maurice"
-	"Saint Maximin"
-	"Saint Michel"
-	"Saint Pantaléon"
-	"Saint Paul"
-	"Saint Paul Tricastin"
-	"Saint Pierre"
-	"Saint Pierre Avez"
-	"Saint Quenin"
-	"Saint Restitut"
-	"Saint Rimbert"
-	"Saint Romain"
-	"Saint Roman"
-	"Saint Rémy"
-	"Saint Saturnin"
-	"Saint Sauveur"
-	"Saint Vincent"
-	"Saint Véran"
-	"Sainte Anastasie"
-	"Sainte Anne"
-	"Sainte Baume"
-	"Sainte Catherine"
-	"Sainte Colombe"
-	"Sainte Cécile"
-	"Sainte Jalle"
-	"Sainte Marguerite"
-	"Saintes Marie"
+ship_names = { 
+	"Notre Dame" "Saint Andiol" "Saint André" "Saint Antonin" "Saint Auban" "Saint Aubert" "Saint Cannat" "Saint Claude" "Saint Cyr" "Saint Edh"
+	"Saint Etienne" "Saint Gabriel" "Saint Genis" "Saint Geniès" "Saint Hyppolyte" "Saint Jean" "Saint Jérôme" "Saint Laurent" "Saint Maime" "Saint Marc"
+	"Saint Marcel" "Saint Marcellin" "Saint Martin" "Saint Maurice" "Saint Maximin" "Saint Michel" "Saint Pantaléon" "Saint Paul" "Saint Paul Tricastin" "Saint Pierre"
+	"Saint Pierre Avez" "Saint Quenin" "Saint Restitut" "Saint Rimbert" "Saint Romain" "Saint Roman" "Saint Rémy" "Saint Saturnin" "Saint Sauveur" "Saint Vincent"
+	"Saint Véran" "Sainte Anastasie" "Sainte Anne" "Sainte Baume" "Sainte Catherine" "Sainte Colombe" "Sainte Cécile" "Sainte Jalle" "Sainte Marguerite" "Saintes Marie"
 }
-army_names = {
-	"Armée de $PROVINCE$"
-	"Armée de Notre Dame"
-	"Armée de Saint Dominique"
-	"Armée de Saint Georges"
-	"Armée de Saint Jacques"
-	"Armée de Saint Jean"
-	"Armée de Saint Maurice"
-	"Armée de Saint Michel"
-	"Armée de l'Archange Gabriel"
+army_names = { 
+	"Armée de $PROVINCE$" "Armée de Notre Dame" "Armée de Saint Dominique" "Armée de Saint Georges" "Armée de Saint Jacques" "Armée de Saint Jean" "Armée de Saint Maurice" "Armée de Saint Michel" "Armée de l'Archange Gabriel" 
+}
+fleet_names = { 
 }

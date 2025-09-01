@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 151 106 191 }
-monarch_names = {
+monarch_names = { 
 	"Annie #0" = -1
 	"Arion #0" = 1
 	"Blaze #0" = 1
@@ -30,47 +30,16 @@ monarch_names = {
 	"Twilight #0" = 1
 	"Willow #0" = -1
 }
-leader_names = {
-	"Annie"
-	"Arion"
-	"Blaze"
-	"Buttermilk"
-	"Carlos"
-	"Charisma"
-	"Chief"
-	"Clever Hans"
-	"Denise"
-	"Dreamer"
-	"Duke"
-	"Epona"
-	"Honey"
-	"Lady"
-	"Lady Wonder"
-	"Lucky"
-	"Midnight"
-	"Misty"
-	"Rain"
-	"Rainbow"
-	"Silhouette"
-	"Spirit"
-	"Spot"
-	"Star"
-	"Stormy"
-	"Traveler"
-	"Triumph"
-	"Twilight"
-	"Willow"
+leader_names = { 
+	Annie Arion Blaze Buttermilk Carlos Charisma Chief "Clever Hans" Denise Dreamer
+	Duke Epona Honey Lady "Lady Wonder" Lucky Midnight Misty Rain Rainbow
+	Silhouette Spirit Spot Star Stormy Traveler Triumph Twilight Willow 
 }
-ship_names = {
-	"Cloverfield"
-	"Courage"
-	"Hippocampus"
-	"Rainbow"
-	"Seahorse"
-	"Silverhaven"
-	"Swiftness"
-	"Traveler"
+ship_names = { 
+	Cloverfield Courage Hippocampus Rainbow Seahorse Silverhaven Swiftness Traveler 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+fleet_names = { 
 }

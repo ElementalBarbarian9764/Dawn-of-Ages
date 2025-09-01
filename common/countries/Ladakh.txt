@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 23 110 90 }
 revolutionary_colors = { 8 10 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	offensive_ideas
 	trade_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	administrative_ideas
 }
-historical_units = {
+historical_units = { 
 	indian_archers
 	indian_arquebusier
 	indian_footsoldier
@@ -20,7 +20,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Deldan #0" = 10
 	"Deskyong #0" = 10
 	"Gyalpo #0" = 10
@@ -39,30 +39,15 @@ monarch_names = {
 	"Tsewang #0" = 20
 	"Zizi #0" = -1
 }
-leader_names = {
-	"Balti"
-	"Heniskat"
-	"Kartse"
-	"Khaplu"
-	"Mulbek"
-	"Phokar"
-	"Purig"
-	"Rupshu"
-	"Shigar"
-	"Sot"
-	"Zanskar"
+leader_names = { 
+	Balti Heniskat Kartse Khaplu Mulbek Phokar Purig Rupshu Shigar Sot
+	Zanskar 
 }
-ship_names = {
-	"Balti"
-	"Heniskat"
-	"Kartse"
-	"Khaplu"
-	"Leh"
-	"Mulbek"
-	"Phokar"
-	"Purig"
-	"Rupshu"
-	"Shigar"
-	"Sot"
-	"Zanskar"
+ship_names = { 
+	Balti Heniskat Kartse Khaplu Leh Mulbek Phokar Purig Rupshu Shigar
+	Sot Zanskar 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 26 27 154 }
 revolutionary_colors = { 15 8 15 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Abdul-Karim #0" = 40
 	"Abdul-Latif #0" = 20
 	"Abdul-Rahman #0" = 40
@@ -105,30 +105,15 @@ monarch_names = {
 	"Yadigar Muhammad #0" = 20
 	"Yamghurchi #0" = 20
 }
-leader_names = {
-	"Arigh Gal"
-	"Arighteni"
-	"Burilgigene"
-	"Delger Qyugun"
-	"Koke Erdene"
-	"Qadandei"
-	"Qara Chinua"
-	"Qorchigge"
-	"Suren Unegen"
-	"Surenqai"
-	"Tegus Enq"
-	"Yekecher"
+leader_names = { 
+	"Arigh Gal" Arighteni Burilgigene "Delger Qyugun" "Koke Erdene" Qadandei "Qara Chinua" Qorchigge "Suren Unegen" Surenqai
+	"Tegus Enq" Yekecher 
 }
-ship_names = {
-	"Actarxan"
-	"Chinggis Khan"
-	"Gitorkhan"
-	"Hadzhy-Tarkhan"
-	"Khadjitarkhan"
-	"Kuchuk"
-	"Sarai Batu"
-	"Tsitrokhan"
-	"Volga"
-	"Xacitarxan"
-	"Ästerxan"
+ship_names = { 
+	Actarxan "Chinggis Khan" Gitorkhan Hadzhy-Tarkhan Khadjitarkhan Kuchuk "Sarai Batu" Tsitrokhan Volga Xacitarxan
+	Ästerxan 
+}
+fleet_names = { 
+}
+army_names = { 
 }

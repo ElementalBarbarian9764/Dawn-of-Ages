@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = indiangfx
 color = { 231 224 107 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	quantity_ideas
 	administrative_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	aristocracy_ideas
 }
-historical_units = {
+historical_units = { 
 	bhonsle_cavalry
 	indian_arquebusier
 	indian_elephant
@@ -25,7 +25,7 @@ historical_units = {
 	sikh_hit_and_run
 	tipu_sultan_rocket
 }
-monarch_names = {
+monarch_names = { 
 	"Abdul #0" = 0
 	"Ahmad #0" = 20
 	"Ahmadi #0" = -1
@@ -53,66 +53,18 @@ monarch_names = {
 	"Tatar #0" = 0
 	"Zafar #0" = 20
 }
-leader_names = {
-	"Bahadur"
-	"Begada"
-	"Bhilala"
-	"Changezi"
-	"Chattari"
-	"Chudasama"
-	"Desai"
-	"Farooqi"
-	"Gauri"
-	"Ghuri"
-	"Gilani"
-	"Haji"
-	"Jurjani"
-	"Kanjar"
-	"Khan"
-	"Khorasani"
-	"Lakhaji"
-	"Latif"
-	"Malik"
-	"Mori"
-	"Munshi"
-	"Muzzafar"
-	"Naru"
-	"Pahore"
-	"Paramara"
-	"Parikh"
-	"Patel"
-	"Patidar"
-	"Ravalji"
-	"Shah"
-	"Solanki"
-	"Sultan"
-	"Tomara"
-	"Turani"
-	"Uzbek"
+leader_names = { 
+	Bahadur Begada Bhilala Changezi Chattari Chudasama Desai Farooqi Gauri Ghuri
+	Gilani Haji Jurjani Kanjar Khan Khorasani Lakhaji Latif Malik Mori
+	Munshi Muzzafar Naru Pahore Paramara Parikh Patel Patidar Ravalji Shah
+	Solanki Sultan Tomara Turani Uzbek 
 }
-ship_names = {
-	"Ambika"
-	"Auranga"
-	"Bhadar"
-	"Damanganga"
-	"Devki"
-	"Jalsena"
-	"Kala Jahazi"
-	"Khari"
-	"Lal Jahazi"
-	"Luni"
-	"Mahi"
-	"Mithi"
-	"Narmada"
-	"Nausena"
-	"Nav ka Yudh"
-	"Nila Jahazi"
-	"Purna"
-	"Sabarmati"
-	"Sagar"
-	"Saraiya"
-	"Saraswati"
-	"Shetrunji"
-	"Tapi"
-	"Yasmin"
+ship_names = { 
+	Ambika Auranga Bhadar Damanganga Devki Jalsena "Kala Jahazi" Khari "Lal Jahazi" Luni
+	Mahi Mithi Narmada Nausena "Nav ka Yudh" "Nila Jahazi" Purna Sabarmati Sagar Saraiya
+	Saraswati Shetrunji Tapi Yasmin 
+}
+fleet_names = { 
+}
+army_names = { 
 }

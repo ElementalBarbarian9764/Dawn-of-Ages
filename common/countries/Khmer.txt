@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 127 180 60 }
 revolutionary_colors = { 13 5 13 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Anak Moneang Krachap #0" = -1
 	"Ang Chan #0" = 15
 	"Ang Chea #0" = 5
@@ -74,138 +74,26 @@ monarch_names = {
 	"Thommo Reachea #0" = 35
 	"Udayaraja #0" = 5
 }
-leader_names = {
-	"Ann"
-	"Bopha"
-	"Chak"
-	"Charny"
-	"Chea"
-	"Chhay"
-	"Chhoub"
-	"Chim"
-	"Choeun"
-	"Chop"
-	"Dara"
-	"Daro"
-	"Em"
-	"Heang"
-	"Hout"
-	"Houy"
-	"Hoy"
-	"Huy"
-	"In"
-	"Khan"
-	"Khlot"
-	"Khoeun"
-	"Khoun"
-	"Khuth"
-	"Lim"
-	"Lorn"
-	"Loun"
-	"Mak"
-	"Meang"
-	"Meas"
-	"Meng"
-	"Mok"
-	"Mon"
-	"Moul"
-	"Nak"
-	"Nam"
-	"Nary"
-	"Neak"
-	"Nimol"
-	"Norodom"
-	"Noung"
-	"Nourn"
-	"Nout"
-	"Oeun"
-	"On"
-	"Or"
-	"Ou"
-	"Ouk"
-	"Pang"
-	"Pen"
-	"Phann"
-	"Phaul"
-	"Pheng"
-	"Phon"
-	"Pichenda"
-	"Prak"
-	"Preap"
-	"Prum"
-	"Rangsey"
-	"Rath"
-	"Rithy"
-	"Rous"
-	"Saluk"
-	"Sam"
-	"Samphan"
-	"San"
-	"Sarith"
-	"Sary"
-	"Sem"
-	"Sen"
-	"Sim"
-	"Sin"
-	"Sivorn"
-	"Soch"
-	"Sok"
-	"Sokal"
-	"Som"
-	"Sorm"
-	"Sun"
-	"Thith"
-	"Thong"
-	"Thy"
-	"Touch"
-	"Tum"
-	"Van"
-	"Vanneth"
-	"Vichea"
-	"Voeum"
-	"Vuthy"
-	"Vy"
-	"khai"
-	"khun"
+leader_names = { 
+	Ann Bopha Chak Charny Chea Chhay Chhoub Chim Choeun Chop
+	Dara Daro Em Heang Hout Houy Hoy Huy In Khan
+	Khlot Khoeun Khoun Khuth Lim Lorn Loun Mak Meang Meas
+	Meng Mok Mon Moul Nak Nam Nary Neak Nimol Norodom
+	Noung Nourn Nout Oeun On Or Ou Ouk Pang Pen
+	Phann Phaul Pheng Phon Pichenda Prak Preap Prum Rangsey Rath
+	Rithy Rous Saluk Sam Samphan San Sarith Sary Sem Sen
+	Sim Sin Sivorn Soch Sok Sokal Som Sorm Sun Thith
+	Thong Thy Touch Tum Van Vanneth Vichea Voeum Vuthy Vy
+	khai khun 
 }
-ship_names = {
-	"Angkor"
-	"Angkor Thom"
-	"Angkor Wat"
-	"Banteay Chmar"
-	"Banteay Kdei"
-	"Banteay Srei"
-	"Baphuon"
-	"Bati"
-	"Bayon"
-	"Beng Melea"
-	"Isanapura"
-	"Koh Ker"
-	"Koh Kor"
-	"Kompong Svay"
-	"Kra Isthmus"
-	"Mekong"
-	"Muang Sing"
-	"Muang Tam"
-	"Neak Pean"
-	"Phimai"
-	"Phnom Bakheng"
-	"Phnom Chisor"
-	"Phnom Rung"
-	"Phra Phang Sam Yod"
-	"Prasat Kamphaeng Yai"
-	"Preah Ko"
-	"Preah Vihear"
-	"Roy Et"
-	"Sikhoraphum"
-	"Srah Srang"
-	"Ta Keo"
-	"Ta Prohm"
-	"Tonle Sap"
-	"Vat Banon"
-	"Vat Nokor"
-	"Vat Phu"
-	"Vyadhapura"
-	"Zhenla"
+ship_names = { 
+	Angkor "Angkor Thom" "Angkor Wat" "Banteay Chmar" "Banteay Kdei" "Banteay Srei" Baphuon Bati Bayon "Beng Melea"
+	Isanapura "Koh Ker" "Koh Kor" "Kompong Svay" "Kra Isthmus" Mekong "Muang Sing" "Muang Tam" "Neak Pean" Phimai
+	"Phnom Bakheng" "Phnom Chisor" "Phnom Rung" "Phra Phang Sam Yod" "Prasat Kamphaeng Yai" "Preah Ko" "Preah Vihear" "Roy Et" Sikhoraphum "Srah Srang"
+	"Ta Keo" "Ta Prohm" "Tonle Sap" "Vat Banon" "Vat Nokor" "Vat Phu" Vyadhapura Zhenla 
 }
 special_unit_culture = south_east_asian_special
+fleet_names = { 
+}
+army_names = { 
+}

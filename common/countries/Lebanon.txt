@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 225 110 25 }
 revolutionary_colors = { 5 10 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	religious_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	innovativeness_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_dragoon
@@ -25,7 +25,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"'Abbas #0" = 0
 	"'Abd al-Rahman #0" = 0
 	"Anwar #0" = 0
@@ -70,31 +70,15 @@ monarch_names = {
 	"al-Nasr #2" = 20
 	"al-Salih #2" = 20
 }
-leader_names = {
-	"Damad"
-	"Esad"
-	"Farhad"
-	"Fazil"
-	"Hafiz"
-	"Ismail"
-	"Mehmed"
-	"Murad"
-	"Nasuh"
-	"Osman"
-	"Salih"
-	"Sinan"
+leader_names = { 
+	Damad Esad Farhad Fazil Hafiz Ismail Mehmed Murad Nasuh Osman
+	Salih Sinan 
 }
-ship_names = {
-	"Arif"
-	"Azmi"
-	"Dervish"
-	"Fuad"
-	"Haci"
-	"Haydar"
-	"Mulish"
-	"Nuri"
-	"Said"
-	"Salih"
-	"Sefveti"
-	"Shukri"
+ship_names = { 
+	Arif Azmi Dervish Fuad Haci Haydar Mulish Nuri Said Salih
+	Sefveti Shukri 
+}
+fleet_names = { 
+}
+army_names = { 
 }

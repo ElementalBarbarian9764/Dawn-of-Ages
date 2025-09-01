@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 250 200 70 }
 revolutionary_colors = { 8 5 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	offensive_ideas
 	defensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_cavalry_archers
@@ -25,7 +25,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"Ahmed #0" = 20
 	"Aladdin #0" = 20
 	"Ali #0" = 20
@@ -51,94 +51,22 @@ monarch_names = {
 	"Ziynet #0" = -1
 	"Zübeyde #0" = -1
 }
-leader_names = {
-	"Alemdar"
-	"Amasyali"
-	"Arif"
-	"Ayas"
-	"Bali"
-	"Barbaros"
-	"Bayram"
-	"Cerrah"
-	"Cezzar"
-	"Civan"
-	"Damad"
-	"Defterdar"
-	"Dervis"
-	"Erezli"
-	"Gazi"
-	"Gedik"
-	"Gümülcineli"
-	"Gürcü"
-	"Hadim"
-	"Hekimoglu"
-	"Hersekli"
-	"Ishak"
-	"Izzed"
-	"Kanijeli"
-	"Kara"
-	"Karamanli"
-	"Kavalali"
-	"Kaymak"
-	"Kemal"
-	"Kemankes"
-	"Koca"
-	"Köprülü"
-	"Köse"
-	"Küçük"
-	"Lala"
-	"Lefkeli"
-	"Malkoç"
-	"Müezzinzade"
-	"Nevsehirli"
-	"Nisanci"
-	"Oflu"
-	"Ohrili"
-	"Oruç"
-	"Osmancikli"
-	"Pargali"
-	"Pehlivan"
-	"Piri"
-	"Piyale"
-	"Rahim"
-	"Rumi"
-	"Salih"
-	"Sari"
-	"Semiz"
-	"Serdar"
-	"Silahdar"
-	"Sokullu"
-	"Tarhuncu"
-	"Tayyar"
-	"Topal"
-	"Turgut"
-	"Uluç"
-	"Veli"
-	"Yemisçi"
-	"Çandarli"
-	"Çelebi"
-	"Çerkes"
-	"Çuhadar"
+leader_names = { 
+	Alemdar Amasyali Arif Ayas Bali Barbaros Bayram Cerrah Cezzar Civan
+	Damad Defterdar Dervis Erezli Gazi Gedik Gümülcineli Gürcü Hadim Hekimoglu
+	Hersekli Ishak Izzed Kanijeli Kara Karamanli Kavalali Kaymak Kemal Kemankes
+	Koca Köprülü Köse Küçük Lala Lefkeli Malkoç Müezzinzade Nevsehirli Nisanci
+	Oflu Ohrili Oruç Osmancikli Pargali Pehlivan Piri Piyale Rahim Rumi
+	Salih Sari Semiz Serdar Silahdar Sokullu Tarhuncu Tayyar Topal Turgut
+	Uluç Veli Yemisçi Çandarli Çelebi Çerkes Çuhadar 
 }
-ship_names = {
-	"Afsin"
-	"Akcadag"
-	"Besni"
-	"Ceyhan"
-	"Darende"
-	"Elbistan"
-	"Firat"
-	"Goksun"
-	"Kadirli"
-	"Maras"
-	"Pazarcik"
-	"Saimbeyli"
-	"Tohma"
-	"Zulkadriyye"
+ship_names = { 
+	Afsin Akcadag Besni Ceyhan Darende Elbistan Firat Goksun Kadirli Maras
+	Pazarcik Saimbeyli Tohma Zulkadriyye 
 }
-army_names = {
-	"$PROVINCE$ Ordusu"
+army_names = { 
+	"$PROVINCE$ Ordusu" 
 }
-fleet_names = {
-	"$PROVINCE$ Donanmasî"
+fleet_names = { 
+	"$PROVINCE$ Donanmasî" 
 }

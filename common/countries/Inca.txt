@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = southamericagfx
 color = { 125 92 110 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	exploration_ideas
 	offensive_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	religious_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	inca_mountain_warfare
 	peruvian_guerilla_warfare
 	south_american_gunpowder_warfare
@@ -19,7 +19,7 @@ historical_units = {
 	south_american_warfare
 	westernized_south_american
 }
-monarch_names = {
+monarch_names = { 
 	"Anquimarca #0" = 0
 	"Atahualpa #0" = 20
 	"Atoc Sopa #0" = 0
@@ -63,94 +63,20 @@ monarch_names = {
 	"Zambiza #0" = 0
 	"Zopahua #0" = 0
 }
-leader_names = {
-	"Anquimarca"
-	"Apo"
-	"Atahualpa"
-	"Atoc"
-	"Atoc-Suqui"
-	"Auqui-Huaman"
-	"Canchari"
-	"Chalcuchima"
-	"Challco"
-	"Chiaquitinta"
-	"Chilche"
-	"Colla-Topa"
-	"Curiatao"
-	"Cusi"
-	"Guacra"
-	"Guaritito"
-	"Guaritopa"
-	"Huachuri"
-	"Huaman"
-	"Huascar"
-	"Huaypalcon"
-	"Illaquita"
-	"Inquill"
-	"Llicllic"
-	"Maila"
-	"Maras"
-	"Marcavilca"
-	"Mayta"
-	"Ninancoro"
-	"Ozcoc"
-	"Parinango"
-	"Paucar"
-	"Paullu"
-	"Pomacapi"
-	"Puma"
-	"Pusca"
-	"Puyu-Vilca"
-	"Quilaco"
-	"Quingallumbo"
-	"Quintiraura"
-	"Quisquis"
-	"Quizo"
-	"Rimac"
-	"Ronpa"
-	"Sahuaraura"
-	"Sotaurco"
-	"Tanqui"
-	"Tucuycuyche"
-	"Tupac-Amaru"
-	"Yupanqui"
+leader_names = { 
+	Anquimarca Apo Atahualpa Atoc Atoc-Suqui Auqui-Huaman Canchari Chalcuchima Challco Chiaquitinta
+	Chilche Colla-Topa Curiatao Cusi Guacra Guaritito Guaritopa Huachuri Huaman Huascar
+	Huaypalcon Illaquita Inquill Llicllic Maila Maras Marcavilca Mayta Ninancoro Ozcoc
+	Parinango Paucar Paullu Pomacapi Puma Pusca Puyu-Vilca Quilaco Quingallumbo Quintiraura
+	Quisquis Quizo Rimac Ronpa Sahuaraura Sotaurco Tanqui Tucuycuyche Tupac-Amaru Yupanqui
 }
-ship_names = {
-	"Apo"
-	"Apocatequil"
-	"Ataguchu"
-	"Ayar Anca"
-	"Ayar Cachi"
-	"Ayar Uchu"
-	"Catequil"
-	"Cavillace"
-	"Chasca"
-	"Chasca Coyllur"
-	"Coniraya"
-	"Copacati"
-	"Cusco"
-	"Ekkeko"
-	"Hanan Pacha"
-	"Illapa"
-	"Inti"
-	"Kon"
-	"Mama Allpa"
-	"Mama Coca"
-	"Mama Cura"
-	"Mama Huaco"
-	"Mama Ocllo"
-	"Mama Pacha"
-	"Mama Quilla"
-	"Mama Raua"
-	"Mama Zara"
-	"Manco Capac"
-	"Pacha Camac"
-	"Pachacuti"
-	"Pariacaca"
-	"Paricia"
-	"Supay"
-	"Titicaca"
-	"Uku Pacha"
-	"Urcaguary"
-	"Viracocha"
+ship_names = { 
+	Apo Apocatequil Ataguchu "Ayar Anca" "Ayar Cachi" "Ayar Uchu" Catequil Cavillace Chasca "Chasca Coyllur"
+	Coniraya Copacati Cusco Ekkeko "Hanan Pacha" Illapa Inti Kon "Mama Allpa" "Mama Coca"
+	"Mama Cura" "Mama Huaco" "Mama Ocllo" "Mama Pacha" "Mama Quilla" "Mama Raua" "Mama Zara" "Manco Capac" "Pacha Camac" Pachacuti
+	Pariacaca Paricia Supay Titicaca "Uku Pacha" Urcaguary Viracocha 
+}
+fleet_names = { 
+}
+army_names = { 
 }

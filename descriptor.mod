@@ -5,5 +5,5 @@ tags={
 	"Fixes"
 	"Events"
 }
-name="old world religion magic"
+name="Dawn of Ages"
 supported_version="v1.37.5.0"

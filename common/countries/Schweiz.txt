@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 153 122 108 }
 revolutionary_colors = { 9 5 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	plutocracy_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Alfred #0" = 0
 	"André #0" = 0
 	"Angela #0" = -1
@@ -72,53 +72,18 @@ monarch_names = {
 	"Vinzenz #0" = 0
 	"Werner #0" = 15
 }
-leader_names = {
-	"Aebi"
-	"Amman"
-	"Bischofberger"
-	"Blank"
-	"Blies"
-	"Brugger"
-	"Combe"
-	"Eugster"
-	"Frei"
-	"Frisch"
-	"Gasenzer"
-	"Grüneisen"
-	"Heberlin"
-	"Helberingen"
-	"Hertzler"
-	"Hiltbrand"
-	"Honegger"
-	"Luz"
-	"Miller"
-	"Munzinger"
-	"Oberholzer"
-	"Schwendimann"
-	"Spörri"
-	"Vogt"
-	"Wächter"
-	"Zumbach"
-	"von Baltharsar"
-	"von Hasseln"
+leader_names = { 
+	Aebi Amman Bischofberger Blank Blies Brugger Combe Eugster Frei Frisch
+	Gasenzer Grüneisen Heberlin Helberingen Hertzler Hiltbrand Honegger Luz Miller Munzinger
+	Oberholzer Schwendimann Spörri Vogt Wächter Zumbach "von Baltharsar" "von Hasseln" 
 }
-ship_names = {
-	"Berne"
-	"Dufour"
-	"Glarus"
-	"Inn"
-	"Lucerne"
-	"Rhein"
-	"Rhöne"
-	"Schwyz"
-	"Ticino"
-	"Unterwalden"
-	"Uri"
-	"Wilhelm Tell"
-	"Zug"
-	"Zürich"
+ship_names = { 
+	Berne Dufour Glarus Inn Lucerne Rhein Rhöne Schwyz Ticino Unterwalden
+	Uri "Wilhelm Tell" Zug Zürich 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
 }
 preferred_religion = reformed
+fleet_names = { 
+}

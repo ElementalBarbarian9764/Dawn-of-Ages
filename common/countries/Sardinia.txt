@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 117 146 167 }
 revolutionary_colors = { 1 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	maritime_ideas
 	trade_ideas
 	economic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Agostino #0" = 0
 	"Amedeo #0" = 0
 	"Andrea #1" = 10
@@ -72,108 +72,22 @@ monarch_names = {
 	"Ugo #3" = 15
 	"Vittorio #0" = 0
 }
-leader_names = {
-	"Alfieri"
-	"Arborio Mella"
-	"Asinari"
-	"Balbo"
-	"Benso"
-	"Boncompagni Ludovisi"
-	"Borromeo"
-	"Bosco"
-	"Botta"
-	"Broglia"
-	"Cafasso"
-	"Casati"
-	"Chiodo"
-	"Cisa Asinari"
-	"Cottolengo"
-	"Delitalia"
-	"Doria di Cirié"
-	"Facchinetti de Nuce"
-	"Ferrero-Fiesco"
-	"Gaetani dell'Aquila"
-	"Galletti"
-	"Gioberti"
-	"Homo dei Moura"
-	"Lascaris"
-	"Ludovisi"
-	"Luserna Campiglione"
-	"Micca"
-	"Ossorio"
-	"Pallavicini"
-	"Pignatelli"
-	"Solaro"
-	"Taparelli"
-	"Tassoni"
-	"Trivulzio"
-	"Vico"
-	"d'Appiani d'Aragona"
-	"d'Attalaya"
-	"d'Ottaiano"
-	"de Bette"
-	"de Maretta"
-	"de Tutavila"
-	"del Carreto"
-	"del Marco"
-	"della Torre"
-	"di Busca"
-	"di Cardé"
-	"di Cavour"
-	"di Luserna"
-	"di Paesana"
-	"di Savoia"
+leader_names = { 
+	Alfieri "Arborio Mella" Asinari Balbo Benso "Boncompagni Ludovisi" Borromeo Bosco Botta Broglia
+	Cafasso Casati Chiodo "Cisa Asinari" Cottolengo Delitalia "Doria di Cirié" "Facchinetti de Nuce" Ferrero-Fiesco "Gaetani dell'Aquila"
+	Galletti Gioberti "Homo dei Moura" Lascaris Ludovisi "Luserna Campiglione" Micca Ossorio Pallavicini Pignatelli
+	Solaro Taparelli Tassoni Trivulzio Vico "d'Appiani d'Aragona" d'Attalaya d'Ottaiano "de Bette" "de Maretta"
+	"de Tutavila" "del Carreto" "del Marco" "della Torre" "di Busca" "di Cardé" "di Cavour" "di Luserna" "di Paesana" "di Savoia"
 }
-ship_names = {
-	"Alfonso il Benigno"
-	"Alghero"
-	"Asinara"
-	"Assemini"
-	"Cagliari"
-	"Campidano"
-	"Capoterra"
-	"Caprera"
-	"Carbonia-Iglesias"
-	"Cedrino"
-	"Coghinas"
-	"Dolomiti di Oliena"
-	"Eleanor Arborea"
-	"Flumendosa"
-	"Giacomo II"
-	"Giovanni il Galantuomo"
-	"Giudice Ugone"
-	"Martino l'Umano"
-	"Medio Campidano"
-	"Monserrato"
-	"Monte Albo"
-	"Monte Rasu"
-	"Monti di Alà"
-	"Monti di Limbara"
-	"Nuoro"
-	"Ogliastra"
-	"Olbia-Tempio"
-	"Oristano"
-	"Orosei"
-	"Porto Torres"
-	"Punta La Marmora"
-	"Quartucciu"
-	"S.Domenico"
-	"S.Maria"
-	"S.Saturnino"
-	"San Michele"
-	"San Pietro"
-	"Sant'Antioco"
-	"Sant'Elena"
-	"Santa Gilla"
-	"Sassari"
-	"Selargiu"
-	"Sestu"
-	"Sinnai"
-	"Sorso"
-	"Tavolara"
-	"Tirso"
-	"lago di Baratz"
+ship_names = { 
+	"Alfonso il Benigno" Alghero Asinara Assemini Cagliari Campidano Capoterra Caprera Carbonia-Iglesias Cedrino
+	Coghinas "Dolomiti di Oliena" "Eleanor Arborea" Flumendosa "Giacomo II" "Giovanni il Galantuomo" "Giudice Ugone" "Martino l'Umano" "Medio Campidano" Monserrato
+	"Monte Albo" "Monte Rasu" "Monti di Alà" "Monti di Limbara" Nuoro Ogliastra Olbia-Tempio Oristano Orosei "Porto Torres"
+	"Punta La Marmora" Quartucciu S.Domenico S.Maria S.Saturnino "San Michele" "San Pietro" Sant'Antioco Sant'Elena "Santa Gilla"
+	Sassari Selargiu Sestu Sinnai Sorso Tavolara Tirso "lago di Baratz" 
 }
-army_names = {
-	"Armata de $PROVINCE$"
+army_names = { 
+	"Armata de $PROVINCE$" 
+}
+fleet_names = { 
 }

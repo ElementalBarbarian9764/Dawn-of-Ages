@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 165 132 57 }
 revolutionary_colors = { 6 1 6 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	administrative_ideas
 	humanist_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	economic_ideas
 	defensive_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Abatai #0" = 5
 	"Ajige #0" = 5
 	"Akjan #0" = 0
@@ -105,64 +105,18 @@ monarch_names = {
 	"Zhuangjing #0" = -5
 	"Zongqian #0" = 0
 }
-leader_names = {
-	"Aihui"
-	"Aisin Gioro"
-	"Arakta"
-	"Baica"
-	"Boduri"
-	"Cemgun"
-	"Cibukinut"
-	"Dagiya"
-	"Donggiya"
-	"Ecolo"
-	"Ergi"
-	"Feiya"
-	"Futa"
-	"Gingciri"
-	"Git"
-	"Hegiya"
-	"Heseri"
-	"Io"
-	"Irgen Gioro"
-	"Jakuta"
-	"Jurk"
-	"Keyere"
-	"Kuicelik"
-	"Ledi"
-	"Lu"
-	"Magiya"
-	"Moketo"
-	"Namutu"
-	"Niohuru"
-	"Pan"
-	"Po"
-	"Rao"
-	"Ruburi"
-	"Si"
-	"Socoro"
-	"Taicut"
-	"Tukdun"
-	"U"
-	"Ula"
-	"Wang"
-	"Wenggit"
-	"Yan"
-	"Yehe"
+leader_names = { 
+	Aihui "Aisin Gioro" Arakta Baica Boduri Cemgun Cibukinut Dagiya Donggiya Ecolo
+	Ergi Feiya Futa Gingciri Git Hegiya Heseri Io "Irgen Gioro" Jakuta
+	Jurk Keyere Kuicelik Ledi Lu Magiya Moketo Namutu Niohuru Pan
+	Po Rao Ruburi Si Socoro Taicut Tukdun U Ula Wang
+	Wenggit Yan Yehe 
 }
-ship_names = {
-	"Aisin Gioro"
-	"Guwalgiya"
-	"Haixi"
-	"Hata"
-	"Heseri"
-	"Huifa"
-	"Janggiya"
-	"Magiya"
-	"Niuhuru"
-	"Tunggiya"
-	"Ula"
-	"Uya"
-	"Waliuha"
-	"Yehenala"
+ship_names = { 
+	"Aisin Gioro" Guwalgiya Haixi Hata Heseri Huifa Janggiya Magiya Niuhuru Tunggiya
+	Ula Uya Waliuha Yehenala 
+}
+fleet_names = { 
+}
+army_names = { 
 }

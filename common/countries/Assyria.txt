@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 165 76 153 }
-monarch_names = {
+monarch_names = { 
 	"Abazu #1" = 10
 	"Adamu #1" = 10
 	"Akiya #1" = 10
@@ -36,92 +36,21 @@ monarch_names = {
 	"Ziva #10" = 10
 	"Zuabu #1" = 10
 }
-leader_names = {
-	"Abragam"
-	"Avrachan"
-	"Avraham"
-	"Cheriyan"
-	"Eapen"
-	"Easo"
-	"Idichandi"
-	"Ipe"
-	"Ittak"
-	"Iyob"
-	"Iyoben"
-	"Koshy"
-	"Kuriakos"
-	"Kurien"
-	"Kuruvilla"
-	"Lonan"
-	"Lukos"
-	"Mamman"
-	"Mathai"
-	"Mathan"
-	"Mathu"
-	"Mathulla"
-	"Ninan"
-	"Oommen"
-	"Ouseph"
-	"Outha"
-	"Pathappan"
-	"Pathe"
-	"Pathros"
-	"Paulos"
-	"Philipos"
-	"Pothan"
-	"Qako"
-	"Thoman"
-	"Thomma"
-	"Vargisa"
-	"Yakob"
-	"Yesoph"
-	"Yohannan"
+leader_names = { 
+	Abragam Avrachan Avraham Cheriyan Eapen Easo Idichandi Ipe Ittak Iyob
+	Iyoben Koshy Kuriakos Kurien Kuruvilla Lonan Lukos Mamman Mathai Mathan
+	Mathu Mathulla Ninan Oommen Ouseph Outha Pathappan Pathe Pathros Paulos
+	Philipos Pothan Qako Thoman Thomma Vargisa Yakob Yesoph Yohannan 
 }
-ship_names = {
-	"Akkad"
-	"Amanus"
-	"Amraphel"
-	"Ashur"
-	"Assurbanipal"
-	"Babel"
-	"Chaldea"
-	"Cuneiform"
-	"Dilmun"
-	"Enheduanna"
-	"Ensi"
-	"Esarhaddon"
-	"Gilgamesh"
-	"Great Ziggurat of Ur"
-	"Hammurabi"
-	"Ishtar"
-	"Kish"
-	"Larsa"
-	"Magan"
-	"Marduk"
-	"Nabonidus"
-	"Nanna"
-	"Nebuchadnezzar"
-	"Nimrod"
-	"Nineveh"
-	"Rimush"
-	"Samsu-iluna"
-	"Sargon of Akkad"
-	"Shinar"
-	"Tashlultum"
-	"Taurus"
-	"The Bull of Heaven"
-	"The Code of Laws"
-	"The Euphrates"
-	"The First Dynasty"
-	"The Hanging Garden"
-	"The Lion"
-	"The Tigris"
-	"The Tower"
-	"The Whore"
-	"The Ziggurat"
-	"Ur"
-	"Uruk"
+ship_names = { 
+	Akkad Amanus Amraphel Ashur Assurbanipal Babel Chaldea Cuneiform Dilmun Enheduanna
+	Ensi Esarhaddon Gilgamesh "Great Ziggurat of Ur" Hammurabi Ishtar Kish Larsa Magan Marduk
+	Nabonidus Nanna Nebuchadnezzar Nimrod Nineveh Rimush Samsu-iluna "Sargon of Akkad" Shinar Tashlultum
+	Taurus "The Bull of Heaven" "The Code of Laws" "The Euphrates" "The First Dynasty" "The Hanging Garden" "The Lion" "The Tigris" "The Tower" "The Whore"
+	"The Ziggurat" Ur Uruk 
 }
-army_names = {
-	"Army of $PROVINCE$"
+army_names = { 
+	"Army of $PROVINCE$" 
+}
+fleet_names = { 
 }

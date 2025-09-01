@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 245 135 25 }
 revolutionary_colors = { 4 8 4 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	african_dragoon
 	african_hill_warfare
 	african_hussar
@@ -25,7 +25,7 @@ historical_units = {
 	niger_kongolese_gunpowder_warfare
 	westernized_niger_kongolese
 }
-monarch_names = {
+monarch_names = { 
 	"Abdul Kader #0" = 0
 	"Ali #0" = 0
 	"Bello #0" = -1
@@ -56,35 +56,15 @@ monarch_names = {
 	"Yero #0" = 10
 	"Yusuf #0" = 0
 }
-leader_names = {
-	"An"
-	"Bohi"
-	"Dundu"
-	"Garm"
-	"Jeegi"
-	"Kan"
-	"Kumba"
-	"Lamin Bal"
-	"Lamu"
-	"Ly"
-	"Musa"
-	"Njai"
-	"Tabakali"
-	"Talla"
-	"Ule"
-	"Wan"
-	"ru"
+leader_names = { 
+	An Bohi Dundu Garm Jeegi Kan Kumba "Lamin Bal" Lamu Ly
+	Musa Njai Tabakali Talla Ule Wan ru 
 }
-ship_names = {
-	"Anyam-Godo"
-	"Deny Kobe"
-	"Denyanke"
-	"Futa Tooro"
-	"Great Fulo"
-	"Koli"
-	"Laba"
-	"Silatigui"
-	"Sylla"
-	"Tekrur"
-	"Tengella"
+ship_names = { 
+	Anyam-Godo "Deny Kobe" Denyanke "Futa Tooro" "Great Fulo" Koli Laba Silatigui Sylla Tekrur
+	Tengella 
+}
+fleet_names = { 
+}
+army_names = { 
 }

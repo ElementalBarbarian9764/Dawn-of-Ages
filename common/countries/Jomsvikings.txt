@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 50 50 50 }
-monarch_names = {
+monarch_names = { 
 	"Aelfgifu #0" = -1
 	"Ale #0" = 0
 	"Alfgeir #0" = 0
@@ -144,138 +144,25 @@ monarch_names = {
 	"Þorolfr #0" = 0
 	"Þorsteinn #0" = 0
 }
-leader_names = {
-	"Ale"
-	"Alfgeir"
-	"Alfr"
-	"Anders"
-	"Anlaufr"
-	"Anundr"
-	"Arnbjörn"
-	"Arnfast"
-	"Arngrimr"
-	"Arni"
-	"Asbjörn"
-	"Bagge"
-	"Baldr"
-	"Barid"
-	"Bengt"
-	"Bersi"
-	"Bertil"
-	"Birger"
-	"Björn"
-	"Bo"
-	"Borkvard"
-	"Botulfr"
-	"Bragi"
-	"Buðli"
-	"Dag"
-	"Dan"
-	"Dyre"
-	"Egill"
-	"Eilif"
-	"Einarr"
-	"Eirikr"
-	"Emund"
-	"Eskild"
-	"Falki"
-	"Faste"
-	"Filip"
-	"Folki"
-	"Fredrik"
-	"Freyr"
-	"Frirek"
-	"Froði"
-	"Gandalfr"
-	"Geirr"
-	"Georg"
-	"Gnupa"
-	"Gorm"
-	"Greger"
-	"Grimr"
-	"Gunnarr"
-	"Guðfrið"
-	"Guðmundr"
-	"Guðröðr"
-	"Hakon"
-	"Halsten"
-	"Haraldr"
-	"Helgi"
-	"Hemming"
-	"Hjalmar"
-	"Holmger"
-	"Hrafn"
-	"Hrane"
-	"Hrolfr"
-	"Hroðgar"
-	"Hroðulfr"
-	"Hrörekr"
-	"Hysing"
-	"Hæsteinn"
-	"Inge"
-	"Ingemar"
-	"Ingjald"
-	"Ivar"
-	"Jedvard"
-	"Jon"
-	"Karl"
-	"Kettil"
-	"Kettilmund"
-	"Kjartan"
-	"Klas"
-	"Knut"
-	"Kol"
-	"Kolbjörn"
-	"Markus"
-	"Mats"
-	"Niklas"
-	"Nils"
-	"Oddr"
-	"Ofeig"
-	"Olafr"
-	"Ormr"
-	"Ottarr"
-	"Palnatoke"
-	"Ragnarr"
-	"Refil"
-	"Refr"
-	"Rikulfr"
-	"Rögnvaldr"
-	"Sigbjörn"
-	"Sigtrygg"
-	"Sigurðr"
-	"Skuli"
-	"Snorri"
-	"Starkaðr"
-	"Steinn"
-	"Sturla"
-	"Styrbjörn"
-	"Styrkar"
-	"Suni"
-	"Sveinn"
-	"Sverker"
-	"Sæmundr"
-	"Sölvi"
-	"Sörkver"
-	"Tjudmund"
-	"Toke"
-	"Tolir"
-	"Toste"
-	"Totil"
-	"Tryggve"
-	"Tyke"
-	"Ulfr"
-	"Vagn"
-	"Valdemar"
-	"Yngvar"
-	"Åke"
-	"Örvar"
-	"Öysteinn"
-	"Þorbjörn"
-	"Þorbrandr"
-	"Þordr"
-	"Þorfinn"
-	"Þorgil"
-	"Þorolfr"
-	"Þorsteinn"
+leader_names = { 
+	Ale Alfgeir Alfr Anders Anlaufr Anundr Arnbjörn Arnfast Arngrimr Arni
+	Asbjörn Bagge Baldr Barid Bengt Bersi Bertil Birger Björn Bo
+	Borkvard Botulfr Bragi Buðli Dag Dan Dyre Egill Eilif Einarr
+	Eirikr Emund Eskild Falki Faste Filip Folki Fredrik Freyr Frirek
+	Froði Gandalfr Geirr Georg Gnupa Gorm Greger Grimr Gunnarr Guðfrið
+	Guðmundr Guðröðr Hakon Halsten Haraldr Helgi Hemming Hjalmar Holmger Hrafn
+	Hrane Hrolfr Hroðgar Hroðulfr Hrörekr Hysing Hæsteinn Inge Ingemar Ingjald
+	Ivar Jedvard Jon Karl Kettil Kettilmund Kjartan Klas Knut Kol
+	Kolbjörn Markus Mats Niklas Nils Oddr Ofeig Olafr Ormr Ottarr
+	Palnatoke Ragnarr Refil Refr Rikulfr Rögnvaldr Sigbjörn Sigtrygg Sigurðr Skuli
+	Snorri Starkaðr Steinn Sturla Styrbjörn Styrkar Suni Sveinn Sverker Sæmundr
+	Sölvi Sörkver Tjudmund Toke Tolir Toste Totil Tryggve Tyke Ulfr
+	Vagn Valdemar Yngvar Åke Örvar Öysteinn Þorbjörn Þorbrandr Þordr Þorfinn
+	Þorgil Þorolfr Þorsteinn 
+}
+ship_names = { 
+}
+fleet_names = { 
+}
+army_names = { 
 }

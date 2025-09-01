@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 103 62 185 }
 revolutionary_colors = { 8 4 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_tercio
 	dutch_maurician
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adam #0" = 0
 	"Adolphe #0" = 0
 	"Adrien #0" = 0
@@ -78,47 +78,17 @@ monarch_names = {
 	"Élisabeth #0" = -1
 	"Étienne #0" = 0
 }
-leader_names = {
-	"Brouckaert"
-	"Galindez"
-	"Liderie"
-	"Waerseggers"
-	"d'Avesnes"
-	"de Cuire"
-	"de Freest"
-	"de Namur"
-	"de Roucy"
-	"du Trieux"
-	"van Bylandt"
-	"van Dinther"
-	"van Heerdt"
-	"van Heiden"
-	"van Hogendorp"
-	"van Lynden"
-	"van Oberndorff"
-	"von Quadt"
-	"von Ranzow"
-	"von Rechteren"
+leader_names = { 
+	Brouckaert Galindez Liderie Waerseggers d'Avesnes "de Cuire" "de Freest" "de Namur" "de Roucy" "du Trieux"
+	"van Bylandt" "van Dinther" "van Heerdt" "van Heiden" "van Hogendorp" "van Lynden" "van Oberndorff" "von Quadt" "von Ranzow" "von Rechteren"
 }
-ship_names = {
-	"Amalric"
-	"Arnulf"
-	"Baldvin I"
-	"Baldvin II"
-	"Godfrey"
-	"Godfrey II"
-	"Herman"
-	"Reginald"
-	"Reginar I"
-	"Reginar II"
-	"Reginar III"
-	"Richar"
-	"Sigard"
-	"Warin"
+ship_names = { 
+	Amalric Arnulf "Baldvin I" "Baldvin II" Godfrey "Godfrey II" Herman Reginald "Reginar I" "Reginar II"
+	"Reginar III" Richar Sigard Warin 
 }
-army_names = {
-	"Leger van $PROVINCE$"
+army_names = { 
+	"Leger van $PROVINCE$" 
 }
-fleet_names = {
-	"Vloot van $PROVINCE$"
+fleet_names = { 
+	"Vloot van $PROVINCE$" 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = africangfx
 color = { 30 131 162 }
 revolutionary_colors = { 13 8 16 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	adal_guerilla_warfare
 	adal_gunpowder_warfare
 	african_dragoon
@@ -25,7 +25,7 @@ historical_units = {
 	niger_kongolese_tribal_warfare
 	westernized_adal
 }
-monarch_names = {
+monarch_names = { 
 	"Baba #0" = 0
 	"Dankataya #0" = 0
 	"Fadima #1" = -1
@@ -48,38 +48,15 @@ monarch_names = {
 	"Yakumo #0" = -1
 	"Zaki #0" = 0
 }
-leader_names = {
-	"Ahmat"
-	"Ardoum"
-	"Deby"
-	"Djammous"
-	"Kabadi"
-	"Malloum"
-	"Nahor"
-	"Oueddai"
-	"Terap"
-	"Yorassem"
+leader_names = { 
+	Ahmat Ardoum Deby Djammous Kabadi Malloum Nahor Oueddai Terap Yorassem
 }
-ship_names = {
-	"Abd al-Djel Selma"
-	"Aritso"
-	"Arki"
-	"Ayoma"
-	"Bad al-Djel"
-	"Biri"
-	"Birkoru"
-	"Bulu"
-	"Dari"
-	"Djil"
-	"Dugu"
-	"Dunama"
-	"Dunama Dibbalem"
-	"Fune"
-	"Hume"
-	"Kachim Biri"
-	"Kade"
-	"Kature"
-	"Kure Gana"
-	"Kure Kura"
-	"Shu"
+ship_names = { 
+	"Abd al-Djel Selma" Aritso Arki Ayoma "Bad al-Djel" Biri Birkoru Bulu Dari Djil
+	Dugu Dunama "Dunama Dibbalem" Fune Hume "Kachim Biri" Kade Kature "Kure Gana" "Kure Kura"
+	Shu 
+}
+fleet_names = { 
+}
+army_names = { 
 }

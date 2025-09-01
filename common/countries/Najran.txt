@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = muslimgfx
 color = { 110 159 225 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	trade_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	economic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	afsharid_reformed
 	afsharid_reformed_infantry
 	muslim_dragoon
@@ -24,7 +24,7 @@ historical_units = {
 	tofongchis_musketeer
 	topchis_artillery
 }
-monarch_names = {
+monarch_names = { 
 	"Abd al Aziz #0" = 10
 	"Abdallah #0" = 10
 	"Abdullah #0" = 10
@@ -54,28 +54,14 @@ monarch_names = {
 	"Walida #0" = -1
 	"Zayid #0" = 10
 }
-leader_names = {
-	"Al Murrah"
-	"Bakil"
-	"Banu Hamdan"
-	"Banu Kubayb"
-	"Banu Yam"
-	"Hasanid"
-	"Hashid"
-	"Suleymanid"
-	"Ujman"
-	"al-Makrami"
+leader_names = { 
+	"Al Murrah" Bakil "Banu Hamdan" "Banu Kubayb" "Banu Yam" Hasanid Hashid Suleymanid Ujman al-Makrami
 }
-ship_names = {
-	"Ad-Dahna"
-	"Ad-Dilam"
-	"Al-Armah"
-	"Al-Bayad"
-	"Ar-Riyad"
-	"Jabal Tuwayo"
-	"Nafüd Ad-Dahy"
-	"Nafüd As-Sirrah"
-	"Nafüd Qunayfidahah"
-	"Nafüd Shuqayyiqah"
-	"Shaqra"
+ship_names = { 
+	Ad-Dahna Ad-Dilam Al-Armah Al-Bayad Ar-Riyad "Jabal Tuwayo" "Nafüd Ad-Dahy" "Nafüd As-Sirrah" "Nafüd Qunayfidahah" "Nafüd Shuqayyiqah"
+	Shaqra 
+}
+fleet_names = { 
+}
+army_names = { 
 }

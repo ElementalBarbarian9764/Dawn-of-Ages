@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 49 182 135 }
 revolutionary_colors = { 6 14 6 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -22,7 +22,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Aach #0" = 20
 	"Chowabah #0" = 20
 	"Hiahidock #0" = 20
@@ -56,49 +56,17 @@ monarch_names = {
 	"Tstaruri'u #0" = -1
 	"Zacado #0" = -10
 }
-leader_names = {
-	"Adai"
-	"Cahinnio"
-	"Doustioni"
-	"Eyeish"
-	"Hainai"
-	"Hasinai"
-	"Kadohadacho"
-	"Kichai"
-	"Nabedache"
-	"Nabiti"
-	"Nacogdoche"
-	"Nacono"
-	"Nadaco"
-	"Nanatsoho"
-	"Nasoni"
-	"Natchitoches"
-	"Nechaui"
-	"Neche"
-	"Ouachia"
-	"Tula"
-	"Yatasi"
+leader_names = { 
+	Adai Cahinnio Doustioni Eyeish Hainai Hasinai Kadohadacho Kichai Nabedache Nabiti
+	Nacogdoche Nacono Nadaco Nanatsoho Nasoni Natchitoches Nechaui Neche Ouachia Tula
+	Yatasi 
 }
-ship_names = {
-	"Adai"
-	"Cahinnio"
-	"Doustioni"
-	"Eyeish"
-	"Hainai"
-	"Hasinai"
-	"Kadohadacho"
-	"Kichai"
-	"Nabedache"
-	"Nabiti"
-	"Nacogdoche"
-	"Nacono"
-	"Nadaco"
-	"Nanatsoho"
-	"Nasoni"
-	"Natchitoches"
-	"Nechaui"
-	"Neche"
-	"Ouachia"
-	"Tula"
-	"Yatasi"
+ship_names = { 
+	Adai Cahinnio Doustioni Eyeish Hainai Hasinai Kadohadacho Kichai Nabedache Nabiti
+	Nacogdoche Nacono Nadaco Nanatsoho Nasoni Natchitoches Nechaui Neche Ouachia Tula
+	Yatasi 
+}
+fleet_names = { 
+}
+army_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = northamericagfx
 color = { 102 153 255 }
 revolutionary_colors = { 14 1 14 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	economic_ideas
 }
-historical_units = {
+historical_units = { 
 	algonkin_tomahawk_charge
 	american_western_franchise_warfare
 	commanche_swarm
@@ -22,7 +22,7 @@ historical_units = {
 	native_indian_tribal_warfare
 	sioux_dragoon
 }
-monarch_names = {
+monarch_names = { 
 	"Akkakitcipimiwotas #0" = 20
 	"Akkamakkoye #0" = 20
 	"Apenakosapop #0" = 20
@@ -46,71 +46,18 @@ monarch_names = {
 	"Takoyestamix #0" = 20
 	"Zoatzetapitapiw #0" = 20
 }
-leader_names = {
-	"Ahahpitape"
-	"Ahkaipokaks"
-	"Ahkaisumiks"
-	"Ahkaiyikokakiniks"
-	"Ahkotahshiks"
-	"Aisikstukiks"
-	"Anepo"
-	"Apikaiyikis"
-	"Apikaiyiks"
-	"Aputosikainah"
-	"Emitahpahksaiyiks"
-	"Esksinaitupiks"
-	"Inuhksoyistamiks"
-	"Inuksikahpowaiks"
-	"Inuksiks"
-	"Ipoksimaiks"
-	"Isissokasimiks"
-	"Istsikaihan"
-	"Kahmitaiks"
-	"Kiyis"
-	"Kutaiimiks"
-	"Kutaisotsiman"
-	"Mameoya"
-	"Miahwahpitsiks"
-	"Miawkinaiyiks"
-	"Mokumiks"
-	"Motahtosiks"
-	"Motwainaiks"
-	"Nitakoskitsipupiks"
-	"Nitikskiks"
-	"Nitotsiksistaniks"
-	"Niwayiks"
-	"Puhksinahmahyiks"
-	"Saiyiks"
-	"Saksinahmahyiks"
-	"Sikahpuniks"
-	"Sikinokaks"
-	"Sikokitsimiks"
-	"Sikopoksimaiks"
-	"Siksinokaks"
-	"Sikutsipumaiks"
-	"Susksoyiks"
-	"Tsiniksistsoyiks"
-	"Tsiniktsistsoyiks"
+leader_names = { 
+	Ahahpitape Ahkaipokaks Ahkaisumiks Ahkaiyikokakiniks Ahkotahshiks Aisikstukiks Anepo Apikaiyikis Apikaiyiks Aputosikainah
+	Emitahpahksaiyiks Esksinaitupiks Inuhksoyistamiks Inuksikahpowaiks Inuksiks Ipoksimaiks Isissokasimiks Istsikaihan Kahmitaiks Kiyis
+	Kutaiimiks Kutaisotsiman Mameoya Miahwahpitsiks Miawkinaiyiks Mokumiks Motahtosiks Motwainaiks Nitakoskitsipupiks Nitikskiks
+	Nitotsiksistaniks Niwayiks Puhksinahmahyiks Saiyiks Saksinahmahyiks Sikahpuniks Sikinokaks Sikokitsimiks Sikopoksimaiks Siksinokaks
+	Sikutsipumaiks Susksoyiks Tsiniksistsoyiks Tsiniktsistsoyiks 
 }
-ship_names = {
-	"Aaattsistaa"
-	"Aapspini"
-	"Awatoyi"
-	"Iinii"
-	"Kaanisskiinaa"
-	"Kai'skaahpa"
-	"Kiaayo"
-	"Ksikkihkini"
-	"Mamii"
-	"Maohkataatoyi"
-	"Naamoo"
-	"Natayo"
-	"Omahkapi'si"
-	"Omita"
-	"Pi'kssi"
-	"Pitsiiksiinaa"
-	"Ponoka"
-	"Ponokaomitaa"
-	"Sipistoo"
-	"Sspoii"
+ship_names = { 
+	Aaattsistaa Aapspini Awatoyi Iinii Kaanisskiinaa Kai'skaahpa Kiaayo Ksikkihkini Mamii Maohkataatoyi
+	Naamoo Natayo Omahkapi'si Omita Pi'kssi Pitsiiksiinaa Ponoka Ponokaomitaa Sipistoo Sspoii
+}
+fleet_names = { 
+}
+army_names = { 
 }

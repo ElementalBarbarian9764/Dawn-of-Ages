@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 245 245 220 }
 revolutionary_colors = { 0 1 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	spy_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	quantity_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -28,7 +28,7 @@ historical_units = {
 	reformed_asian_musketeer
 	reformed_manchu_rifle
 }
-monarch_names = {
+monarch_names = { 
 	"Bai #0" = 10
 	"Biao #0" = 10
 	"Caosui #0" = 10
@@ -93,111 +93,24 @@ monarch_names = {
 	"Zhi #0" = 10
 	"Zi #0" = 10
 }
-leader_names = {
-	"Cai"
-	"Cao"
-	"Chen"
-	"Cheng"
-	"Cui"
-	"Deng"
-	"Du"
-	"Fang"
-	"Feng"
-	"Gao"
-	"Guodao"
-	"Han"
-	"He"
-	"Hu"
-	"Huang"
-	"Li"
-	"Liang"
-	"Lin"
-	"Liu"
-	"Lu"
-	"Luo"
-	"Ma"
-	"Pan"
-	"Peng"
-	"Qian"
-	"Shen"
-	"Song"
-	"Sun"
-	"Tang"
-	"Wang"
-	"Wu"
-	"Xie"
-	"Xu"
-	"Yang"
-	"Ye"
-	"Yuan"
-	"Zhang"
-	"Zhao"
-	"Zheng"
-	"Zhou"
-	"Zhu"
+leader_names = { 
+	Cai Cao Chen Cheng Cui Deng Du Fang Feng Gao
+	Guodao Han He Hu Huang Li Liang Lin Liu Lu
+	Luo Ma Pan Peng Qian Shen Song Sun Tang Wang
+	Wu Xie Xu Yang Ye Yuan Zhang Zhao Zheng Zhou
+	Zhu 
 }
-ship_names = {
-	"Beijing"
-	"Bo Qian"
-	"Cao Xu"
-	"Chang Jiang"
-	"Chendo"
-	"Da Ming Guo"
-	"Dantai Mieming"
-	"Fan Xu"
-	"Fu Buji"
-	"Fuzhou"
-	"Gao Chai"
-	"Gaodi"
-	"Gongbo Liao"
-	"Gongsun Long"
-	"Gongxi Ai"
-	"Gongxi Chi"
-	"Guangzhou"
-	"Guilin"
-	"Guiyang"
-	"Gungye Chang"
-	"Hangzhou"
-	"Huang He"
-	"Huidi"
-	"Ji'nan"
-	"Kung-fu tzu"
-	"Liang Zhan"
-	"Mencius"
-	"Min Sun"
-	"Nanchang"
-	"Nangong Guo"
-	"Nanjing"
-	"Qidiao Kai"
-	"Ran Geng"
-	"Ran Ru"
-	"Ran Yong"
-	"Shang Zhu"
-	"Sima Geng"
-	"Taiyuan"
-	"Wendi"
-	"Wuchang"
-	"Wuma Shi"
-	"Xi'an"
-	"Xijiang"
-	"Xun Zi"
-	"Yan Hui"
-	"Yan Wuyao"
-	"Yan Xing"
-	"Yan Yan"
-	"You Ruo"
-	"Yuan Xian"
-	"Yunnan"
-	"Zeng Dian"
-	"Zeng He"
-	"Zeng Shen"
-	"Zhangdi"
-	"Zhaodi"
-	"Zi-gong"
-	"Zi-lu"
-	"Zi-wo"
-	"Zi-xia"
-	"Zi-you"
-	"Zi-zhang"
+ship_names = { 
+	Beijing "Bo Qian" "Cao Xu" "Chang Jiang" Chendo "Da Ming Guo" "Dantai Mieming" "Fan Xu" "Fu Buji" Fuzhou
+	"Gao Chai" Gaodi "Gongbo Liao" "Gongsun Long" "Gongxi Ai" "Gongxi Chi" Guangzhou Guilin Guiyang "Gungye Chang"
+	Hangzhou "Huang He" Huidi Ji'nan "Kung-fu tzu" "Liang Zhan" Mencius "Min Sun" Nanchang "Nangong Guo"
+	Nanjing "Qidiao Kai" "Ran Geng" "Ran Ru" "Ran Yong" "Shang Zhu" "Sima Geng" Taiyuan Wendi Wuchang
+	"Wuma Shi" Xi'an Xijiang "Xun Zi" "Yan Hui" "Yan Wuyao" "Yan Xing" "Yan Yan" "You Ruo" "Yuan Xian"
+	Yunnan "Zeng Dian" "Zeng He" "Zeng Shen" Zhangdi Zhaodi Zi-gong Zi-lu Zi-wo Zi-xia
+	Zi-you Zi-zhang 
 }
 special_unit_culture = south_east_asian_special
+fleet_names = { 
+}
+army_names = { 
+}

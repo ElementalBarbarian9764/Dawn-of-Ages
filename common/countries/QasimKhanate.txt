@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 82 135 124 }
 revolutionary_colors = { 8 15 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	religious_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	reformed_steppe_rifles
 	steppe_cavalry
 	steppe_footmen
@@ -25,7 +25,7 @@ historical_units = {
 	steppe_rifles
 	steppe_uhlans
 }
-monarch_names = {
+monarch_names = { 
 	"Elisabet #0" = -1
 	"Ensio #0" = 0
 	"Into #0" = 0
@@ -57,30 +57,14 @@ monarch_names = {
 	"Tyyni #0" = -1
 	"Utyayka #0" = -1
 }
-leader_names = {
-	"Al Tolui"
-	"Altan Chinua"
-	"Arigh Qorchi"
-	"Boke Unegen"
-	"Burilginai"
-	"Koke Qadan"
-	"Mongke Bayar"
-	"Oyugungene"
-	"Qacha-jin"
-	"Qadanteni"
-	"Qara Erdene"
-	"Qutughqai"
-	"Yeke Sube"
+leader_names = { 
+	"Al Tolui" "Altan Chinua" "Arigh Qorchi" "Boke Unegen" Burilginai "Koke Qadan" "Mongke Bayar" Oyugungene Qacha-jin Qadanteni
+	"Qara Erdene" Qutughqai "Yeke Sube" 
 }
-ship_names = {
-	"Argin"
-	"Han-Kirman"
-	"Jalair"
-	"Mangit"
-	"Meshchyora"
-	"Mishar Yurt"
-	"Muroma"
-	"Oka"
-	"Qasim xanligi"
-	"Qipchaq"
+ship_names = { 
+	Argin Han-Kirman Jalair Mangit Meshchyora "Mishar Yurt" Muroma Oka "Qasim xanligi" Qipchaq
+}
+fleet_names = { 
+}
+army_names = { 
 }

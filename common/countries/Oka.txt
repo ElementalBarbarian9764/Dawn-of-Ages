@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = easterngfx
 color = { 43 136 207 }
 revolutionary_colors = { 5 0 5 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	trade_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	diplomatic_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	bardiche_infantry
 	druzhina_cavalry
 	eastern_carabinier
@@ -30,7 +30,7 @@ historical_units = {
 	russian_petrine
 	slavic_stradioti
 }
-monarch_names = {
+monarch_names = { 
 	"Agrafena #0" = -1
 	"Aime #0" = -1
 	"Cherava #0" = -1
@@ -43,39 +43,15 @@ monarch_names = {
 	"Vysheslav #0" = 0
 	"Yemelyan #0" = 0
 }
-leader_names = {
-	"Belyovsky"
-	"Boryatinsky"
-	"Dolgorukov"
-	"Gorchakov"
-	"Khotetovsky"
-	"Lykov"
-	"Mezetsky"
-	"Mosalsky"
-	"Nozdrevaty"
-	"Obolensky"
-	"Odoyevsky"
-	"Shcherbatov"
-	"Vorotynsky"
-	"Zvenigorodsky"
+leader_names = { 
+	Belyovsky Boryatinsky Dolgorukov Gorchakov Khotetovsky Lykov Mezetsky Mosalsky Nozdrevaty Obolensky
+	Odoyevsky Shcherbatov Vorotynsky Zvenigorodsky 
 }
-ship_names = {
-	"Kadorn"
-	"Kasimov"
-	"Lolotcha"
-	"Mikhailov"
-	"Moksha"
-	"Murom"
-	"Novornichurinsk"
-	"Oka"
-	"Pereslavl"
-	"Pronsk"
-	"Pronya"
-	"Ryazansky"
-	"Sasovo"
-	"Shatsk"
-	"Skopin"
-	"Staraya Ryazan"
-	"Tsna"
-	"Y. Sviatoslavich"
+ship_names = { 
+	Kadorn Kasimov Lolotcha Mikhailov Moksha Murom Novornichurinsk Oka Pereslavl Pronsk
+	Pronya Ryazansky Sasovo Shatsk Skopin "Staraya Ryazan" Tsna "Y. Sviatoslavich" 
+}
+fleet_names = { 
+}
+army_names = { 
 }

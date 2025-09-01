@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 80 10 165 }
 revolutionary_colors = { 0 5 1 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	maritime_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"'Abd al-Jalîl #0" = 20
 	"'Abd al-Jalîl Shâh #0" = 10
 	"'Abd al-Mubin #0" = 20
@@ -72,87 +72,20 @@ monarch_names = {
 	"Tsalenggathu #0" = 20
 	"Tsau-Lha #0" = 20
 }
-leader_names = {
-	"Abdulfatah"
-	"Ahmad"
-	"Amir"
-	"Anwar"
-	"Azmi"
-	"Batuta"
-	"Chairul"
-	"Hamzah"
-	"Hasanuddin"
-	"Ibnu"
-	"Kyai"
-	"Mahat"
-	"Mukhtar"
-	"Najamuddin"
-	"Natzar"
-	"Nazmizan"
-	"Roem"
-	"Syarifuddin"
-	"Zulkifli"
+leader_names = { 
+	Abdulfatah Ahmad Amir Anwar Azmi Batuta Chairul Hamzah Hasanuddin Ibnu
+	Kyai Mahat Mukhtar Najamuddin Natzar Nazmizan Roem Syarifuddin Zulkifli 
 }
-ship_names = {
-	"Alas"
-	"Bangar"
-	"Batang"
-	"Batang Baram"
-	"Batu Danau"
-	"Bendahara"
-	"Gunung Peuetsagoe"
-	"Hukum Kanun"
-	"Jamboaye"
-	"Kepulauan"
-	"Kepulauan Riau"
-	"Kuala Baram"
-	"Kuala Belait"
-	"Kuala Medamit"
-	"Labi"
-	"Laksamana"
-	"Lumut"
-	"Lungai Limbang"
-	"Malik Al-Salih"
-	"Malik ul Salih"
-	"Parameswara"
-	"Peg Pusat"
-	"Peg Serbeulangit"
-	"Penanjong"
-	"Penghulu bendahari"
-	"Peusangen"
-	"Pulau Aur"
-	"Pulau Bakung"
-	"Pulau Bengkaus"
-	"Pulau Breueh"
-	"Pulau Kundur"
-	"Pulau Lingga"
-	"Pulau Padang"
-	"Pulau Rangsang"
-	"Pulau Rempang"
-	"Pulau Rupat"
-	"Pulau Sibu"
-	"Pulau Singkep"
-	"Pulau Tebing Tinggi"
-	"Pulau Tinggi"
-	"Pulau Tioman"
-	"Pulau we"
-	"Samandara"
-	"Shahbandar"
-	"Siak"
-	"Simpang-kiri"
-	"Sukang"
-	"Sultan Iskandar"
-	"Sungai Bakong"
-	"Sungai Belait"
-	"Sungai Pandaruan"
-	"Sungai Tembureng"
-	"Sungai Tinjar"
-	"Sungai Tutoh"
-	"Sungai Tutong"
-	"Telingan"
-	"Temenggung"
-	"Teunom"
-	"Tripa"
-	"Trusan"
-	"Undang-Undang"
+ship_names = { 
+	Alas Bangar Batang "Batang Baram" "Batu Danau" Bendahara "Gunung Peuetsagoe" "Hukum Kanun" Jamboaye Kepulauan
+	"Kepulauan Riau" "Kuala Baram" "Kuala Belait" "Kuala Medamit" Labi Laksamana Lumut "Lungai Limbang" "Malik Al-Salih" "Malik ul Salih"
+	Parameswara "Peg Pusat" "Peg Serbeulangit" Penanjong "Penghulu bendahari" Peusangen "Pulau Aur" "Pulau Bakung" "Pulau Bengkaus" "Pulau Breueh"
+	"Pulau Kundur" "Pulau Lingga" "Pulau Padang" "Pulau Rangsang" "Pulau Rempang" "Pulau Rupat" "Pulau Sibu" "Pulau Singkep" "Pulau Tebing Tinggi" "Pulau Tinggi"
+	"Pulau Tioman" "Pulau we" Samandara Shahbandar Siak Simpang-kiri Sukang "Sultan Iskandar" "Sungai Bakong" "Sungai Belait"
+	"Sungai Pandaruan" "Sungai Tembureng" "Sungai Tinjar" "Sungai Tutoh" "Sungai Tutong" Telingan Temenggung Teunom Tripa Trusan
+	Undang-Undang 
+}
+fleet_names = { 
+}
+army_names = { 
 }

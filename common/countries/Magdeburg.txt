@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 189 115 99 }
 revolutionary_colors = { 10 0 15 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	religious_ideas
 	trade_ideas
 	defensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	offensive_ideas
 	spy_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_tercio
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Adolf #0" = 0
 	"Albrecht #2" = 40
 	"August #0" = 20
@@ -73,42 +73,17 @@ monarch_names = {
 	"Viktor #0" = 0
 	"Wolfgang #0" = 0
 }
-leader_names = {
-	"Ahrendt"
-	"Ahrenkiel"
-	"Bastel"
-	"Bause"
-	"Bollers"
-	"Burghoff"
-	"Bärwald"
-	"Herms"
-	"Meyer"
-	"Schlehenstein"
-	"Schulz"
-	"Schönebeck"
-	"Wahrenholz"
-	"Winter"
-	"Wäger"
-	"Zimmerhäckel"
+leader_names = { 
+	Ahrendt Ahrenkiel Bastel Bause Bollers Burghoff Bärwald Herms Meyer Schlehenstein
+	Schulz Schönebeck Wahrenholz Winter Wäger Zimmerhäckel 
 }
-ship_names = {
-	"Barleber See"
-	"Buckau"
-	"Diesdorf"
-	"Friedrichstadt"
-	"Kreuzhorst"
-	"Lemsdorf"
-	"Olvenstedt"
-	"Pechau"
-	"Prester"
-	"Randau"
-	"Rothensee"
-	"Salbke"
-	"Silberberg"
-	"Sudenburg"
-	"Westerhüsen"
+ship_names = { 
+	"Barleber See" Buckau Diesdorf Friedrichstadt Kreuzhorst Lemsdorf Olvenstedt Pechau Prester Randau
+	Rothensee Salbke Silberberg Sudenburg Westerhüsen 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
 }
 preferred_religion = protestant
+fleet_names = { 
+}

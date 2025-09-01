@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 182 134 100 }
 revolutionary_colors = { 0 13 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	offensive_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	dutch_maurician
 	mixed_order_infantry
 	napoleonic_lancers
@@ -29,7 +29,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Aatso #0" = 0
 	"Ahvo #0" = 0
 	"Aino #0" = -1
@@ -42,74 +42,18 @@ monarch_names = {
 	"Vesa #0" = 0
 	"Voitto #0" = 0
 }
-leader_names = {
-	"Adlercreutz"
-	"Ahlqvist"
-	"Berg"
-	"Björn"
-	"Blom"
-	"Cronstedt"
-	"Dufva"
-	"Ehrensvärd"
-	"Glad"
-	"Haataja"
-	"Helander"
-	"Helin"
-	"Hiltunen"
-	"Horn"
-	"Ilkka"
-	"Isotalo"
-	"Järnberg"
-	"Järvelä"
-	"Kesäläinen"
-	"Klingspor"
-	"Kortelainen"
-	"Krouvari"
-	"Kyrö"
-	"Liljencrantz"
-	"Länkinen"
-	"Pentti"
-	"Pietilä"
-	"Rehnskiöld"
-	"Renner"
-	"Rokka"
-	"Rutanen"
-	"Sakari"
-	"Sjögren"
-	"Stoor"
-	"Stålhandske"
-	"Tapani"
-	"Termonen"
-	"Turunen"
-	"Wilander"
-	"von Essen"
+leader_names = { 
+	Adlercreutz Ahlqvist Berg Björn Blom Cronstedt Dufva Ehrensvärd Glad Haataja
+	Helander Helin Hiltunen Horn Ilkka Isotalo Järnberg Järvelä Kesäläinen Klingspor
+	Kortelainen Krouvari Kyrö Liljencrantz Länkinen Pentti Pietilä Rehnskiöld Renner Rokka
+	Rutanen Sakari Sjögren Stoor Stålhandske Tapani Termonen Turunen Wilander "von Essen"
 }
-ship_names = {
-	"Agricola"
-	"Aura"
-	"Birger Jarl"
-	"Borgå"
-	"Hakkapeliitta"
-	"Helsingfors"
-	"Ilmarinen"
-	"Karelen"
-	"Kullervo"
-	"Kymi"
-	"Lapland"
-	"Lemminkäinen"
-	"Nyland"
-	"Oulu"
-	"Per Brahe"
-	"Sampo"
-	"Savolax"
-	"St. Henrik"
-	"Tavastehus"
-	"Tavastland"
-	"Vanda"
-	"Vasa"
-	"Viborg"
-	"Vuoksi"
-	"Väinämöinen"
-	"Åbo"
-	"Österbotten"
+ship_names = { 
+	Agricola Aura "Birger Jarl" Borgå Hakkapeliitta Helsingfors Ilmarinen Karelen Kullervo Kymi
+	Lapland Lemminkäinen Nyland Oulu "Per Brahe" Sampo Savolax "St. Henrik" Tavastehus Tavastland
+	Vanda Vasa Viborg Vuoksi Väinämöinen Åbo Österbotten 
+}
+fleet_names = { 
+}
+army_names = { 
 }

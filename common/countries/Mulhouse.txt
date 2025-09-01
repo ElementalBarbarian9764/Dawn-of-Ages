@@ -1,7 +1,7 @@
 ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 155 170 136 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	spy_ideas
 	defensive_ideas
 	administrative_ideas
@@ -11,7 +11,7 @@ historical_idea_groups = {
 	trade_ideas
 	innovativeness_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_hussar
 	austrian_jaeger
@@ -28,7 +28,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Achatius #0" = 0
 	"Albert #0" = 0
 	"Alfred #0" = 0
@@ -103,248 +103,36 @@ monarch_names = {
 	"Willibald #0" = 0
 	"Wolfmang #0" = 0
 }
-leader_names = {
-	"Ablitzer"
-	"Achener"
-	"Ackermann"
-	"Andler"
-	"Angster"
-	"Anrich"
-	"Anthess"
-	"Arlenspach"
-	"Bader"
-	"Bamberger"
-	"Baumgartner"
-	"Bilger"
-	"Birin"
-	"Blankenhorn"
-	"Blessig"
-	"Bloch"
-	"Bock"
-	"Boeringer"
-	"Boersch"
-	"Boespflug"
-	"Braunstein"
-	"Breitwieser"
-	"Brustlein"
-	"Brustlin"
-	"Burggraf"
-	"Buschenhagen"
-	"Chmilecius"
-	"Cornetz"
-	"Cossmann"
-	"Cratander"
-	"Crotus"
-	"Cullmann"
-	"Cunitz"
-	"Diehl"
-	"Dollfus"
-	"Dorst"
-	"Drach"
-	"Dreyer"
-	"Eberhardt"
-	"Eckel"
-	"Edelmann"
-	"Elhorn"
-	"Etterlin"
-	"Fahys"
-	"Friedel"
-	"Funke"
-	"Furichius"
-	"Fürstenberger"
-	"Gemuseus"
-	"Gerhardt"
-	"Geyelin"
-	"Greitter"
-	"Greuter"
-	"Grewenig"
-	"Grossheinz"
-	"Guldenberger"
-	"Gutzwiller"
-	"Hahnemann"
-	"Haller"
-	"Hamm"
-	"Hasenburg"
-	"Hauser"
-	"Heger"
-	"Heilmann"
-	"Heissler"
-	"Heitz"
-	"Herrenschneider"
-	"Hetschelbach"
-	"Heuser"
-	"Heuss"
-	"Hillmeyer"
-	"Hirtz"
-	"Hirtzler"
-	"Hoerner"
-	"Holzschuh"
-	"Hornecker"
-	"Horsch"
-	"Humann"
-	"Humpich"
-	"Jelensperger"
-	"Junghaen"
-	"Justinger"
-	"Kahn"
-	"Kamp"
-	"Katterfeld"
-	"Kessler"
-	"Klein"
-	"Klieger"
-	"Klingler"
-	"Klug"
-	"Koechlin"
-	"Kornmann"
-	"Krüger"
-	"Laederich"
-	"Lambert"
-	"Laugel"
-	"Lauth"
-	"Leuthold"
-	"Lichtenberger"
-	"Liebach"
-	"Linck"
-	"Lippius"
-	"Lischy"
-	"Loeser"
-	"Loinger"
-	"Loos"
-	"Lotichius"
-	"Luscinius"
-	"Maeder"
-	"Mansbendel"
-	"Mantz"
-	"Martin"
-	"Mechler"
-	"Meisch"
-	"Meissner"
-	"Menninger"
-	"Micyllus"
-	"Mieg"
-	"Miller"
-	"Moll"
-	"Moscherosch"
-	"Motsch"
-	"Mugler"
-	"Mundwiller"
-	"Müller"
-	"Münch"
-	"Müntz"
-	"Oberlin"
-	"Oser"
-	"Oster"
-	"Ott"
-	"Petry"
-	"Pflimlin"
-	"Pleyel"
-	"Rack"
-	"Reber"
-	"Reuss"
-	"Rist"
-	"Roederer"
-	"Rottler"
-	"Rottner"
-	"Rühl"
-	"Schacre"
-	"Schaper"
-	"Schefferus"
-	"Schellenberger"
-	"Schilling"
-	"Schimper"
-	"Schlumberger"
-	"Schmiclensky"
-	"Schmitthaeusler"
-	"Schneider"
-	"Schnitzler"
-	"Schweighäuser"
-	"Schützenberger"
-	"Seelbach"
-	"Silbermann"
-	"Silberzahn"
-	"Sommervogel"
-	"Specklin"
-	"Spoerlin"
-	"Steinbach"
-	"Stetter"
-	"Stolz"
-	"Stoskopf"
-	"Stuckenschmidt"
-	"Tauler"
-	"Thierry"
-	"Thyss"
-	"Timerding"
-	"Traunecker"
-	"Traurach"
-	"Trautmann"
-	"Uhreneckel"
-	"Ungerer"
-	"Vetter"
-	"Vogel"
-	"Vogler"
-	"Vogt"
-	"Waechter"
-	"Wagner"
-	"Waldteufel"
-	"Wechtlin"
-	"Wehrling"
-	"Weiditz"
-	"Weil"
-	"Weinzaepflen"
-	"Wespiser"
-	"Widerkehr"
-	"Wilms"
-	"Wimpheling"
-	"Wurtz"
-	"Zell"
-	"Zetter"
-	"Ziegler"
-	"Zindel"
-	"Zipélius"
-	"Zorn"
-	"Zuber"
-	"Zwinger"
-	"Zürcher"
-	"von Basel"
-	"von Bebelenheim"
-	"von Benda"
-	"von Bose"
-	"von Broich"
-	"von Degenfeld"
-	"von Freyberg"
-	"von Friedeburg"
-	"von Fries"
-	"von Iltzach"
-	"von Koch"
-	"von Lüttwitz"
-	"von Nicolay"
-	"von Rebay"
-	"von Regesheim"
-	"von Rittberg"
-	"von Wunnenberg"
-	"von Wurmser"
-	"zu Rhein"
+leader_names = { 
+	Ablitzer Achener Ackermann Andler Angster Anrich Anthess Arlenspach Bader Bamberger
+	Baumgartner Bilger Birin Blankenhorn Blessig Bloch Bock Boeringer Boersch Boespflug
+	Braunstein Breitwieser Brustlein Brustlin Burggraf Buschenhagen Chmilecius Cornetz Cossmann Cratander
+	Crotus Cullmann Cunitz Diehl Dollfus Dorst Drach Dreyer Eberhardt Eckel
+	Edelmann Elhorn Etterlin Fahys Friedel Funke Furichius Fürstenberger Gemuseus Gerhardt
+	Geyelin Greitter Greuter Grewenig Grossheinz Guldenberger Gutzwiller Hahnemann Haller Hamm
+	Hasenburg Hauser Heger Heilmann Heissler Heitz Herrenschneider Hetschelbach Heuser Heuss
+	Hillmeyer Hirtz Hirtzler Hoerner Holzschuh Hornecker Horsch Humann Humpich Jelensperger
+	Junghaen Justinger Kahn Kamp Katterfeld Kessler Klein Klieger Klingler Klug
+	Koechlin Kornmann Krüger Laederich Lambert Laugel Lauth Leuthold Lichtenberger Liebach
+	Linck Lippius Lischy Loeser Loinger Loos Lotichius Luscinius Maeder Mansbendel
+	Mantz Martin Mechler Meisch Meissner Menninger Micyllus Mieg Miller Moll
+	Moscherosch Motsch Mugler Mundwiller Müller Münch Müntz Oberlin Oser Oster
+	Ott Petry Pflimlin Pleyel Rack Reber Reuss Rist Roederer Rottler
+	Rottner Rühl Schacre Schaper Schefferus Schellenberger Schilling Schimper Schlumberger Schmiclensky
+	Schmitthaeusler Schneider Schnitzler Schweighäuser Schützenberger Seelbach Silbermann Silberzahn Sommervogel Specklin
+	Spoerlin Steinbach Stetter Stolz Stoskopf Stuckenschmidt Tauler Thierry Thyss Timerding
+	Traunecker Traurach Trautmann Uhreneckel Ungerer Vetter Vogel Vogler Vogt Waechter
+	Wagner Waldteufel Wechtlin Wehrling Weiditz Weil Weinzaepflen Wespiser Widerkehr Wilms
+	Wimpheling Wurtz Zell Zetter Ziegler Zindel Zipélius Zorn Zuber Zwinger
+	Zürcher "von Basel" "von Bebelenheim" "von Benda" "von Bose" "von Broich" "von Degenfeld" "von Freyberg" "von Friedeburg" "von Fries"
+	"von Iltzach" "von Koch" "von Lüttwitz" "von Nicolay" "von Rebay" "von Regesheim" "von Rittberg" "von Wunnenberg" "von Wurmser" "zu Rhein"
 }
-ship_names = {
-	"Dekapolis"
-	"Doller"
-	"Hagenau"
-	"Hans Guterolf von Dornach"
-	"Ill"
-	"Kaysersberg"
-	"Kolmar"
-	"Landau"
-	"Mulhusia"
-	"Münster"
-	"Oberehnheim"
-	"Rosheim"
-	"Schlettstadt"
-	"Selz"
-	"Türkheim"
-	"Vivelin"
-	"Weissenburg"
-	"Wolfdietrich"
+ship_names = { 
+	Dekapolis Doller Hagenau "Hans Guterolf von Dornach" Ill Kaysersberg Kolmar Landau Mulhusia Münster
+	Oberehnheim Rosheim Schlettstadt Selz Türkheim Vivelin Weissenburg Wolfdietrich 
 }
-army_names = {
-	"Armee von $PROVINCE$"
+army_names = { 
+	"Armee von $PROVINCE$" 
+}
+fleet_names = { 
 }

@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = asiangfx
 color = { 74 92 128 }
 revolutionary_colors = { 10 5 0 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	defensive_ideas
 	offensive_ideas
 	spy_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	quality_ideas
 	religious_ideas
 }
-historical_units = {
+historical_units = { 
 	asian_arquebusier
 	asian_charge_cavalry
 	asian_mass_infantry
@@ -22,7 +22,7 @@ historical_units = {
 	reformed_asian_cavalry
 	reformed_asian_musketeer
 }
-monarch_names = {
+monarch_names = { 
 	"Cheputarai #0" = 10
 	"Chiraprapha #0" = -1
 	"Dara #0" = -1
@@ -57,40 +57,16 @@ monarch_names = {
 	"Yasuntarathewi #0" = -1
 	"Yotchiangrai #0" = 10
 }
-leader_names = {
-	"Chiang Mai"
-	"Chiang Rai"
-	"Chiang Saen"
-	"Chun"
-	"Dok Khamtai"
-	"Lampang"
-	"Lamphun"
-	"Li"
-	"Mae Hong Son"
-	"Mae Lao"
-	"Mae Tha"
-	"Nan"
-	"Ngao"
-	"Phayao"
-	"Phrae"
-	"Phrao"
-	"Pong"
-	"Pua"
-	"Santi Suk"
-	"Sop Prap"
+leader_names = { 
+	"Chiang Mai" "Chiang Rai" "Chiang Saen" Chun "Dok Khamtai" Lampang Lamphun Li "Mae Hong Son" "Mae Lao"
+	"Mae Tha" Nan Ngao Phayao Phrae Phrao Pong Pua "Santi Suk" "Sop Prap"
 }
-ship_names = {
-	"Ban Muang"
-	"Chiang Rai"
-	"Haripunchai"
-	"Loethai"
-	"Mengrai"
-	"Nguanamthom"
-	"Pu Saisongkhram"
-	"Ramkhamhaeng"
-	"Sai Leu Thai"
-	"Sai Luthai"
-	"Si Indrathit"
-	"Thammarach"
+ship_names = { 
+	"Ban Muang" "Chiang Rai" Haripunchai Loethai Mengrai Nguanamthom "Pu Saisongkhram" Ramkhamhaeng "Sai Leu Thai" "Sai Luthai"
+	"Si Indrathit" Thammarach 
 }
 special_unit_culture = south_east_asian_special
+fleet_names = { 
+}
+army_names = { 
+}

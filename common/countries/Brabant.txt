@@ -2,7 +2,7 @@ ck2_converter_generated = yes
 graphical_culture = westerngfx
 color = { 118 193 153 }
 revolutionary_colors = { 5 1 8 }
-historical_idea_groups = {
+historical_idea_groups = { 
 	trade_ideas
 	defensive_ideas
 	diplomatic_ideas
@@ -12,7 +12,7 @@ historical_idea_groups = {
 	spy_ideas
 	quality_ideas
 }
-historical_units = {
+historical_units = { 
 	austrian_grenzer
 	austrian_tercio
 	dutch_maurician
@@ -27,7 +27,7 @@ historical_units = {
 	western_medieval_knights
 	western_men_at_arms
 }
-monarch_names = {
+monarch_names = { 
 	"Antoine #0" = 20
 	"Antoon #0" = 0
 	"Charles #1" = 5
@@ -73,42 +73,16 @@ monarch_names = {
 	"Wenceslas #1" = 5
 	"Willem #0" = 0
 }
-leader_names = {
-	"Albers"
-	"Aylett"
-	"Bielmacker"
-	"Camper"
-	"Debruyne"
-	"Jansen"
-	"Leschwein"
-	"Maas"
-	"Mons"
-	"Orthellius"
-	"Quellinus"
-	"de Avesnes"
-	"de Houtman"
-	"de Leeuw"
-	"van Egmont"
-	"van Kahlden"
-	"van Loewen"
-	"van Meteren"
-	"van Noort"
-	"van Wyhe"
-	"van der Most"
+leader_names = { 
+	Albers Aylett Bielmacker Camper Debruyne Jansen Leschwein Maas Mons Orthellius
+	Quellinus "de Avesnes" "de Houtman" "de Leeuw" "van Egmont" "van Kahlden" "van Loewen" "van Meteren" "van Noort" "van Wyhe"
+	"van der Most" 
 }
-ship_names = {
-	"Brussel"
-	"Dender"
-	"Doornik"
-	"Edingen"
-	"Filips van Saint-Pol"
-	"Godfried I"
-	"Hendrik I"
-	"Hendrik van Leuven"
-	"Hertog Jan"
-	"Hertogin Johanna"
-	"Jan I"
-	"Mechelen"
-	"Namen"
-	"Zenne"
+ship_names = { 
+	Brussel Dender Doornik Edingen "Filips van Saint-Pol" "Godfried I" "Hendrik I" "Hendrik van Leuven" "Hertog Jan" "Hertogin Johanna"
+	"Jan I" Mechelen Namen Zenne 
+}
+fleet_names = { 
+}
+army_names = { 
 }
