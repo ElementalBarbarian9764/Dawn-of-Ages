@@ -26,9 +26,6 @@ danu_desc:0 "The High Goddess"
 cernunnos:0 "Cernunnos"
 cernunnos_desc:0 "The God of the Wilderness"
 
-taranis:0 "Taranis"
-taranis_desc:0 "The God of Thunder"
-
 # Fae Relgion
 fae_religion: "Fae Courts"
 fae_religion_desc: "A temp religion to represent all the Fae Religions."

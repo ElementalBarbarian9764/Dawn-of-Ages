@@ -133,25 +133,3 @@ cernunnos = {
 		}
 	}
 }
-# Taranis, God of Thunder (War, Colonist)
-taranis = {
-	sprite = 4
-	potential = { religion = aldraoidheil }
-	trigger = {}
-	effect = {}
-	# Modifiers of the Patron
-	global_colonial_growth = 10
-	leader_land_shock = 1
-	
-	removed_effect = {}
-	ai_will_do = {
-		modifier = {
-			factor = 2
-			personality = ai_militarist
-		}
-		modifier = {
-			factor = 1
-			personality = ai_colonialist
-		}
-	}
-}
