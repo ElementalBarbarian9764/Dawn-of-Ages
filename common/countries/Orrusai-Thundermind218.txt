@@ -1,0 +1,72 @@
+# Amarisa Dragon Tribe (#3)
+# Graphic Culture selection
+graphical_culture = southamericagfx
+# Nation Color options
+color = { 255 235 90 }
+# Revolutionary Colors (Max 16)
+revolutionary_colors = { 12 8 10 }
+# Idea Group selection in histroy
+historical_idea_groups = { 
+	religious_ideas
+	defensive_ideas
+	offensive_ideas
+	trade_ideas
+	diplomatic_ideas
+	plutocracy_ideas
+	spy_ideas
+	economic_ideas
+}
+# Unit selection for the nation
+historical_units = { 
+	algonkin_tomahawk_charge
+	american_western_franchise_warfare
+	commanche_swarm
+	native_indian_archer
+	native_indian_horsemen
+	native_indian_mountain_warfare
+	native_indian_tribal_warfare
+	sioux_dragoon
+}
+# Ruler Names (Negative means Female)
+monarch_names = { 
+	# Pulled from fantasynamegenerators
+	# (Males)
+	"Aze #0" = 10
+	"Brarvyg #0" = 10
+	"Chevu #0" = 10
+	"Dirseinus #0" = 10
+	"Gievreor #0" = 10
+	"Mayrsinth #0" = 10
+	"Ruthud #0" = 10
+	"Frudryg #0" = 10
+	"Rymanty #0" = 10
+	"Igor #0" = 10
+	"Volla #0" = -10
+	"Yssyran #0" = -10
+	"Avysser #0" = -10
+	"Naldreth #0" = -10
+	"Frommyreirth #0" = -10
+	"Vyssan #0" = -10
+	"Chyrsaith #0" = -10
+}
+# Military Leader name List
+leader_names = { 
+	# Pulled from fantasynamegenerators
+	Nukyl Sollaintuss Zayrrunie Qoithyrth Imrayth Geomreophe Naymroirth Oaghulth Boilai Avniag
+	Sipeossien Boarvoat Raennain Urroas Sunoil Viendolth Yldriphith 
+}
+# Names for Ships
+ship_names = { 
+	StormBringer Ironclad ThunderClap "Igor's Reckoning" FlameBrothire Paragon Malekuthi Positha Shalithor Leviathan
+	Lumoisia 
+}
+# Army names
+amy_names = { 
+	"Dracos Arme" 
+}
+Fleet Names 
+fleet_names = { 
+	Serpentina 
+}
+army_names = { 
+}

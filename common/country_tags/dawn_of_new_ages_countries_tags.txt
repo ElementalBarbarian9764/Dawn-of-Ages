@@ -1,0 +1,19 @@
+#North America
+AMR = "countries/Amaruisa.txt"
+CUI = "countries/Cuiosy.txt"
+DFR = "countries/ThorissiaRealm.txt"
+FAR = "countries/RealmsOfElisaria.txt"
+HDA = "countries/Haida.txt"
+JUC = "countries/Juchocya.txt"
+
+#South America
+
+
+# Temp Area
+PYT = "countries/Pythoria.txt"
+ORR = "countries/Orrusai.txt"
+QUZ = "countries/Quizoltarya.txt"
+XOC = "countries/Xochiousal.txt"
+TOC = "countries/Toctlieosa.txt"
+
+
