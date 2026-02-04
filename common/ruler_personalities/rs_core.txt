@@ -1,0 +1,21 @@
+# This contains every single race that is used in the game aswell as there cost in custom nations
+
+# Human
+
+# Dragons
+
+# Fae
+
+# Demon Types
+
+# Elves
+
+# Dwarves
+
+# Orks
+
+# Beastkin
+
+# Dragonkin
+
+# Ascension (Doesn't exist yet)

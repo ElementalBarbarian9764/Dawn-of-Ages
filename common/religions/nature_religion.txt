@@ -42,15 +42,15 @@ nature_religion_group = {
 		}
 		
 		#This allows for Coptic Religion to be set up
-		holy_sites = { 358 1227 2313 1234 419 }
+		#holy_sites = { 358 1227 2313 1234 419 }
 
-		blessings = {
-			union_with_the_trees
-			treeforges
-			living_boats
-			the_seat_of_the_fae
-			ironwood_agreement
-		}
+		#blessings = {
+		#	union_with_the_trees
+		#	treeforges
+		#	living_boats
+		#	the_seat_of_the_fae
+		#	ironwood_agreement
+		#}
 		heretic = { UNSEELIE }
 	}
 	
