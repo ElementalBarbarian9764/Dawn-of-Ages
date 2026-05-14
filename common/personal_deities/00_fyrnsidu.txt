@@ -1,8 +1,4 @@
-# Do not change tags in here without changing every other reference to them.
-# If adding new dieties, make sure they are uniquely named.
-
-##MUST REPLACE VANILLA OR ELSE CAUSES ISSUES, PER ERROR LOG
- # Edited for unreformed Norse Pagan
+# Frynsidu Deities list
 
 odin = {
 	legitimacy = 0.1
